@@ -182,11 +182,12 @@ Check the output at `state/today_papers.json`. This file contains the raw paper 
 
 ### Step 6: Set Up Claude Code Scheduled Task
 
-1. Open `skill/SKILL.md` in this repo
-2. Copy its contents into a new Claude Code scheduled task:
-   - In Claude Code, create a scheduled task for `arxiv-digest`
-   - Paste the SKILL.md content as the task definition
-   - Set the schedule to weekday mornings (e.g. 10:30 JST)
+1. In Claude Code, create a scheduled task for `arxiv-digest` (weekday mornings, e.g. 10:30 JST)
+2. Replace the registered SKILL.md with a symlink to the repo's copy:
+   ```bash
+   ln -sf ~/Claude/arxiv-digest/skill/SKILL.md ~/.claude/scheduled-tasks/arxiv-digest/SKILL.md
+   ```
+   This ensures the task definition stays in sync when the repo is updated.
 
 ### Step 7: Daily Automatic Execution
 
@@ -477,11 +478,12 @@ python3 -m src.fetch
 
 ### ステップ 6: Claude Code Scheduled Task を設定
 
-1. このリポの `skill/SKILL.md` を開く
-2. 内容を Claude Code の scheduled task にコピー:
-   - Claude Code で `arxiv-digest` のスケジュールタスクを作成
-   - SKILL.md の内容をタスク定義として貼り付け
-   - スケジュールを平日朝に設定（例: JST 10:30）
+1. Claude Code で `arxiv-digest` のスケジュールタスクを作成（平日朝、例: JST 10:30）
+2. 登録された SKILL.md をリポへの symlink に置き換える:
+   ```bash
+   ln -sf ~/Claude/arxiv-digest/skill/SKILL.md ~/.claude/scheduled-tasks/arxiv-digest/SKILL.md
+   ```
+   リポ更新時にタスク定義が自動で同期される。
 
 ### ステップ 7: 毎日自動実行
 

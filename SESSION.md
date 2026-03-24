@@ -12,8 +12,7 @@
 ## 残タスク
 - [ ] Bluesky / Slack チャンネル追加
 - [ ] Discord チャンネルの E2E テスト（odakin 用の Webhook + mention_target 動作確認）
-- [ ] takeda プロファイルの初回配信確認（次の平日朝）
-- [ ] satsuko3310 の Discord ユーザー ID を取得し mention_target に設定
+- [ ] takeda プロファイルの自動配信確認（次の平日朝）
 
 ## 直近の修正（2026-03-24）
 

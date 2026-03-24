@@ -17,7 +17,12 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 | **B: ローカル Claude Code** | scheduled task が直接スコアリング | 無料（Pro Max） |
 
 **odakin 自身はモード B で運用。モード A はテンプレート利用者向け。**
-**odakin の配信先: Mastodon（Vivaldi Social: `social.vivaldi.net`、bot アカウント `@odakinarxiv`、メンション先 `@odakin`）**
+
+配信中プロファイル:
+| プロファイル | チャンネル | メンション先 |
+|------------|-----------|------------|
+| odakin | Mastodon (Vivaldi Social `@odakinarxiv`) | `@odakin@social.vivaldi.net` |
+| takeda | Discord (東女物理研 `#arxiv-digest`) | `<@888803091296706650>` (satsuko3310) |
 
 共通パイプライン: `src.fetch → [スコアリング] → src.post → チャンネル配信`
 
@@ -65,5 +70,5 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 - タスク完了時 → SESSION.md を更新
 - 重要な判断・ファイル作成/大幅変更時 → SESSION.md に記録
 - push 前 → SESSION.md / CLAUDE.md が実態と一致しているか確認（詳細は CONVENTIONS.md §3）
-- **`skill/SKILL.md` を変更した場合**: registered task は symlink なので自動反映される。symlink が壊れていないか確認: `ls -la ~/.claude/scheduled-tasks/arxiv-digest/SKILL.md`
+- **`skill/SKILL.md` または `skill/SKILL-takeda.md` を変更した場合**: registered task は symlink なので自動反映される。symlink が壊れていないか確認: `ls -la ~/.claude/scheduled-tasks/arxiv-digest/SKILL.md ~/.claude/scheduled-tasks/arxiv-digest-takeda/SKILL.md`
 - CLAUDE.md のルールの詳細は `~/Claude/CONVENTIONS.md` 参照

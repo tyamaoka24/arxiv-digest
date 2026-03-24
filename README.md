@@ -24,7 +24,7 @@ Both modes share the same fetch and publish pipeline. Only the scoring step diff
 2. Edit `config.yaml`:
    ```yaml
    language: en                    # en or ja
-   scoring_threshold: 80           # 0-100
+   scoring_threshold: 85           # 0-100
    arxiv_categories:
      - hep-ph                      # your categories
      - astro-ph.CO
@@ -69,7 +69,7 @@ See [docs/setup-guide.md](docs/setup-guide.md) for detailed step-by-step instruc
 | Key | Description | Default |
 |-----|-------------|---------|
 | `language` | Language for recommendations (`en` / `ja`) | `en` |
-| `scoring_threshold` | Minimum score to deliver (0-100) | `80` |
+| `scoring_threshold` | Minimum score to deliver (0-100) | `85` |
 | `scoring_model` | Claude model for Mode A | `claude-sonnet-4-6` |
 | `arxiv_categories` | arXiv categories to monitor | — |
 | `style.tone` | Writing tone: `casual` / `formal` / `neutral` | `neutral` |
@@ -184,7 +184,7 @@ MIT
 2. `config.yaml` を編集:
    ```yaml
    language: ja
-   scoring_threshold: 80
+   scoring_threshold: 85
    arxiv_categories:
      - hep-ph    # あなたの分野
    channels:

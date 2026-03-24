@@ -10,7 +10,7 @@ import sys
 import traceback
 from datetime import date
 
-from .config import load_config, get_profile, DEFAULT_PROFILE, STATE_DIR
+from .config import load_config, load_dotenv, get_profile, DEFAULT_PROFILE, STATE_DIR
 from .fetch_arxiv import fetch_new_papers
 from .publish import notify_error
 
@@ -24,6 +24,9 @@ def main():
         parser.add_argument("--force", action="store_true",
                             help="Run even on weekends")
         args = parser.parse_args()
+
+        # Load .env for error notification channel tokens
+        load_dotenv()
 
         config = load_config(args.profile)
         categories = config.get("arxiv_categories", [])
@@ -63,7 +66,7 @@ def main():
             "total_papers": len(papers),
             "profile": profile,
             "config": {
-                "scoring_threshold": config.get("scoring_threshold", 80),
+                "scoring_threshold": config.get("scoring_threshold", 85),
                 "language": config.get("language", "en"),
                 "scoring_instructions": config.get("scoring_instructions", ""),
             },

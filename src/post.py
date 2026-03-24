@@ -36,7 +36,13 @@ def main():
             print("\nSee docs/setup-guide.md for details.")
             sys.exit(1)
 
-        scored_path = STATE_DIR / "scored_papers.json"
+        # Use profile-specific state file if it exists, else default
+        if args.profile != DEFAULT_PROFILE:
+            scored_path = STATE_DIR / f"scored_papers_{args.profile}.json"
+            if not scored_path.exists():
+                scored_path = STATE_DIR / "scored_papers.json"
+        else:
+            scored_path = STATE_DIR / "scored_papers.json"
         if not scored_path.exists():
             print(f"No scored papers found at {scored_path}")
             print("Run scoring first (Claude Code scheduled task step 2).")

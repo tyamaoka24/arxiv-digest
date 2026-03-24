@@ -1,0 +1,24 @@
+# profiles/takeda/config.yaml — Sakiko Takeda's profile-specific overrides
+# Merged on top of root config.yaml when using --profile takeda
+
+language: ja
+scoring_threshold: 80
+
+arxiv_categories:
+  - quant-ph
+  - physics.optics
+
+channels:
+  mastodon:
+    enabled: false
+  discord:
+    enabled: true
+    username: "arXiv Digest"
+    env_var: DISCORD_WEBHOOK_URL_TAKEDA
+    # To enable mention, set mention_target to "<@DISCORD_USER_ID>"
+    # Find the numeric ID: right-click user in Discord > Copy User ID
+    # mention_target: "<@123456789012345678>"
+
+style:
+  tone: casual
+  emoji_level: moderate

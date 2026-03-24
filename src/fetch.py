@@ -53,7 +53,10 @@ def main():
 
         # Write output JSON
         STATE_DIR.mkdir(parents=True, exist_ok=True)
-        output_path = STATE_DIR / "today_papers.json"
+        if args.profile != DEFAULT_PROFILE:
+            output_path = STATE_DIR / f"today_papers_{args.profile}.json"
+        else:
+            output_path = STATE_DIR / "today_papers.json"
 
         output = {
             "date": date.today().isoformat(),

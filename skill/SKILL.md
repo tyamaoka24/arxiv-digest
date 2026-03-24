@@ -8,7 +8,7 @@ arXiv 日刊ダイジェストを実行する。
 ## 手順
 
 1. `cd ~/Claude/arxiv-digest && python3 -m src.fetch --profile odakin` を実行し、arXiv RSS から新着論文を取得（`.env` の読み込みと環境変数チェックはコード側で自動実行される。エラー終了した場合は表示されたメッセージに従う）
-2. `state/today_papers.json` を読み込む
+2. `state/today_papers_odakin.json` を読み込む
 3. プロファイルと設定を読む:
    - `profiles/odakin/interest_profile.txt`（手書きの研究優先事項）
    - `profiles/odakin/inspire_profile.txt`（INSPIRE 自動生成）
@@ -23,7 +23,7 @@ arXiv 日刊ダイジェストを実行する。
    - 要約（summary）: 技術的内容の簡潔な説明（**最大120文字**）
    - 絵文字の量は config.yaml の style.emoji_level に従う（none/light/moderate/heavy）
    - Mastodon 投稿の文字数制限に収めるため、reason + summary は合計240文字以内を厳守
-6. スコア結果を `state/scored_papers.json` に JSON で書き出す:
+6. スコア結果を `state/scored_papers_odakin.json` に JSON で書き出す:
    ```json
    {
      "total_fetched": 133,
@@ -42,8 +42,8 @@ arXiv 日刊ダイジェストを実行する。
      ]
    }
    ```
-7. `python3 -m src.post --profile odakin` を実行し、scored_papers.json を読んでチャンネルに配信
-8. 配信した論文の著者に profiles/ 登録者（`inspire_bai` 設定あり）がいた場合、`python3 -c "from src.profile_update import check_for_profile_updates; import json; papers=json.load(open('state/today_papers.json'))['papers']; check_for_profile_updates(papers)"` を実行し、INSPIRE プロファイルを自動更新
+7. `python3 -m src.post --profile odakin` を実行し、scored_papers_odakin.json を読んでチャンネルに配信
+8. 配信した論文の著者に profiles/ 登録者（`inspire_bai` 設定あり）がいた場合、`python3 -c "from src.profile_update import check_for_profile_updates; import json; papers=json.load(open('state/today_papers_odakin.json'))['papers']; check_for_profile_updates(papers)"` を実行し、INSPIRE プロファイルを自動更新
 
 ## 注意
 - config.yaml のチャンネル設定に従って配信

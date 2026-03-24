@@ -52,13 +52,16 @@ def check_env_vars(config):
 
     Returns a list of (channel_name, var_name) tuples for missing variables.
     """
-    required_vars = {
+    default_vars = {
         "mastodon": "MASTODON_ACCESS_TOKEN",
         "discord": "DISCORD_WEBHOOK_URL",
     }
     missing = []
     for name, settings in get_enabled_channels(config):
-        var = required_vars.get(name)
+        # Skip if config provides the credential directly (e.g. webhook_url in discord)
+        if name == "discord" and settings.get("webhook_url"):
+            continue
+        var = settings.get("env_var") or default_vars.get(name)
         if var and not os.environ.get(var):
             missing.append((name, var))
     return missing

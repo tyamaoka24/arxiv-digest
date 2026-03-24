@@ -1,0 +1,29 @@
+Research Interest Profile: Sakiko Takeda (武田紗貴子)
+
+Affiliation: Tokyo Women's Christian University, Graduate School of Science
+
+Top priority: Two-photon quantum interference in wave-packet formalism
+  Double-double-slit experiments with momentum-entangled photon pairs
+  Collaborators: Kin-ya Oda (尾田欣也)
+
+Core topics:
+- Wave-packet formalism for quantum interference and measurement processes
+- Two-photon interference via SPDC (spontaneous parametric down-conversion)
+- EPR correlations in continuous-variable (transverse momentum) systems
+- Conditional state formulation: single-photon (marginal) vs. coincidence (conditional) distributions
+- Propagation dynamics of entangled photon pairs (free propagation kernels, paraxial approximation)
+- Time-resolved detection and temporal correlations in two-photon systems
+- Gaussian model for SPDC biphoton states (pump size, correlation width parameters)
+- Slit diffraction and spatial filtering of entangled states
+- Which-path information, quantum erasers, and complementarity
+- Absorption models and non-Hermitian effective Hamiltonians for detection processes
+- Diffraction in time (Moshinsky shutter), Huygens-Fresnel propagation kernels
+
+arXiv categories: quant-ph, physics.optics
+
+When scoring papers, consider:
+1. Direct overlap with two-photon interference, wave-packet formalism, or SPDC experiments (highest relevance)
+2. Papers by collaborators or from the TWCU group (high relevance)
+3. Quantum optics experiments involving entangled photon pairs, ghost imaging, or ghost interference (moderate-high relevance)
+4. Foundational quantum mechanics: measurement theory, decoherence, quantum-to-classical transition (moderate relevance)
+5. General developments in quantum optics or quantum information with photonic systems (lower relevance)

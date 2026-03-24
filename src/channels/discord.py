@@ -11,10 +11,12 @@ class DiscordChannel(Channel):
     """Post digest to a Discord channel via webhook URL."""
 
     def __init__(self, config):
-        self.webhook_url = os.environ.get("DISCORD_WEBHOOK_URL")
+        # Allow per-profile webhook: config webhook_url > config env_var > default env var
+        env_var = config.get("env_var", "DISCORD_WEBHOOK_URL")
+        self.webhook_url = config.get("webhook_url") or os.environ.get(env_var)
         if not self.webhook_url:
             raise RuntimeError(
-                "DISCORD_WEBHOOK_URL not set. "
+                f"{env_var} not set. "
                 "Create a webhook in Discord (channel settings > Integrations > Webhooks) "
                 "and set the URL as an environment variable."
             )

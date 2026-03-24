@@ -98,6 +98,7 @@ class DiscordChannel(Channel):
         payload = json.dumps({
             "content": content,
             "username": self.username,
+            "allowed_mentions": {"parse": ["users"]},
         }).encode("utf-8")
 
         req = urllib.request.Request(

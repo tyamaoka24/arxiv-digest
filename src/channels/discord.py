@@ -103,7 +103,10 @@ class DiscordChannel(Channel):
         req = urllib.request.Request(
             self.webhook_url,
             data=payload,
-            headers={"Content-Type": "application/json"},
+            headers={
+                "Content-Type": "application/json",
+                "User-Agent": "arXiv-digest/1.0",
+            },
             method="POST",
         )
         with urllib.request.urlopen(req, timeout=30) as resp:

@@ -15,9 +15,7 @@ channels:
     enabled: true
     username: "arXiv Digest"
     env_var: DISCORD_WEBHOOK_URL_TAKEDA
-    # To enable mention, set mention_target to "<@DISCORD_USER_ID>"
-    # Find the numeric ID: right-click user in Discord > Copy User ID
-    # mention_target: "<@123456789012345678>"
+    mention_target: "<@702213199449161819>"
 
 style:
   tone: casual

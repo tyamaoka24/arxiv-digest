@@ -2,7 +2,7 @@
 # Merged on top of root config.yaml when using --profile takeda
 
 language: ja
-scoring_threshold: 80
+scoring_threshold: 85
 
 arxiv_categories:
   - quant-ph
@@ -15,7 +15,7 @@ channels:
     enabled: true
     username: "arXiv Digest"
     env_var: DISCORD_WEBHOOK_URL_TAKEDA
-    mention_target: "<@702213199449161819>"
+    mention_target: "<@888803091296706650>"
 
 style:
   tone: casual

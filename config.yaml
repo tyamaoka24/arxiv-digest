@@ -4,7 +4,7 @@
 
 # --- Basic settings ---
 language: en                    # Language for recommendations/summaries (ja / en)
-scoring_threshold: 80           # Deliver papers scoring this or above (0-100)
+scoring_threshold: 85           # Deliver papers scoring this or above (0-100)
 scoring_model: claude-sonnet-4-6  # Model for scoring (Mode A only)
 
 # --- arXiv categories ---

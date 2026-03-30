@@ -63,24 +63,25 @@ class DiscordChannel(Channel):
         else:
             author_str = ", ".join(last_names)
 
-        parts = [
+        header_lines = [
+            self.mention_target,
             f"**⭐ {score}/100** | {cats}",
             f"👤 {author_str}" if author_str else "",
             f"📄 **{title}**",
-            "",
-            reason,
         ]
-        if summary:
-            parts += ["", summary]
-        parts += ["", url]
+        header_block = "\n".join(line for line in header_lines if line)
 
-        # Remove consecutive empty lines
-        cleaned = []
-        for p in parts:
-            if p == "" and cleaned and cleaned[-1] == "":
-                continue
-            cleaned.append(p)
-        msg = "\n".join(cleaned)
+        body_parts = []
+        if reason:
+            body_parts.append(reason)
+        if summary:
+            body_parts.append(summary)
+
+        parts = [header_block]
+        if body_parts:
+            parts.append("\n\n".join(body_parts))
+        parts.append(url)
+        msg = "\n\n".join(parts)
 
         if len(msg) > 2000:
             msg = msg[:1997] + "..."

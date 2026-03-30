@@ -148,3 +148,13 @@ def list_profiles():
             or (d / "inspire_profile.txt").exists()
         )
     )
+
+
+def list_active_profiles():
+    """Return list of profile names that have at least one enabled channel."""
+    active = []
+    for name in list_profiles():
+        config = load_config(name)
+        if get_enabled_channels(config):
+            active.append(name)
+    return active

@@ -7,12 +7,26 @@
 | プロファイル | チャンネル | スケジュール |
 |------------|-----------|------------|
 | odakin | Mastodon (Vivaldi Social) | 平日 10:31 |
-| takeda | Discord (東女物理研 #arxiv-digest) | 平日 10:37 |
+| takeda | Discord (東女物理研 #arxiv-digest) | 平日 10:31（同時） |
 
 ## 残タスク
+- [ ] 学校 Mac で `git pull` → scheduled task の symlink 更新・統合
 - [ ] Bluesky / Slack チャンネル追加
-- [ ] Discord チャンネルの E2E テスト（odakin 用の Webhook + mention_target 動作確認）
-- [ ] takeda プロファイルの自動配信確認（次の平日朝）
+
+## 直近の修正（2026-03-30）
+
+### Discord mention_target バグ修正
+- `discord.py` の `_format_paper()` に `mention_target` が入っていなかった
+- ヘッダー投稿（最初の1件）にしかメンションが付かず、武田さんに通知が飛ばなかった
+- Mastodon 版と同様に各論文投稿にも `mention_target` を含めるよう修正
+
+### 全プロファイル一括配信対応
+- `src/fetch_all.py` 新規: 全アクティブプロファイルのカテゴリを union → 1回の RSS 取得
+- `src/post_all.py` 新規: 全プロファイルの scored_papers を一括配信（1件エラーでも残り続行）
+- `src/config.py`: `list_active_profiles()` 追加（enabled チャンネルがあるプロファイルのみ返す）
+- `skill/SKILL.md`: 統合版に書き換え（fetch_all → 全プロファイル順次スコアリング → post_all）
+- `skill/SKILL-takeda.md`: 削除（統合版に吸収）
+- **未完了**: 学校 Mac で scheduled task を統合（2本→1本）、symlink 更新
 
 ## 直近の修正（2026-03-24）
 

@@ -24,10 +24,11 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 | odakin | Mastodon (Vivaldi Social `@odakinarxiv`) | `@odakin@social.vivaldi.net` |
 | takeda | Discord (東女物理研 `#arxiv-digest`) | `<@888803091296706650>` (satsuko3310) |
 
-共通パイプライン: `src.fetch → [スコアリング] → src.post → チャンネル配信`
+共通パイプライン: `src.fetch_all → [スコアリング] → src.post_all → チャンネル配信`
 
-- モード A: `python3 -m src.main --profile <name>`（全ステップ Python 内で完結）
-- モード B: `src.fetch` → Claude がスコアリング → `src.post`（`skill/SKILL.md` 参照）
+- モード A: `python3 -m src.main --profile <name>`（単一プロファイル、全ステップ Python 内で完結）
+- モード B: `src.fetch_all` → Claude が全プロファイル順にスコアリング → `src.post_all`（`skill/SKILL.md` 参照）
+- 個別実行: `src.fetch --profile <name>` / `src.post --profile <name>` も引き続き使用可
 
 ## プロファイル
 
@@ -70,5 +71,5 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 - タスク完了時 → SESSION.md を更新
 - 重要な判断・ファイル作成/大幅変更時 → SESSION.md に記録
 - push 前 → SESSION.md / CLAUDE.md が実態と一致しているか確認（詳細は CONVENTIONS.md §3）
-- **`skill/SKILL.md` または `skill/SKILL-takeda.md` を変更した場合**: registered task は symlink なので自動反映される。symlink が壊れていないか確認: `ls -la ~/.claude/scheduled-tasks/arxiv-digest/SKILL.md ~/.claude/scheduled-tasks/arxiv-digest-takeda/SKILL.md`
+- **`skill/SKILL.md` を変更した場合**: registered task は symlink なので自動反映される。symlink 確認: `ls -la ~/.claude/scheduled-tasks/arxiv-digest/SKILL.md`
 - CLAUDE.md のルールの詳細は `~/Claude/CONVENTIONS.md` 参照

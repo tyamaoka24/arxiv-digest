@@ -26,6 +26,7 @@ def main():
     errors = []
     for name in profiles:
         print(f"\n--- {name} ---")
+        config = None
         try:
             config = load_config(name)
 
@@ -54,11 +55,11 @@ def main():
             msg = f"{type(e).__name__}: {e}"
             print(f"  ERROR: {msg}", file=sys.stderr)
             errors.append((name, msg))
-            try:
-                config = load_config(name)
-                notify_error(config, f"Post error ({name}): {msg}")
-            except Exception:
-                pass
+            if config:
+                try:
+                    notify_error(config, f"Post error ({name}): {msg}")
+                except Exception:
+                    pass
 
     if errors:
         print(f"\n*** {len(errors)} profile(s) had errors ***")

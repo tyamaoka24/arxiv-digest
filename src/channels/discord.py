@@ -2,6 +2,7 @@
 
 import json
 import os
+import time
 import urllib.request
 
 from .base import Channel
@@ -33,11 +34,13 @@ class DiscordChannel(Channel):
         if self.mention_target:
             header = f"{self.mention_target} {header}"
         self._post(header)
+        time.sleep(1)
 
         # Individual paper messages
         for p in papers:
             msg = self._format_paper(p)
             self._post(msg)
+            time.sleep(1)
 
         print(f"Discord: posted {len(papers) + 1} messages via webhook")
 

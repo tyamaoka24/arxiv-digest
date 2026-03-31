@@ -10,7 +10,7 @@
 | takeda | Discord (東女物理研 #arxiv-digest) | 平日 10:31（同時） |
 
 ## 残タスク
-- [ ] 学校 Mac で `git pull` → scheduled task の symlink 更新・統合
+- [x] 学校 Mac で `git pull` → scheduled task 統合（2026-03-31 完了: `arxiv-digest-takeda` 無効化、統合版 SKILL.md で1本運用）
 - [ ] Bluesky / Slack チャンネル追加
 
 ## 直近の修正（2026-03-30）

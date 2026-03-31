@@ -22,8 +22,8 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 | プロファイル | チャンネル | メンション先 | INSPIRE BAI |
 |------------|-----------|------------|-------------|
 | odakin | Mastodon (Vivaldi Social `@odakinarxiv`) | `@odakin@social.vivaldi.net` | `K.Y.Oda.1` |
-| takeda | Discord (東女物理研 `#arxiv-digest`) | `<@888803091296706650>` (satsuko3310) | — |
-| ogawa | Discord (東女物理研 `#arxiv-digest`) | `<@882385522243297280>` | `N.Ogawa.4` |
+| takeda | Discord `#arxiv-digest` | （Discord メンション ID — private リポ参照） | — |
+| ogawa | Discord `#arxiv-digest` | （Discord メンション ID — private リポ参照） | （INSPIRE BAI — private リポ参照） |
 
 共通パイプライン: `src.fetch_all → [スコアリング] → src.post_all → チャンネル配信`
 

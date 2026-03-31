@@ -18,18 +18,41 @@ def _parse_bai(bai):
     return surname, initials
 
 
-def _author_matches(author_name, surname, initials):
-    """Check if an arXiv author name matches a BAI's surname + first initial.
+def _author_matches(author_name, surname, initials, inspire_name=None):
+    """Check if an arXiv author name matches a registered profile author.
+
+    If inspire_name is provided (e.g. "Oda, Kin-ya"), uses full name matching
+    to avoid false positives from same-surname-and-initial co-authors.
+    Falls back to surname + first initial if inspire_name is not available.
 
     Author names from arXiv are typically "Firstname Lastname" or "F. Lastname".
+    INSPIRE names are typically "Lastname, Firstname".
     """
-    words = author_name.strip().split()
+    author_name = author_name.strip()
+    words = author_name.split()
     if not words:
         return False
-    # Surname = last word of the author name
+
+    # Prefer full-name matching when inspire_name is available
+    if inspire_name:
+        # Normalize both to "Lastname Firstname" for comparison
+        # inspire_name format: "Oda, Kin-ya" → ["Oda", "Kin-ya"]
+        inspire_parts = [p.strip() for p in inspire_name.replace(",", " ").split()]
+        if not inspire_parts:
+            pass  # fall through to initial matching
+        else:
+            inspire_surname = inspire_parts[0].lower()
+            # arXiv format: "Kin-ya Oda" — last word is surname
+            if words[-1].lower() != inspire_surname:
+                return False
+            # If both have more than one word, compare first name initial
+            if len(inspire_parts) >= 2 and len(words) >= 2:
+                return words[0][0].upper() == inspire_parts[1][0].upper()
+            return True
+
+    # Fallback: surname + first initial
     if words[-1].lower() != surname.lower():
         return False
-    # Check first initial
     if initials and words[0]:
         return words[0][0].upper() == initials[0].upper()
     return True
@@ -48,13 +71,17 @@ def check_for_profile_updates(papers):
 
     # Collect BAI info from all profiles
     profile_bais = []
-    for name in list_profiles():
-        cfg = load_config(name)
+    for prof_name in list_profiles():
+        cfg = load_config(prof_name)
         bai = cfg.get("inspire_bai")
         if bai:
             surname, initials = _parse_bai(bai)
             if surname:
-                profile_bais.append((name, bai, surname, initials))
+                inspire_name = cfg.get("inspire_name")
+                inspire_affiliation = cfg.get("inspire_affiliation")
+                profile_bais.append(
+                    (prof_name, bai, surname, initials, inspire_name, inspire_affiliation)
+                )
 
     if not profile_bais:
         return []
@@ -63,16 +90,18 @@ def check_for_profile_updates(papers):
     matched = set()
     for paper in papers:
         for author in paper.get("authors", []):
-            for prof_name, bai, surname, initials in profile_bais:
-                if prof_name not in matched and _author_matches(author, surname, initials):
+            for prof_name, bai, surname, initials, inspire_name, _ in profile_bais:
+                if prof_name not in matched and _author_matches(
+                    author, surname, initials, inspire_name
+                ):
                     matched.add(prof_name)
 
     # Regenerate matched profiles
     updated = []
-    for prof_name, bai, _, _ in profile_bais:
+    for prof_name, bai, _, _, inspire_name, inspire_affiliation in profile_bais:
         if prof_name in matched:
             print(f"  New paper detected for {prof_name} ({bai}), regenerating INSPIRE profile...")
-            if regenerate_profile(bai, prof_name):
+            if regenerate_profile(bai, prof_name, inspire_name, inspire_affiliation):
                 updated.append((prof_name, bai))
                 print(f"    Updated profiles/{prof_name}/inspire_profile.txt")
             else:

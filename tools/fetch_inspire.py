@@ -30,6 +30,41 @@ AUTHORS_API = "https://inspirehep.net/api/authors"
 AUTHORS_FIELDS = "name,ids,positions"
 
 
+def lookup_author(bai):
+    """Look up an author by BAI and return their name and affiliation.
+
+    Returns dict with keys: name, bai, affiliation, inspire_id.
+    Returns None if not found.
+    """
+    url = (
+        f"{AUTHORS_API}?q=ids.value%3A{urllib.parse.quote(bai)}"
+        f"&fields={AUTHORS_FIELDS}"
+    )
+    req = urllib.request.Request(url, headers={"User-Agent": "arXiv-digest/1.0"})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        data = json.loads(resp.read().decode("utf-8"))
+
+    hits = data.get("hits", {}).get("hits", [])
+    if not hits:
+        return None
+    meta = hits[0].get("metadata", {})
+    name = meta.get("name", {}).get("value", "")
+    ids = meta.get("ids", [])
+    inspire_id = ""
+    for id_entry in ids:
+        if id_entry.get("schema") == "INSPIRE ID":
+            inspire_id = id_entry.get("value", "")
+    positions = meta.get("positions", [])
+    affiliation = ""
+    for pos in positions:
+        if pos.get("current", False):
+            affiliation = pos.get("institution", "")
+            break
+    if not affiliation and positions:
+        affiliation = positions[0].get("institution", "")
+    return {"name": name, "bai": bai, "affiliation": affiliation, "inspire_id": inspire_id}
+
+
 def search_authors(query, max_results=10):
     """Search INSPIRE for authors by name.
 

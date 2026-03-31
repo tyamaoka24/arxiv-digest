@@ -1,0 +1,30 @@
+Research Interest Profile: Naoya Ogawa (小川直哉)
+
+Affiliation: Tokyo Women's Christian University (student)
+
+Top priority: Time-energy uncertainty relations in quantum mechanics
+  Gaussian wave-packet formalism, squeezed coherent states
+  Collaborator: Kin-ya Oda (尾田欣也), TWCU
+
+Core topics:
+- Time-energy uncertainty relations (Mandelstam-Tamm, Margolus-Levitin, Robertson type)
+- Gaussian wave-packet formalism for quantum measurement and time operators
+- Squeezed coherent states and their role in uncertainty relations
+- Quantum speed limits and quantum clocks
+- Time operator formalism (Aharonov-Bohm time operator, POVM-based approaches)
+- Arrival time problem in quantum mechanics
+- Foundations of quantum mechanics: measurement theory, observable-time duality
+
+Previous research (Super-Kamiokande):
+- Gravitational wave follow-up with neutrino detectors
+- Diffuse Supernova Neutrino Background (DSNB) search
+- Low-energy radioactivity background modeling
+
+arXiv categories: quant-ph, hep-th, gr-qc, astro-ph.HE, hep-ex
+
+When scoring papers, consider:
+1. Direct overlap with time-energy uncertainty, wave-packet formalism, or quantum speed limits (highest relevance)
+2. Papers by collaborators or from the TWCU group (high relevance)
+3. Foundations of quantum mechanics: time in QM, measurement theory, uncertainty relations (moderate-high relevance)
+4. Super-Kamiokande, neutrino detection, gravitational wave multimessenger (moderate relevance)
+5. General developments in quant-ph or hep-th connecting to the above (lower relevance)

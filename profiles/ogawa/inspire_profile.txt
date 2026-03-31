@@ -1,13 +1,15 @@
-Research Interest Profile: Naoya Ogawa
+Research Interest Profile: Ogawa, N.
 
 
-Publication record: 5 papers (including cross-listed)
+Publication record: 21 papers (including cross-listed)
 
-Primary fields (>=20%): astro-ph (3, 60%), hep-ex (2, 40%), gr-qc (2, 40%)
+Primary fields (>=20%): hep-ex (7, 33%)
+Secondary fields (5-20%): physics.ins-det (4, 19%), gr-qc (3, 14%), astro-ph.IM (3, 14%), astro-ph.HE (3, 14%)
+Peripheral fields (<5%, via cross-listing): hep-ph (1, 5%), hep-th (1, 5%), quant-ph (1, 5%), nucl-ex (1, 5%)
 
-Frequent collaborators: Lamoureux, Mathieu, Abe, Ko, Bronner, Christophe, Hayato, Yoshinari, Hiraide, Katsuki, Ikeda, Motoyasu, Kameda, Jun, Kanemura, Yuki, Kataoka, Yousuku, Miki, Shintaro, Miura, Makoto, Moriyama, Shigetaka, Nagao, Yoshiki, NAKAHATA, Masayuki, Nakayama, Shoei
+Frequent collaborators: Okamoto, K., Nakamura, K., Ikeda, M., Sato, K., Matsumoto, R., Abe, K., Bronner, C., Hayato, Y., Kameda, J., Kataoka, Y., Mine, S., Miura, M., Moriyama, S., Nagao, Y., Nakahata, M.
 
-Recent focus (2020-present): Follow-up of GWTC-2 gravitational wave events with neutrinos from the Super-Kamiokande detector; Diffuse Supernova Neutrino Background search at Super-Kamiokande with neutron tagging; Low energy radioactivity BG model in Super-Kamiokande detector from SK-IV data
+Recent focus (2020-present): Gaussian Formalism: Joint Measurement for Heisenberg's Uncertainty Relation for Errors by Squeezed Coherent States; Solar neutrino measurements using the full data period of Super-Kamiokande-IV; Neutron tagging following atmospheric neutrino events in a water Cherenkov detector; New methods and simulations for cosmogenic induced spallation removal in Super-Kamiokande-IV; First gadolinium loading to Super-Kamiokande; Search for neutrinos in coincidence with gravitational wave events from the LIGO-Virgo O3a Observing Run with the Super-Kamiokande detector; Search for tens of MeV neutrinos associated with gamma-ray bursts in Super-Kamiokande; Neutron-antineutron oscillation search using a 0.37 megaton-years exposure of Super-Kamiokande; The Hyper-Kamiokande Experiment - Snowmass LOI
 
 When scoring papers, consider:
 1. Direct overlap with primary/secondary fields (highest relevance)

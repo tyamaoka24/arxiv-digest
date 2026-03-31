@@ -8,10 +8,27 @@
 |------------|-----------|------------|
 | odakin | Mastodon (Vivaldi Social) | 平日 10:31 |
 | takeda | Discord (東女物理研 #arxiv-digest) | 平日 10:31（同時） |
+| ogawa | Discord (東女物理研 #arxiv-digest) | 平日 10:31（同時） |
 
 ## 残タスク
 - [x] 学校 Mac で `git pull` → scheduled task 統合（2026-03-31 完了: `arxiv-digest-takeda` 無効化、統合版 SKILL.md で1本運用）
+- [x] ogawa プロファイル追加（2026-03-31 完了: Discord 同チャンネル `<@882385522243297280>`）
+- [x] arxiv_categories 二層構造実装（2026-03-31 完了: INSPIRE 自動 + 手動 extras）
 - [ ] Bluesky / Slack チャンネル追加
+
+## 直近の修正（2026-03-31）
+
+### ogawa プロファイル追加 + arxiv_categories 二層構造 + setup_inspire 改善
+
+- `profiles/ogawa/` 追加: Discord 同 webhook (`DISCORD_WEBHOOK_URL_TAKEDA`)、メンション `<@882385522243297280>`、BAI `N.Ogawa.4`
+- `src/config.py`: `_merge_categories()` 追加 — `inspire_arxiv_categories`（自動）+ `arxiv_categories`（手動）を union
+- `tools/setup_inspire.py`:
+  - `extract_categories()` + `update_profile_config()` 追加 — config.yaml の `inspire_bai` / `inspire_name` / `inspire_affiliation` / `inspire_arxiv_categories` を自動設定
+  - 初回セットアップ時のみ著者確認（`Continue? [Y/n]`）、同 BAI 再実行はスキップ
+  - BAI 直接指定時に `lookup_author()` で著者名を表示して確認（間違い BAI 防止）
+  - 月次 `check_for_profile_updates()` は `main()` を経由しないので確認ダイアログなし
+- `tools/fetch_inspire.py`: `lookup_author()` 追加 — BAI から著者名・所属を取得
+- `src/profile_update.py`: `inspire_name` を使った強化 author matching、月次更新で name/affiliation を保持
 
 ## 直近の修正（2026-03-30）
 

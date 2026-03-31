@@ -19,10 +19,11 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 **odakin 自身はモード B で運用。モード A はテンプレート利用者向け。**
 
 配信中プロファイル:
-| プロファイル | チャンネル | メンション先 |
-|------------|-----------|------------|
-| odakin | Mastodon (Vivaldi Social `@odakinarxiv`) | `@odakin@social.vivaldi.net` |
-| takeda | Discord (東女物理研 `#arxiv-digest`) | `<@888803091296706650>` (satsuko3310) |
+| プロファイル | チャンネル | メンション先 | INSPIRE BAI |
+|------------|-----------|------------|-------------|
+| odakin | Mastodon (Vivaldi Social `@odakinarxiv`) | `@odakin@social.vivaldi.net` | `K.Y.Oda.1` |
+| takeda | Discord (東女物理研 `#arxiv-digest`) | `<@888803091296706650>` (satsuko3310) | — |
+| ogawa | Discord (東女物理研 `#arxiv-digest`) | `<@882385522243297280>` | `N.Ogawa.4` |
 
 共通パイプライン: `src.fetch_all → [スコアリング] → src.post_all → チャンネル配信`
 
@@ -40,7 +41,23 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 - `config.yaml` — ルート `config.yaml` へのオーバーライド（ディープマージ）
 
 スコアラーは両プロファイルを結合して使う。どちらか片方だけでも動作する。
-月次 INSPIRE 更新は `inspire_profile.txt` のみ上書き、`interest_profile.txt` は不変。
+月次 INSPIRE 更新は `inspire_profile.txt` と `inspire_arxiv_categories` を上書き、`interest_profile.txt` と手動 `arxiv_categories` は不変。
+
+### arXiv カテゴリの二層構造
+
+`setup_inspire` 実行時に INSPIRE 論文カテゴリ（出現率 >=5%）が自動で `inspire_arxiv_categories` に書き込まれる。手動で追加したいカテゴリは `arxiv_categories` に記載。ランタイムで両者を union して使用。
+
+```yaml
+# auto-generated — do not edit
+inspire_bai: N.Ogawa.4
+inspire_arxiv_categories:
+  - hep-ex
+  - gr-qc
+
+# manual extras
+arxiv_categories:
+  - quant-ph
+```
 
 ## 開発規約
 

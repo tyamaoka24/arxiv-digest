@@ -77,6 +77,18 @@ def _deep_merge(base, override):
     return base
 
 
+def _merge_categories(config):
+    """Merge inspire_arxiv_categories (auto) with arxiv_categories (manual).
+
+    Returns sorted union. Pops inspire_arxiv_categories from config so
+    downstream code only sees the unified arxiv_categories list — this
+    mutation is intentional (inspire_arxiv_categories is an internal field).
+    """
+    inspire = set(config.pop("inspire_arxiv_categories", None) or [])
+    manual = set(config.get("arxiv_categories", None) or [])
+    return sorted(inspire | manual)
+
+
 def load_config(profile_name=DEFAULT_PROFILE):
     """Load root config.yaml, then deep-merge profiles/<name>/config.yaml on top."""
     with open(CONFIG_PATH, encoding="utf-8") as f:
@@ -88,6 +100,7 @@ def load_config(profile_name=DEFAULT_PROFILE):
             override = yaml.safe_load(f) or {}
         config = _deep_merge(config, override)
 
+    config["arxiv_categories"] = _merge_categories(config)
     return config
 
 

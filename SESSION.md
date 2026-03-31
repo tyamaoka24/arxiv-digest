@@ -7,12 +7,12 @@
 | プロファイル | チャンネル | スケジュール |
 |------------|-----------|------------|
 | odakin | Mastodon (Vivaldi Social) | 平日 10:31 |
-| takeda | Discord (東女物理研 #arxiv-digest) | 平日 10:31（同時） |
-| ogawa | Discord (東女物理研 #arxiv-digest) | 平日 10:31（同時） |
+| takeda | Discord (#arxiv-digest) | 平日 10:31（同時） |
+| ogawa | Discord (#arxiv-digest) | 平日 10:31（同時） |
 
 ## 残タスク
 - [x] 学校 Mac で `git pull` → scheduled task 統合（2026-03-31 完了: `arxiv-digest-takeda` 無効化、統合版 SKILL.md で1本運用）
-- [x] ogawa プロファイル追加（2026-03-31 完了: Discord 同チャンネル `<@882385522243297280>`）
+- [x] ogawa プロファイル追加（2026-03-31 完了: Discord 同チャンネル）
 - [x] arxiv_categories 二層構造実装（2026-03-31 完了: INSPIRE 自動 + 手動 extras）
 - [ ] Bluesky / Slack チャンネル追加
 
@@ -20,7 +20,7 @@
 
 ### ogawa プロファイル追加 + arxiv_categories 二層構造 + setup_inspire 改善
 
-- `profiles/ogawa/` 追加: Discord 同 webhook (`DISCORD_WEBHOOK_URL_TAKEDA`)、メンション `<@882385522243297280>`、BAI `N.Ogawa.4`
+- `profiles/ogawa/` 追加: Discord 同 webhook (`DISCORD_WEBHOOK_URL_TAKEDA`)
 - `src/config.py`: `_merge_categories()` 追加 — `inspire_arxiv_categories`（自動）+ `arxiv_categories`（手動）を union
 - `tools/setup_inspire.py`:
   - `extract_categories()` + `update_profile_config()` 追加 — config.yaml の `inspire_bai` / `inspire_name` / `inspire_affiliation` / `inspire_arxiv_categories` を自動設定
@@ -50,7 +50,7 @@
 ### takeda プロファイル追加
 - **修論**: 波束形式による量子干渉と測定過程の理論的再構成（二光子 double-double-slit）
 - **カテゴリ**: quant-ph, physics.optics
-- **配信先**: Discord（東女物理研サーバー #arxiv-digest チャンネル）
+- **配信先**: Discord #arxiv-digest チャンネル
 - **環境変数**: `DISCORD_WEBHOOK_URL_TAKEDA`（.env に設定済み）
 
 ### マルチプロファイル対応

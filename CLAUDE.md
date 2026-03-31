@@ -49,7 +49,7 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 
 ```yaml
 # auto-generated — do not edit
-inspire_bai: N.Ogawa.4
+inspire_bai: <BAI>        # actual value in profiles/ogawa/config.yaml
 inspire_arxiv_categories:
   - hep-ex
   - gr-qc

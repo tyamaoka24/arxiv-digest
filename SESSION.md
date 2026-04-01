@@ -10,6 +10,10 @@
 | takeda | Discord (#arxiv-digest) | 平日 10:31（同時） |
 | ogawa | Discord (#arxiv-digest) | 平日 10:31（同時） |
 
+## 要対応（学校 Mac で pull 後）
+
+- [ ] **`arxiv-digest` の backend prompt を SKILL.md と同期する**（`update_scheduled_task` で prompt を再設定）。バックエンドは SKILL.md を実行時に読まないため、ファイル編集だけでは反映されない。MacBook 側の `inspire-monthly` で同じバグが発生し修正済み（2026-04-01）。
+
 ## 残タスク
 - [x] 学校 Mac で `git pull` → scheduled task 統合（2026-03-31 完了: `arxiv-digest-takeda` 無効化、統合版 SKILL.md で1本運用）
 - [x] ogawa プロファイル追加（2026-03-31 完了: Discord 同チャンネル）
@@ -58,6 +62,7 @@
 - Discord チャンネルで `env_var` フィールドによるプロファイル別 webhook URL をサポート
 - odakin の SKILL.md もプロファイル別ファイル名に更新
 
-### 障害: scheduled task の SKILL.md 二重管理問題（既解決）
-- registered → リポへの symlink に変更済み
-- inspire-monthly も同様に symlink 化
+### 障害: scheduled task の SKILL.md 二重管理問題（修正済み）
+- ローカル SKILL.md はリポへの symlink に変更済み
+- ただし **バックエンドは SKILL.md を実行時に読まない**。SKILL.md 編集後は `update_scheduled_task` で prompt を同期する必要あり（CLAUDE.md に明記済み）
+- inspire-monthly で同期漏れが発覚し修正（2026-04-01）

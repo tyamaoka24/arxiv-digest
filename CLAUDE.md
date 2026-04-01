@@ -88,5 +88,5 @@ arxiv_categories:
 - タスク完了時 → SESSION.md を更新
 - 重要な判断・ファイル作成/大幅変更時 → SESSION.md に記録
 - push 前 → SESSION.md / CLAUDE.md が実態と一致しているか確認（詳細は CONVENTIONS.md §3）
-- **`skill/SKILL.md` を変更した場合**: registered task は symlink なので自動反映される。symlink 確認: `ls -la ~/.claude/scheduled-tasks/arxiv-digest/SKILL.md`
+- **`skill/SKILL.md` を変更した場合**: symlink はあるがバックエンドは SKILL.md を実行時に読まないため、**必ず `update_scheduled_task` で prompt を同期すること**。symlink 確認: `ls -la ~/.claude/scheduled-tasks/arxiv-digest/SKILL.md`
 - CLAUDE.md のルールの詳細は `~/Claude/CONVENTIONS.md` 参照

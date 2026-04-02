@@ -12,7 +12,7 @@
 
 ## 要対応（学校 Mac で pull 後）
 
-- [ ] **`arxiv-digest` の backend prompt を SKILL.md と同期する**（`update_scheduled_task` で prompt を再設定）。バックエンドは SKILL.md を実行時に読まないため、ファイル編集だけでは反映されない。MacBook 側の `inspire-monthly` で同じバグが発生し修正済み（2026-04-01）。
+- [x] **`arxiv-digest` の backend prompt を SKILL.md と同期する**（2026-04-02 完了: `update_scheduled_task` で prompt を再設定）
 
 ## 残タスク
 - [x] 学校 Mac で `git pull` → scheduled task 統合（2026-03-31 完了: `arxiv-digest-takeda` 無効化、統合版 SKILL.md で1本運用）

@@ -9,6 +9,7 @@ import json
 import sys
 import traceback
 
+from .archive import archive_scored_papers
 from .config import load_config, load_dotenv, check_env_vars, DEFAULT_PROFILE, STATE_DIR
 from .publish import publish, notify_error
 
@@ -55,6 +56,12 @@ def main():
         total_fetched = data.get("total_fetched", 0)
 
         publish(config, scored_papers, total_fetched)
+
+        try:
+            archive_scored_papers(args.profile, scored_path=scored_path)
+        except Exception as e:
+            print(f"  WARNING: archive failed: {e}")
+
         print("Done.")
 
     except Exception as e:

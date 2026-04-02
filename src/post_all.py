@@ -63,9 +63,9 @@ def main():
                     pass
 
     # Archive successfully posted profiles
-    posted = {e[0] for e in errors}
+    failed = {e[0] for e in errors}
     for name in profiles:
-        if name in posted:
+        if name in failed:
             continue
         try:
             path = STATE_DIR / f"scored_papers_{name}.json"

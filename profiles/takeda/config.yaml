@@ -7,6 +7,8 @@ scoring_threshold: 85
 arxiv_categories:
   - quant-ph
   - physics.optics
+  - hep-ph
+  - hep-th
 
 channels:
   mastodon:

@@ -19,11 +19,20 @@ Core topics:
 - Absorption models and non-Hermitian effective Hamiltonians for detection processes
 - Diffraction in time (Moshinsky shutter), Huygens-Fresnel propagation kernels
 
-arXiv categories: quant-ph, physics.optics
+Related QFT / particle physics topics:
+- S-matrix and scattering amplitudes in wave-packet formalism (beyond plane-wave approximation)
+- Quantum entanglement in particle decays and collider experiments (Bell tests at colliders, spin correlations)
+- Neutrino oscillations as quantum interference phenomena (flavor mixing, coherence length)
+- LSZ reduction formula, asymptotic states, and their wave-packet interpretation
+- Quantum decoherence and measurement in high-energy processes
+- Unitarity, optical theorem, and their connection to absorption/detection models
+
+arXiv categories: quant-ph, physics.optics, hep-ph, hep-th
 
 When scoring papers, consider:
 1. Direct overlap with two-photon interference, wave-packet formalism, or SPDC experiments (highest relevance)
 2. Papers by collaborators or from the TWCU group (high relevance)
 3. Quantum optics experiments involving entangled photon pairs, ghost imaging, or ghost interference (moderate-high relevance)
-4. Foundational quantum mechanics: measurement theory, decoherence, quantum-to-classical transition (moderate relevance)
-5. General developments in quantum optics or quantum information with photonic systems (lower relevance)
+4. QFT papers connecting to wave-packet formalism, quantum interference beyond plane waves, or entanglement in particle physics (moderate-high relevance)
+5. Foundational quantum mechanics: measurement theory, decoherence, quantum-to-classical transition (moderate relevance)
+6. General developments in quantum optics or quantum information with photonic systems (lower relevance)

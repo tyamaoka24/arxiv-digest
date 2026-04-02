@@ -8,6 +8,7 @@ import json
 import sys
 import traceback
 
+from .archive import archive_scored_papers
 from .config import (
     load_config, load_dotenv, check_env_vars,
     list_active_profiles, STATE_DIR,
@@ -60,6 +61,17 @@ def main():
                     notify_error(config, f"Post error ({name}): {msg}")
                 except Exception:
                     pass
+
+    # Archive successfully posted profiles
+    posted = {e[0] for e in errors}
+    for name in profiles:
+        if name in posted:
+            continue
+        try:
+            path = STATE_DIR / f"scored_papers_{name}.json"
+            archive_scored_papers(name, scored_path=path)
+        except Exception as e:
+            print(f"  WARNING: archive failed for {name}: {e}")
 
     if errors:
         print(f"\n*** {len(errors)} profile(s) had errors ***")

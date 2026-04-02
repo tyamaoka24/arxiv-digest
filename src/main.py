@@ -9,6 +9,7 @@ import sys
 import traceback
 from datetime import date
 
+from .archive import archive_scored_papers
 from .config import load_config, load_dotenv, check_env_vars, DEFAULT_PROFILE
 from .fetch_arxiv import fetch_new_papers
 from .profile_update import check_for_profile_updates
@@ -65,6 +66,15 @@ def main():
 
         # Publish
         publish(config, scored, len(papers))
+
+        # Archive
+        try:
+            archive_scored_papers(
+                args.profile,
+                data={"total_fetched": len(papers), "scored_papers": scored},
+            )
+        except Exception as e:
+            print(f"  WARNING: archive failed: {e}")
 
         # Auto-update INSPIRE profiles if registrants have new papers
         print("Checking for profile updates...")

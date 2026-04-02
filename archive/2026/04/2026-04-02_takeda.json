@@ -1,0 +1,30 @@
+{
+  "total_fetched": 185,
+  "scored_papers": [
+    {
+      "arxiv_id": "2603.29971",
+      "title": "High-fidelity entangled photon pairs from a quantum-dot-based single-photon source",
+      "authors": [
+        "Malwina A. Marczak",
+        "Spencer J. Johnson",
+        "Mark R. Hogg",
+        "Timon L. Baltisberger",
+        "Nathan Arnold",
+        "Benjamin E. Nussbaum",
+        "Clotilde M. N. Pillot",
+        "Sascha R. Valentin",
+        "Arne Ludwig",
+        "Paul G. Kwiat",
+        "Richard J. Warburton"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2603.29971",
+      "abstract": "Entangled photon pairs are a ubiquitous resource in quantum technologies, used in quantum key distribution and quantum networking as well as fundamental tests of non-locality. For scalable quantum networks, pairs that are indistinguishable in all unentangled degrees of freedom are essential, as they enable high-fidelity entanglement swapping across network nodes. To date the most-studied sources of \"swappable\" entangled photon pairs have been based on spontaneous parametric down-conversion (SPDC) in non-linear crystals. However, the probabilistic nature and unavoidable trade-off between brightness and unwanted multi-photon emission limits their performance in lossy channels. Here, we demonstrate a high-fidelity source of \"swappable\" entangled photon pairs using a semiconductor quantum dot (QD) coupled to a tunable microcavity. By actively modulating the QD emission between orthogonal polarisation states, delaying one path in a low-loss Herriott cell, and recombining the two on a balanced beam splitter, we generate entangled photon pairs with a fidelity of $96.1\\pm0.5$ %. We identify and mitigate fidelity-limiting factors, achieving a maximum fidelity of $98.1\\pm0.5$ % through time-resolved post-selection. The scheme suppresses residual multi-photon events concentrated near the excitation pulse and has only a modest impact on the rate. Furthermore, the photons are mutually indistinguishable, enabling efficient entanglement swapping. Our results establish semiconductor QDs as a viable platform for quantum network-compatible swappable entangled photon pair generation, with feasible entanglement generation rates exceeding 0.5 Gpairs/s.",
+      "score": 88,
+      "reason": "量子ドット単一光子源から高忠実度もつれ光子対を生成！SPDCとの比較やネットワーク応用が興味深い 📡",
+      "summary": "量子ドット光源でもつれ光子対の高忠実度生成を実現。量子鍵配送・ネットワーク・非局所性テスト向け"
+    }
+  ]
+}

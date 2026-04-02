@@ -25,7 +25,9 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 | takeda | Discord `#arxiv-digest` | （Discord メンション ID — private リポ参照） | — |
 | ogawa | Discord `#arxiv-digest` | （Discord メンション ID — private リポ参照） | （INSPIRE BAI — private リポ参照） |
 
-共通パイプライン: `src.fetch_all → [スコアリング] → src.post_all → チャンネル配信`
+共通パイプライン: `src.fetch_all → [スコアリング] → src.post_all → チャンネル配信 → archive/ に自動保存`
+
+`archive/{year}/{month}/{date}_{profile}.json` に scored_papers を日次保存（git 管理）。
 
 - モード A: `python3 -m src.main --profile <name>`（単一プロファイル、全ステップ Python 内で完結）
 - モード B: `src.fetch_all` → Claude が全プロファイル順にスコアリング → `src.post_all`（`skill/SKILL.md` 参照）

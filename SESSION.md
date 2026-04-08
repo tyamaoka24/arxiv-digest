@@ -18,7 +18,26 @@
 - [x] 学校 Mac で `git pull` → scheduled task 統合（2026-03-31 完了: `arxiv-digest-takeda` 無効化、統合版 SKILL.md で1本運用）
 - [x] ogawa プロファイル追加（2026-03-31 完了: Discord 同チャンネル）
 - [x] arxiv_categories 二層構造実装（2026-03-31 完了: INSPIRE 自動 + 手動 extras）
+- [x] **archive/ 自動 commit + push**（2026-04-08 完了: 6 日分 cross-session 蓄積を検出 → 根治のため `commit_archives_to_git()` を `src/archive.py` に追加 → `post_all` 末尾で呼び出し）
 - [ ] Bluesky / Slack チャンネル追加
+
+## 直近の修正（2026-04-08）
+
+### archive/ 自動 commit + push 導入
+
+毎日 cron で生成される `archive/{year}/{month}/*.json` が **6 日分 (04-02 〜 04-07)** uncommitted のまま蓄積していたのを発見。原因は post_all.py がアーカイブ書き込みをしても commit しない設計で、生成主体と commit 主体が分離していたこと。CLAUDE.md には「git 管理」と明記されていたので、この乖離はバグ。
+
+`src/archive.py` に新関数 `commit_archives_to_git()` を追加し、`post_all.py` の archive ループ末尾で呼ぶ。設計上の安全策:
+
+- **scoped**: `git add archive/` のみ。`src/`、`profiles/`、`config.yaml` 等の WIP に触らない
+- **idempotent**: `git diff --cached --quiet` で空コミット防止 (同日複数回 run しても commit しない)
+- **cross-machine 安全**: `git fetch` → behind > 0 のときのみ `git pull --rebase --autostash`
+- **best-effort**: fetch / rebase / commit / push のどの段階で失敗しても warning print → return。例外を投げない
+- **push 失敗許容**: 次回 run が catch up
+
+`commit_archives_to_git` が呼ばれるのは **モード B のみ**。モード A (`post.py`、template 利用者向け) は手動コントロールを残すため auto-commit しない。
+
+**横断的対処** (claude-config / odakin-prefs 側): `git-state-nudge.sh` に「porcelain hash が >24h 同一」を検出する STALE_DIRT 警告を追加 (cross-session WIP leakage の汎用 safety net)、`push-workflow.md` に解釈ガイドを追加。
 
 ## 直近の修正（2026-03-31）
 

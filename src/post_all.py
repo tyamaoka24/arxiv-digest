@@ -8,7 +8,7 @@ import json
 import sys
 import traceback
 
-from .archive import archive_scored_papers
+from .archive import archive_scored_papers, commit_archives_to_git
 from .config import (
     load_config, load_dotenv, check_env_vars,
     list_active_profiles, STATE_DIR,
@@ -72,6 +72,14 @@ def main():
             archive_scored_papers(name, scored_path=path)
         except Exception as e:
             print(f"  WARNING: archive failed for {name}: {e}")
+
+    # Commit + push archive/ to keep snapshots out of cross-session WIP
+    # leakage. Best-effort: any failure is logged inside the helper and
+    # never raises, so a transient git issue cannot break the daily run.
+    try:
+        commit_archives_to_git()
+    except Exception as e:
+        print(f"  WARNING: archive git sync raised unexpectedly: {e}")
 
     if errors:
         print(f"\n*** {len(errors)} profile(s) had errors ***")

@@ -29,6 +29,8 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 
 `archive/{year}/{month}/{date}_{profile}.json` に scored_papers を日次保存（git 管理）。
 
+**モード B では `post_all` 完了後に `commit_archives_to_git()`（`src/archive.py`）が `archive/` 配下を自動 commit + push する。** scoped (archive/ のみ stage、他の WIP に触らない)、idempotent (空コミット防止)、cross-machine 対応 (behind 検出時のみ `pull --rebase --autostash`)、push 失敗は warning 出して次回 run で catch up。これにより scheduled task が生成する archive json が cross-session WIP leakage として蓄積するのを根絶する (2026-04-08 に 6 日分蓄積していた事象への対処)。モード A (`post.py`、template 利用者向け) は auto-commit せず、手動コントロールを残す。
+
 - モード A: `python3 -m src.main --profile <name>`（単一プロファイル、全ステップ Python 内で完結）
 - モード B: `src.fetch_all` → Claude が全プロファイル順にスコアリング → `src.post_all`（`skill/SKILL.md` 参照）
 - 個別実行: `src.fetch --profile <name>` / `src.post --profile <name>` も引き続き使用可

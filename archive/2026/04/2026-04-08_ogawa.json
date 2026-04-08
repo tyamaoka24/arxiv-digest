@@ -1,0 +1,42 @@
+{
+  "total_fetched": 163,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.04784",
+      "title": "Canonical Uncertainty Relations for Madelung Variables in Curved Spacetime",
+      "authors": [
+        "Jorge Meza-Domínguez",
+        "Tonatiuh Matos"
+      ],
+      "categories": [
+        "gr-qc",
+        "math-ph",
+        "math.MP",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.04784",
+      "abstract": "We establish fundamental uncertainty relations for the hydrodynamic variables arising from the Madelung representation of quantum fields in curved spacetime. Through canonical quantization of the density n and phase theta variables and their conjugate momenta, we derive exact uncertainty principles that depend on spacetime geometry through the lapse function N and spatial metric gamma_ij.",
+      "score": 90,
+      "reason": "Madelung表現の流体力学変数に不確定性関係を導出🌟 時空幾何が量子揺らぎを変調→時間エネルギー不確定性研究の直撃💡✨",
+      "summary": "曲がった時空でn・θ変数を正準量子化し、ラプス関数・空間計量に依存する不確定性関係を厳密に導出🔭"
+    },
+    {
+      "arxiv_id": "2604.03990",
+      "title": "Tighter entropic uncertainty relations in the presence of quantum memories for complete sets of mutually unbiased bases",
+      "authors": [
+        "Qing-Hua Zhang",
+        "Cong Xu",
+        "Jing-Feng Wu",
+        "Shao-Ming Fei"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.03990",
+      "abstract": "Entropic uncertainty relations provide an information-theoretic framework for quantifying the fundamental indeterminacy inherent in quantum mechanics. We propose more stringent quantum-memory-assisted entropic uncertainty relations for complete sets of mutually unbiased bases in multipartite scenarios. We present lower and upper bounds of the quantum uncertainties based on the complementarity of the observables, the purity of the measured state, the conditional von-Neumann entropies, and the Holevo quantity.",
+      "score": 85,
+      "reason": "量子メモリ存在下でのエントロピー的不確定性関係を強化🎯 相互無偏基底の完全集合への新しい上下限を導出📊",
+      "summary": "観測量の相補性・状態純度・von Neumannエントロピーを用いた多体系での厳密な不確定性関係の上下界を確立🔬"
+    }
+  ]
+}

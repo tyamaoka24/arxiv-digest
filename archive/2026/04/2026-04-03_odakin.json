@@ -1,0 +1,40 @@
+{
+  "total_fetched": 174,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.01084",
+      "title": "Curvature-induced electroweak symmetry breaking and phase transition of a Higgs-portal dark scalar field",
+      "authors": [
+        "Andreas Mantziris"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.01084",
+      "abstract": "This overview of the study arXiv:2407.18845, regarding the possibility of generating gravitational waves from a curvature-induced phase transition of a non-minimally coupled scalar dark matter field with a Higgs-portal, was showcased at the Workshop on Standard Model and Beyond 2025 of the Corfu Summer Institute 2025. The phase transition dynamics during the transition from inflation to kination were calculated for various inflationary scales, considering both positive and negative values of the non-minimal coupling, while also examining the potential for triggering electroweak symmetry breaking. Notably, kination enhances the GW amplitudes, significantly restricting the viable parameter space. While the GW spectra follow the usual rule for high-frequencies from high inflationary scales, certain regions of the parameter space allow for a potential detection with future experiments.",
+      "score": 88,
+      "reason": "Higgs ポータル DM＋曲率誘起相転移🔥 kination 期に GW を生成、EW 対称性破れ誘起の可能性も！将来 GW 実験での検出可能領域あり🎯",
+      "summary": "インフレ→kination 期に非最小結合スカラー DM が相転移。kination が GW 振幅を増大させパラメータ空間を大きく制限、将来実験で検出可能領域を特定"
+    },
+    {
+      "arxiv_id": "2604.00575",
+      "title": "Universal features of high-energy scattering of Laguerre-Gaussian states",
+      "authors": [
+        "Yaoqi Yang",
+        "Igor P. Ivanov"
+      ],
+      "categories": [
+        "hep-ph",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.00575",
+      "abstract": "Vortex states of photons, electrons, and other particles are wave packets that carry intrinsic orbital angular momentum (OAM) and exhibit other features unavailable for plane waves. Collisions of high-energy vortex states can become a promising tool for nuclear and particle physics, once experimental challenges are overcome. In this work, we initiate a systematic re-analysis of vortex-state scattering processes using paraxial Laguerre-Gaussian (LG) wave packets colliding at a non-zero impact parameter b. Since the total final transverse momentum P_perp is no longer fixed, we focus on how the differential cross section depends on P_perp. We emphasize that non-trivial P_perp-dependent features can originate either from the shape of the LG wave packets or from the dynamics of the scattering process under interest. Interestingly, the non-zero impact parameter b plays a key role in many P_perp-dependent effects, making it a useful probe of vortex states.",
+      "score": 86,
+      "reason": "波束×高エネルギー散乱が直結💥 LG 波束（OAM 状態）の体系的再解析、非平面波ならではの横方向運動量 P⊥ 依存性の普遍的特徴を詳述🌊",
+      "summary": "LG 波束の斜め衝突を体系的に解析。P⊥ 依存性は波束形状由来とプロセス固有に分離でき、衝突パラメータ b が非自明な効果をもたらす鍵となることを強調"
+    }
+  ]
+}

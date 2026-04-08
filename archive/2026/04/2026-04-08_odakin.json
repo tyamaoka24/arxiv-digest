@@ -1,0 +1,59 @@
+{
+  "total_fetched": 163,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.04784",
+      "title": "Canonical Uncertainty Relations for Madelung Variables in Curved Spacetime",
+      "authors": [
+        "Jorge Meza-Domínguez",
+        "Tonatiuh Matos"
+      ],
+      "categories": [
+        "gr-qc",
+        "math-ph",
+        "math.MP",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.04784",
+      "abstract": "We establish fundamental uncertainty relations for the hydrodynamic variables arising from the Madelung representation of quantum fields in curved spacetime. Through canonical quantization of the density n and phase theta variables and their conjugate momenta, we derive exact uncertainty principles that depend on spacetime geometry through the lapse function N and spatial metric gamma_ij. These relations reveal how gravitational fields modulate quantum fluctuations and provide first-principles constraints on quantum coherence in strong-gravity environments.",
+      "score": 88,
+      "reason": "不確定性関係を重力場の流体力学変数で定式化🌟 時空幾何が量子揺らぎを変調する結果📐✨ 量子基礎＋gr-qcの直撃コンボ🔥",
+      "summary": "曲がった時空でMadelung変数(n,θ)を正準量子化→ラプス関数・空間計量に依存する不確定性関係を厳密導出🔭 量子コヒーレンスへの制約"
+    },
+    {
+      "arxiv_id": "2604.04687",
+      "title": "Natural SUSY with mixed axion/axino dark matter",
+      "authors": [
+        "Howard Baer",
+        "Vernon Barger",
+        "Kairui Zhang"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.04687",
+      "abstract": "Supersymmetric models with PQ solution to the strong CP problem feature an axion-axino-saxion supermultiplet with micro-eV-scale axion and axino mass in keV-TeV range over 9 orders of magnitude, allowing mixed axion/axino dark matter.",
+      "score": 86,
+      "reason": "PQ対称性でSUSY＋アクシオンDMを統合🔮 micro-eVアクシオン＋keV〜TeVアクシーノの混合DM探索の系統的解析💪🌌",
+      "summary": "階層問題＋強いCP問題を同時解決するナチュラルSUSYでアクシオン/アクシーノ混合DM候補の質量範囲と宇宙論制限を調査⚡"
+    },
+    {
+      "arxiv_id": "2604.04886",
+      "title": "Light neutrinos, Dark matter and leptogenesis near electroweak scale and Z_4 symmetry",
+      "authors": [
+        "Kunal Pandey",
+        "Rathin Adhikari"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.04886",
+      "abstract": "Z_4 symmetry in Type I seesaw scenario reproduces neutrino mass-squared differences, mixings and CP violating phase within 3sigma using only three complex parameters and one real mass parameter for heavy right-handed neutrinos near electroweak scale.",
+      "score": 85,
+      "reason": "Z4対称性でニュートリノ質量・混合・CPV＋レプトジェネシス＋DM全部盛り🎯🌟 電弱スケールtype I seesawの最小パラメータ実装",
+      "summary": "3複素＋1実パラメータのみでニュートリノ振動データを3σ内で再現しバリオン数生成とDMも説明するZ4模型を構築✨"
+    }
+  ]
+}

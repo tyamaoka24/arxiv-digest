@@ -1,0 +1,41 @@
+{
+  "total_fetched": 91,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.03005",
+      "title": "Quantum mutual information, coherence and unified relations of top quarks in QCD processes",
+      "authors": [
+        "Duo-Duo Chen",
+        "Xue-Ke Song",
+        "Liu Ye",
+        "Dong Wang"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.03005",
+      "abstract": "As the most massive particle in the Standard Model, the top quark's exceptionally short lifetime preserves its spin polarization information through direct decay, making it an ideal system for probing quantum correlations in high-energy physics. In this letter, we presents a comprehensive investigation of quantum correlations in top quark-antiquark pairs produced through QCD. We employ multiple quantum information theoretic measures including quantum mutual information, relative entropy of coherence, complete complementarity relations, and the intrinsic relationship, establishing their dependence on kinematic variables. Furthermore, we find that for quarks and gluons initial mixing, as the probability of gluons Wgg increases, the maximum of the left-hand side of the intrinsic relation also increases. We thus believe the current findings are beneficial to insight into the systemic quantumness in QCD.",
+      "score": 86,
+      "reason": "⚛️ QCDトップクォーク対でBell検証！量子相互情報・コヒーレンス・CCRの統一的調査で高エネルギー量子相関を解明✨",
+      "summary": "QCD過程で生成されるtop反top対のスピン偏極を量子情報理論的手法（量子相互情報、相対エントロピーコヒーレンス、CCR）で包括的に解析し運動学変数依存性を調査。"
+    },
+    {
+      "arxiv_id": "2604.02464",
+      "title": "Modified Entanglement Patterns in Four-Flavor Neutrinos from Quantum-Gravity Interactions",
+      "authors": [
+        "Bipin Singh Koranga",
+        "Baktiar Wasir Farooq",
+        "Y. Prem Kumar Singh"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.02464",
+      "abstract": "We investigate the influence of quantum-gravity (QG) induced corrections on the entanglement entropy associated with four-flavor neutrino oscillations in vacuum, incorporating an additional sterile neutrino in the (3+1) framework. Using the von Neumann entropy as a measure of quantum correlations, we analyze how Planck-scale suppressed modifications to the neutrino mass-squared differences and the extended mixing matrix affect the evolution of entanglement during successive oscillation cycles. The quantum-gravity corrections are implemented through a dimension-5 effective field theory operator that modifies the four-flavor PMNS matrix and all six mixing angles above the GUT scale. We find that the atmospheric mixing angle \\theta_{23} undergoes the largest deviation due to Planck-scale effects, while angles \\theta_{14}, \\theta_{24}, and \\theta_{34} remain essentially unchanged. The resulting QG-corrected oscillation probabilities produce characteristic deviations in the entanglement entropy profile as a function of L/E, providing a sensitive probe of Planck-scale physics within a four-flavor neutrino phenomenology framework.",
+      "score": 85,
+      "reason": "🧬 ニュートリノ振動を量子干渉として捉え、QG補正がエンタングルメントエントロピーのL/E依存性に特徴的偏差を生む✨",
+      "summary": "4フレーバー(3+1)ニュートリノ系でプランクスケールQG補正付きフォン・ノイマンエントロピーを計算。θ₂₃が最大偏差を示し、プランクスケール物理の敏感なプローブに。"
+    }
+  ]
+}

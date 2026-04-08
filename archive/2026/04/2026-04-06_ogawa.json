@@ -1,0 +1,38 @@
+{
+  "total_fetched": 91,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.02924",
+      "title": "Generation of magnonic squeezed state and its superposition in a hybrid qubit-magnon system",
+      "authors": [
+        "Gang Liu",
+        "Feng Qiao",
+        "Rong-Can Yang",
+        "Wei Xiong"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.02924",
+      "abstract": "We propose a protocol for generating magnonic squeezed states (MSS) and their superpositions (SMSS) in a hybrid system comprising a superconducting flux qubit magnetically coupled to the Kittel mode of a yttrium iron garnet (YIG) sphere. The flux qubit provides an intrinsic longitudinal interaction with the magnon mode, which, under resonant microwave driving, gives rise to an effective qubit-state-dependent squeezing Hamiltonian. Numerical simulations incorporating realistic dissipation demonstrate that magnon quadrature noise reduction exceeding $8~\\mathrm{dB}$ is achievable with experimentally accessible parameters.~By preparing the qubit in a superposition state followed by projective measurement, we further obtain symmetric and antisymmetric superpositions of orthogonally squeezed magnon states exhibiting clear phase-space interference fringes.~We discuss how the fourfold rotational symmetry of these states supports a bosonic logical encoding with potential for protecting against dominant error channels in magnonic platforms.",
+      "score": 87,
+      "reason": "🎯 マグノンsqueezed stateを超伝導キュービット+YIG球で生成！8 dB以上の直交位相ノイズ低減を達成✨",
+      "summary": "超伝導フラックスキュービットとYIG球のキタエフモードを磁気結合。共鳴マイクロ波駆動でqubit状態依存スクイージングHを実現し、squeezed superpositionも生成。"
+    },
+    {
+      "arxiv_id": "2604.03214",
+      "title": "Nelson's Stochastic Mechanics: Measurement, Nonlocality, and the Classical Limit",
+      "authors": [
+        "Partha Ghose"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.03214",
+      "abstract": "Nelson's stochastic mechanics may be understood as a stochastic underpinning, or reconstruction, of nonrelativistic quantum mechanics, once the diffusion scale is fixed by $\\hbar$ and the admissible states are restricted by the usual single-valuedness condition on the wavefunction. In this note I briefly indicate what this route achieves and why it remains conceptually attractive. Three advantages are emphasized. First, it supplies a clear configuration-space stochastic picture of the underlying processes. Second, it offers a markedly different perspective on measurement and nonlocality: in particular, collapse need not be treated as an extra axiom, and the nonlocality associated with entangled states is softened relative to the deterministic Bohmian guidance picture. Third, by tying quantumness to a diffusion scale, it naturally suggests a continuum of physical descriptions ranging from the strictly classical to the strictly quantum-mechanical regime. I conclude by proposing a natural distance scale in stochastic mechanics and examining its implications for testing possible limits of Bell correlations.",
+      "score": 86,
+      "reason": "🔬 ネルソン確率力学で量子測定・非局所性・古典極限を統一的に再解釈。崩壊公理なしの測定記述とBell相関検証まで提案✨",
+      "summary": "QMの確率論的基礎（拡散スケール∝ℏ）から測定過程をボルン則の付加公理なしに記述し、エンタングルメントの非局所性をボーム力学より軟化する視点を論じる。"
+    }
+  ]
+}

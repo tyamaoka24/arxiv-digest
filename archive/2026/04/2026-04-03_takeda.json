@@ -1,0 +1,39 @@
+{
+  "total_fetched": 174,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.00434",
+      "title": "Improvement of entanglement generation rate in frequency-multiplexed quantum repeaters using cavity-enhanced SPDC source",
+      "authors": [
+        "Ryoma Komatsudaira",
+        "Tomoyuki Horikiri"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.00434",
+      "abstract": "High-rate entanglement generation is essential for the realization of practical quantum repeaters. To this end, frequency multiplexing of the photons employed is an effective approach. In particular, schemes using cavity-enhanced spontaneous parametric down-conversion (cSPDC) as a photon-pair source have been proposed. In this study, toward a theoretical performance evaluation of frequency-multiplexed quantum repeaters based on cSPDC, we derive an approximate expression for the quantum state of the frequency-multiplexed photons, where each frequency mode is treated as an independent two-mode squeezed vacuum (TMSV) state. Using this expression, we calculate the heralding probability and fidelity of entanglement generation for several cases in a single-photon interference scheme using frequency multiplexing with cSPDC. Our results demonstrate that by multiplexing approximately 100 modes, the heralding probability improves to approximately 98% for an elementary link distance of 25 km, even in scenarios where the fidelity exceeds 0.9 across all modes. Furthermore, for 100 km, we show that the heralding probability increases from approximately 0.7% (single-mode) to about 38% under the condition that the fidelity remains 0.9 or higher.",
+      "score": 87,
+      "reason": "空洞強化 SPDC を周波数多重化量子中継に応用📡 各周波数モードを独立 TMSV 近似で定式化し、もつれ生成率の飛躍的向上を解析的に示す！",
+      "summary": "cSPDC の周波数多重化（~100 モード）でもつれ確率が劇的改善。100 km 区間で 0.7%→38%（忠実度 0.9 以上を維持）"
+    },
+    {
+      "arxiv_id": "2604.00417",
+      "title": "Characterization of non-classical particle propagation using superpositions of position and momentum",
+      "authors": [
+        "Yuki Senoo",
+        "Holger F. Hofmann",
+        "Hiroki Yamakami",
+        "Masataka Iinuma"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.00417",
+      "abstract": "The uncertainty principle suggests a quantitative trade-off between the control of position and the control of momentum in particle propagation. However, a superposition of two states with very different uncertainty trade-offs introduces an interference term that seems to combine precise statements about position and about momentum, allowing us to study how quantum mechanics describes the propagation of individual particles in free space. Here, we present a detailed experimental study of photons prepared in a superposition of position and momentum generated in a Sagnac interferometer. The transverse distribution of photons was obtained with three different measurement settings at the output port of the interferometer, corresponding to the initial position distribution, the initial momentum distribution, and an intermediate propagation time at which the contributions of initial position and momentum uncertainties are approximately equal to each other. We show that the interference effect localizes the photons in narrow intervals of position and momentum, resulting in a quantitative violation of Newton's first law as the interference pattern spreads out at the intermediate position.",
+      "score": 86,
+      "reason": "位置・運動量の重ね合わせ光子で干渉実験🌊 2つの異なる不確定性トレードオフ状態の干渉が位置・運動量を局在化！波束形式と量子測定を直接検証",
+      "summary": "Sagnac 干渉計で位置・運動量重ね合わせ光子を生成。中間時刻に干渉で位置・運動量が局在化し、Wigner 関数の負値とニュートン第1法則の量的破れを実証"
+    }
+  ]
+}

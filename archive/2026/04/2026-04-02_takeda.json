@@ -2,29 +2,42 @@
   "total_fetched": 185,
   "scored_papers": [
     {
-      "arxiv_id": "2603.29971",
-      "title": "High-fidelity entangled photon pairs from a quantum-dot-based single-photon source",
+      "arxiv_id": "2603.28868",
+      "title": "Higgs Boson Spookiness: Probing Quantum Nonlocality with Spacetime-Resolved H→τ+τ- Decays",
       "authors": [
-        "Malwina A. Marczak",
-        "Spencer J. Johnson",
-        "Mark R. Hogg",
-        "Timon L. Baltisberger",
-        "Nathan Arnold",
-        "Benjamin E. Nussbaum",
-        "Clotilde M. N. Pillot",
-        "Sascha R. Valentin",
-        "Arne Ludwig",
-        "Paul G. Kwiat",
-        "Richard J. Warburton"
+        "Lawrence Lee",
+        "John Lawless",
+        "Caroline Riggall"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2603.28868",
+      "abstract": "We demonstrate that a future precision ee Higgs factory would be able to perform a spacetime-resolved test of quantum nonlocality in Higgs boson decays. In simulated ee→ZH→(μμ)(ττ) events at sqrt(s)=240 GeV, we reconstruct τ lepton decay vertices and measure spin correlations as a function of the spacetime interval between the two τ decays. Such a measurement would be able to test Bell-inequality-violating correlations for spacelike-separated decays, enabling direct exclusion of superluminal, finite-speed entanglement signaling theories. With 0.75 ab^-1 of integrated luminosity, entanglement signal propagation speeds below approximately 2c can be excluded at 95% CL.",
+      "score": 88,
+      "reason": "素粒子崩壊での量子もつれ・Bellテストに直結🎯 Higgs崩壊で時空分離されたτ崩壊のスピン相関測定。波束形式との接続も期待💡🔬",
+      "summary": "ee→ZH→(μμ)(ττ) で時空分解した量子非局所性を検証。スペースライク分離での Bell 不等式破れを測定提案🌌"
+    },
+    {
+      "arxiv_id": "2603.28836",
+      "title": "Geometric structure of the relativistic quantum phase space",
+      "authors": [
+        "Philippe Manjakasoa Randriantsoa",
+        "Ravo Tokiniaina Ranaivoson",
+        "Raoelina Andriambololona",
+        "Roland Raboanary",
+        "Wilfrid Chrysante Solofoarisina"
       ],
       "categories": [
         "quant-ph"
       ],
-      "url": "https://arxiv.org/abs/2603.29971",
-      "abstract": "Entangled photon pairs are a ubiquitous resource in quantum technologies, used in quantum key distribution and quantum networking as well as fundamental tests of non-locality. For scalable quantum networks, pairs that are indistinguishable in all unentangled degrees of freedom are essential, as they enable high-fidelity entanglement swapping across network nodes. To date the most-studied sources of \"swappable\" entangled photon pairs have been based on spontaneous parametric down-conversion (SPDC) in non-linear crystals. However, the probabilistic nature and unavoidable trade-off between brightness and unwanted multi-photon emission limits their performance in lossy channels. Here, we demonstrate a high-fidelity source of \"swappable\" entangled photon pairs using a semiconductor quantum dot (QD) coupled to a tunable microcavity. By actively modulating the QD emission between orthogonal polarisation states, delaying one path in a low-loss Herriott cell, and recombining the two on a balanced beam splitter, we generate entangled photon pairs with a fidelity of $96.1\\pm0.5$ %. We identify and mitigate fidelity-limiting factors, achieving a maximum fidelity of $98.1\\pm0.5$ % through time-resolved post-selection. The scheme suppresses residual multi-photon events concentrated near the excitation pulse and has only a modest impact on the rate. Furthermore, the photons are mutually indistinguishable, enabling efficient entanglement swapping. Our results establish semiconductor QDs as a viable platform for quantum network-compatible swappable entangled photon pair generation, with feasible entanglement generation rates exceeding 0.5 Gpairs/s.",
-      "score": 88,
-      "reason": "量子ドット単一光子源から高忠実度もつれ光子対を生成！SPDCとの比較やネットワーク応用が興味深い 📡",
-      "summary": "量子ドット光源でもつれ光子対の高忠実度生成を実現。量子鍵配送・ネットワーク・非局所性テスト向け"
+      "url": "https://arxiv.org/abs/2603.28836",
+      "abstract": "The relativistic quantum phase space (QPS) formalism extends classical phase space by incorporating both mean values and variance-covariance matrices of quantum states, thereby providing a unified setting where the uncertainty principle and relativistic covariance coexist. In this work we explore the basic geometric structure of the QPS for the signature (1,4). We construct a scalar invariant built from the mean values and the inverse variance-covariance matrix, and prove its invariance under linear canonical transformations. For quantum states that saturate the uncertainty relations, the invariant encodes two fundamental length scales characterising maximal and minimal coordinate uncertainties.",
+      "score": 85,
+      "reason": "波束形式・不確定性原理の相対論的拡張に直結🎯 量子状態の分散共分散行列で不確定性原理と共変性を統一するQPS形式💡✨",
+      "summary": "相対論的QPS(1,4)で分散共分散行列から不変量を構成。Gaussian波束・不確定性飽和状態の幾何構造を解析📐"
     }
   ]
 }

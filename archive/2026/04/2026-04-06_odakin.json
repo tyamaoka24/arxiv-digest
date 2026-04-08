@@ -1,0 +1,55 @@
+{
+  "total_fetched": 91,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.02841",
+      "title": "Electromagnetic instantons and asymmetric Hawking radiation of black holes",
+      "authors": [
+        "Archil Kobakhidze",
+        "Elden Loomes"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.02841",
+      "abstract": "We argue that the topological structure of Abelian gauge theories, such as Maxwell electrodynamics, in the background of a Euclidean Schwarzschild black hole manifests itself through an asymmetry in Hawking radiation. In particular, the topology of the black hole manifold, characterised by a non-contractible 2-sphere and Euler characteristic $\\chi = 2$, admits non-trivial gauge-field configurations. These take the form of 2-form field strengths that are closed but not exact. From a topological perspective, such configurations are classified by the second cohomology group, which is isomorphic to $\\mathbb{Z} \\oplus \\mathbb{Z}$, and are labelled by integer electric ($n$) and magnetic ($m$) charges, $(n,m)$. Self-dual ($n = m$) and anti-self-dual ($n = -m$) dyonic configurations carry vanishing Euclidean energy and are fully compatible with the Euclidean Schwarzschild geometry. More general dyonic configurations, by contrast, are interpreted as off-shell Euclidean field configurations. Nevertheless, both classes contribute to the thermal equilibrium vacuum and to finite-temperature correlation functions in the corresponding Lorentzian framework. Furthermore, because of the non-trivial topology, the electromagnetic $\\theta_{\\rm EM}$-term contributes to the physical observables. In particular, it sources $CP$-asymmetric Hawking radiation, observable as an imbalance between left- and right-polarised photons in the emission spectrum. We briefly discuss some implications of this phenomenon.",
+      "score": 88,
+      "reason": "🔥 EMインスタントンがホーキング輻射のCP非対称を生む！BHのEuler数χ=2由来のトポロジーが観測可能な偏光不均衡を引き起こす ✨⚡",
+      "summary": "🌀 シュバルツシルトBH背景のアーベルゲージ理論のトポロジー（第二コホモロジー群≅Z⊕Z）がθ_EM項を通じてCP非対称ホーキング輻射を生成する。"
+    },
+    {
+      "arxiv_id": "2604.02895",
+      "title": "A Topological Origin of Black Hole Mass",
+      "authors": [
+        "Sandipan Sengupta"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.02895",
+      "abstract": "We show that the notion of a black hole mass could be superceded by that of a topological charge in a spacetime without matter and curvature singularity. This feature emerges through a set new spacetime solutions of first order gravity in vacuum, named as bubble spacetimes, constructed here by weaving together the degenerate and nondegenerate metric phases. For a static bubble, the boundary surface connecting the two phases is characterized by a universal topological number. Notably, this surface coincides with the photon sphere of the conventional black hole irrespective of the presence of the cosmological constant. In contrast, a phase boundary located at the event horizon is shown to be topologically trivial. Thus, along with the black hole mass, the photon sphere also acquires a topological interpretation.",
+      "score": 87,
+      "reason": "🌀 一階重力（vierbein）の真空解でBH質量がトポロジカルチャージに！特異点なし・バブル時空という大胆な新描像 ⚡✨",
+      "summary": "🔑 縮退・非縮退メトリック相をつなぐバブル時空解を構築。境界面（光子球と一致）の普遍的トポロジー数がBH質量を置き換え、事象地平線はトポロジー的に自明と示す。"
+    },
+    {
+      "arxiv_id": "2604.02464",
+      "title": "Modified Entanglement Patterns in Four-Flavor Neutrinos from Quantum-Gravity Interactions",
+      "authors": [
+        "Bipin Singh Koranga",
+        "Baktiar Wasir Farooq",
+        "Y. Prem Kumar Singh"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.02464",
+      "abstract": "We investigate the influence of quantum-gravity (QG) induced corrections on the entanglement entropy associated with four-flavor neutrino oscillations in vacuum, incorporating an additional sterile neutrino in the (3+1) framework. Using the von Neumann entropy as a measure of quantum correlations, we analyze how Planck-scale suppressed modifications to the neutrino mass-squared differences and the extended mixing matrix affect the evolution of entanglement during successive oscillation cycles. The quantum-gravity corrections are implemented through a dimension-5 effective field theory operator that modifies the four-flavor PMNS matrix and all six mixing angles above the GUT scale. We find that the atmospheric mixing angle \\theta_{23} undergoes the largest deviation due to Planck-scale effects, while angles \\theta_{14}, \\theta_{24}, and \\theta_{34} remain essentially unchanged. The resulting QG-corrected oscillation probabilities produce characteristic deviations in the entanglement entropy profile as a function of L/E, providing a sensitive probe of Planck-scale physics within a four-flavor neutrino phenomenology framework.",
+      "score": 85,
+      "reason": "🧬 4フレーバーニュートリノ振動に量子重力補正！θ₂₃がプランクスケール効果で最大偏差、エンタングルメントのL/E依存でQGを検証 ✨",
+      "summary": "⚛️ (3+1)フレームで次元5演算子によるQG補正をPMNS行列に組み込み、フォン・ノイマンエントロピーの振動パターン変化を解析。プランクスケール物理の敏感なプローブ。"
+    }
+  ]
+}

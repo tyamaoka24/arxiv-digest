@@ -1,0 +1,22 @@
+{
+  "total_fetched": 91,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.02635",
+      "title": "From Liouville equation to universal quantum control: A study of generating ultra highly squeezed states",
+      "authors": [
+        "Zhu-yao Jin",
+        "J. Q. You",
+        "Jun Jing"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.02635",
+      "abstract": "Within a unified framework, we reveal that the seemingly disparate control approaches for classical and quantum continuous-variable systems are interconnected via differential manifolds of the ancillary representations. For classical systems, the ancillary representation is defined by the time-dependent ancillary canonical variables resulting from a symplectic transformation over the original canonical variables. Under the conditions of the Hamilton-Jacobi equation, the ancillary canonical variables act as dynamical invariants to guide the system nonadiabatically through the entire phase space. The second quantization of the Liouville equation for the canonical variables leads to the Heisenberg equation for the relevant ancillary operators, which is found to be a sufficient condition to yield nonadiabatic passages towards arbitrary target states in both Hermitian and non-Hermitian systems and constrained exact solutions of the time-dependent Schroedinger equation. Using the non-Hermitian Hamiltonian rigorously derived from the Lindblad master equation, our theory is exemplified by the generation of single-mode squeezed states with a squeezing level of 29.3 dB and double-mode squeezed states with 20.5 dB, respectively.",
+      "score": 87,
+      "reason": "古典・量子連続変数系の制御をLiouville方程式＋微分多様体で統一し、超高squeezed状態生成を実現するフレームワーク📐squeezed states研究に直結！",
+      "summary": "量子・古典連続変数系の補助表現を微分多様体で接続し、ultra highly squeezed状態を含む普遍的量子制御を実現する統一理論。"
+    }
+  ]
+}

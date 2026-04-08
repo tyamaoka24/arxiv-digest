@@ -1,0 +1,96 @@
+{
+  "total_fetched": 91,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.02411",
+      "title": "The Holographic QCD Axion in Five Dimensions",
+      "authors": [
+        "Csaba Cs'aki",
+        "Eric Kuflik",
+        "Wei Xue",
+        "Taewook Youn"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.02411",
+      "abstract": "We present a holographic construction of the QCD axion based on a warped 5D model. A key ingredient of our setup is the introduction of a bulk scalar field $\\theta$, which is holographically dual to the topological operator of QCD. This makes the relation among the axion, the $\\eta'$, and the anomalies transparent. We identify the bulk modes corresponding to the $\\eta'$ and axion states, and show that an adjustment analogous to that of the usual 4D axion takes place. We identify the origin of the axion quality problem in this framework and show that a large degree of axion compositeness is needed to solve it. We also find that, in the limit of a high quality axion, the physical axion state is predominantly contained in the bulk gauge field.",
+      "score": 90,
+      "reason": "🌀 warped 5Dホログラフィックモデルでアクシオンを構成！余剰次元＋アクシオンDMの交差点で、η'との関係もクリアに整理されてる。",
+      "summary": "QCDトポロジカル演算子の双対バルクスカラー場でwarped AdS/QCDアクシオンを定式化し、θ真空との関係を明確化する5次元構成。"
+    },
+    {
+      "arxiv_id": "2604.03033",
+      "title": "Quantum gravity contributions to the gauge and Yukawa couplings in proper time flow",
+      "authors": [
+        "Gabriele Giacometti",
+        "Kamila Kowalska",
+        "Daniele Rizzo",
+        "Enrico Maria Sessolo",
+        "Dario Zappala"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.03033",
+      "abstract": "We derive quantum gravity contributions to the beta functions of the gauge and Yukawa couplings of a matter theory using the Schwinger proper-time flow equation. Working in the Einstein-Hilbert truncation, we investigate the gauge-fixing and regulator dependence of the corresponding renormalization group equations. We quantify the sensitivity of our results on unphysical parameters by evaluating the gravitational correction to the running matter couplings at the interactive fixed point of gravity and we compare our findings with existing determinations in alternative schemes. We finally confront the derived contributions with the typical size they should assume to generate observable low-scale predictions in the Standard Model and in several scenarios of new physics.",
+      "score": 90,
+      "reason": "🔭 Schwinger proper-time法でゲージ・湯川結合βへの量子重力補正を計算！Einstein-Hilbert截断でHiggsセクターへの影響を議論してて興味深い。",
+      "summary": "proper-time RGEとEinstein-Hilbert截断で量子重力によるゲージ・湯川結合βへの補正を導出し、ゲージ固定・規格化子依存性を分析。"
+    },
+    {
+      "arxiv_id": "2604.02464",
+      "title": "Modified Entanglement Patterns in Four-Flavor Neutrinos from Quantum-Gravity Interactions",
+      "authors": [
+        "Bipin Singh Koranga",
+        "Baktiar Wasir Farooq",
+        "Y. Prem Kumar Singh"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.02464",
+      "abstract": "We investigate the influence of quantum-gravity (QG) induced corrections on the entanglement entropy associated with four-flavor neutrino oscillations in vacuum, incorporating an additional sterile neutrino in the (3+1) framework. Using the von Neumann entropy as a measure of quantum correlations, we analyze how Planck-scale suppressed modifications to the neutrino mass-squared differences and the extended mixing matrix affect the evolution of entanglement during successive oscillation cycles. The quantum-gravity corrections are implemented through a dimension-5 effective field theory operator that modifies the four-flavor PMNS matrix and all six mixing angles above the GUT scale. We find that the atmospheric mixing angle \\theta_{23} undergoes the largest deviation due to Planck-scale effects, while angles \\theta_{14}, \\theta_{24}, and \\theta_{34} remain essentially unchanged. The resulting QG-corrected oscillation probabilities produce characteristic deviations in the entanglement entropy profile as a function of L/E, providing a sensitive probe of Planck-scale physics within a four-flavor neutrino phenomenology framework.",
+      "score": 88,
+      "reason": "⚛️ 3+1ニュートリノで量子重力補正が絡み合いエントロピーをどう変えるか解析！ニュートリノ混合＋QG＋量子情報の交差点でグッとくる。",
+      "summary": "4フレーバー(3+1)混合でvon Neumannエントロピーへの量子重力誘起補正の影響を解析し、観測可能な絡み合いパターン変化を特定。"
+    },
+    {
+      "arxiv_id": "2604.02841",
+      "title": "Electromagnetic instantons and asymmetric Hawking radiation of black holes",
+      "authors": [
+        "Archil Kobakhidze",
+        "Elden Loomes"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.02841",
+      "abstract": "We argue that the topological structure of Abelian gauge theories, such as Maxwell electrodynamics, in the background of a Euclidean Schwarzschild black hole manifests itself through an asymmetry in Hawking radiation. In particular, the topology of the black hole manifold, characterised by a non-contractible 2-sphere and Euler characteristic $\\chi = 2$, admits non-trivial gauge-field configurations. These take the form of 2-form field strengths that are closed but not exact. From a topological perspective, such configurations are classified by the second cohomology group, which is isomorphic to $\\mathbb{Z} \\oplus \\mathbb{Z}$, and are labelled by integer electric ($n$) and magnetic ($m$) charges, $(n,m)$. Self-dual ($n = m$) and anti-self-dual ($n = -m$) dyonic configurations carry vanishing Euclidean energy and are fully compatible with the Euclidean Schwarzschild geometry. More general dyonic configurations, by contrast, are interpreted as off-shell Euclidean field configurations. Nevertheless, both classes contribute to the thermal equilibrium vacuum and to finite-temperature correlation functions in the corresponding Lorentzian framework. Furthermore, because of the non-trivial topology, the electromagnetic $\\theta_{\\rm EM}$-term contributes to the physical observables. In particular, it sources $CP$-asymmetric Hawking radiation, observable as an imbalance between left- and right-polarised photons in the emission spectrum. We briefly discuss some implications of this phenomenon.",
+      "score": 88,
+      "reason": "🔥 U(1)ゲージのinstantonがEuclidean Schwarzschild BHのトポロジーから非対称Hawking輻射を生む！トポロジーとBH物理の結合が面白い。",
+      "summary": "BH多様体の非縮退U(1)バンドルからゲージ場instantonが発生し、粒子と反粒子のHawking輻射率に非対称性を生むことを示す。"
+    },
+    {
+      "arxiv_id": "2604.02823",
+      "title": "Single field slow-roll inflation with step uplift to $n_s=1$",
+      "authors": [
+        "Hao-Shi Yuan",
+        "Ze-Yu Peng",
+        "Yun-Song Piao"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.02823",
+      "abstract": "The early dark energy resolution of Hubble tension seems to be suggesting a scale-invariant Harrison-Zeldovich spectrum of primordial scalar perturbation, i.e. $n_s=1$ ($|n_s-1|\\sim {\\cal O}(0.001)$) for $H_0\\sim 73$km/s/Mpc. In this work, we propose a possibility to acquire $n_s=1$ in single field slow-roll models of inflation. In our consideration, the potential of inflaton during inflation still preserve the shape of well-known single field inflation models in deep slow-roll region, but inflation ends suddenly due to a large step of inflaton potential. In particular, we investigate the implication of our scheme for chaotic inflation and Starobinski inflation, and show how they can be compatible with the observation for $n_s=1$.",
+      "score": 85,
+      "reason": "📊 Hubble tension解決とnₛ≈1の関連が示唆される文脈で、step型upliftで単一場slow-rollからnₛ=1を実現する提案。インフレ研究にとって重要な一石。",
+      "summary": "early dark energyとHubble tension整合性のため、ポテンシャルのstep upliftで単一場インフレーションのスペクトル指数nₛ=1を実現する。"
+    }
+  ]
+}

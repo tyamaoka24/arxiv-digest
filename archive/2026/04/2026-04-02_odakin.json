@@ -2,146 +2,78 @@
   "total_fetched": 185,
   "scored_papers": [
     {
-      "arxiv_id": "2603.29790",
-      "title": "Dark radiation from Kerr primordial black holes: the role of superradiance",
+      "arxiv_id": "2603.28836",
+      "title": "Geometric structure of the relativistic quantum phase space",
       "authors": [
-        "Nayun Jia",
-        "Chen Zhang",
-        "Xin Zhang"
+        "Philippe Manjakasoa Randriantsoa",
+        "Ravo Tokiniaina Ranaivoson",
+        "Raoelina Andriambololona",
+        "Roland Raboanary",
+        "Wilfrid Chrysante Solofoarisina"
       ],
       "categories": [
-        "astro-ph.CO",
-        "gr-qc",
-        "hep-ph",
-        "hep-th"
-      ],
-      "url": "https://arxiv.org/abs/2603.29790",
-      "abstract": "Light primordial black holes (PBHs) that fully evaporate before Big Bang Nucleosynthesis (BBN) produce dark radiation (DR) via Hawking radiation of gravitons, contributing to the effective number of relativistic species $\\Delta N_{\\rm eff}$. If the particle spectrum contains a beyond-the-Standard-Model (BSM) boson with Compton wavelength comparable to the black hole (BH) gravitational radius, superradiant instability extracts angular momentum from the BH into a bosonic cloud, whose gravitational wave (GW) emission contributes an additional source of DR. By simultaneously evolving the BH mass and spin, superradiant mode occupation numbers, comoving entropy and cosmological energy densities in an expanding early-universe background, we find that superradiance generically suppresses $\\Delta N_{\\rm eff}$: by extracting angular momentum before Hawking radiation can convert it into gravitons, superradiance starves the dominant dark-radiation channel. The GWs emitted by the superradiant cloud can partially compensate this loss, but only when the superradiant and BH evaporation timescales are comparable; otherwise the cloud GWs are emitted too early and diluted by cosmological expansion. The results imply that existing $\\Delta N_{\\rm eff}$ bounds on PBH mass and spin derived without superradiance must be revisited if BSM bosons are present in the particle spectrum.",
-      "score": 92,
-      "reason": "🌀回転PBH＋超放射＋ダークラジエーション！Hawking放射とBSM粒子の組み合わせが激アツ🔥",
-      "summary": "Kerr PBHのスピンによる超放射がΔNeffへの寄与を増幅。軽いスカラー場のBBN制限を精密に評価"
-    },
-    {
-      "arxiv_id": "2603.28868",
-      "title": "Higgs Boson Spookiness: Probing Quantum Nonlocality with Spacetime-Resolved $H\\rightarrow\\tau^+\\tau^-$ Decays",
-      "authors": [
-        "Lawrence Lee",
-        "John Lawless",
-        "Caroline Riggall"
-      ],
-      "categories": [
-        "hep-ph",
-        "hep-ex",
         "quant-ph"
       ],
-      "url": "https://arxiv.org/abs/2603.28868",
-      "abstract": "We demonstrate that a future precision $ee$ Higgs factory would be able to perform a spacetime-resolved test of quantum nonlocality in Higgs boson decays. In simulated $ee\\rightarrow ZH \\rightarrow (\\mu\\mu)(\\tau\\tau)$ events at $\\sqrt{s}=240$ GeV, we reconstruct $\\tau$ lepton decay vertices and measure spin correlations as a function of the spacetime interval between the two $\\tau$ decays. Such a measurement would be able to test Bell-inequality-violating correlations for spacelike-separated decays, enabling direct exclusion of superluminal, finite-speed entanglement signaling theories. With 0.75 ab$^{-1}$ of integrated luminosity, entanglement signal propagation speeds below $\\approx2c$ can be excluded at 95$\\%$ CL. Signals establishing any spin correlation can be excluded for speeds below $\\approx9c$. This constitutes the first proposed spacetime-resolved measurement of electroweak quantum entanglement at a particle collider and demonstrates a unique capability of future Higgs factories.",
-      "score": 88,
-      "reason": "🎯ヒッグス崩壊で量子非局所性を検証！時空分解でBell不等式テストとか最高すぎる✨",
-      "summary": "ee→ZH→(μμ)(ττ)でτ崩壊頂点を再構成し、H→ττの量子もつれをCHSH不等式で検証する提案"
-    },
-    {
-      "arxiv_id": "2603.29448",
-      "title": "Flavor-deconstructed neutrinos",
-      "authors": [
-        "Avelino Vicente"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "url": "https://arxiv.org/abs/2603.29448",
-      "abstract": "A tentative approach to explain the flavor puzzle consists of embedding the Standard Model in a larger gauge symmetry that contains a separate gauge group for each fermion family. In such gauge non-universal (or flavor-deconstructed) theories, neutrinos pose some challenges. I will discuss existing ideas in the literature and present a simple model in which flavor deconstruction naturally leads to sequential dominance for both neutrinos and charged leptons, thus providing a viable explanation for the flavor structure of the lepton sector.",
+      "url": "https://arxiv.org/abs/2603.28836",
+      "abstract": "The relativistic quantum phase space (QPS) formalism extends classical phase space by incorporating both mean values and variance-covariance matrices of quantum states, thereby providing a unified setting where the uncertainty principle and relativistic covariance coexist. In this work we explore the basic geometric structure of the QPS for the signature (1,4). We construct a scalar invariant built from the mean values and the inverse variance-covariance matrix, and prove its invariance under linear canonical transformations. For quantum states that saturate the uncertainty relations, the invariant encodes two fundamental length scales: a large scale characterising maximal coordinate uncertainties and a small scale characterising minimal coordinate uncertainties.",
       "score": 87,
-      "reason": "🧩フレーバー分解ゲージ理論でニュートリノ質量を説明！非ユニバーサルゲージ対称性が面白い💡",
-      "summary": "各世代に別のゲージ群を割り当てるフレーバー分解理論でのニュートリノ質量生成の課題と解決策を議論"
+      "reason": "波束・不確定性原理の研究にど真ん中🎯🔥 量子状態の分散共分散行列と不確定性原理を相対論的位相空間で統一！squeezed statesとも直結🚀✨",
+      "summary": "相対論的QPS(1,4)で分散共分散行列から不変量を構成。不確定性飽和状態の幾何構造を解析📐🌟"
     },
     {
-      "arxiv_id": "2603.29780",
-      "title": "Conventional and Unitarity-Conserving Pecci-Quinn Inflation Models and ACT",
+      "arxiv_id": "2603.28851",
+      "title": "A Covariant Phase Space Approach to Einstein-AEther Gravity",
       "authors": [
-        "J. McDonald"
+        "Walter Arata",
+        "Stefano Liberati",
+        "Giulio Neri"
       ],
       "categories": [
-        "hep-ph",
-        "astro-ph.CO"
+        "gr-qc",
+        "hep-th",
+        "math-ph",
+        "math.MP"
       ],
-      "url": "https://arxiv.org/abs/2603.29780",
-      "abstract": "We compare conventional non-minimally coupled Peccei-Quinn (PQ) inflation with a version of the model in which unitarity conservation is imposed by additional Jordan frame interactions. Assuming instantaneous reheating, the unitarity-conserving model is within 1$\\sigma$ agreement with the central value of the scalar spectral index reported by the ACT collaboration, whereas conventional PQ inflation is more than 2$\\sigma$ below the ACT central value. In the case where dark matter is composed of axions and PQ symmetry is not restored after inflation, the axion isocurvature constraint of the unitarity-conserving model typically allows a much larger axion decay constant $f_{a}$ than the conventional model, with the conventional model upper bound being larger only if the PQ self-coupling is extremely small, $\\lambda < 10^{-12}$. For $\\lambda = 0.1$, the axion isocurvature upper bounds are $f_{a} \\leq 1.1 \\times 10^{9} $ GeV for conventional PQ inflation and $f_{a} \\leq 6.4 \\times 10^{13}$ GeV for unitarity-conserving PQ inflation, with the latter bound being independent of $\\lambda$. We also find a new isocurvature upper bound for conventional PQ inflation which is 650 times smaller than the existing bound. A modest reduction of the reheating temperature of the unitarity-conserving model from its maximum possible value will ensure that the PQ symmetry is not restored after inflation, allowing values of $f_{a}$ up to $6.4 \\times 10^{13}$ GeV. Thus only the unitarity-conserving PQ inflation model allows $f_{a}$ to access values greater than the symmetry restoration cosmological upper bound $\\sim 10^{12}$ GeV with naturally large values of the PQ self-coupling.",
-      "score": 87,
-      "reason": "🌌PQインフレーション＋ACTデータ！ユニタリティ保存版がACTと1σで一致って注目🎯",
-      "summary": "非最小結合PQインフレーションの通常版とユニタリティ保存版を比較。Jordan frame相互作用の効果を分析"
-    },
-    {
-      "arxiv_id": "2603.28859",
-      "title": "Neutrinos as Dark Matter",
-      "authors": [
-        "James M. Cline",
-        "Gonzalo Herrera",
-        "Jean-Samuel Roux"
-      ],
-      "categories": [
-        "hep-ph",
-        "astro-ph.CO",
-        "astro-ph.HE"
-      ],
-      "url": "https://arxiv.org/abs/2603.28859",
-      "abstract": "Active neutrinos in standard cosmology were ruled out as a dark matter candidate in the 1980's. The reason is twofold: they are too light to account for the observed energy density of dark matter in the Universe, and their relativistic nature would spoil structure formation. In this note we suggest that an enhanced density of cold Standard Model active neutrinos today could behave effectively as dark matter, avoiding constraints from recombination and structure formation. Such an enhancement could be produced, for instance, by late-time decays of a light scalar field that is not in thermal equilibrium with the plasma. This mechanism is testable through the detection of the Cosmic Neutrino Background (C$\\nu$B), which could have an average cosmological energy density a factor of $\\sim 100-200$ times larger than expected in $\\Lambda$CDM. The postulated light neutrinophilic scalar field may be observable, with Yukawa couplings in the range $y \\sim 5 \\times 10^{-16}-10^{-12}$. A scenario preferred by structure formation constraints is that the scalar is a Majoron, and the neutrinos have an inverted mass hierarchy.",
+      "url": "https://arxiv.org/abs/2603.28851",
+      "abstract": "Black hole thermodynamics in Lorentz-violating gravity is subtle because different excitations propagate at different speeds and hence identify different causal horizons. We revisit Einstein-AEther gravity using the covariant phase space formalism with boundaries and derive a consistent first law for stationary black holes. For a mode of propagation speed c_s, we introduce a disformal frame in which the corresponding causal horizon is a Killing horizon, so that the standard Wald-type derivation can be carried out. The associated horizon charge contains, besides the usual Komar term, an irreducible entropic AEther contribution that can be interpreted as heat due to the AEther flux across the horizon.",
       "score": 86,
-      "reason": "🧠アクティブニュートリノをDM候補に復活させる大胆な提案！標準宇宙論の前提を覆す発想が刺激的🔥",
-      "summary": "80年代に否定されたニュートリノDMを非標準宇宙論シナリオで再検討。構造形成と密度の問題を回避する機構を提案"
+      "reason": "Einstein-Cartan・vierbein重力と直結🎯 Lorentz破れ重力でのBH熱力学をcovariant phase space法で厳密定式化、BH第一法則を導出🔥✨",
+      "summary": "disformal frameで各速度 cs のKilling地平線にWald型BH第一法則を導出。AEtherエントロピー寄与も解明🪐💫"
     },
     {
-      "arxiv_id": "2603.29876",
-      "title": "Constraining the Neutrino Mixing Matrix via Single-Sector Charged-Lepton Rotations in the JUNO Precision Era",
+      "arxiv_id": "2603.28805",
+      "title": "Determining G with Laser Spectroscopy to 38 ppb",
       "authors": [
-        "Alessio Giarnetti",
-        "Simone Marciano",
-        "Davide Meloni"
+        "Noah Bray-Ali"
       ],
       "categories": [
         "hep-ph",
-        "hep-th"
+        "physics.optics"
       ],
-      "url": "https://arxiv.org/abs/2603.29876",
-      "abstract": "The unprecedented precision now being achieved in the measurement of the Pontecorvo--Maki--Nakagawa--Sakata (PMNS) lepton mixing matrix opens a new window onto the underlying structure of the neutrino mass matrix and the possibly associated flavor symmetries. In this work, we investigate the constraints imposed on the unitary matrix $U_\\nu$ that diagonalises the neutrino mass matrix, under the hypothesis that the charged-lepton mixing matrix $U_l$ consists of a single two-by-two rotation in one of the three sectors: (1,2), (1,3), or (2,3). For this analysis, we considered the latest global fit which incorporates the precision measurement of $\\theta_{12}$ from the JUNO experiment. For each scenario, we also derive analytical expressions for the entries of $U_\\nu$ in terms of the measured PMNS parameters to obtain compact sum-rule-like formulae.",
-      "score": 86,
-      "reason": "🔬JUNO時代の精密ニュートリノ混合行列！荷電レプトン回転だけで制約する手法がエレガント✨",
-      "summary": "PMNS行列を単一セクター荷電レプトン回転で制約。JUNO精密測定時代のフレーバー対称性への新しい窓"
+      "url": "https://arxiv.org/abs/2603.28805",
+      "abstract": "A precision measurement is proposed to determine, in a couple hours of integration time, the axion Compton frequency using a modest power (3 mW) tunable external-cavity diode laser at 2458 nm as input to drive a free-space table-top Mach-Zehnder interferometer whose sensing arm passes the expanded beam-waist (3 mm) light beam through a 1 T strong, 40 cm long dipole magnetic field. As the laser frequency is slowly modulated at 1 kHz, a small but observable modulation appears in the dark-port optical power due to resonant axion-photon conversion.",
+      "score": 85,
+      "reason": "アクシオンDM検出への直接アプローチ🎯🔬 テーブルトップ実験でアクシオンCompton振動数を38 ppb精度で測定する提案！現実的セットアップ🚀💡",
+      "summary": "3 mW CWレーザー＋Mach-Zehnder干渉計＋1 T磁場でアクシオン-光子共鳴変換を利用した精密測定📏⚡"
     },
     {
-      "arxiv_id": "2603.29781",
-      "title": "Warm Warped Throats",
+      "arxiv_id": "2603.29443",
+      "title": "Cosmological brick walls & quantum chaotic dynamics of de Sitter horizons",
       "authors": [
-        "Dibya Chakraborty",
-        "Rudnei O. Ramos"
+        "Jose M. Begines",
+        "Suman Das",
+        "Hyun-Sik Jeong",
+        "Juan F. Pedraza"
       ],
       "categories": [
         "hep-th",
-        "astro-ph.CO",
-        "gr-qc",
-        "hep-ph"
+        "gr-qc"
       ],
-      "url": "https://arxiv.org/abs/2603.29781",
-      "abstract": "We investigate brane inflation, focusing on warm inflation realizations within a warped throat geometry. While the standard scenario relies on a single mobile $D3$-brane moving radially toward an anti-$D3$-brane at the tip of the throat, we propose two distinct inflationary pictures. In our approach, the radial and angular coordinates of a $D3$-brane on a warped deformed conifold act as two independent inflaton fields. We address moduli stabilization by incorporating a supersymmetrically embedded $D7$-brane, which generates the necessary radial and angular scalar potentials. Evaluating these radial and angular brane inflation setups within the warm inflation paradigm, we demonstrate that dissipation effects allow the models to satisfy recent observational constraints more naturally than their cold inflation counterparts for a given parameter space.",
+      "url": "https://arxiv.org/abs/2603.29443",
+      "abstract": "Originally proposed by 't Hooft, the brick wall model has recently reemerged as a useful framework for probing quantum aspects of horizon physics. In this paper, we apply it to asymptotically de Sitter spacetimes. We compute the normal modes of a massless scalar field in pure de Sitter space and in the Schwarzschild-de Sitter black hole, and analyze the resulting single-particle spectra using the level-spacing distribution, the spectral form factor, and Krylov complexity. In pure de Sitter, the spectrum exhibits clear long-range signatures of chaos.",
       "score": 85,
-      "reason": "🫧ワープ喉でウォームインフレーション！ブレーンインフレーションの新展開が余剰次元好きにはたまらない🌀",
-      "summary": "ワープ喉幾何内でD3ブレーンのウォームインフレーションを実現。2つの異なるインフレーション描像を提案"
-    },
-    {
-      "arxiv_id": "2603.28841",
-      "title": "Entanglement Signatures of CPT Violation in Neutrino Oscillations",
-      "authors": [
-        "Bipin Singh Koranga",
-        "Baktiar Wasir Farooq"
-      ],
-      "categories": [
-        "hep-ph"
-      ],
-      "url": "https://arxiv.org/abs/2603.28841",
-      "abstract": "We investigate the joint influence of CPT violation and quantum-gravity-induced Planck-scale corrections on the entanglement entropy of two-flavor neutrino oscillations. Building on the CPT-violating neutrino mass matrix arising from flavour-blind Planck-scale physics, we compute the von Neumann entanglement entropy separately for neutrinos and anti-neutrinos and demonstrate that CPT violation directly imprints an observable asymmetry in their entropy profiles. For a degenerate mass spectrum (m_{\\nu}\\simeq2\\,\\mathrm{eV}), non-zero Majorana phases a_{1} and a_{2} are required to reproduce the solar KamLAND discrepancy; these same phases control the amplitude of the entropy asymmetry. Our results establish that entanglement entropy provides a sensitive and novel probe of CPT-violating Planck-scale physics within neutrino phenomenology.",
-      "score": 85,
-      "reason": "👻CPT破れ＋プランクスケール補正でニュートリノもつれエントロピーが変わる！量子基礎×ν物理の交差点🌟",
-      "summary": "2フレーバーニュートリノ振動のvon Neumannエントロピーに対するCPT破れとプランクスケール効果を解析"
+      "reason": "de Sitter地平線のHawking放射・量子カオスに直球🎯🌌 't Hooftのbrick wall模型をde Sitter時空に適用しKrylov complexityまで解析🔥💥",
+      "summary": "純dS＋Schwarzschild-dS BHの準固有モードで準位間隔・spectral form factor・Krylov complexityを解析📊✨"
     }
   ]
 }

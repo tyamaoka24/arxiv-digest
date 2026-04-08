@@ -1,0 +1,40 @@
+{
+  "total_fetched": 174,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.00092",
+      "title": "The time of arrival problem in the Page-Wootters formalism",
+      "authors": [
+        "Niyusha Hosseini",
+        "Maximilian P. E. Lock"
+      ],
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.00092",
+      "abstract": "The time-of-arrival problem asks for the probability distribution for when a quantum particle reaches a specified location. It has been the subject of decades of debate, exemplifying the lack of a self-adjoint time observable in quantum theory. In the Page-Wootters framework, time is a relational quantity, emerging from correlations between a system and a clock induced by a global Hamiltonian constraint. We construct a time-of-arrival distribution by inverting the Page-Wootters approach, asking what time a clock reads given that the particle arrives at some fixed position. The result coincides with a common approach to the time-of-arrival problem, suggesting a potential relational interpretation of the latter. In addition to providing a relational description of the time-of-arrival problem, this gives an application of the Page-Wootters formalism to a concrete physical problem, and reveals some complications with its canonical interpretation as a theory of conditional probabilities.",
+      "score": 92,
+      "reason": "到着時刻問題を Page-Wootters 形式で再定式化🎯 時間の関係論的解釈と自己共役時間演算子の難問に真正面から挑む！時間演算子研究の核心に触れる重要論文",
+      "summary": "PW 形式を逆用し「到着位置固定時の時計読み」を定義。既存の到達時刻分布と一致、条件付き確率論的解釈の複雑さも明らかに"
+    },
+    {
+      "arxiv_id": "2604.00417",
+      "title": "Characterization of non-classical particle propagation using superpositions of position and momentum",
+      "authors": [
+        "Yuki Senoo",
+        "Holger F. Hofmann",
+        "Hiroki Yamakami",
+        "Masataka Iinuma"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.00417",
+      "abstract": "The uncertainty principle suggests a quantitative trade-off between the control of position and the control of momentum in particle propagation. However, a superposition of two states with very different uncertainty trade-offs introduces an interference term that seems to combine precise statements about position and about momentum, allowing us to study how quantum mechanics describes the propagation of individual particles in free space. Here, we present a detailed experimental study of photons prepared in a superposition of position and momentum generated in a Sagnac interferometer. The transverse distribution of photons was obtained with three different measurement settings at the output port of the interferometer, corresponding to the initial position distribution, the initial momentum distribution, and an intermediate propagation time at which the contributions of initial position and momentum uncertainties are approximately equal to each other. We show that the interference effect localizes the photons in narrow intervals of position and momentum, resulting in a quantitative violation of Newton's first law as the interference pattern spreads out at the intermediate position. The data obtained can be used to demonstrate the negativity of the Wigner function in regions outside the position and momentum intervals in which the position and momentum contributions are confined.",
+      "score": 88,
+      "reason": "位置・運動量の重ね合わせ光子の自由伝播を実験検証✨ 不確定性の異なる2状態の干渉で Wigner 関数の負値を確認！波束伝播の量子性を直接測定",
+      "summary": "Sagnac 干渉計で位置・運動量重ね合わせ光子を生成。中間時刻での干渉がニュートン第1法則の量的破れを示し、Wigner 関数の負値域を実証"
+    }
+  ]
+}

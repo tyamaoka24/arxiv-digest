@@ -85,12 +85,13 @@ arxiv_categories:
 
 1. `SESSION.md` を読む → 現在の作業状態と次のステップを把握
 2. SESSION.md の「次のステップ」に従って作業を継続
-3. 不明点があればユーザーに確認
+3. 「なぜこの形なのか」が分からなくなったら `DESIGN.md` で過去の設計判断を参照
+4. 不明点があればユーザーに確認
 
 ## 自動更新ルール（必須）
 
 - タスク完了時 → SESSION.md を更新
-- 重要な判断・ファイル作成/大幅変更時 → SESSION.md に記録
-- push 前 → SESSION.md / CLAUDE.md が実態と一致しているか確認（詳細は CONVENTIONS.md §3）
+- 重要な判断・ファイル作成/大幅変更時 → SESSION.md に記録 + `DESIGN.md` に判断根拠を残す
+- push 前 → SESSION.md / CLAUDE.md / DESIGN.md が実態と一致しているか確認（詳細は CONVENTIONS.md §3）
 - **`skill/SKILL.md` を変更した場合**: **必ず `update_scheduled_task` で prompt を同期すること**。詳細は `~/Claude/claude-config/conventions/scheduled-tasks.md` 参照。symlink 確認: `ls -la ~/.claude/scheduled-tasks/arxiv-digest/SKILL.md`
 - CLAUDE.md のルールの詳細は `~/Claude/CONVENTIONS.md` 参照

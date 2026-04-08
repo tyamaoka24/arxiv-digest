@@ -39,49 +39,19 @@
 
 **横断的対処** (claude-config / odakin-prefs 側): `git-state-nudge.sh` に「porcelain hash が >24h 同一」を検出する STALE_DIRT 警告を追加 (cross-session WIP leakage の汎用 safety net)、`push-workflow.md` に解釈ガイドを追加。
 
-## 直近の修正（2026-03-31）
+### DESIGN.md 新規作成
 
-### ogawa プロファイル追加 + arxiv_categories 二層構造 + setup_inspire 改善
+設計判断の正本を残すための `DESIGN.md` をリポに新設。書き起こした内容:
 
-- `profiles/ogawa/` 追加: Discord 同 webhook (`DISCORD_WEBHOOK_URL_TAKEDA`)
-- `src/config.py`: `_merge_categories()` 追加 — `inspire_arxiv_categories`（自動）+ `arxiv_categories`（手動）を union
-- `tools/setup_inspire.py`:
-  - `extract_categories()` + `update_profile_config()` 追加 — config.yaml の `inspire_bai` / `inspire_name` / `inspire_affiliation` / `inspire_arxiv_categories` を自動設定
-  - 初回セットアップ時のみ著者確認（`Continue? [Y/n]`）、同 BAI 再実行はスキップ
-  - BAI 直接指定時に `lookup_author()` で著者名を表示して確認（間違い BAI 防止）
-  - 月次 `check_for_profile_updates()` は `main()` を経由しないので確認ダイアログなし
-- `tools/fetch_inspire.py`: `lookup_author()` 追加 — BAI から著者名・所属を取得
-- `src/profile_update.py`: `inspire_name` を使った強化 author matching、月次更新で name/affiliation を保持
+- **二つの実行モード (mode A / mode B) の分離**: 過去の判断を文書化。なぜ並立か、SKILL.md と scorer.py の duplication を許容する理由
+- **自動アーカイブと git commit の所有権 (2026-04-08)**: 今回の `commit_archives_to_git` 設計の Why / What / 検討した代替案 (7 案、表形式)、設計判断の小項目 (scope / idempotency / cross-machine 安全 / best-effort / push 失敗の扱い / mode A 不参加)、claude-config STALE_DIRT との分業
+- **「Generator owns commit」原則**: 「自動で生成されるもの (cron / scheduled task / script) は、生成主体が commit 責任を持つ」という今回獲得した原則を記録
+- **SKILL.md / scheduled task 二重構造**: 既存規約だが、04-08 で「Python 完結により SKILL.md 不変」を選んだ判断の根拠として再記述
 
-## 直近の修正（2026-03-30）
+CLAUDE.md「How to Resume」と「自動更新ルール」を更新し、DESIGN.md への参照を追加 (重要な判断時に DESIGN.md にも残すよう義務化)。
 
-### Discord mention_target バグ修正
-- `discord.py` の `_format_paper()` に `mention_target` が入っていなかった
-- ヘッダー投稿（最初の1件）にしかメンションが付かず、武田さんに通知が飛ばなかった
-- Mastodon 版と同様に各論文投稿にも `mention_target` を含めるよう修正
+## 過去の修正 (詳細は git log)
 
-### 全プロファイル一括配信対応
-- `src/fetch_all.py` 新規: 全アクティブプロファイルのカテゴリを union → 1回の RSS 取得
-- `src/post_all.py` 新規: 全プロファイルの scored_papers を一括配信（1件エラーでも残り続行）
-- `src/config.py`: `list_active_profiles()` 追加（enabled チャンネルがあるプロファイルのみ返す）
-- `skill/SKILL.md`: 統合版に書き換え（fetch_all → 全プロファイル順次スコアリング → post_all）
-- `skill/SKILL-takeda.md`: 削除（統合版に吸収）
-- **未完了**: 学校 Mac で scheduled task を統合（2本→1本）、symlink 更新
-
-## 直近の修正（2026-03-24）
-
-### takeda プロファイル追加
-- **修論**: 波束形式による量子干渉と測定過程の理論的再構成（二光子 double-double-slit）
-- **カテゴリ**: quant-ph, physics.optics
-- **配信先**: Discord #arxiv-digest チャンネル
-- **環境変数**: `DISCORD_WEBHOOK_URL_TAKEDA`（.env に設定済み）
-
-### マルチプロファイル対応
-- fetch/post でプロファイル別のステートファイルを使用（`today_papers_{profile}.json` / `scored_papers_{profile}.json`）
-- Discord チャンネルで `env_var` フィールドによるプロファイル別 webhook URL をサポート
-- odakin の SKILL.md もプロファイル別ファイル名に更新
-
-### 障害: scheduled task の SKILL.md 二重管理問題（修正済み）
-- ローカル SKILL.md はリポへの symlink に変更済み
-- ただし **バックエンドは SKILL.md を実行時に読まない**。SKILL.md 編集後は `update_scheduled_task` で prompt を同期する必要あり（CLAUDE.md に明記済み）
-- inspire-monthly で同期漏れが発覚し修正（2026-04-01）
+- **2026-03-31** (`65e7ffe`): ogawa プロファイル追加 + `arxiv_categories` 二層構造 (`inspire_arxiv_categories` 自動 + `arxiv_categories` 手動 union) + `setup_inspire` の対話改善 (BAI 確認、`lookup_author`)。
+- **2026-03-30** (`685d2f0`, `819ec81`): Mode B 統合パイプライン (`fetch_all` → スコアリング → `post_all`)、Discord `mention_target` バグ修正、`SKILL-takeda.md` 削除。
+- **2026-03-24**: takeda プロファイル追加 (修論:波束形式量子干渉)、マルチプロファイル state ファイル分離、SKILL.md → リポ symlink 化 + バックエンド sync ルール明文化。

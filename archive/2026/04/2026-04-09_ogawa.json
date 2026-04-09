@@ -1,0 +1,21 @@
+{
+  "total_fetched": 192,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.05747",
+      "title": "Kinetic Uncertainty Relation in Collective Dissipative Quantum Many-Body Systems",
+      "authors": [
+        "Hayato Yunoki",
+        "Yoshihiko Hasegawa"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.05747",
+      "abstract": "Attaining the ultimate precision remains a central objective in the engineering of nanoscale systems and the investigation of nonequilibrium processes. While thermodynamic and kinetic uncertainty relations establish fundamental precision bounds, prior derivations in the quantum regime have remained confined to single-body systems. Consequently, the ultimate precision limits for interacting many-body quantum systems remain unknown.",
+      "score": 85,
+      "reason": "散逸多体量子系での運動学的不確定性関係を単体系から多体系へ拡張🎯 不確定性関係の普遍的精度限界を探る研究と直結💡",
+      "summary": "開放多体量子系で精度限界を支配する運動学的不確定性関係を厳密に導出📐 単体系を超えた量子精度限界の一般化を実現🔬"
+    }
+  ]
+}

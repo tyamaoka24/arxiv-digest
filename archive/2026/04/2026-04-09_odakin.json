@@ -1,0 +1,42 @@
+{
+  "total_fetched": 192,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.06062",
+      "title": "$\\xi R\\phi^2$ non-minimal coupling, and the long range gravitational potential for different spin fields from 2-2 scattering amplitudes",
+      "authors": [
+        "Avijit Sen Majumder",
+        "Ayan Kumar Naskar",
+        "Sourav Bhattacharya"
+      ],
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.06062",
+      "abstract": "In this paper we investigate the long range gravitational effect of curvature-scalar field non-minimal coupling, in the form of $\\xi R \\phi^2$, in the perturbative quantum gravity framework. Such coupling is most naturally motivated from the renormalisation of a scalar field theory with a quartic self interaction in a curved spacetime background.",
+      "score": 87,
+      "reason": "ξRφ² 非最小結合の長距離重力ポテンシャルを摂動 QG で解析🔥 Higgs inflation の非最小結合と直結、スピン依存性まで解明✨🌌",
+      "summary": "2→2 散乱振幅から ξRφ² 結合のスピン依存長距離重力ポテンシャルを系統的に導出💫 Higgs-重力非最小結合の量子補正を捕捉する新手法🔭"
+    },
+    {
+      "arxiv_id": "2604.05548",
+      "title": "Cosmological collider signals of modular spontaneous CP breaking",
+      "authors": [
+        "Shuntaro Aoki",
+        "Alessandro Strumia"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.05548",
+      "abstract": "We consider a modular-invariant extension of the Standard Model. Assuming that the modulus is the inflaton, the CP-violating phases of the Yukawa couplings evolve during inflation. This dynamics favours a Higgs condensate, so that Standard Model fermions mediate a one-loop cosmological collider signal enhanced by chemical potentials.",
+      "score": 85,
+      "reason": "モジュラー不変 SM でインフラトン＝モジュラス仮定→CP 位相変動が Higgs 凝縮を誘起☄️ 宇宙論コライダーと Higgs inflation の新結合🌌🎆",
+      "summary": "SM フェルミオン1ループで宇宙論コライダー信号を計算💫 Higgs VEV がインフラトン場に依存して変動するダイナミクスを明示🌀"
+    }
+  ]
+}

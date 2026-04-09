@@ -1,0 +1,23 @@
+{
+  "total_fetched": 192,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.05422",
+      "title": "Decoherence-induced Multiphoton Interference",
+      "authors": [
+        "Yifan Du",
+        "Jiuyi Zhang",
+        "Daniel López Martínez"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2604.05422",
+      "abstract": "Here we demonstrate that genuine quantum interference is created among multiple photons through their dissipative coupling to a shared reservoir. On a thin-film lithium niobate chip, we incoherently link two spontaneous parametric down-converters through a common, highly-lossy channel to create coherent multiphoton states.",
+      "score": 87,
+      "reason": "2台の SPDC を共通損失チャンネルで接続→decoherence が多光子干渉を生成🔬✨ 波束形式と直結する刺激的な実験！",
+      "summary": "LN チップ上で非可干渉結合された SPDC から 2〜4 光子のコヒーレント相関を実証💫 損失をリソースとして利用する新局面🌊"
+    }
+  ]
+}

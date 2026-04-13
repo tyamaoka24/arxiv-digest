@@ -1,0 +1,21 @@
+{
+  "total_fetched": 179,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.08349",
+      "title": "Thermal Time and Irreversibility from Non-Commuting Observables in Accelerated Quantum Systems",
+      "authors": [
+        "Marcello Rotondo"
+      ],
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.08349",
+      "abstract": "We investigate when temporal ordering becomes operationally meaningful in relativistic quantum field theory using localized detector models. A time parameter alone does not ensure that different sequences of operations are physically distinguishable. We show that distinguishability arises when the state satisfies the Kubo-Martin-Schwinger (KMS) condition and the detector couples through non-commuting observables. We consider uniformly accelerated two-level detectors interacting with a quantum field in the Minkowski vacuum. The restriction of the vacuum to the detector trajectory induces a thermal response characterized by the Unruh temperature and the Tolman profile. For sequential couplings through distinct observables, the reduced detector state depends on the ordering of interactions already at second order, with a dependence controlled by the KMS parameter. This asymmetry is quantified using quantum relative entropy. In a minimal model, the relevant states form a family of non-commuting Gibbs states with identical spectra and different generators, yielding a closed-form expression depending only on the dimensionless combination of temperature and detector energy scale.",
+      "score": 87,
+      "reason": "時間パラメータだけでは操作的時間順序付けは意味をなさない——非可換観測量がKMS状態と組んで熱的時間と不可逆性を生む⏱️",
+      "summary": "加速検出器モデルでUnruh温度のKMS条件を解析。非可換な順序でのカップリングが量子相対エントロピーで定量化できる非対称性を生む🧭"
+    }
+  ]
+}

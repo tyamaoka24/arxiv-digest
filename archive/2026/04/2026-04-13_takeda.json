@@ -1,0 +1,30 @@
+{
+  "total_fetched": 179,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.07782",
+      "title": "Ghost imaging with zero photons",
+      "authors": [
+        "Meixue Chen",
+        "Yiqi Song",
+        "Yu Gu",
+        "Huafan Zhang",
+        "Huaibin Zheng",
+        "Yuchen He",
+        "Hui Chen",
+        "Yu Zhou",
+        "Fuli Li",
+        "Zhuo Xu",
+        "Jianbin Liu"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.07782",
+      "abstract": "Ghost imaging was first demonstrated with entangled photon pairs and well-known for its peculiar properties. The signal beam that illuminates the object possesses no spatial resolution, whereas the reference beam, which never interacts with the object, is spatially resolved. Either beam alone cannot retrieve the image, which can only be obtained when the signal and reference beams are correlated. Here we will report a ghost imaging experiment with even more peculiar properties, in which the image can be reconstructed when no photon interacts with the object or even no photon in neither signal nor reference beam. All the photons interacted with the object are discarded. Only the time bins with zero photon are employed to retrieve the image, a process referred to as \"ghost imaging with zero photons\" hereafter. The reason why ghost image can be retrieved with zero photons is jointly determined by photon-number projection measurement and photon statistics of thermal light. The results are helpful to resolve the debate on the physics of ghost imaging and understand the relation between quantum and classical correlations.",
+      "score": 85,
+      "reason": "ゼロ光子ゴーストイメージング実験！物体に当たった光子を全て捨て、ゼロ光子時間ビンのみで像を再構成✨",
+      "summary": "光子数射影測定と熱光子統計により「光子ゼロ」でゴースト像が得られる条件を解析。量子・古典相関の境界を問う📸"
+    }
+  ]
+}

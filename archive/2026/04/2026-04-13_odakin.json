@@ -1,0 +1,37 @@
+{
+  "total_fetched": 179,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.07508",
+      "title": "The fall and the rise of Weyl gauge theory",
+      "authors": [
+        "D. M. Ghilencea"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.07508",
+      "abstract": "In 1918 Weyl introduced Weyl conformal geometry and its associated quadratic action which was the first gauge theory, of a spacetime symmetry, the Weyl gauge theory (of dilatations and Poincaré symmetry). The initial physical interpretation of his theory was however short-lived and led to the downfall of Weyl geometry as a physical theory. We review how this action was re-born into a physical Weyl gauge theory of gravity. This is the only gauge theory of a spacetime symmetry with a physical gauge boson, is Weyl anomaly-free, has exact geometric interpretation, with all scales of geometric origin, and generates Einstein-Hilbert action and a positive cosmological constant in its spontaneously broken phase. A more fundamental Weyl-Dirac-Born-Infeld gauge theory action exists in Weyl geometry, that does not need a UV regularisation, of which the (geometrically regularised) Weyl gauge theory is the leading order.",
+      "score": 88,
+      "reason": "Weyl共形幾何学を「時空対称性のゲージ理論」として現代的に復権させた論文🌟スケール不変重力・Weyl-Dirac-BIまで一挙整理！",
+      "summary": "ゲージ不変Weyl幾何からEinstein-Hilbert作用と正の宇宙定数が自発的対称性の破れで出現。アノマリーフリー・全スケールが幾何的起源🔬"
+    },
+    {
+      "arxiv_id": "2604.07618",
+      "title": "Multi Component Dark Matter in a Minimal Model",
+      "authors": [
+        "Karim Ghorbani"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.07618",
+      "abstract": "We study a minimal model with an imposed Z_2 symmetry incorporating two singlet fermions and a singlet scalar which communicate with the SM particles through a scalar-Higgs portal. We probe regions in the parameter space where stability of the three new particles are guaranteed kinematically, and thus introducing a multi component dark matter (DM) scenario. The regions in the parameter space with predicted total relic density in accordance with the observed DM abundance are found, and the contribution of each species to the total relic density is determined. The elastic DM-nucleon scattering cross section of the two fermions DM are loop suppressed, while that of the scalar DM starts at tree level and thus presumably being dominant. It is found that there exist a viable region in the parameter space that the scalar DM can evade the current direct detection (DD) experimental bounds while it has a minimal contribution to the observed relic density. The DD cross section of the fermion DM being loop suppressed, resides below the lower limit from the neutrino floor, possessing a large fraction of the total relic density.",
+      "score": 86,
+      "reason": "Z₂対称の2フェルミオン＋スカラーでHiggs portal多成分DM模型を構築🌑relic密度・直接探索を同時解析！",
+      "summary": "スカラーDMは現行DD実験を回避、ループ抑制のフェルミオンDMはneutrino floor以下でrelic密度の大部分を担う🔭"
+    }
+  ]
+}

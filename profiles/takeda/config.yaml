@@ -1,5 +1,6 @@
-# profiles/takeda/config.yaml — Sakiko Takeda's profile-specific overrides
+# profiles/takeda/config.yaml — subscriber profile overrides
 # Merged on top of root config.yaml when using --profile takeda
+# (subscriber identity is held in research-collab/collaborators.yaml)
 
 language: ja
 scoring_threshold: 85
@@ -17,7 +18,9 @@ channels:
     enabled: true
     username: "arXiv Digest"
     env_var: DISCORD_WEBHOOK_URL_TAKEDA
-    mention_target: "<@888803091296706650>"
+    # Discord mention ID is stored out-of-repo (see research-collab/collaborators.yaml);
+    # runtime value is supplied via the DISCORD_MENTION_TAKEDA env var (e.g. from .env).
+    mention_target_env: DISCORD_MENTION_TAKEDA
 
 style:
   tone: casual

@@ -9,19 +9,50 @@
 | odakin | Mastodon (Vivaldi Social) | 平日 10:31 |
 | takeda | Discord (#arxiv-digest) | 平日 10:31（同時） |
 | ogawa | Discord (#arxiv-digest) | 平日 10:31（同時） |
+| onda | Discord (#arxiv-digest) | 平日 10:31（同時、2026-04-14 追加） |
 
 ## 要対応（学校 Mac で pull 後）
 
 - [x] **`arxiv-digest` の backend prompt を SKILL.md と同期する**（2026-04-02 完了: `update_scheduled_task` で prompt を再設定）
 
 ## 残タスク
-- [x] 学校 Mac で `git pull` → scheduled task 統合（2026-03-31 完了: `arxiv-digest-takeda` 無効化、統合版 SKILL.md で1本運用）
-- [x] ogawa プロファイル追加（2026-03-31 完了: Discord 同チャンネル）
-- [x] arxiv_categories 二層構造実装（2026-03-31 完了: INSPIRE 自動 + 手動 extras）
-- [x] **archive/ 自動 commit + push**（2026-04-08 完了: 6 日分 cross-session 蓄積を検出 → 根治のため `commit_archives_to_git()` を `src/archive.py` に追加 → `post_all` 末尾で呼び出し）
+
+### 2026-04-14 の onda 追加に付随
+
+- [ ] **他マシン (学校 Mac 等) で `.env` 生成**: `research-collab` を clone + `git-crypt unlock` 後、`python3 -m tools.sync_mentions` 一発で `DISCORD_MENTION_*` が生成される (helper は 2026-04-14 で実装)。scheduled task がそこで走っている場合、env 未設定だと mention は無言スキップ (fail soft) になるので即時の不具合は出ないが、メンションが消える
+- [ ] **新 subscriber への事前告知**: 明日 (2026-04-15) 朝 10:31 ごろから Discord `#arxiv-digest` で mention 付き配信が始まる。一言入れておくべき
+- [x] **ogawa エントリの PII 補完** (2026-04-14 完了: name_en / name_ja / affiliation を collaborators.yaml に追加)
+- [x] **arxiv-digest/CLAUDE.md の profile 表を更新** (2026-04-14 完了: onda 行追加、stale 表記修正、設計参照を明記)
+- [x] **subscriber profile の PII redact (全 3 名)** (2026-04-14 完了: option iii 採用 → takeda/ogawa/onda の interest_profile.txt / SESSION.md / DESIGN.md から実名・所属・named collaborators を削除、詳細は research-collab に集約)
+- [ ] **README.md / SKILL.md に `.env` の `DISCORD_MENTION_*` 項目を明示**: 新しいマシンでの setup 時に webhook と並んで用意すべき env var であることを記載
+
+### 継続タスク
+
 - [ ] Bluesky / Slack チャンネル追加
 
-## 直近の修正（2026-04-08）
+### 派生 (2026-04-14 redact の副作用)
+
+- [ ] **odakin の主な共同研究者 5 名 (旧 `profiles/odakin/interest_profile.txt` L7 に列挙されていた `共同研究者:` 行の内訳) を `research-collab/collaborators.yaml` に stub 登録**。現状 profile の「see private registry」が実体を指していない。名前の具体は commit 履歴 (2026-04-14 以前の `profiles/odakin/interest_profile.txt`) から取得。1 名について name 漢字表記ゆれが既存 `ogawa` エントリと類似しているため別人/同一人物の確認要
+
+### 完了
+
+- [x] 学校 Mac で `git pull` → scheduled task 統合（2026-03-31 完了）
+- [x] ogawa プロファイル追加（2026-03-31 完了）
+- [x] arxiv_categories 二層構造実装（2026-03-31 完了）
+- [x] archive/ 自動 commit + push（2026-04-08 完了）
+- [x] onda プロファイル追加 + Discord mention ID を layer 3 に委譲（2026-04-14 完了）
+
+## 直近の修正（2026-04-14）
+
+### onda プロファイル追加 + Discord mention ID を layer 3 (collaborators.yaml) に委譲
+
+- **onda プロファイル**: 新規 subscriber を追加。arxiv categories: astro-ph.CO / astro-ph.IM / astro-ph.HE / hep-ph / gr-qc。INSPIRE BAI なし。詳細 (identity / affiliation / 研究文脈) は `research-collab/collaborators.yaml` 参照。
+- **Discord mention ID 設計見直し**: 公開リポに平文で保持されていた数値 ID を、`research-collab/collaborators.yaml` (layer 3, git-crypt) を canonical source とし、arxiv-digest 側は `mention_target_env: DISCORD_MENTION_<NAME>` で env 変数名のみを持つ設計に変更。`.env` は gitignored で実値を保持。詳細: `DESIGN.md`
+- **影響範囲**: `claude-config/conventions/collaborators.md` schema に `discord_id` field 追加、`research-collab/collaborators.yaml` に takeda/ogawa/onda 追加、`src/channels/discord.py` に `mention_target_env` サポート追加、3 プロファイルの config.yaml を書き換え
+- **既存 git history の Discord ID**: 過去の public コミット (takeda/ogawa) には平文のまま残存。history purge は効果/コスト比で見送り
+- **scheduled task**: プロファイルは auto-discover なので onda は自動で拾われる。SKILL.md 変更なし → `update_scheduled_task` 不要
+
+## 過去の修正（2026-04-08）
 
 ### archive/ 自動 commit + push 導入
 

@@ -19,11 +19,16 @@ arXiv 新着論文の AI スコアリング＋自動配信システム。GitHub 
 **odakin 自身はモード B で運用。モード A はテンプレート利用者向け。**
 
 配信中プロファイル:
-| プロファイル | チャンネル | メンション先 | INSPIRE BAI |
+| プロファイル | チャンネル | メンション指定 | INSPIRE BAI |
 |------------|-----------|------------|-------------|
 | odakin | Mastodon (Vivaldi Social `@odakinarxiv`) | `@odakin@social.vivaldi.net` | `K.Y.Oda.1` |
-| takeda | Discord `#arxiv-digest` | （Discord メンション ID — private リポ参照） | — |
-| ogawa | Discord `#arxiv-digest` | （Discord メンション ID — private リポ参照） | （INSPIRE BAI — private リポ参照） |
+| takeda | Discord `#arxiv-digest` | `mention_target_env: DISCORD_MENTION_TAKEDA` | — |
+| ogawa | Discord `#arxiv-digest` | `mention_target_env: DISCORD_MENTION_OGAWA` | （registry 参照） |
+| onda | Discord `#arxiv-digest` | `mention_target_env: DISCORD_MENTION_ONDA` | — |
+
+Discord 数値 ID と subscriber identity の正本は `research-collab/collaborators.yaml` (git-crypt、layer 3)。arxiv-digest (public) は env 変数名のみを保持し、実値は `.env` (gitignored) から読む。設計経緯は `DESIGN.md` 「Discord mention ID を collaborator layer に委譲 (2026-04-14)」参照。
+
+**新マシン setup**: `research-collab` を clone + `git-crypt unlock` (手順は `~/Claude/secrets-config/CLAUDE.md`) した後、`python3 -m tools.sync_mentions` を一度実行すれば `.env` の `DISCORD_MENTION_*` エントリが自動生成される。webhook URL / API key は従来通り secrets-config の手順で別途復元。
 
 共通パイプライン: `src.fetch_all → [スコアリング] → src.post_all → チャンネル配信 → archive/ に自動保存`
 

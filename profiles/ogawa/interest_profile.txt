@@ -1,10 +1,10 @@
-Research Interest Profile: Naoya Ogawa (小川直哉)
+Research Interest Profile: ogawa
 
-Affiliation: Tokyo Women's Christian University (student)
+(Identity, affiliation, and named collaborators are held in the private
+collaborator registry; only research interests are kept in this public file.)
 
 Top priority: Time-energy uncertainty relations in quantum mechanics
   Gaussian wave-packet formalism, squeezed coherent states
-  Collaborator: Kin-ya Oda (尾田欣也), TWCU
 
 Core topics:
 - Time-energy uncertainty relations (Mandelstam-Tamm, Margolus-Levitin, Robertson type)
@@ -24,7 +24,7 @@ arXiv categories: quant-ph, hep-th, gr-qc, astro-ph.HE, hep-ex
 
 When scoring papers, consider:
 1. Direct overlap with time-energy uncertainty, wave-packet formalism, or quantum speed limits (highest relevance)
-2. Papers by collaborators or from the TWCU group (high relevance)
+2. Papers by registered collaborators (see private registry) (high relevance)
 3. Foundations of quantum mechanics: time in QM, measurement theory, uncertainty relations (moderate-high relevance)
 4. Super-Kamiokande, neutrino detection, gravitational wave multimessenger (moderate relevance)
 5. General developments in quant-ph or hep-th connecting to the above (lower relevance)

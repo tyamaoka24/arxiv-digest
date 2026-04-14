@@ -22,8 +22,21 @@ class DiscordChannel(Channel):
                 "and set the URL as an environment variable."
             )
         self.username = config.get("username", "arXiv Digest")
-        # mention_target: "<@USER_ID>" or "<@&ROLE_ID>" — prepended to header
-        self.mention_target = config.get("mention_target", "")
+        # mention_target: resolved in this order:
+        #   1. config["mention_target_env"] -> os.environ[<that name>]
+        #      (preferred; keeps personal Discord IDs out of the public config)
+        #   2. config["mention_target"] (direct literal; legacy / for local-only forks)
+        # Format: "<@USER_ID>" or "<@&ROLE_ID>" — prepended to header.
+        mention_env = config.get("mention_target_env")
+        if mention_env:
+            self.mention_target = os.environ.get(mention_env, "")
+            if not self.mention_target:
+                print(
+                    f"[discord] warning: mention_target_env={mention_env} not set; "
+                    "header will be posted without a mention."
+                )
+        else:
+            self.mention_target = config.get("mention_target", "")
 
     @property
     def char_limit(self):

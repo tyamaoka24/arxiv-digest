@@ -2,9 +2,9 @@ Research Interest Profile: Kin-ya Oda (尾田欣也)
 
 Affiliation: Tokyo Women's Christian University, Department of Information and Sciences
 
-最優先: 波束形式（Gaussian wave-packet formalism）＋小川コラボ
+最優先: 波束形式（Gaussian wave-packet formalism）
   量子基礎論・不確定性関係・squeezed coherent states
-  共同研究者: 石川健三、西脇健二、和田淳太郎、三谷はるひ、小川直也
+  共同研究者: (see private registry — research-collab/collaborators.yaml)
 
 コアトピック:
 - Einstein-Cartan / teleparallel 重力、vierbein formulation、hidden local Lorentz symmetry

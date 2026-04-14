@@ -135,3 +135,59 @@ SKILL.md を **single source of truth にできない** という不都合は受
 - SKILL.md は「procedure description」で、Python 内部の実装詳細 (auto-commit) は記述する必要がない
 
 これは「SKILL.md と Python の責務分離」を強化する判断でもある。SKILL.md は「Claude にどう動いてほしいか」を書く層で、Python は「Claude が呼ぶ tool」のレイヤー。tool が auto で何かをやる場合、SKILL.md には書かなくてよい (= Claude は tool の output を見れば分かる)。
+
+## Discord mention ID を collaborator layer に委譲 (2026-04-14)
+
+### 背景
+
+`profiles/<name>/config.yaml` に `mention_target: "<@NUMERIC_ID>"` として Discord 数値ユーザー ID を平文で保持していた。このリポは public (`odakin/arxiv-digest`) で、profile 側の interest_profile.txt にも実名・所属を書くパターンが先行しており、**実名 + 所属 + Discord 数値 ID** が git history ごと GitHub に並列して公開されていた。
+
+Discord 数値 ID 単独の危険度は低いが、実名・所属と並列されると dox (doxxing) 素材価値が跳ね上がるため、今後の leak を止める方針とした。新しい subscriber を追加するタイミングで設計を見直し、併せて interest_profile.txt の identity 部分も redact する (個別 subscriber の実名・所属・named collaborators は private registry に委譲、public には研究興味のみ残す) 方針に切り替えた。
+
+### 採用した設計: layer 3 委譲 + env var bridge
+
+odakin の 4 層アーキテクチャ (claude-config の `docs/personal-layer.md`):
+
+| 層 | リポ | この問題における役割 |
+|---|---|---|
+| 1 public tool | `arxiv-digest` (このリポ) | profile config は env 変数**名**のみ保持 |
+| 1 public conventions | `claude-config` | `collaborators.md` schema に `discord_id` field を追加 |
+| 3 collaborator | `research-collab/collaborators.yaml` (git-crypt) | **Discord ID の canonical source** |
+| runtime (local) | `arxiv-digest/.env` (gitignored) | 実行時に読まれる env 変数の実体 |
+
+フロー:
+```
+research-collab/collaborators.yaml       (layer 3, git-crypt)
+          │  odakin が手動コピー (将来 sync script)
+          ▼
+arxiv-digest/.env                        (gitignored)
+          │  src/config.py の load_dotenv()
+          ▼
+os.environ[DISCORD_MENTION_<PROFILE>]
+          │  src/channels/discord.py が resolve
+          ▼
+Discord webhook 本文の mention
+```
+
+### 検討した代替案
+
+| 案 | 却下理由 |
+|---|---|
+| α: 新規 `arxiv-digest-private` private repo を作る | subscriber 全員が research collaborator だったため、既存 `collaborators.yaml` で十分。新リポのオーバーヘッドを避けた |
+| β: `odakin-prefs` (layer 2 personal) に入れる | layer 2 は本来「odakin 自身の設定」で「他者情報」を置く層ではない。境界曖昧化を避けた |
+| γ: `.env` のみ、構造化ストアなし | Cross-machine backup・metadata (名前・所属の紐付け) を失う |
+| 1': `mention_target` を直書きのまま git history purge | すでに public、forks/GitHub cache/archive.org 等に残存確実。force-push の破壊的コストに見合う効果がない |
+
+### 実装
+
+- **Schema**: `claude-config/conventions/collaborators.md` に `discord_id: null` field 追加
+- **Data**: `research-collab/collaborators.yaml` に takeda / ogawa / onda エントリを新規追加、各々 `discord_id` をセット
+- **Code**: `src/channels/discord.py` が `mention_target_env` キー (env 変数名) を優先。env 未設定時は warning + mention なし送信で fail soft。後方互換として legacy `mention_target` (直書き) も残す
+- **Config**: `profiles/{onda,takeda,ogawa}/config.yaml` を `mention_target_env: DISCORD_MENTION_<NAME>` に置き換え
+- **Runtime**: `arxiv-digest/.env` (gitignored) に `DISCORD_MENTION_*` 実値を記載
+
+### 運用上の帰結
+
+- **既存 public git history は残る**: takeda/ogawa の Discord ID は過去コミットに平文で残っており、これは変えない。「今後新規 leak しない」が現実的な目標
+- **Template 利用者への波及**: default profile は mention_target を持たないので影響なし。他者が fork した際に onda/takeda/ogawa profile はそのまま残るが、env 変数が未設定なので mention は無言でスキップされる (fail soft 設計)
+- **Cross-machine**: 新 Mac で setup した際は `research-collab` を unlock → `collaborators.yaml` から `discord_id` を手動で `.env` にコピー。将来 sync script 化は検討可能だが現状は手動で十分

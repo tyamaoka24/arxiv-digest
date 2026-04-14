@@ -1,0 +1,79 @@
+Research Interest Profile: onda
+
+(Identity, affiliation, and career context are held in the private collaborator
+registry; only research interests are kept in this public file — the LLM scorer
+needs the interests but not the person.)
+
+Top priority (dual focus):
+  (A) CMB B-mode polarization & primordial gravitational waves
+      - Inflation verification, tensor-to-scalar ratio r, consistency relation
+      - Reionization bump, recombination bump, delensing
+      - LiteBIRD science goal as the central target
+  (B) LiteBIRD satellite instrumentation and in-orbit systematics
+      - Cosmic-ray impact evaluation, onboard signal-processing hardware design,
+        EMI/RFI interference, in-orbit calibration strategy
+
+Core science topics (CMB / cosmology):
+- Inflation models: single-field slow-roll, alpha-attractors, axion monodromy,
+  Starobinsky-type, and their tensor spectrum predictions
+- Primordial gravitational waves: current r upper bounds (BICEP/Keck),
+  forecasts for r ~ 1e-3 targets, consistency relation, non-Gaussianity
+- Reheating, preheating, and their imprint on CMB scales
+- CMB polarization power spectra (EE / BB / TE), lensing B-modes, delensing
+- CMB foregrounds: synchrotron, thermal dust, anomalous microwave emission;
+  component separation methods (ILC, NILC, SMICA, Commander)
+- Cosmic birefringence (isotropic and anisotropic rotation), axion-like
+  particles as coupling mediators
+- Statistical isotropy, parity violation, large-scale anomalies
+
+Instrumentation / systematics (LiteBIRD-relevant working line):
+- TES / bolometer / MKID cryogenic detectors and readout (DfMux, multiplexing)
+- Cosmic-ray systematic effects on bolometers and their impact on B-mode
+  recovery (Stever et al. 2021 JCAP line)
+- EMI / RFI / micro-vibration interference evaluation on cryogenic detectors
+  (XRISM Resolve heritage applied to LiteBIRD)
+- Onboard signal processing and data compression for bolometer arrays
+  (Tominaga et al. 2022 JLTP line)
+- HWP (half-wave plate) calibration, polarization angle systematics
+- 1/f noise mitigation, scan-strategy design
+- Beam systematics, pointing reconstruction, sidelobe pickup
+- End-to-end forecasting and bias / leakage analysis for B-mode science
+
+Related experiments (read for comparison and context):
+- Ground-based CMB: Simons Observatory, CMB-S4, POLARBEAR, BICEP/Keck, SPT, ACT
+- Space: Planck legacy re-analyses, PICO concept
+- Complementarity between ground and space for primordial GW searches
+
+Related theory (hep-ph / gr-qc side of the digest):
+- Primordial GW generation mechanisms beyond standard inflation
+- Axion-like particles and cosmic birefringence phenomenology
+- Effective field theory of inflation and EFT of large-scale structure (light)
+- Stochastic GW backgrounds overlap (PTA, LIGO, CMB B-mode complementarity)
+
+Secondary (parallel X-ray observational theme):
+The current working environment pairs the CMB instrumentation track with an
+X-ray observational theme in parallel (standard practice for the host lab),
+so the following are also in scope at moderate relevance:
+- XRISM Resolve X-ray microcalorimeter science and calibration
+- X-ray spectroscopy of AGN, X-ray binaries, stellar flares
+- X-ray astronomy instrumentation heritage feeding into CMB detectors
+
+arXiv categories: astro-ph.CO (primary), astro-ph.IM, astro-ph.HE, hep-ph, gr-qc
+
+When scoring papers, consider:
+1. LiteBIRD-specific papers or papers directly impacting LiteBIRD design,
+   systematics, calibration, or forecasts (highest relevance)
+2. Primordial GW / B-mode polarization / inflation phenomenology with
+   observational implications for CMB satellites (highest relevance)
+3. Cryogenic detector development (TES/MKID) and readout systematics relevant
+   to CMB polarization experiments (high relevance)
+4. CMB foreground modeling and component separation papers with LiteBIRD-scale
+   implications (high relevance)
+5. Ground-based CMB results (SO, CMB-S4, BICEP/Keck) that contextualize
+   LiteBIRD's discovery space (moderate-high relevance)
+6. Cosmic birefringence, parity-violating physics, ALP-photon coupling from
+   CMB (moderate-high relevance)
+7. XRISM / X-ray astronomy papers relevant to the parallel observational
+   theme (moderate relevance)
+8. General cosmology / inflation theory papers without direct observational
+   hooks (lower-moderate relevance)

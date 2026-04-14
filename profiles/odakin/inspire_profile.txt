@@ -7,7 +7,7 @@ Primary fields (>=20%): hep-ph (81, 86%), hep-th (38, 40%), gr-qc (24, 26%), ast
 Secondary fields (5-20%): hep-ex (5, 5%)
 Peripheral fields (<5%, via cross-listing): quant-ph (3, 3%), physics.ed-ph (2, 2%), physics.class-ph (2, 2%), physics.comp-ph (2, 2%), astro-ph.IM (1, 1%), stat.ME (1, 1%), hep-lat (1, 1%)
 
-Frequent collaborators: Nishiwaki, Kenji, Kawai, Hikaru, Hamada, Yuta, Park, Seong Chan, Kaneta, Kunio, Ida, Daisuke, Ishikawa, Kenzo, Yoshimura, Motohiko, Watanabe, Ryoutaro, Haba, Naoyuki, Lee, Sung Mook, Yagyu, Kei, Kakuda, Takuya, Okuda, Naoya, Takahashi, Ryo
+Frequent collaborators: (see private registry — research-collab/collaborators.yaml)
 
 Recent focus (2020-present): Wave-Packet Effects: A Solution for Isospin Anomalies in Vector-Meson Decay; Seeing through the light cone: Visualizing electromagnetic fields in special relativity; Observational tests for a class of scalar-tensor gravity; Implementing errors on errors: Bayesian vs frequentist; A common origin of two accelerating universes: inflation and dark energy; Spacetime and Planck mass generation from scale-invariant degenerate gravity; Parametrically amplified super-radiance towards hot big bang universe; Covariant Electromagnetism in Past-Light-Cone Formalism; Beyond the Plane-Wave Transitions by Wave Packets: Anomalous Kinetic Effect in Quarkonium Decays; Pseudo-Nambu-Goldstone boson production from inflaton coupling during reheating
 

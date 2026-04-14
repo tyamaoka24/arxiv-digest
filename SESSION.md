@@ -37,52 +37,12 @@
 - [ ] **orphan 監視**: 2026-04-14 に public repo の history を force-push で rewrite した。残る orphan 状態のノード (詳細 SHA はここに書かない) を GitHub が自然 GC するまでは SHA 直アクセスで旧内容取得可能。1 ヶ月後に origin での 404 化を確認。監視対象 SHA は local backup branch (下記) の `rev-parse HEAD~n` で復元可能
 - [ ] **local backup branch 削除**: pre-rewrite history を保持するローカルブランチがある (push 済みでない)。上記 orphan 監視完了後に削除
 
-### 完了
+### 完了 (詳細は DESIGN.md / git log)
 
-- [x] 学校 Mac で `git pull` → scheduled task 統合（2026-03-31 完了）
-- [x] ogawa プロファイル追加（2026-03-31 完了）
-- [x] arxiv_categories 二層構造実装（2026-03-31 完了）
-- [x] archive/ 自動 commit + push（2026-04-08 完了）
-- [x] onda プロファイル追加 + Discord mention ID を layer 3 に委譲（2026-04-14 完了）
-
-## 直近の修正（2026-04-14）
-
-### onda プロファイル追加 + Discord mention ID を layer 3 (collaborators.yaml) に委譲
-
-- **onda プロファイル**: 新規 subscriber を追加。arxiv categories: astro-ph.CO / astro-ph.IM / astro-ph.HE / hep-ph / gr-qc。INSPIRE BAI なし。詳細 (identity / affiliation / 研究文脈) は `research-collab/collaborators.yaml` 参照。
-- **Discord mention ID 設計見直し**: 公開リポに平文で保持されていた数値 ID を、`research-collab/collaborators.yaml` (layer 3, git-crypt) を canonical source とし、arxiv-digest 側は `mention_target_env: DISCORD_MENTION_<NAME>` で env 変数名のみを持つ設計に変更。`.env` は gitignored で実値を保持。詳細: `DESIGN.md`
-- **影響範囲**: `claude-config/conventions/collaborators.md` schema に `discord_id` field 追加、`research-collab/collaborators.yaml` に takeda/ogawa/onda 追加、`src/channels/discord.py` に `mention_target_env` サポート追加、3 プロファイルの config.yaml を書き換え
-- **既存 git history の Discord ID**: 過去の public コミット (takeda/ogawa) には平文のまま残存。history purge は効果/コスト比で見送り
-- **scheduled task**: プロファイルは auto-discover なので onda は自動で拾われる。SKILL.md 変更なし → `update_scheduled_task` 不要
-
-## 過去の修正（2026-04-08）
-
-### archive/ 自動 commit + push 導入
-
-毎日 cron で生成される `archive/{year}/{month}/*.json` が **6 日分 (04-02 〜 04-07)** uncommitted のまま蓄積していたのを発見。原因は post_all.py がアーカイブ書き込みをしても commit しない設計で、生成主体と commit 主体が分離していたこと。CLAUDE.md には「git 管理」と明記されていたので、この乖離はバグ。
-
-`src/archive.py` に新関数 `commit_archives_to_git()` を追加し、`post_all.py` の archive ループ末尾で呼ぶ。設計上の安全策:
-
-- **scoped**: `git add archive/` のみ。`src/`、`profiles/`、`config.yaml` 等の WIP に触らない
-- **idempotent**: `git diff --cached --quiet` で空コミット防止 (同日複数回 run しても commit しない)
-- **cross-machine 安全**: `git fetch` → behind > 0 のときのみ `git pull --rebase --autostash`
-- **best-effort**: fetch / rebase / commit / push のどの段階で失敗しても warning print → return。例外を投げない
-- **push 失敗許容**: 次回 run が catch up
-
-`commit_archives_to_git` が呼ばれるのは **モード B のみ**。モード A (`post.py`、template 利用者向け) は手動コントロールを残すため auto-commit しない。
-
-**横断的対処** (claude-config / odakin-prefs 側): `git-state-nudge.sh` に「porcelain hash が >24h 同一」を検出する STALE_DIRT 警告を追加 (cross-session WIP leakage の汎用 safety net)、`push-workflow.md` に解釈ガイドを追加。
-
-### DESIGN.md 新規作成
-
-設計判断の正本を残すための `DESIGN.md` をリポに新設。書き起こした内容:
-
-- **二つの実行モード (mode A / mode B) の分離**: 過去の判断を文書化。なぜ並立か、SKILL.md と scorer.py の duplication を許容する理由
-- **自動アーカイブと git commit の所有権 (2026-04-08)**: 今回の `commit_archives_to_git` 設計の Why / What / 検討した代替案 (7 案、表形式)、設計判断の小項目 (scope / idempotency / cross-machine 安全 / best-effort / push 失敗の扱い / mode A 不参加)、claude-config STALE_DIRT との分業
-- **「Generator owns commit」原則**: 「自動で生成されるもの (cron / scheduled task / script) は、生成主体が commit 責任を持つ」という今回獲得した原則を記録
-- **SKILL.md / scheduled task 二重構造**: 既存規約だが、04-08 で「Python 完結により SKILL.md 不変」を選んだ判断の根拠として再記述
-
-CLAUDE.md「How to Resume」と「自動更新ルール」を更新し、DESIGN.md への参照を追加 (重要な判断時に DESIGN.md にも残すよう義務化)。
+- 2026-04-14: onda プロファイル追加 + Discord mention ID の layer 3 委譲 (設計は DESIGN.md「Discord mention ID を collaborator layer に委譲」セクション)
+- 2026-04-14: homonym 由来の誤 INSPIRE データ除去 (ogawa)
+- 2026-04-08: archive/ 自動 commit + push 実装 (設計は DESIGN.md)
+- 2026-03-31: ogawa プロファイル追加、arxiv_categories 二層構造、scheduled task 統合
 
 ## 過去の修正 (詳細は git log)
 

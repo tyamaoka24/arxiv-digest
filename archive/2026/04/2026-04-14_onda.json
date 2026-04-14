@@ -1,0 +1,106 @@
+{
+  "total_fetched": 95,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.11068",
+      "title": "Radiatively Corrected Hybrid Inflation: Parameter Scans and Machine Learning with ACT and Future CMB Experiments",
+      "authors": [
+        "Waqas Ahmed",
+        "Saleh O. Allehabi",
+        "Mansoor Ur Rehman"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2604.11068",
+      "abstract": "We investigate a realistic non-supersymmetric hybrid inflation model incorporating right-handed neutrinos and assess its viability in light of recent cosmological observations. At tree level, the inflaton potential yields a blue-tilted scalar spectrum, which is disfavored by current data from Planck and ACT that instead support a red tilt. We show that including one-loop quantum corrections, arising from generic couplings required for reheating, significantly modifies the potential, flattening it at large field values. This leads to a red-tilted spectral index ($n_s < 1$) and a suppressed tensor-to-scalar ratio $r$, both consistent with observational constraints. To ensure theoretical control, we focus on sub-Planckian field values, where the effective field theory description remains valid. The coupling of the inflaton to right-handed neutrinos naturally facilitates efficient reheating and enables the generation of the baryon asymmetry via non-thermal leptogenesis. We further explore the model's parameter space using a multi-output random forest classifier, achieving prediction accuracies in the range of $87.5\\%$ to $98.9\\%$. Our analysis shows that approximately $15\\%$ of the parameter space satisfies at least one current experimental constraint, underscoring the essential role of quantum corrections in reconciling particle physics models with precision cosmology, and highlighting the effectiveness of machine learning techniques in probing complex theoretical frameworks.",
+      "score": 92,
+      "reason": "1-loop 補正で hybrid inflation の n_s を赤傾きに、r を抑制 🔭 ACT + 将来 CMB (LiteBIRD 世代) と整合、ML で scan",
+      "summary": "右巻き neutrino 付き非 SUSY hybrid。reheating coupling の quantum corrections で potential が flat 化、n_s<1 と r 抑制を実現"
+    },
+    {
+      "arxiv_id": "2604.09843",
+      "title": "Induced Multi-phase Inflation with Reheating: Leptogenesis and Dark Matter Production in Metric versus Palatini",
+      "authors": [
+        "Nilay Bostan",
+        "Rafid H. Dejrah",
+        "Anish Ghoshal",
+        "Zygmunt Lalak"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.09843",
+      "abstract": "We study non-minimally coupled scalar-induced multi-phase inflation in metric and Palatini gravity, considering linear, Brans-Dicke-like, and Higgs-like sectors. The scalar spectral index lies in the range \\( n_s \\simeq 0.93 \\ \\text{--} \\ 0.98 \\), consistent with \\textit{Planck} and combined \\textit{Planck}+ACT data. The tensor-to-scalar ratio can reach \\( r \\sim 0.03 \\) in metric, whereas Palatini models generically predict \\( r \\lesssim 10^{-5} \\). In the Palatini case, field excursions remain sub-Planckian, and the perturbative unitarity cutoff is raised. Reheating proceeds via perturbative inflaton decays into Higgs bosons and fermionic dark matter (DM) through the portal coupling \\( \\lambda_{12} \\) and Yukawa coupling \\( y_\\chi \\). Radiative stability of the inflationary plateau constrains the couplings to \\( y_\\chi, \\lambda_{12} \\sim 10^{-7} \\ \\text{--} \\ 10^{-3} \\), implying \\( 4\\,\\mathrm{MeV} \\lesssim T_{\\rm rh} \\lesssim 10^{15}\\,\\mathrm{GeV} \\). Palatini realizations require smaller couplings and thus a narrower reheating window. Non-thermal DM production $\\chi$ from inflaton decays is viable for DM mass \\( m_\\chi \\sim \\mathrm{keV} \\ \\text{--} \\ \\mathrm{PeV} \\) with \\( y_\\chi \\lesssim 10^{-6} \\) over large parameter regions. We estimate the inflaton-right-handed neutrino (RHN) Yukawa coupling \\( y_N \\) required for successful baryogenesis via non-thermal leptogenesis within a Type-I seesaw framework, for the lightest RHN mass \\( M_{N_1} \\sim 10^{9} \\ \\text{--} \\ 10^{14}\\,\\mathrm{GeV} \\), provided \\( M_{N_1} > T_{\\rm max} \\), where \\( T_{\\rm max} \\) follows from radiatively consistent reheating. In Palatini scenarios, the lower maximal temperature and tighter stability bounds further restrict the leptogenesis parameter space.",
+      "score": 90,
+      "reason": "metric と Palatini で r が 0.03 と <10⁻⁵ に分かれる 🌱 LiteBIRD 検出 range に乗る metric 側の制約、重力定式化への観測テスト",
+      "summary": "Non-minimally coupled scalar-induced multi-phase inflation。Planck+ACT 整合、reheating で leptogenesis + DM portal を実現"
+    },
+    {
+      "arxiv_id": "2604.10148",
+      "title": "An Analytic Formalism of Inflation for Derivative Coupled Scalar Field and Validating its predictions for Some Inflationary Potentials",
+      "authors": [
+        "Aayush Randeep",
+        "Rajib Saha"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.10148",
+      "abstract": "One of the fundamental objectives of contemporary cosmology is to understand the physics of the inflationary universe, owing to its observably verifiable predictions about the very early universe with an energy scale of $\\sim 10^{16}$ GeV. Recent observations from the ACT and the Planck mission, constrain the values of the scalar spectral index, $n_s$, and the tensor-to-scalar ratio, with state-of-the-art accuracy and upper limits, respectively. In the current work, a type of non minimally coupled inflationary model in which the gravity and the background scalar field interact through a covariant product of the Ricci tensor and derivatives of the scalar field. With this interaction at the backdrop, we estimate $n_s$ and $r$ for a wide range of inflaton self-interaction potentials, including power law, exponential $\\alpha$ attractor, Arctan, Hilltop, and polynomial model. We show that the higher derivative terms involving the scalar field resulting from the derivative coupling term can be handled without facing any singularity within the slow-roll regime. We show that it is possible to produce $n_s$ and $r$ values consistent with ACT and Planck observations for each of the chosen sets of potentials for the derivative coupled action.",
+      "score": 88,
+      "reason": "ACT+Planck 制約下で derivative-coupled inflation を解析的に定式化 📐 n_s と r 上限で複数 potential を検証、LiteBIRD 準備",
+      "summary": "Ricci tensor と scalar field 微分の covariant product で結合する non-minimal inflation。n_s、r を最新観測と照合"
+    },
+    {
+      "arxiv_id": "2604.09761",
+      "title": "Time-resolved XRISM spectroscopy reveals the evolution and structure of the corona in MCG-6-30-15",
+      "authors": [
+        "D. R. Wilkins",
+        "L. W. Brenneman",
+        "A. Ogorzalek",
+        "A. C. Fabian",
+        "E. Behar",
+        "R. Boissay-Malaquin",
+        "J. A. Garcia",
+        "E. B. Hoffman",
+        "A. Juranova",
+        "D. Rogantini"
+      ],
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2604.09761",
+      "abstract": "We present a time-resolved analysis of high-resolution spectra of the AGN MCG-6-30-15 obtained by XRISM alongside broadband spectra from NuSTAR and XMM-Newton during a coordinated observing campaign in February 2024. These observations provide some of the most detailed measurements of X-ray reflection from the innermost regions of the accretion disc around a supermassive black hole, and its evolution during periods of significant variability. We find that both the X-ray spectrum and its variability can be described by a self-consistent model of the reflection of the coronal X-ray emission from the accretion disc around a rapidly-spinning (a > 0.93) black hole, in which the observed variability arises from underlying changes in the luminosity, spatial extent and motion of the corona. While the corona is compact, residing within 10rg of the black hole for the majority of the observations, finite spatial extent is required to fully explain the shape of the reflection spectrum. A flare was observed in the X-ray emission during which the corona expanded to around 15rg and was accelerated away from the black hole reaching a velocity of 0.27c. Around the flare were short dips in the observed flux, during which the corona was found to have collapsed to a confined region, within 2.5rg of the black hole, enhancing the relativistic effects observed from the inner accretion disc. We find it is necessary to account for such significant spectral variation in order to obtain accurate measurements of the spin of the black hole via X-ray reflection spectroscopy.",
+      "score": 87,
+      "reason": "XRISM+NuSTAR+XMM で MCG-6-30-15 corona の time-resolved 解析 🌀 辻本研主力 XRISM サイエンス、fast-spin BH (a>0.93) 支持",
+      "summary": "2024 年 coordinated campaign。X 線 spectrum と variability を rapidly-spinning BH 近傍 disc の reflection で統一的に記述"
+    },
+    {
+      "arxiv_id": "2604.10143",
+      "title": "Inflationary magnetogenesis from non-minimal coupling in large- and small-field potentials",
+      "authors": [
+        "Orlando Luongo",
+        "Antonino Giacomo Marino",
+        "Tommaso Mengoni"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.10143",
+      "abstract": "We investigate inflationary magnetogenesis in a scenario where conformal invariance of electromagnetism is broken through a \\emph{non-minimal Yukawa-like coupling between the inflaton and the Ricci scalar}. We account for electromagnetic backreaction and the Schwinger effect, analyzing both standard single-field inflation and a generalized K-essence framework, \\emph{dubbed quasi-quintessence}. We consider inflationary potentials compatible with Planck satellite constraints, including Starobinsky and $\\alpha$-attractor models for large fields, as well as hilltop scenarios for small fields. Moreover, we explore very different functional electromagnetic couplings, introducing a novel ansatz modeled for small-fields. We show that the non-minimal coupling plays a central role in controlling the dynamics, \\emph{acting as a timing parameter that regulates the onset of electric backreaction and the Schwinger regime}. This leads to a deep modification of the magnetogenesis process. Indeed, the amplitude of the generated magnetic fields can be enhanced by several orders of magnitude with respect to the minimally coupled case, reaching present-day values up to $B_0 \\sim 10^{-13}\\,\\mathrm{G}$ in large-field scenarios, \\emph{which appear as the only ones compatible with observational bounds}. Conversely, small-field models yield negligible magnetic amplitudes and appear non-predictive within our non-minimal framework.",
+      "score": 86,
+      "reason": "Starobinsky と α-attractor で inflationary magnetogenesis を検証 ⚡ inflation model と原始磁場 (CMB 別 window) の交点",
+      "summary": "Inflaton × Ricci の non-minimal Yukawa 結合で conformal invariance 破壊。Starobinsky・α-attractor・hilltop + Schwinger 効果"
+    }
+  ]
+}

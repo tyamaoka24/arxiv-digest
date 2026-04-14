@@ -191,3 +191,56 @@ Discord webhook 本文の mention
 - **既存 public git history は残る**: takeda/ogawa の Discord ID は過去コミットに平文で残っており、これは変えない。「今後新規 leak しない」が現実的な目標
 - **Template 利用者への波及**: default profile は mention_target を持たないので影響なし。他者が fork した際に onda/takeda/ogawa profile はそのまま残るが、env 変数が未設定なので mention は無言でスキップされる (fail soft 設計)
 - **Cross-machine**: 新 Mac で setup した際は `research-collab` を unlock → `collaborators.yaml` から `discord_id` を手動で `.env` にコピー。将来 sync script 化は検討可能だが現状は手動で十分
+
+## 当日追加された subscriber の catch-up (2026-04-14)
+
+### 問題
+
+scheduled task は平日朝 10:31 に発火し、その時点の active profile 一覧で fetch → score → post する。一日の途中で新しい subscriber profile を足した場合、その日の配信は自動では行われない (= 新 subscriber は翌営業日から自動配信)。
+
+2026-04-14 の onda 追加時、初日配信を手動で行う必要があった。
+
+### 採用した catch-up フロー (archive-as-transport)
+
+運用 Mac (scheduled task を走らせる Mac) が必ずしも作業 Mac と同じではない場合 (odakin の場合は home ↔ iMac-3)、かつ `state/` は gitignored なので scored 結果を直接 commit で運べない。しかし `archive/` は git-tracked (public) なので、そこを cross-machine transport に使える。
+
+手順:
+
+```bash
+# --- 作業 Mac (scoring を行う Mac、Mode B であれば Claude session 内で score) ---
+cd ~/Claude/arxiv-digest
+python3 -m src.fetch --profile <new_name>          # today_papers_<new_name>.json を生成
+# ... Claude が scoring して state/scored_papers_<new_name>.json を書く ...
+python3 -c "
+from pathlib import Path
+from src.archive import archive_scored_papers
+archive_scored_papers('<new_name>', scored_path=Path('state/scored_papers_<new_name>.json'))
+"
+git add archive/$(date +%Y)/$(date +%m)/$(date +%Y-%m-%d)_<new_name>.json
+git commit -m "archive: $(date +%Y-%m-%d) <new_name> daily digest (mid-day catch-up)"
+git push
+
+# --- 運用 Mac (webhook を持ち post する Mac) ---
+cd ~/Claude/arxiv-digest
+git pull
+# archive ファイルを state/ にコピーして post パイプラインに食わせる
+cp archive/$(date +%Y)/$(date +%m)/$(date +%Y-%m-%d)_<new_name>.json \
+   state/scored_papers_<new_name>.json
+python3 -m src.post --profile <new_name>
+```
+
+### なぜ archive-as-transport が clean か
+
+- `archive/` は「scored_papers の日次アーカイブ」という自然な責務を持つ。mid-day catch-up で使うのは **同じファイルを同じ時点で保存する** だけなので、運用と整合
+- `archive/` は公開 git-tracked だが、scoring 結果の粒度は **通常の scheduled task が毎日保存しているものと同一**なので、追加 leak は発生しない
+- `state/` を git-tracked にする案は棄却: gitignored の現設計は「日々の大量 state ファイルで repo を肥大化させない」ための既存判断。例外を作らず archive を使う方が設計一貫性が高い
+- Dropbox 等の private 経路は、archive で済むなら不要。"運用 data" と "生成物 commit" を別経路にする複雑さを避ける
+
+### Mid-day catch-up の将来改善オプション
+
+将来 subscriber 追加頻度が上がった場合 (年数回 → 月 1 回以上等)、以下の自動化を検討:
+
+- **(a)** `src/` に CLI `python3 -m src.catchup --profile <name>` を追加: fetch + score (mode A API) + archive commit + push を一気に実行。post は運用 Mac 側に残す
+- **(b)** Scheduled task SKILL.md step 2 前に「今日 fetch されていない active profile を自動補完」処理を追加。ただし SKILL.md 変更は backend prompt 再 sync が必要でコストあり
+
+un-defer トリガーは `odakin-prefs/next-steps.md` 「arxiv-digest scheduled task に当日追加 subscriber の catch-up 対応」参照。

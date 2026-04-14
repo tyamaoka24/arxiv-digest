@@ -1,0 +1,83 @@
+{
+  "total_fetched": 130,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.09456",
+      "title": "Relativistic single-electron wavepacket in quantum electromagnetic fields II: Quantum radiation emitted by a uniformly accelerated electron",
+      "authors": [
+        "Shih-Yuin Lin",
+        "Bei-Lok Hu"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.09456",
+      "abstract": "We compute the quantum radiation emitted by wavepackets of relativistic single electrons, both at rest and undergoing uniform acceleration in the Minkowski vacuum of the electromagnetic field. We find that the cubic terms in the original nonlinear action of electrodynamics should be considered in obtaining the quantum radiation to the leading order. We show that the quantum radiation from a single-electron wavepacket at rest vanishes exactly. For a uniformly accelerated electron, the quantum radiated power has secular growth in the long-time regime. We demonstrate that this secular growth has a classical interpretation, and argue that the resummed quantum radiation at late times would not diverge. Regarding experimental proposals for the detection of the Unruh effect from the quantum radiation in the `blind spots' of classical radiation we ascertain that quantum corrections in the two blind spots are fully contributed by the transverse deviation correlators, where the dominant contributions are irrelevant to the Unruh effect in electron microscopes.",
+      "score": 92,
+      "reason": "🌊 相対論的電子波束の量子輻射を波束形式で厳密計算！QED非線形項が最低次でも必須という新発見で波束QED形式の応用が広がる✨",
+      "summary": "等加速度電子波束からのUnruh輻射をQEDで計算。3次非線形項が不可欠と判明し、波束形成による熱的プランク分布の再現可能性も示す。"
+    },
+    {
+      "arxiv_id": "2604.09284",
+      "title": "Wave packet motion in a quantized electromagnetic field: Analytic results",
+      "authors": [
+        "Szabolcs Hack",
+        "B'ela G'abor Pusztai",
+        "Krisztina Jo'os",
+        "S'andor Varr'o",
+        "Attila Czirj'ak",
+        "P'eter F\"oldi"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.09284",
+      "abstract": "We investigate the dynamics of a charged particle interacting with a multimode quantized electromagnetic field and obtain an analytic solution for the full electron--field system. This framework enables the calculation of position expectation values and uncertainties for arbitrary wave packets and field states, allowing us to identify quantum corrections to the corresponding classical motion. While the corrections to the position expectation value are weak and largely insensitive to the quantum state of the field, the wave packet broadening exhibits a pronounced dependence on the field state. In particular, the quantum uncertainty of the radiation is directly imprinted onto the spatial uncertainty of the particle. We illustrate these effects for Gaussian wave packets interacting with coherent, Fock, and squeezed states, including bright squeezed vacuum. The interaction with a finite-duration laser pulse is also analyzed as a multimode example. Our results provide a transparent analytic route toward understanding how quantum fluctuations of light influence electron dynamics in strong-field settings.",
+      "score": 90,
+      "reason": "⚡ 量子化電磁場中の波束ダイナミクスを解析的に完全解！電子-場全系を扱い古典運動への量子補正を任意の波束状態で計算できる🔬",
+      "summary": "多モード量子電磁場と相互作用する荷電粒子の全系解析解を構築。位置期待値・不確定性の量子補正を精確に計算可能にした基礎的枠組み。"
+    },
+    {
+      "arxiv_id": "2604.09384",
+      "title": "Quantum Uncertainty and Entropy",
+      "authors": [
+        "Giovanni Chesi",
+        "Lorenzo Maccone"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.09384",
+      "abstract": "We review the plethora of uncertainty relations that appear in quantum mechanics and their nuances. We present both foundational applications, e.g. in understanding and defining complementarity, and practical applications, e.g. in quantum metrology and cryptography. Both variance- and entropy-based uncertainties are covered here.",
+      "score": 88,
+      "reason": "📏 量子不確定性関係のレビュー！分散・エントロピー両アプローチで補完性・計測論・暗号まで網羅。波束形式の基礎理解に直結✨",
+      "summary": "量子不確定性関係を包括的にレビュー。分散型・エントロピー型の両アプローチ、補完性の定義から量子計測・暗号応用まで体系化。"
+    },
+    {
+      "arxiv_id": "2604.09257",
+      "title": "Quadratic Quantum Polarimetry with Entangled Photon Pairs",
+      "authors": [
+        "Jinliang Ren",
+        "Vira Besaga",
+        "Ivan Lopushenko",
+        "Jinyong Ma",
+        "Alexander Bykov",
+        "Igor Meglinski",
+        "Frank Setzpfandt",
+        "Andrey A. Sukhorukov"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.bio-ph",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2604.09257",
+      "abstract": "Conventional polarimetry, including schemes leveraging entangled light, characterizes optical samples through linear transformations of polarization states. We introduce a two-photon probing approach in which both photons of an entangled pair interact with the same depolarizing medium simultaneously. In this regime, the transformation of the two-photon polarization correlations becomes quadratic in the Mueller matrix, enabling access to second-order polarization information beyond conventional polarimetry. We develop a theoretical framework linking the Mueller matrix to the evolution of the two-photon polarization correlation tensor and show that depolarization induces quadratic degradation of entanglement and state purity. Experiments using polarization-entangled photon pairs transmitted through controlled scattering media confirm the predicted response and reveal enhanced sensitivity to polarization scrambling compared with single-photon probing. These results establish two-photon probing as a higher-order quantum polarimetric modality for characterizing polarization channels.",
+      "score": 85,
+      "reason": "🔬 エンタングル光子対による二次量子偏光計測の新手法！両光子が同じ脱偏光媒質と作用し、Muellerマトリクスの2次情報にアクセス✨",
+      "summary": "SPDC生成エンタングル光子対の両光子を同一脱偏光試料に入射し偏光相関の2次変換を測定。線形偏光計では得られない試料情報を抽出する新手法。"
+    }
+  ]
+}

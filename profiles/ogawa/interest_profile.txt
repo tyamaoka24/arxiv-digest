@@ -15,16 +15,10 @@ Core topics:
 - Arrival time problem in quantum mechanics
 - Foundations of quantum mechanics: measurement theory, observable-time duality
 
-Previous research (Super-Kamiokande):
-- Gravitational wave follow-up with neutrino detectors
-- Diffuse Supernova Neutrino Background (DSNB) search
-- Low-energy radioactivity background modeling
-
-arXiv categories: quant-ph, hep-th, gr-qc, astro-ph.HE, hep-ex
+arXiv categories: quant-ph, hep-th, gr-qc
 
 When scoring papers, consider:
 1. Direct overlap with time-energy uncertainty, wave-packet formalism, or quantum speed limits (highest relevance)
 2. Papers by registered collaborators (see private registry) (high relevance)
 3. Foundations of quantum mechanics: time in QM, measurement theory, uncertainty relations (moderate-high relevance)
-4. Super-Kamiokande, neutrino detection, gravitational wave multimessenger (moderate relevance)
-5. General developments in quant-ph or hep-th connecting to the above (lower relevance)
+4. General developments in quant-ph or hep-th connecting to the above (lower relevance)

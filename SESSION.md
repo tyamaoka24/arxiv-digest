@@ -29,6 +29,7 @@
 ### 継続タスク
 
 - [ ] Bluesky / Slack チャンネル追加
+- [ ] ogawa の正しい INSPIRE BAI を確認・登録 (2026-04-14 に homonym 由来の誤 BAI を除去。実 subscriber に BAI があれば `tools/setup_inspire.py` を再実行、無ければ `inspire_id: null` のまま継続)
 
 ### 派生 (2026-04-14 redact の副作用)
 

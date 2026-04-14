@@ -32,7 +32,9 @@
 
 ### 派生 (2026-04-14 redact の副作用)
 
-- [ ] **odakin の主な共同研究者 5 名 (旧 `profiles/odakin/interest_profile.txt` L7 に列挙されていた `共同研究者:` 行の内訳) を `research-collab/collaborators.yaml` に stub 登録**。現状 profile の「see private registry」が実体を指していない。名前の具体は commit 履歴 (2026-04-14 以前の `profiles/odakin/interest_profile.txt`) から取得。1 名について name 漢字表記ゆれが既存 `ogawa` エントリと類似しているため別人/同一人物の確認要
+- [ ] **odakin の主な共同研究者 5 名を `research-collab/collaborators.yaml` に stub 登録**。現状 public profile の「see private registry」が実体を指していない。名前の具体は local backup branch (下記) にのみ残存する pre-redact 版を参照。1 名について漢字表記ゆれが既存 `ogawa` エントリと類似しており別人/同一人物か要確認
+- [ ] **orphan 監視**: 2026-04-14 に public repo の history を force-push で rewrite した。残る orphan 状態のノード (詳細 SHA はここに書かない) を GitHub が自然 GC するまでは SHA 直アクセスで旧内容取得可能。1 ヶ月後に origin での 404 化を確認。監視対象 SHA は local backup branch (下記) の `rev-parse HEAD~n` で復元可能
+- [ ] **local backup branch 削除**: pre-rewrite history を保持するローカルブランチがある (push 済みでない)。上記 orphan 監視完了後に削除
 
 ### 完了
 

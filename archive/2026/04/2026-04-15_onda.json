@@ -1,0 +1,23 @@
+{
+  "total_fetched": 252,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.11068",
+      "title": "Radiatively Corrected Hybrid Inflation: Parameter Scans and Machine Learning with ACT and Future CMB Experiments",
+      "authors": [
+        "Waqas Ahmed",
+        "Saleh O. Allehabi",
+        "Mansoor Ur Rehman"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2604.11068",
+      "abstract": "We investigate a realistic non-supersymmetric hybrid inflation model incorporating right-handed neutrinos and assess its viability in light of recent cosmological observations. One-loop quantum corrections flatten the potential, yielding red-tilted ns < 1 and suppressed r, consistent with Planck and ACT DR6. Efficient reheating and non-thermal leptogenesis via right-handed neutrinos are incorporated. Multi-output random forest classifier achieves 87.5-98.9% accuracy; ~15% of parameter space satisfies current constraints.",
+      "score": 88,
+      "reason": "1ループ補正でns赤傾き→ACT DR6整合、将来CMB実験（LiteBIRD級）でのr制約をMLで探索📡 LiteBIRD科学目標に直結",
+      "summary": "非SUSY型ハイブリッドインフレ+右巻きニュートリノ：量子補正でns<1・r抑制、MLパラメタースキャンで将来CMBの制約予測"
+    }
+  ]
+}

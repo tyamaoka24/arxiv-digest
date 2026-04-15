@@ -1,0 +1,20 @@
+{
+  "total_fetched": 252,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.10339",
+      "title": "Complementary Quantum Time Distributions from a Single Operational Protocol",
+      "authors": [
+        "Mathieu Beau"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.10339",
+      "abstract": "A single operational protocol based on free evolution and projective measurements yields inequivalent quantum time distributions through distinct post-processing procedures. We construct an activity-based time-of-flow (TF) distribution and a presence-based quantum stroboscopic (QS) distribution, providing complementary operational notions of time. Applied to tunneling, the regional QS mean saturates, whereas the TF mean first decreases in the Hartman regime and then grows for larger barrier widths.",
+      "score": 88,
+      "reason": "自由発展＋射影測定の1プロトコルから相補的な2種の量子時刻分布🕐 到着時刻・トンネリング時間問題に直撃",
+      "summary": "フロー時刻（TF）とストロボスコープ（QS）分布を構成、Hartman効果の操作的解釈まで提示する量子時間論の新展開"
+    }
+  ]
+}

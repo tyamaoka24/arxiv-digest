@@ -1,0 +1,59 @@
+{
+  "total_fetched": 252,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.09843",
+      "title": "Induced Multi-phase Inflation with Reheating: Leptogenesis and Dark Matter Production in Metric versus Palatini",
+      "authors": [
+        "Nilay Bostan",
+        "Rafid H. Dejrah",
+        "Anish Ghoshal",
+        "Zygmunt Lalak"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.09843",
+      "abstract": "We study non-minimally coupled scalar-induced multi-phase inflation in metric and Palatini gravity, considering linear, Brans-Dicke-like, and Higgs-like sectors. The scalar spectral index lies in the range n_s ≈ 0.93 -- 0.98, consistent with Planck and combined Planck+ACT data. The tensor-to-scalar ratio can reach r ~ 0.03 in metric, whereas Palatini models generically predict r ≲ 10^{-5}. Reheating proceeds via perturbative inflaton decays into Higgs bosons and fermionic dark matter. Non-thermal leptogenesis via Type-I seesaw is also estimated.",
+      "score": 87,
+      "reason": "metric/Palatini両重力でHiggsライク多段インフレ+DM+非熱的レプトジェネシスを一本で解析🔥 Palatiniはr≪10^-5と全然違う",
+      "summary": "ns≈0.93-0.98でPlanck+ACT整合。non-minimal結合スカラーのmetric/Palatini比較、再加熱→DM/レプト生成まで詳細計算💡"
+    },
+    {
+      "arxiv_id": "2604.11002",
+      "title": "Resonant Leptogenesis in a Two-Triplet Type-II Seesaw: A Dynamical Origin of Suppressed Lepton Flavor Violation",
+      "authors": [
+        "Avinanda Chaudhuri"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.11002",
+      "abstract": "We investigate resonant leptogenesis in a two-triplet Type-II seesaw framework and demonstrate a coherent and predictive connection between neutrino mass generation, baryogenesis, and charge lepton flavor violation (LFV). In the presence of quasi-degenerate scalar triplets, self-energy effects induce a resonant enhancement of the CP asymmetry, enabling successful baryogenesis at the TeV scale. A key prediction: the allowed parameter space dynamically favors small Yukawa couplings, leading to strongly suppressed LFV rates.",
+      "score": 86,
+      "reason": "2トリプレットType-IIシーソーでTeVスケール共鳴レプトジェネシス🧬 LFV抑制がバリオン生成の必然的帰結という予言が鋭い",
+      "summary": "準縮退トリプレットの自己エネルギーでCP非対称性共鳴増大→バリオン数生成とLFV抑制が統一的・予言的に結びつく🔬"
+    },
+    {
+      "arxiv_id": "2604.11503",
+      "title": "Arbitrary-Velocity Volkov Wavepackets",
+      "authors": [
+        "D. Ramsey",
+        "J. McKeown",
+        "J. P. Palastro"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.11503",
+      "abstract": "The evolution of a charged lepton in the field of an electromagnetic plane wave can be described as a superposition of Volkov states. Here we demonstrate that imposing specific momentum correlations among Volkov states produces a spatiotemporally structured wavepacket whose probability-density peak travels at an arbitrary, tailored velocity. This velocity can be chosen independently of both the field amplitude and the velocity expectation value.",
+      "score": 87,
+      "reason": "Volkov状態の運動量相関で任意速度の時空間波束を構成🌊 波束形式をQFT/強場QEDに接続する新アプローチ！",
+      "summary": "EMプレーン波中の荷電レプトン：Volkov状態に特定の運動量相関→確率密度ピークが任意速度で伝播する構造化波束✨"
+    }
+  ]
+}

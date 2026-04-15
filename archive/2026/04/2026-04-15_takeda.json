@@ -1,0 +1,22 @@
+{
+  "total_fetched": 252,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.10886",
+      "title": "The non-local Hong-Ou-Mandel effect",
+      "authors": [
+        "Yuki Kodama",
+        "Jonte R. Hance",
+        "Holger F. Hofmann"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.10886",
+      "abstract": "Two-photon interference effects arise because photons are indistinguishable particles. In the wellknown Hong-Ou-Mandel (HOM) effect, the transmission of two photons at a beam splitter interferes destructively with the reflection of both photons. Here, we show that the interference between locally propagating photons and photons exchanged by a mode swap can be implemented by post-selecting spatially separated photon outputs of a four-path interferometer. Even though the photons detected at spatially separated locations must have travelled along paths that never met up at the same beam splitter, the Hong-Ou-Mandel effect can be observed in correlations between the output ports.",
+      "score": 88,
+      "reason": "HOMの非局所版！🔬 4経路干渉計で空間的に離れた2光子もHOM相関を示す—線形光学とエンタングルメント生成の基本関係を確立",
+      "summary": "ビームスプリッターで合流しない光子間でもHOM効果が実現可能。非局所出力モードの相関が2光子干渉の新地平を開く"
+    }
+  ]
+}

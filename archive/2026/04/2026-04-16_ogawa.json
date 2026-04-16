@@ -1,0 +1,23 @@
+{
+  "total_fetched": 196,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.12410",
+      "title": "Notes on some inequalities, resulting uncertainty relations and correlations. 1. General mathematical formalism",
+      "authors": [
+        "Krzysztof Urbanowski"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph",
+        "math.FA",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2604.12410",
+      "abstract": "We analyze the Schwarz inequality and its generalizations, as well as inequalities resulting from the Jensen inequality. They are used in quantum theory to derive the Heisenberg-Robertson (HR) and Schroedinger-Robertson (SR) uncertainty relation for two non-commuting observables and their generalizations to three or more non-commuting observables. Jensen's inequality, in turn, is helpful in deriving various the \"sum uncertainty relations\" for two or more observables. Using these inequalities, we derive various types of generalized uncertainty relations for more than two non--commuting observables and analyze their properties and critical points. We also study the connections between the generalizations of the HR and SR uncertainty relations for two and more observables and the correlations of these observables in the state of the quantum system under study. In this analysis, we pay special attention to the consequences of the generalized SR uncertainty relation for three non--commuting observables on their correlations in a given state of a quantum system and to the connections of this relation with the appropriate correlation matrix, whose matrix elements are the quantum versions of the Pearson coefficient. We show also that the SR uncertainty relation (including the generalized ones) can be written in an equivalent way using these Pearson coefficients.",
+      "score": 92,
+      "reason": "HR/SR不確定性関係をSchwarz・Jensen不等式から体系的に導く数理論文✨ 時間エネルギー不確定性の理論基盤に直結🎯 今後の系列論文にも注目😊",
+      "summary": "量子相関を含む不確定性関係の統一的定式化。純粋・混合状態双方を網羅し数学的厳密性と物理的直観を両立💡"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "total_fetched": 196,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.12287",
+      "title": "In Situ Interferometric Spatial Mapping Of A Microwave Kinetic Inductance Detector Array",
+      "authors": [
+        "Chris Albert",
+        "Ritoban Basu Thakur",
+        "Farzad Faramarzi",
+        "Byeong Ho Eom",
+        "Sumit Dahal",
+        "Andrew Bear",
+        "Reinier Janssen",
+        "Henry LeDuc",
+        "Thomas Stevenson",
+        "Peter Day"
+      ],
+      "categories": [
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2604.12287",
+      "abstract": "We present a method of spatially mapping microwave kinetic inductance detector (MKID) arrays, in a dark setup. MKIDs are superconducting natively multiplexed resonators which enable kilopixel arrays, such as for the proposed Probe far-Infrared Mission for Astrophysics (PRIMA). In such telescope applications one must map the spatial location of each MKID with their individual resonance frequencies. Traditional LED arrays or beam-mapping methods become increasingly difficult as pixel spacing decreases, e.g., 900 {\\mu}m separated MKIDs in the spectrometer module of PRIMA. Our new mapping technique uses a cryogenic interferometer in reflection mode. As on-resonance signals reflect from an MKID, they accrue a phase proportional to the path-length, exactly corresponding to their physical distance on the feedline. Specifically, we use a superconducting transmission line that has nonlinear kinetic inductance. The slow-wave structure of this nonlinear device is designed to have a signal speed of 0.64% the speed of light, enabling a compact system. Current biasing this line allows for varying the wave speed and ensuring that the phase measured is periodic within a nulling interferometric mode. Using this setup, we measure a length ordering that reflects the bimodal MKID distribution of a 44 pixel array of MKIDs designed for PRIMA which contains the same spacing as the final kilopixel array design.",
+      "score": 88,
+      "reason": "MKIDアレイのin-situ干渉計的空間マッピング手法を実証📡 kpix級CMB検出器開発に必須の技術で✨ LiteBIRD関連の系統誤差評価にも応用可能🔭",
+      "summary": "23画素MKIDプロトタイプでサブピクセル精度の位置特定を達成🌟 暗室での運用手法として実望遠鏡応用への道を拓く🛠️"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "total_fetched": 196,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.12687",
+      "title": "Graviton Production from Inflaton Condensate: Boltzmann vs Bogoliubov",
+      "authors": [
+        "Chenhuan Wang",
+        "Yong Xu",
+        "Wenbin Zhao"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2604.12687",
+      "abstract": "We study graviton production from an oscillating inflaton condensate during reheating by systematically comparing Boltzmann and Bogoliubov descriptions for inflaton potentials of the form $V(\\phi)\\propto\\phi^n$ around the minimum. The Bogoliubov framework provides a unified description of graviton production, capturing both perturbative and non-perturbative effects across short and long wavelengths, whereas the Boltzmann approach is restricted to perturbative production at short wavelengths. For the quadratic case ($n=2$), we find that the two approaches yield identical graviton spectra at short wavelengths, indicating that the Boltzmann treatments fully captures perturbative gravitational production in this regime. For steeper potentials ($n>2$), however, we identify a sizable contribution arising from the non-adiabatic transition between inflation and reheating. This component is naturally incorporated in the Bogoliubov formalism but absent in the Boltzmann description, and we show that it is important over a broad range of momenta. We derive analytic approximations within both frameworks that clarify the physical origin and scaling behavior of the spectrum. Our results delineate the regime of validity of Boltzmann approaches and show that, for steeper inflaton potentials, graviton production is governed by non-adiabatic transition dynamics for which the Bogoliubov formalism provides the most appropriate description.",
+      "score": 90,
+      "reason": "🔥再加熱期のインフラトン凝縮からの重力子生成をボルツマン📊 vs ボゴリューボフ🧮の二枠組みで系統比較✨ Higgs インフレの重力的生成研究に直撃💥",
+      "summary": "V(φ)∝φⁿ型ポテンシャルで再加熱期を解析🌊 ボゴリューボフ法が非断熱補正込みでより精密な重力子収量を予測💫"
+    },
+    {
+      "arxiv_id": "2604.12410",
+      "title": "Notes on some inequalities, resulting uncertainty relations and correlations. 1. General mathematical formalism",
+      "authors": [
+        "Krzysztof Urbanowski"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph",
+        "math.FA",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2604.12410",
+      "abstract": "We analyze the Schwarz inequality and its generalizations, as well as inequalities resulting from the Jensen inequality. They are used in quantum theory to derive the Heisenberg-Robertson (HR) and Schroedinger-Robertson (SR) uncertainty relation for two non-commuting observables and their generalizations to three or more non-commuting observables. Jensen's inequality, in turn, is helpful in deriving various the \"sum uncertainty relations\" for two or more observables. Using these inequalities, we derive various types of generalized uncertainty relations for more than two non--commuting observables and analyze their properties and critical points. We also study the connections between the generalizations of the HR and SR uncertainty relations for two and more observables and the correlations of these observables in the state of the quantum system under study. In this analysis, we pay special attention to the consequences of the generalized SR uncertainty relation for three non--commuting observables on their correlations in a given state of a quantum system and to the connections of this relation with the appropriate correlation matrix, whose matrix elements are the quantum versions of the Pearson coefficient. We show also that the SR uncertainty relation (including the generalized ones) can be written in an equivalent way using these Pearson coefficients.",
+      "score": 89,
+      "reason": "📐Heisenberg-Robertson🔬とSchroedinger-Robertson🧮の不確定性関係をSchwarz・Jensen不等式から系統的に導出✨ 波束研究の数学的基盤として必携📚🎓",
+      "summary": "量子相関を含む不確定性関係の体系的定式化💡 純粋・混合状態を統一的に扱い実用的不等式を導く🔭"
+    },
+    {
+      "arxiv_id": "2604.11877",
+      "title": "Generalized symmetries and emergence in axion effective field theories",
+      "authors": [
+        "Dan Sehayek",
+        "Nathaniel Craig"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.11877",
+      "abstract": "We study the phenomenological consequences of higher symmetry structures in axion effective field theories. Higher-group and non-invertible symmetries impose parametric constraints on the energy scales at which different symmetries can emerge in the infrared, providing a guide to the ultraviolet physics. We clarify and analyze these emergence constraints in axion EFTs coupled to abelian and non-abelian gauge bosons, with and without charged matter. We show that emergence constraints are universally saturated by anomaly inflow onto topological defects, while in perturbative UV completions they are supererogatory owing to the parametric separation of scales.",
+      "score": 87,
+      "reason": "🪐アクシオンEFTの高次群⚗️・非可逆対称性🔄の現象論帰結を解析✨ アクシオンDMのエネルギースケール制約🎯に新視点💡",
+      "summary": "高次群対称性がアクシオンEFTのスケールに定量的制約を課す🔭 観測可能予言につながる補正の解析枠組みを構築🛠️"
+    },
+    {
+      "arxiv_id": "2604.12844",
+      "title": "Operator Identification in Charged Lepton-Flavor Violation: Global EFT Analysis with RG Evolution, Polarization Observables, and Bayesian Model Discrimination at Future Colliders",
+      "authors": [
+        "Nicol'as Viaux M"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.12844",
+      "abstract": "Charged lepton-flavor violation is a null-test frontier of the Standard Model and a direct probe of physics beyond it. We present a global effective field theory (EFT) analysis across FCC-ee, ILC, CLIC, HL-LHC, HE-LHC, and muon colliders at 3 and 10 TeV, with operator identification as the primary target rather than exclusion reach alone. The analysis combines low-energy constraints, collider differential observables, and Dalitz-level $\\mu\\to 3e$ information in a common profile-likelihood framework. Key hadron-collider and muon-collider signal/background samples are generated at event level and propagated through Delphes detector simulation, while clean $e^+e^-$ benchmark channels are modeled with CDR-calibrated parametric response. We include one-loop renormalization-group (RG) running and operator mixing between UV matching and measurement scales, finding 10--30\\% shifts in selected operator-correlation entries when comparing tree-level and RG-evolved coefficient mappings at multi-TeV matching scales. Polarization asymmetries are used to separate $c_{H\\ell}$ and $c_{He}$ directions, and UV discrimination is quantified with Bayes factors for benchmark leptoquark and heavy-neutral-lepton hypotheses. The full code chain for event generation, detector response, inference, and figure reproduction is provided.",
+      "score": 87,
+      "reason": "⚡荷電LFVをEFTで横断解析🔬 ベイズ型モデル識別🎲を組み込み💯 BSM現象論×ベイズ統計✨の交差点で将来加速器🚀での識別可能性を探る🔭",
+      "summary": "FCC-ee/ILC/CLICでのLFV観測量をRG進化込みで全面解析🌟 偏極依存性でWilson係数の縮退を解消💡"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "total_fetched": 169,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.13375",
+      "title": "Photoemission and absorption under coherent and entangled-photon-pair illumination",
+      "abstract": "The phenomena of subthreshold photoemission and absorption under coherent and entangled-photon-pair illumination are reviewed, and the generation and properties of entangled-photon pairs are surveyed. Three prominent forms of subthreshold photoemission are examined: one-photon Fermi-tail photoemission (FTP), two-photon photoemission (TPP), and entangled-two-photon photoemission (ETPP). Experimental methods for measuring subthreshold photocurrents and photoelectron count rates are discussed, along with strategies for enhancing selected contributions. Experimental observations of FTP from a CsK$_2$Sb photocathode in a photomultiplier tube (PMT), under both coherent and entangled-photon-pair illumination, are reviewed, and the role of FTP as a noise source in two-photon measurements is elucidated. TPP from Na and CsK$_2$Sb photocathodes in a PMT under classical-light illumination is considered, as are TPP and ETPP from a CsK$_2$Sb photocathode in a channel photomultiplier (CPM) under coherent and entangled-photon-pair illumination. The observation of ETPP is facilitated by the use of a CPM, which suppresses FTP, and by low-intensity illumination, which minimizes TPP. Quantum models of TPP and ETPP accord well with experiment. Entangled-two-photon absorption (ETPA) is analyzed, as are its applications in entangled-two-photon fluorescence microscopy (ETPFM) and entangled-two-photon spectroscopy (ETPS). The three principal forms of subthreshold absorption parallel those of subthreshold photoemission: singleton-induced Boltzmann-tail absorption; cousin-induced/singleton-pair-induced two-photon absorption; and twin-induced ETPA. Heuristic particle and fully quantum models of these processes are compared, and experimental studies of ETPA and ETPFM, together with methods for enhancing their observability, are summarized.",
+      "authors": [
+        "Malvin Carl Teich",
+        "Mark C. Booth",
+        "Francesco Lissandrin",
+        "Bahaa E. A. Saleh"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2604.13375",
+      "score": 92,
+      "reason": "コヒーレント光とSPDC由来のもつれ光子対による光電子放出・吸収を体系的レビュー。波束形式との接続に直結！📡✨",
+      "summary": "一光子Fermi-tail放出、2光子放出、もつれ2光子放出の3形式を実験手法とともに分類。サブ閾値光電流測定の枠組みを整理。🔬"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "total_fetched": 169,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.13674",
+      "title": "Axion Inflation from Heavy-Fermion One-Loop Effects",
+      "abstract": "We derive a one-loop effective description of axion inflation by integrating out a heavy Dirac fermion with an inflaton-dependent complex mass undergoing a smooth localized threshold transition. The threshold induces correlated corrections to the inflaton and gauge sectors, including a Coleman-Weinberg term, a vacuum-polarization correction, and an anomaly-induced Chern-Simons coupling. Together, these effects transiently enhance and localize gauge-field production, generating a chiral stochastic gravitational-wave background in the deci-hertz band within the projected sensitivities of BBO and DECIGO, while remaining below representative primordial-black-hole bounds.",
+      "authors": [
+        "Kai-Ge Zhang",
+        "Jian-Feng He",
+        "Chengjie Fu",
+        "Zong-Kuan Guo"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.13674",
+      "score": 85,
+      "reason": "重いフェルミオンをintegrate outしたアクシオンインフレ1ループ有効理論がキラル確率的GW背景を予言。LiteBIRDの原始GW探索に関わる新テンソルスペクトル🎯🌌",
+      "summary": "Chern-Simons結合でゲージ場が局所増幅→キラルGW生成。非標準テンソルスペクトル形状はCMB Bモード観測との組み合わせで検証可能。🔭"
+    }
+  ]
+}

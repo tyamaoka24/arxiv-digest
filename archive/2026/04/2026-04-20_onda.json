@@ -1,0 +1,44 @@
+{
+  "total_fetched": 188,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.15194",
+      "title": "Dilaton-Flattened Axion Inflation",
+      "authors": [
+        "Pirzada",
+        "Ali Muhammad",
+        "Tianjun Li",
+        "Imtiaz Khan",
+        "Mussawir Khan"
+      ],
+      "categories": [
+        "hep-ph",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.15194",
+      "abstract": "We present a solvable same-sector effective theory for anomaly-inspired axion inflation, in which a heavy trace-anomaly mode dynamically backreacts on the axion potential. The tree-level elimination of the radial field resums the backreaction into a closed-form Lambert-$W$ potential, naturally flattening the hilltop potential without external plateau operators. By deriving the exact trough metric, we evaluate all the observables on the fully reduced one-field action, bypassing uncontrolled kinetic approximations. Calibrated at $N_\\star=56$, reheating-compatible branches yield $r\\simeq0.033$--$0.036$ and $\\alpha_s\\simeq-(4.6$--$4.7)\\times10^{-4}$, comfortably satisfying the current ACT/SPT/BICEP constraints. The evolution remains strictly adiabatic ($m_\\perp^2/H^2\\gtrsim6.1$, $\\Omega/H\\lesssim7.6\\times10^{-4}$) with negligible sound-speed and metric corrections. We provide analytic control over the constant-$w_{\\rm eff}$ reheating map, the $N_{\\rm re}=0$ boundary, and robustness against vacuum-offset deformations. This Lambert-$W$ backbone establishes a precise, deformable benchmark for confining axion inflation, with microscopic matching and reheating microphysics accessible as systematic EFT refinements.",
+      "score": 88,
+      "reason": "アキシオンインフレーションの予言 r≈0.033–0.036 が ACT/SPT/BICEP 制約を余裕でクリア。LiteBIRD感度圏（r〜0.001）より大きいが、現世代実験と整合するベンチマーク模型として有用🌟📡",
+      "summary": "Lambert-Wポテンシャルで1フィールドに帰着したアキシオンインフレーション。N*=56でr≃0.033–0.036、αs≃−4.7×10^−4。断熱条件と整合し、リヒーティングマップも解析的に制御。"
+    },
+    {
+      "arxiv_id": "2604.14659",
+      "title": "Constraining Quintessential Inflation with ACT: A Gauss-Bonnet Gateway",
+      "authors": [
+        "Yogesh",
+        "Imtiyaz Ahmad Bhat",
+        "Mayukh R. Gangopadhyay",
+        "M. Sami"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.14659",
+      "abstract": "Recent results from the Atacama Cosmology Telescope (ACT), indicating a higher and more tightly constrained scalar spectral index, $n_s = 0.9743 \\pm 0.0034$, place several inflationary models under tension, with quintessential inflation pushed close to or beyond the $2\\sigma$ boundary in the $r$--$n_s$ plane. In this work, we revisit quintessential inflation within the framework of Einstein--Gauss--Bonnet (EGB) gravity, where a scalar field non-minimally coupled to the Gauss--Bonnet invariant modifies the inflationary dynamics.\nWe consider three representative coupling functions -- exponential, hyperbolic secant, and hyperbolic tangent -- and show that the exponential and sech-type couplings can shift the predicted values of $r$ and $n_s$ into the $1\\sigma$ region allowed by ACT, thereby restoring consistency with observations. In contrast, the tanh-type coupling remains disfavored, underscoring the sensitivity of inflationary observables to the coupling structure.\nWe further investigate the reheating phase using a model-independent parametrization and demonstrate that viable thermal histories can be realized even in the absence of a potential minimum, with reheating temperatures consistent with Big Bang nucleosynthesis bounds. Overall, our analysis shows that EGB corrections provide a viable and robust extension that reconciles quintessential inflation with current precision cosmological data, and we identify the corresponding allowed parameter space.",
+      "score": 87,
+      "reason": "ACT新測定 ns=0.9743±0.0034 でquintessential inflation が2σ境界に追い込まれた状況をEinstein-Gauss-Bonnet補正で救済。指数型・sech型結合が r–ns を1σ内に移動させることを実証🔭✅",
+      "summary": "EGB補正のある3種の結合関数を比較。指数型とsech型がACT制約と整合し、tanh型は棄却。リヒーティング解析でBBNと整合する熱的履歴が実現。ns-rの観測制約解析として有用な枠組み。"
+    }
+  ]
+}

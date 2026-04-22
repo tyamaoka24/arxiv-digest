@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-22",
+  "total_fetched": 250,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.17767",
+      "title": "Measurement-defined control of single-particle interference",
+      "authors": [
+        "Tai Hyun Yoon"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2604.17767",
+      "abstract": "Interference is conventionally attributed to path-accumulated phase differences, with measurement treated as a passive readout. Here we demonstrate that single-particle interference is governed by the relative phase between the prepared quantum state and the detector-defined measurement basis -- a joint quantity that is operationally inaccessible in any conventional interferometer. Using coherently seeded entangled nonlinear biphoton sources, we show that independently scanning the pump phase difference, the seed phase difference, or the signal interferometric phase each produces identical sinusoidal fringes ($V\\approx0.99$) -- a three-scan equivalence impossible in any two-mode interferometer. The fringe visibility is continuously controlled through the idler-state overlap, directly encoding quantum distinguishability without idler detection. The same measurement-defined interference law persists from the single-photon to the high-flux regime. The bright-dark collective-state structure demonstrated here unifies coherent population trapping and electromagnetically induced transparency in atomic $\\Lambda$-systems, discrete photonic interference, and single-slit diffraction within a common framework differing only in dark-subspace dimensionality, establishing measurement-defined photonic modes as a fundamental resource for quantum photonics.",
+      "score": 88,
+      "reason": "単一粒子干渉が経路位相差でなく「準備状態と測定基底の相対位相」で支配されることを実証 🔬✨ 干渉とmeasurementの関係を根本から再定義する研究",
+      "summary": "コヒーレント光で干渉縞の可視度・位相を測定演算子の定義のみで制御し、干渉の測定依存性を実験実証 🌊"
+    },
+    {
+      "arxiv_id": "2604.17723",
+      "title": "Poling-free Spontaneous Parametric Down Conversion without for Silicon Carbide and Lithium Niobate photonics",
+      "authors": [
+        "Tim F. Weiss",
+        "Hamed Arianfard",
+        "Yang Yang",
+        "Alberto Peruzzo"
+      ],
+      "categories": [
+        "physics.optics",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.17723",
+      "abstract": "State-of-the-art photon sources based on spontaneous parametric down-conversion (SPDC) currently rely on artificial structuring of the material nonlinearity to satisfy phase-matching conditions. This technique, known as periodic poling, is available only in a limited number of material platforms and introduces additional fabrication steps and errors, which are detrimental to up-scaling efforts. Here, we present a device architecture that enables SPDC of a wide range of frequencies without the need for periodic poling. We present explicit designs and calculations for 4H Silicon Carbide on-insulator, in which SPDC photon generation is so far unavailable, and thin-film Lithium Niobate on-insulator, a state-of-the-art quantum photonics platform. Our design, based on mode conversion and subsequent modal phase-matched SPDC, facilitates a CMOS compatible $\\chi^{(2)}$ platform, and simplifies photon sources by removing the requirement of periodic poling and the associated additional fabrication complexity.",
+      "score": 86,
+      "reason": "ポーリング不要SPDC実現：SiCとニオブ酸リチウム光子対光源の製造エラーを大幅削減 💎🔬 量子もつれ光子対生成の実用化を加速する重要進展",
+      "summary": "モード構造で位相整合条件を満たすポーリング不要SPDCを理論・実験で実証し、複数プラットフォームへの展開可能性を示す ⚗️"
+    }
+  ]
+}

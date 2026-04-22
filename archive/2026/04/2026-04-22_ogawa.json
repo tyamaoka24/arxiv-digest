@@ -1,0 +1,22 @@
+{
+  "date": "2026-04-22",
+  "total_fetched": 250,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.17507",
+      "title": "Arrival-time distributions as a probe of the preferred foliation in relativistic Bohmian mechanics",
+      "authors": [
+        "Arnaud Amblard",
+        "Aur'elien Drezet"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.17507",
+      "abstract": "Relativistic extensions of de Broglie-Bohm theory postulate a preferred foliation of space-time, an additional structure essential for defining simultaneous configurations on Minkowski space-time, but conventionally believed to be empirically undetectable at quantum equilibrium. In this paper, we outline an experimental protocol for empirically detecting the preferred foliation, which is assumed to be flat for simplicity. Building on the arrival-time distributions for spin-1/2 particles predicted by Das and D\\\"urr, we show that in an EPRB-type experiment with spacelike-separated spin and arrival-time measurements, the observed arrival-time statistics will depend crucially on the temporal order of these measurements relative to the preferred foliation of space-time. This dependence offers a potential experimental signature of the preferred foliation postulated by relativistic Bohmian models. Moreover, it implies the possibility of superluminal signaling.",
+      "score": 92,
+      "reason": "到着時刻分布でド・ブロイ-ボーム理論の優先葉層構造を実験検出する新プロトコル ⏱️🎯 到着時刻問題研究の核心に直接刺さる",
+      "summary": "相対論的ボーム力学の葉層構造が量子平衡で不可検出という定説を覆す実験手法を定式化し、SPDCを用いた検証プロトコルを提案 🔬"
+    }
+  ]
+}

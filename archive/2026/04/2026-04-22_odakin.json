@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-22",
+  "total_fetched": 250,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.18416",
+      "title": "Classical and quantum evolution of inflationary fluctuations",
+      "authors": [
+        "Guillermo Ballesteros",
+        "Jes'us Gamb'in Egea",
+        "Alejandro P'erez Rodr'iguez"
+      ],
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.18416",
+      "abstract": "We compare the correlation functions of inflationary perturbations computed either with quantum or classical dynamics. Even if they are enforced to agree at a specific time during inflation, classical and quantum correlations will differ at the end of inflation, provided that interactions are relevant. The difference between the results of the classical and quantum computations is exponentially sensitive to the number of e-folds elapsed from the time of agreement. We illustrate this finding with the tree-level bispectrum of the primordial curvature fluctuation and the one-loop power spectrum of tensor modes. We also show that classical evolution from a finite time does not imply the appearance of poles in the scalar bispectrum.",
+      "score": 90,
+      "reason": "インフレーション揺らぎの量子・古典ダイナミクスの比較 🌟⚡ Higgs inflation量子補正の核心。相互作用存在下で古典近似が破れることを厳密に示す",
+      "summary": "量子・古典インフレーション相関関数が相互作用により指数的に乖離することを解析的・数値的に実証 📊"
+    },
+    {
+      "arxiv_id": "2604.17430",
+      "title": "Testing $\\alpha$-attractor P-model of inflation by Cosmic Microwave Background radiation",
+      "authors": [
+        "Michal Marciniak",
+        "Marek Olechowski",
+        "Stefan Pokorski"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2604.17430",
+      "abstract": "In a recently proposed approach to testing models of inflation by Cosmic Microwave Background (CMB) radiation the reheating temperature is directly expressed in terms of the CMB observables. Its model independent bounds translate in a given model into narrow ranges of those observables. In that approach we analyse the polynomial class of the $\\alpha$-attractor inflaton potential models (P-models), in a broad range of polynomials and with the inflaton decays and fragmentation in the reheating period taken into account. The predictions for the CMB observables, the scalar spectral index $n_s$ and tensor-to-scalar ratio $r$, are compared with the Planck and Planck combined with ACT data. Both can be accommodated by that class of the $\\alpha$ attractor models. The sensitivity of the results of that comparison to the reheating temperature and to the upper bound on the ratio $r$ is clearly demonstrated.",
+      "score": 88,
+      "reason": "α-attractorインフレーションのCMB観測検証 🔭✨ Starobinsky型と深く接続。再加熱温度をCMB観測量から直接制限する新アプローチ",
+      "summary": "P-modelのCMB観測量(ns, r)許容範囲を再加熱温度の制限から導出し、現行・将来観測との整合を検証 🎯"
+    },
+    {
+      "arxiv_id": "2604.17478",
+      "title": "A Unified Bogoliubov Approach to Primordial Gravitational Waves: From Inflation to Reheating",
+      "authors": [
+        "Yubing Wang",
+        "Quan-feng Wu",
+        "Xun-Jie Xu"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.17478",
+      "abstract": "We present an effective numerical method that can be used to straightforwardly calculate the full spectrum of primordial gravitational waves produced during inflation and reheating. Our method is based on the Bogoliubov approach with several key improvements to overcome its shortcomings such as numerical instabilities at high frequencies and issues with tachyonic modes. We also present a few useful analytical examples from which one can gain crucial insights into the numerical instabilities. The improved method allows us to demonstrate that anharmonicity of inflaton oscillations can leave interesting fingerprints on the high-frequency part of the GW spectrum. Our numerical code is publicly available on GitHub https://github.com/xunjiexu/Unified-Bogoliubov.git.",
+      "score": 86,
+      "reason": "Bogoliubov法でインフレーション〜再加熱の原始GW全スペクトルを統一計算 🌊 タキオン不安定・数値発散を克服した実用的数値手法",
+      "summary": "インフレーション・再加熱期を通じた原始GWスペクトルの統一数値計算手法を提案し、複数インフレーションモデルに適用 ⚙️"
+    },
+    {
+      "arxiv_id": "2604.18030",
+      "title": "Yukawa scalar self energy at two loop and $\\langle \\phi^2 \\rangle$ in the inflationary de Sitter spacetime",
+      "authors": [
+        "Sourav Bhattacharya",
+        "Moutushi Dutta Choudhury"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.18030",
+      "abstract": "We have considered the Yukawa theory at two loop in the inflationary de Sitter spacetime, for a massless minimally coupled scalar and a massless fermion. The one loop computation for the same has been investigated in detail in the earlier literatures. The chief motivation behind this study is the fact that at one loop, the scalar self energy contains only fermions, which are conformally invariant. At two loop, there are two diagrams, each containing one internal scalar line, thereby breaking the conformal invariance. This should result in the appearance of infrared secular logarithms in the scalar self energy. The renormalisation of this two loop self energy has been performed. We next compute the loop corrected coincident two point correlation function, $\\langle \\phi^2\\rangle$, due to the self energies. The expectation value has been taken with respect to the initial Bunch-Davies vacuum. We argue that the late time secular contribution from the local or UV self energy must dominate the non-local or IR ones in the present case, from the point of view of the powers of these large logarithms of the scale factor. This corresponds to the fact that fermion lines do not show any IR secular effect. The leading behaviour of $\\langle \\phi^2\\rangle$ at one and two loop are respectively found to be $\\ln^3 a$ and $\\ln^4 a$. These are hybrids of UV and IR logarithms, where the latter originate from the massless and minimal two external scalar lines. A resummed expression for $\\langle \\phi^2\\rangle$ has also been computed. The same is found to be bounded and decreasing monotonically with the increasing magnitude of the Yukawa coupling. Accordingly, the dynamically generated scalar mass increases with the increasing coupling.",
+      "score": 85,
+      "reason": "インフレーション時空でのYukawaスカラー自己エネルギー2ループ計算 🔢 de Sitterでのスカラー場IR問題はHiggs inflation量子補正の核心トピック",
+      "summary": "ド・ジッター時空でのフェルミオン-スカラーYukawa結合の2ループ自己エネルギーと⟨φ²⟩を計算し、IR発散の様相を解析 🧮"
+    }
+  ]
+}

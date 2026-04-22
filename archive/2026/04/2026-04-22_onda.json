@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-22",
+  "total_fetched": 250,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.18006",
+      "title": "Mapping the CMB with QUBIC spectral imaging",
+      "authors": [
+        "Alexandre Huchet",
+        "Tom Laclav`ere",
+        "Leonora Kardum"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2604.18006",
+      "abstract": "QUBIC, the Q & U Bolometric Interferometer for Cosmology, is a telescope that observes the polarisation of the sky in the millimetre-wavelength range. Its goal is to detect the primordial B-modes of polarisation in the cosmic microwave background by combining the sensitivity of bolometers with the good understanding of interferometry systematics. This dual aspect of QUBIC allows it to perform spectral imaging, that is, obtaining spatial and spectral information of the sky simultaneously. This makes the separation of components with complex spectral energy distributions easier, hence improving the performance of foregrounds removal. We developed three different map making methods (frequency, component and neural network map making) that take advantage of these characteristics. Moreover, QUBIC resumed observing the sky early March and is continuing its commisioning phase with, namely, observations of the Moon.",
+      "score": 90,
+      "reason": "QUBICボロメータ干渉計によるCMBスペクトルイメージング 📡🌌 LiteBIRDと相補的なB-mode探索。干渉計+ボロメータのユニークなシステマティクス制御が参考になる",
+      "summary": "QUBICのspectral imaging能力を活かしたCMBマッピング手法と前景放射分離の現状・展望を包括的に報告 🎨"
+    },
+    {
+      "arxiv_id": "2604.17430",
+      "title": "Testing $\\alpha$-attractor P-model of inflation by Cosmic Microwave Background radiation",
+      "authors": [
+        "Michal Marciniak",
+        "Marek Olechowski",
+        "Stefan Pokorski"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2604.17430",
+      "abstract": "In a recently proposed approach to testing models of inflation by Cosmic Microwave Background (CMB) radiation the reheating temperature is directly expressed in terms of the CMB observables. Its model independent bounds translate in a given model into narrow ranges of those observables. In that approach we analyse the polynomial class of the $\\alpha$-attractor inflaton potential models (P-models), in a broad range of polynomials and with the inflaton decays and fragmentation in the reheating period taken into account. The predictions for the CMB observables, the scalar spectral index $n_s$ and tensor-to-scalar ratio $r$, are compared with the Planck and Planck combined with ACT data. Both can be accommodated by that class of the $\\alpha$ attractor models. The sensitivity of the results of that comparison to the reheating temperature and to the upper bound on the ratio $r$ is clearly demonstrated.",
+      "score": 88,
+      "reason": "α-attractorインフレーションのCMB観測検証 🎯🌟 テンソルスカラー比rの観測窓としてLiteBIRDの科学目標に直結するパラメータ制限",
+      "summary": "CMB観測量から再加熱温度を制限し、P-modelの許容パラメータ(ns, r)の範囲を導出して現行観測との整合を検証 📊"
+    },
+    {
+      "arxiv_id": "2604.17478",
+      "title": "A Unified Bogoliubov Approach to Primordial Gravitational Waves: From Inflation to Reheating",
+      "authors": [
+        "Yubing Wang",
+        "Quan-feng Wu",
+        "Xun-Jie Xu"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.17478",
+      "abstract": "We present an effective numerical method that can be used to straightforwardly calculate the full spectrum of primordial gravitational waves produced during inflation and reheating. Our method is based on the Bogoliubov approach with several key improvements to overcome its shortcomings such as numerical instabilities at high frequencies and issues with tachyonic modes. We also present a few useful analytical examples from which one can gain crucial insights into the numerical instabilities. The improved method allows us to demonstrate that anharmonicity of inflaton oscillations can leave interesting fingerprints on the high-frequency part of the GW spectrum. Our numerical code is publicly available on GitHub https://github.com/xunjiexu/Unified-Bogoliubov.git.",
+      "score": 87,
+      "reason": "インフレーション〜再加熱の原始GWスペクトル統一数値計算 🌊📡 LiteBIRDの探索対象r~10⁻³領域の理論側インフラとして必読",
+      "summary": "Bogoliubov法でタキオン不安定性問題を克服し、インフレーション・再加熱期の原始GW全スペクトルを計算する実用的手法を提案 ⚙️"
+    },
+    {
+      "arxiv_id": "2604.16901",
+      "title": "Cosmoglobe: Mapping the Universe from the Milky Way to the Big Bang",
+      "authors": [
+        "Ana Isabel Silva Martins",
+        "Cosmoglobe Collaboration"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2604.16901",
+      "abstract": "The Cosmoglobe project is a global effort to jointly analyze complementary cosmological and astrophysical datasets, in order to better understand our Universe and its evolution. This paper describes the goals and motivations of the project, some of the main results and future prospects.",
+      "score": 86,
+      "reason": "Cosmoglobe統合解析：多観測装置データでCMBマップと前景を同時推定 🌍✨ LiteBIRD解析に直結するコンポーネント分離・foreground除去インフラ",
+      "summary": "Cosmoglobeの統合ベイズ解析パイプラインの目標・主要成果・将来展望を概説。LiteBIRDデータ解析の基盤技術 🔭"
+    },
+    {
+      "arxiv_id": "2604.18416",
+      "title": "Classical and quantum evolution of inflationary fluctuations",
+      "authors": [
+        "Guillermo Ballesteros",
+        "Jes'us Gamb'in Egea",
+        "Alejandro P'erez Rodr'iguez"
+      ],
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.18416",
+      "abstract": "We compare the correlation functions of inflationary perturbations computed either with quantum or classical dynamics. Even if they are enforced to agree at a specific time during inflation, classical and quantum correlations will differ at the end of inflation, provided that interactions are relevant. The difference between the results of the classical and quantum computations is exponentially sensitive to the number of e-folds elapsed from the time of agreement. We illustrate this finding with the tree-level bispectrum of the primordial curvature fluctuation and the one-loop power spectrum of tensor modes. We also show that classical evolution from a finite time does not imply the appearance of poles in the scalar bispectrum.",
+      "score": 85,
+      "reason": "インフレーション揺らぎの量子・古典ダイナミクスの定量的差異 📊 原始スペクトルの理論精度向上としてLiteBIRDの科学解釈に関連",
+      "summary": "量子相互作用効果によるインフレーション相関関数の古典近似からの逸脱が指数的に顕在化することを実証 ⚡🌌"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "total_fetched": 160,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.18760",
+      "title": "A universal complementarity identity for polarized double-slit interferometry",
+      "authors": [
+        "Jos'e J. Gil"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2604.18760",
+      "abstract": "We establish an exact identity among four dimensionless invariants accessible by standard polarimetric and interferometric measurements in a polarized double-slit experiment: the in-phase and quadrature components V_A and V_N of fringe visibility, the path predictability P, and the mixedness I of the path-reduced state satisfy V_A^2 + V_N^2 + P^2 + I^2 = 1. The identity is a universal algebraic consequence of the positivity of the reduced state and holds for every normalized path-polarization density matrix. It unifies the Englert-Greenberger-Yasin and Jakob-Bergou relations, separates the two operationally distinct components of visibility measurable by phase-shifted interferometry, and admits a natural interpretation within the Jaynes maximum-entropy framework: the three path invariants parametrize the minimal exponential family on the accessible algebra, while I^2 emerges as the residual mixedness that saturates the positivity bound. The separation V^2 = V_A^2 + V_N^2 identifies the antisymmetric sector of the coherence matrix rho = A + iN as the specific substrate of phase-sensitive information and permits a sector-resolved diagnosis of environmental coupling.",
+      "score": 92,
+      "reason": "偏光二重スリットで可視度・経路予測可能性・混合度の普遍的代数恒等式を確立✨ 波動-粒子相補性の完全な定量的枠組みが明確に🎯",
+      "summary": "V_A²+V_N²+P²+I²=1という厳密な恒等式を導出。偏光測定と干渉測定でアクセス可能な不変量間の普遍的相補性関係を構築💡"
+    },
+    {
+      "arxiv_id": "2604.19013",
+      "title": "On-demand generation of all four Bell states using a single PPKTP entangled photon source",
+      "authors": [
+        "Gayatri Thik",
+        "Amit Loyal",
+        "Srinivasan K",
+        "Raghavan G"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.19013",
+      "abstract": "We present a compact, automated, high-brightness entangled photon source capable of generating all four Bell states with high fidelity. The system utilizes a type-0 quasi-phase-matched PPKTP crystal embedded within a polarization Sagnac interferometer. We introduce a switching scheme based on the controlled, motorized translation of the nonlinear crystal. This device is capable of generating any one of the Bell states on-demand. Experimentally, we demonstrate that translating the crystal from the interferometer's balanced position repeatedly toggles the state between $|\\phi^+ \\rangle$ and $|\\phi^- \\rangle$ (as well as $|\\psi^+ \\rangle$ and $|\\psi^- \\rangle$) at regular intervals of $122 \\pm 14 ~\\mu m$. Subsequently, a half-wave plate (HWP) in the idler arm transitions between the quantum states $|\\phi^{\\pm}\\rangle$ and $|\\psi^{\\pm}\\rangle$. While the non-collinear geometry imposes an upper limit on the translation range as verified via EMCCD imaging, the source however, displays very little change of intensity in the operational window. State purity and entanglement are certified through quantum state tomography (QST), visibility measurements, Bell state measurements (BSM), and CHSH inequality violations, confirming that the source is robust and provides a repeatable, high-fidelity output.",
+      "score": 88,
+      "reason": "PPKTPを使ったSagnac型単一光源から全4ベル状態をオンデマンド生成✨ 結晶並進スイッチで高忠実度の切り替えを実証🎯",
+      "summary": "type-0 PPKTP + Sagnac干渉計の構成で全ベル状態を自在に選択。高輝度エンタングル光子対源として高フィデリティを達成💡"
+    }
+  ]
+}

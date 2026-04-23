@@ -1,0 +1,43 @@
+{
+  "total_fetched": 160,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.19310",
+      "title": "Extrinsic geometry and Hamiltonian analysis of symmetric teleparallel gravity",
+      "authors": [
+        "Salvatore Capozziello",
+        "Dario Sauro"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2604.19310",
+      "abstract": "We analyze the properties of foliations in presence of non-metricity, deriving the generalized Gauss-Codazzi relations in full generality. These results are employed to study the teleparallel framework of non-metric geometry, obtaining constraints on the extrinsic and intrinsic tensors. In particular, an extrinsic symmetric two-tensor plays the role of the extrinsic curvature in Riemannian geometry, whereas no other geometric object can induce new dynamical degrees of freedom. Furthermore, we analyze the variational principle in presence of non-metricity, obtaining the boundary terms for the well-posed and well-defined Cauchy problem. Finally, we exploit the previous results to construct the Hamiltonian of the symmetric teleparallel equivalent of General Relativity, providing a proof that this theory shares the same number of degrees of freedom with its Riemannian counterpart.",
+      "score": 92,
+      "reason": "対称テレパラレル重力の折葉幾何とハミルトン解析🔥✨ 非計量Gauss-Codazzi関係を一般化し外在的対称2テンソルが曲率代役を担う構造を解明🎯",
+      "summary": "非計量幾何の葉構造を系統的に解析し、テレパラレル枠組みでの内在・外在テンソル制約を導出。対称テレパラレル重力のハミルトン形式を構成🔬"
+    },
+    {
+      "arxiv_id": "2604.19122",
+      "title": "Implications of the First JUNO Results for Dirac Neutrino Texture Zeros",
+      "authors": [
+        "Priya",
+        "Ranjeet Kumar",
+        "Labh Singh",
+        "Surender Verma"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.19122",
+      "abstract": "Motivated by the first oscillation results from JUNO, we study the phenomenological viability of texture zeros in the Dirac neutrino mass matrix. The improved precision on the solar mixing angle $\\sin^2{\\theta_{12}}$ and the solar mass-squared difference $\\Delta m_{21}^2$ provide a stringent probe for scrutinizing predictive texture zero frameworks. We perform a systematic scan of the allowed parameter space for two-zero textures, identifying sharp correlations among oscillation observables arising from the reduced parameter space. Our analysis reveals that current JUNO measurements impose stringent constraints on the viable texture structures. In particular, although textures $C$, $A_2$, and $A_1$ were previously viable, current JUNO data strongly disfavor $C$, leaving only textures $A_2$ and $A_1$ compatible with the data. These findings underscore the remarkable sensitivity of Dirac texture zero scenarios to the solar sector.",
+      "score": 87,
+      "reason": "JUNOの初観測でディラックニュートリノ質量行列のテクスチャゼロを精密検証🔬✨ θ12とΔm21²の改善精度が予測力ある質量行列構造を絞り込む💡",
+      "summary": "JUNO初結果に基づき2ゼロテクスチャの生存率を系統スキャン。太陽混合角・質量二乗差の精密測定がBSMニュートリノ模型に強い制約🎯"
+    }
+  ]
+}

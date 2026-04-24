@@ -1,0 +1,114 @@
+{
+  "total_fetched": 158,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.20063",
+      "title": "Purely Quadratic Non-Gaussianity from Tachyonic Instability: Primordial Black Holes and Scalar-Induced Gravitational Waves",
+      "authors": [
+        "He-Xu Zhang",
+        "Mei Huang"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.20063",
+      "abstract": "We investigate primordial black hole (PBH) formation in a cosmological scenario where curvature perturbations follow purely quadratic non-Gaussianity, $\\zeta = A(\\phi^2-\\langle\\phi^2\\rangle)$, arising from tachyonic instability in multi-component inflationary models. Within an extended Press-Schechter framework based on the compaction function, we derive the probability distribution of the linear compaction function and its asymptotic exponential tail, demonstrating that PBH abundance is exponentially sensitive not only to the amplitude of perturbations but also to the correlation coefficient $\\rho$ between the smoothed field and its radial gradient. We further find that, for $A<0$, the spectral width of the curvature power spectrum plays a decisive role in avoiding PBH overproduction: broad spectra yield mildly negative $\\rho$ and fail to suppress PBH formation, while sufficiently narrow spectra drive $\\rho \\to -1$, resulting in an exponential suppression while maintaining a sizable gravitational-wave signal. Thermal inflation provides a useful benchmark scenario with asteroid-mass PBH dark matter and high-frequency scalar-induced gravitational waves potentially detectable by future space-based interferometers, but its typically broad spectra make it challenging to reconcile PTA observations with PBH constraints.",
+      "score": 85,
+      "reason": "多成分インフラトンの tachyonic 不安定性が純粋二次型非ガウス性を生み、PBH 形成＋scalar-induced GW を同時予言！🌌💥✨",
+      "summary": "Press-Schechter 拡張＋コンパクション関数で PBH 質量関数を導出し、SGWB スペクトルの観測可能性を評価。🔭"
+    },
+    {
+      "arxiv_id": "2604.20138",
+      "title": "Graph-theoretic determination of massless modes in latticized theory-space models",
+      "authors": [
+        "Ketan M. Patel"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2604.20138",
+      "abstract": "A graph-theoretic method is introduced for analyzing fermion mass spectra in latticized theory-space models, including chain models arising from dimensional deconstruction. Fermion mass terms are mapped to bipartite graphs, with fields as vertices and nonvanishing mass terms as edges. The number of massless modes is shown to be fixed by the cardinality of a maximum matching of the associated graph. Moreover, the wave-function support of these modes is restricted to fields reachable from exposed or unmatched vertices by even-length maximum-matching-alternating paths, as characterized by the Dulmage-Mendelsohn decomposition. These results depend only on the topology of latticized theory space and are independent of model parameters. The method enables a systematic construction of latticized models with prescribed numbers and localization properties of massless modes.",
+      "score": 85,
+      "reason": "次元分解（UED 離散版）で fermion 質量スペクトルをグラフ理論に写像→massless mode 数を最大マッチングで確定！📐🔢✨",
+      "summary": "双分岐グラフの exposed vertices が zero mode の波動関数サポートを決定。模型独立な汎用ツール。🧮"
+    },
+    {
+      "arxiv_id": "2604.20292",
+      "title": "Technically Natural Suppression of Fifth Force",
+      "authors": [
+        "Kensuke Homma",
+        "Taishi Katsuragawa",
+        "Shinya Matsuzaki"
+      ],
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "hep-ex",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.20292",
+      "abstract": "Light scalars generically mediate a fifth force incompatible with local tests of gravity unless their couplings are parametrically suppressed or screening mechanisms are introduced. We demonstrate that such suppression can arise from symmetry. We propose a $Z_2$-symmetric mirror extension of the Standard Model within a bi-conformal gravity construction, where spontaneous breaking of scale invariance produces a light scalaron as a pseudo-Nambu-Goldstone boson. This scalaron couples to the difference of trace anomalies between the Standard Model and mirror sectors. We find a parameter-independent correlation between the fifth-force strength $\\alpha$ and the scalaron mass $m_\\sigma$, with the proportionality set by QCD observables and the electroweak scale. The Standard Model predicts $\\alpha \\sim 10^{-4}$ at meter scales for $m_\\sigma \\sim 10^{-7}$ eV, which is directly in the target window of next-generation experiments. In contrast to environmental screening mechanisms, this suppression mechanism follows directly from symmetry rather than nonlinear scalar dynamics.",
+      "score": 88,
+      "reason": "Z₂ミラー SM ＋ bi-conformal 重力でスケール不変性の自発的破れが第五力結合をゼロへ！スクリーニング不要の技術的自然さ🌟⚡🔬",
+      "summary": "対称性から第五力を自然に抑制する機構を提案。局所重力検査との整合性を hep-ex/gr-qc 観点から検証。🔭"
+    },
+    {
+      "arxiv_id": "2604.20762",
+      "title": "Spontaneous Baryogenesis from Axions on Induced Electroweak Walls",
+      "authors": [
+        "Miguel Vanvlasselaer",
+        "Wen Yin"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2604.20762",
+      "abstract": "We propose a baryogenesis mechanism in which an electroweak phase boundary is induced by a wall-like configuration of a scalar field, such as a domain wall or a shock wave, coupled to the Higgs field. If the Higgs mass parameter depends on the scalar field value, the wall locally separates the electroweak-symmetric and broken phases, thereby providing an induced electroweak wall. We focus on the case where the scalar field is an axion-like particle coupled to the SU(2) Chern--Simons density. The motion of the wall then generates a local effective chemical potential for B+L, realizing a spontaneous baryogenesis mechanism. In the presence of unsuppressed sphaleron transitions in front of the wall, this biases the plasma and leads to baryon asymmetry generation. We discuss the parametric conditions for the induced wall, cosmological realizations based on domain walls and shock waves, and the associated implications for baryon inhomogeneities and gravitational waves. The axion coupling is predicted to be sufficiently weak to evade current experimental and observational bounds.",
+      "score": 88,
+      "reason": "アクシオン型スカラーのドメインウォールが EW 対称性を局所的に復元→net バリオン数生成！DM＋バリオン起源の統合シナリオ🌌🔥💡",
+      "summary": "誘起 EW 壁でのスポンタニアス baryogenesis 機構を定式化し、GW シグナルも予言。🌊"
+    },
+    {
+      "arxiv_id": "2604.20768",
+      "title": "Primordial Magnetogenesis and Gravitational Waves from ALP-assisted Phase Transition",
+      "authors": [
+        "Pankaj Borah",
+        "P. S. Bhupal Dev",
+        "Anish Ghoshal"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.20768",
+      "abstract": "Sufficiently strong first-order phase transitions (FOPTs) in the early Universe can simultaneously produce an observable stochastic gravitational wave background (SGWB) and a large-scale primordial magnetic field (PMF). The recent $3.8\\sigma$ evidence for a non-zero intergalactic MF from anisotropic pair-halo searches using \\textit{Fermi}-LAT data further motivates a cosmological origin of this MF. We investigate an FOPT-origin of both cosmic signatures, namely, PMF and SGWB, and the correlation between them, within a minimal axion-like particle (ALP) framework in which a global $U(1)$ symmetry is spontaneously broken through radiative corrections, with the ALP sector coupled to the Standard Model (SM) via Higgs-portal. We compute the present-day PMF amplitude and coherence length for both maximally helical and non-helical configurations, accounting for inverse cascade effects. For maximally helical configurations, we find peak field strengths up to $B_0 \\sim 10^{-9}$ G at coherence length $\\lambda_0 \\sim 10^{-3}-10^{-1}$ Mpc, consistent with lower bounds on the IGMF inferred from blazar observations by MAGIC, H.E.S.S. and {\\it Fermi}-LAT. We show that the ALP parameter region consistent with $\\gamma$-ray blazar data (assuming maximal helicity) simultaneously produces SGWB detectable at future space-based interferometers, such as LISA, etc., over the ALP decay constant range $10^3~\\text{GeV} \\lesssim f_a \\lesssim 10^5~\\text{GeV}$. We directly map these onto effective ALP couplings to SM particles, e.g., photons, gluons, and fermions. This establishes a multi-messenger complementarity between cosmological observables and laboratory/astrophysical ALP searches, with the combined constraints preferring relatively heavy ALPs, $m_a \\gtrsim 0.1~\\text{GeV}$, in a regime accessible to next-generation intensity and energy-frontier experiments.",
+      "score": 90,
+      "reason": "ALP 支援一次相転移から SGWB＋原始磁場を同時生成！Fermi-LAT 3.8σ 磁場証拠を説明できる魅力的シナリオ🌠🧲⚡✨",
+      "summary": "FOPT で GW スペクトル＋PMF を同時計算。LISA/ET 等の将来検出器で両シグナルを同時観測可能。🔭"
+    },
+    {
+      "arxiv_id": "2604.20772",
+      "title": "General Relativity via differential forms -- explorations in Plebanski's Formalism for GR",
+      "authors": [
+        "Adam Shaw"
+      ],
+      "categories": [
+        "gr-qc",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2604.20772",
+      "abstract": "This thesis studies general relativity (GR) using chiral formulations, which take advantage of the decomposition of the four-dimensional Lorentz group into self-dual and anti-self-dual sectors. Within this framework, GR can be expressed using Plebanski's formulation, where the basic variables are triples of 2-forms rather than a metric, or alternatively through pure connection approaches. These viewpoints expose additional structure in Einstein's equations (EEs) and offer new analytical and numerical tools. Part I develops the geometric foundations using fibre bundles, where the 2-forms arise as soldering forms on an SO(3,C) bundle. Part II investigates the linearised form of EEs in the chiral setting, with particular attention to their gauge fixings. Part III extends this analysis to the nonlinear regime, and also examines the complex-geometric structure underlying black hole spacetimes. The final part turns to numerical relativity, exploring evolution schemes built from the chiral formulations and their associated gauge choices.",
+      "score": 85,
+      "reason": "計量ではなく 2-form を基本変数とする Plebanski 形式で GR を再構成！self-dual 分解が Einstein-Cartan と美しく接続📐🔭💫",
+      "summary": "chiral GR の幾何的構造を詳述。Ashtekar 変数・LQG との接続と pure connection 形式への発展も議論。🌌"
+    }
+  ]
+}

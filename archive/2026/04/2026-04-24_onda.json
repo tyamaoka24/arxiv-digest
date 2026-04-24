@@ -1,0 +1,21 @@
+{
+  "total_fetched": 158,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.20699",
+      "title": "Forecasts of CMB $E$-mode anomalies for AliCPT-1",
+      "authors": [
+        "Jiazheng Dou",
+        "Wen Zhao"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2604.20699",
+      "abstract": "The standard $\\Lambda$CDM model has been highly successful in describing cosmic microwave background (CMB) observations. Nevertheless, a set of large-scale statistical anomalies persists in temperature anisotropies across WMAP and Planck. CMB $E$-mode polarization offers an independent probe of these anomalies, circumventing the look-elsewhere effect inherent in temperature-only analyses. In this paper, we forecast the capability of the Ali CMB Polarization Telescope (AliCPT), a ground-based CMB experiment in the Northern Hemisphere, to detect such anomalies in large-scale $E$-mode polarization. Using 1000 unconstrained simulations processed with the NILC component separation method, we evaluate four anomaly estimators: dipole modulation, lack of large-angle correlations, quadrupole-octopole alignment, and point-parity asymmetry. Our analysis considers two noise levels for AliCPT, as well as a joint configuration with Simons Observatory (SO) Large Aperture Telescope (LAT). For dipole modulation, we validate the local variance estimator on modulated simulations with an input amplitude $A_d = 0.07$, and find that the combined AliCPT+SO dataset is likely to detect the injected $E$-mode modulation at a 99% confidence level. Tests of the full suite of anomaly statistics on unconstrained isotropic simulations indicate that AliCPT alone, owing to its limited sky coverage, might introduce systematic biases or enlarged uncertainties, especially for quadrupole-octopole alignment and point-parity asymmetry. The combination with SO largely restores the statistical distributions to those expected in an ideal full-sky scenario, thereby establishing a near-cosmic-variance benchmark for upcoming anomaly investigations.",
+      "score": 87,
+      "reason": "ΛCDM の大角度 CMB 異常を E-mode 偏光で独立検証！AliCPT-1 の感度予報で look-elsewhere 効果を排除📡🌌",
+      "summary": "Temperature anomalies と独立な E-mode anomaly 検出可能性を定量化。将来 B-mode 探索への重要な布石。🔭"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "total_fetched": 127,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.21975",
+      "title": "The Simons Observatory: Improved Cryogenic Struts for use in the Large Aperture Telescope Receiver",
+      "authors": [
+        "John Orlowski-Scherer",
+        "Anna Kofman",
+        "Tanay Bhandarkar",
+        "Mark Devlin",
+        "Saianeesh K. Haridas",
+        "Jeff Iuliano",
+        "Alex Manduca",
+        "Robert J. Thornton"
+      ],
+      "categories": [
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2604.21975",
+      "abstract": "The Simons Observatory Large Aperture Telescope Receiver (SO LATR) is a next generation Cosmic Microwave Background camera equipped with > 60, 000 detectors operating at 100 mK. Maintaining these detectors at the correct temperatures and locations requires stiff, cryogenically insulating struts. In this paper we report the design and performance of a novel glue joint in a strut used in the SO LATR to achieve the required performance. We use a tapped hole and set screw to create a profile on the exterior and interior wall of the glue joint, respectively, which greatly increases the strength of that joint by changing the failure mode from adhesive to cohesive. The failure mode of the resulting glue joint is cohesive with a yield strength 10% higher than a comparable smooth-walled design, and an ultimate strength 33% higher. Comparisons of the measured yield strength to the predicted axial load on the strut from simulations results in a factor of safety for the strut of 7. These struts have been installed in the SO LATR for three years and have undergone numerous thermal cycles from 300 K to 100 mK with no evidence of damage to the glue joint.",
+      "score": 92,
+      "reason": "Simons Observatory LATR の極低温ストラット設計📡 100 mK で 60k 検出器を支える胆力、LiteBIRD 設計にも示唆あり🔧",
+      "summary": "SO LATR の cryogenic insulating strut について新型 glue joint の設計と性能評価。剛性・断熱・軽量化のトレードオフを実測で検証⚙️"
+    },
+    {
+      "arxiv_id": "2604.22075",
+      "title": "CCAT: Silicon-Platelet Feedhorns for Submillimeter Wavelengths",
+      "authors": [
+        "Jason Austermann",
+        "James Beall",
+        "James R. Burgoyne",
+        "Scott Chapman",
+        "Steve Choi",
+        "Cody J. Duell",
+        "Anthony I. Huber",
+        "Johannes Hubmayr",
+        "Matthew A. Koc",
+        "Michael D. Niemack",
+        "Joel N. Ullom",
+        "Jeffrey van Lanen",
+        "Anna Vaskuri",
+        "Michael Vissers",
+        "Jordan Wheeler"
+      ],
+      "categories": [
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2604.22075",
+      "abstract": "Silicon-platelet feedhorn arrays are an established technology at millimeter wavelengths that, for some applications, can provide significant advantages over traditional direct-machined metal feedhorns. The Prime-Cam focal planes operating in the 350 GHz ($\\sim$860 $\\mathrm{\\mu}$m) and 850 GHz ($\\sim$350 $\\mathrm{\\mu}$m) bands are anticipated to carry the first silicon-platelet feedhorn arrays to operate fully at submillimeter wavelengths, representing a significant step forward in the application of this technology. In particular, the feedhorns designed for operation in the 850 GHz band represent a 3x increase in frequency compared to previously demonstrated and deployed devices of this type. Here we present a demonstration of silicon-platelet feedhorns at these submillimeter wavelengths, including in-lab performance characterization. We present fabrication metrology, room-temperature beammaps, and cryogenic optical efficiency measurements where the feedhorns are coupled to prototype CCAT Prime-Cam detectors. We show that feedhorn performance measurements are well matched to simulation and compare that performance directly to traditional, direct-machined metal feedhorns.",
+      "score": 90,
+      "reason": "CCAT Prime-Cam 用シリコンプレート feedhorn を 350/850 GHz 帯へ🦒 sub-mm 領域での量産設計は LiteBIRD 高周波バンドにも参考",
+      "summary": "Si-platelet feedhorn を sub-mm 帯へ初適用。Prime-Cam 焦点面向けに性能・clustering を評価しビーム特性を確立🔬"
+    },
+    {
+      "arxiv_id": "2604.22725",
+      "title": "Gauge-independent approach to inflation in quadratic gravity",
+      "authors": [
+        "Adrian Palomares",
+        "Ying-li Zhang",
+        "Jinsu Kim"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.22725",
+      "abstract": "We investigate the scalar sector of linear cosmological perturbations in quadratic gravity. Working in the Einstein frame, we derive the equations of motion in a gauge-independent manner and express them in terms of three sets of gauge-invariant variables. This approach allows us to distinguish genuine physical effects from gauge artefacts, which is particularly relevant for assessing the stability of perturbations in this theory. In the superhorizon limit, we obtain the leading-order behaviour of the relevant gauge-invariant variables and analyse the perturbations in several commonly used gauges. We find that the Newtonian gauge exhibits an apparent instability, characterised by the exponential growth of the metric perturbations. However, this growth is non-generic and gauge-dependent; in the other gauges analysed in this work, the perturbations remain well behaved within the perturbative regime. Physical observables can thus be consistently computed, and the apparent instability is identified as a gauge artefact rather than a pathology of the theory. Our analysis also demonstrates how the evolution behaviour of a gauge-invariant variable changes under the frame transformation and clarifies the relation between results obtained in the Jordan and Einstein frames.",
+      "score": 88,
+      "reason": "二次重力でのインフレーション解析✨ tensor-to-scalar ratio 予言の頑健性を gauge-independent に検証、r 制限の理論基盤に直結",
+      "summary": "Quadratic gravity でのスローロール摂動を Einstein frame で gauge-invariant 変数で書き下し。スカラー摂動と r 予言の整合性を再検討🌌"
+    },
+    {
+      "arxiv_id": "2604.22634",
+      "title": "Constraints on the Primordial Black Hole Abundance using Pulsar Parameter Drifts",
+      "authors": [
+        "Yan-Chen Bi",
+        "Yu-Mei Wu",
+        "Qing-Guo Huang"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2604.22634",
+      "abstract": "Primordial black holes (PBHs) provide a compelling interpretation for the binary black holes (BBHs) observed by ground-based gravitational-wave (GW) detectors, especially for those BBHs in the theoretical mass gap. In the early Universe, the scalar perturbations required to produce such PBHs inevitably generate scalar-induced GWs (SIGWs). These SIGWs peak in the sub-nanohertz band, and manifest secularly as measurable jerk-like drifts in the second derivative of pulsar spin periods. In this Letter, we perform the first search for SIGWs using pulsar parameter drifts, and place a 95\\% confidence-level upper limit on the PBH abundance of $f_{\\mathrm{PBH}} < 10^{-10}$ over the mass range $[3 \\times 10^{-1}, 4 \\times 10^{4}] M_{\\odot}$. Our results strongly disfavor a PBH origin for the BBHs currently detected by the LIGO-Virgo-KAGRA (LVK) Collaborations.",
+      "score": 86,
+      "reason": "PBH abundance を pulsar parameter drift で制約🪐 PBH 起源 LIGO BBH と SIGW を同時に縛る nanohertz GW 解析",
+      "summary": "PBH 形成に伴うスカラー誘起 GW が pulsar timing/drift に与える signature を計算、nHz 帯で PBH abundance を制約🛰️"
+    },
+    {
+      "arxiv_id": "2604.22731",
+      "title": "Precision Analysis for $\\boldsymbol{H_0}$ Using Upcoming Multi-band Gravitational Wave Observations",
+      "authors": [
+        "Setabuddin",
+        "Md Riajul Haque",
+        "Ratna Koley",
+        "Supratik Pal"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22731",
+      "abstract": "We investigate how multi-band gravitational wave (GW) observations can constrain the uncertainties in the Hubble parameter ($H_0$) using primordial black holes (PBHs) as possible sources. Our framework combines scalar-induced and merger-induced GWs from PBHs, and forecasts on a combination of two future detectors Square Kilometre Array (SKA) and the Einstein Telescope (ET), enabling a multi-band analysis. We perform a statistical forecast of the PBH parameters, $M_{\\rm PBH}$ and $f_{\\rm PBH}$, using signal-to-noise ratio (SNR) estimates and Fisher matrix analysis. Imposing $\\mathrm{SNR} \\geq 1$, we identify the accessible PBH parameter space and propagate these uncertainties to estimate the corresponding uncertainties in $H_0$. For $\\delta \\theta_i/\\theta_i \\leq 0.1$, with $\\theta_i \\equiv M_{\\rm PBH}(f_{\\rm PBH})$, we find $\\delta H_0 \\lesssim 2~{\\rm km\\,s^{-1}\\,Mpc^{-1}}$ in a conservative approach, improving to $\\delta H_0 \\lesssim \\mathcal{O}(0.1)~{\\rm km\\,s^{-1}\\,Mpc^{-1}}$ for $\\delta \\theta_i/\\theta_i \\leq 0.01$ for an optimistic approach of precision measurement. The results are further found to be largely insensitive to the fiducial choice of the $H_0$, with only moderate dependence on the PBH collapse efficiency. These findings demonstrate that multi-band GW observations provide an independent and complementary approach to constraining the uncertainties in $H_0$, with the potential to provide a novel, cosmic distance ladder-independent measure of the Hubble parameter.",
+      "score": 85,
+      "reason": "SKA + ET の multi-band GW で H0 制約🌐 standard siren と PBH source の組み合わせ、宇宙論パラメータの将来予測枠",
+      "summary": "PBH 起源の scalar-induced + merger GW を SKA と Einstein Telescope の組合せで観測した場合の H0 不定性を Fisher 解析で予測📈"
+    }
+  ]
+}

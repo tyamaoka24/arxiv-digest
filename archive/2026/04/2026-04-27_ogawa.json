@@ -1,0 +1,92 @@
+{
+  "total_fetched": 127,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.22704",
+      "title": "Approaching the Limit of Quantum Clock Precision",
+      "authors": [
+        "Chad Nelmes",
+        "Emanuel Schwarzhans",
+        "Tony Apollaro",
+        "Timothy Spiller",
+        "Irene D&#39;Amico"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22704",
+      "abstract": "Precise and autonomous clocks are of fundamental interest and central importance to both foundational studies and practical applications. Here, we construct a blueprint for a quantum clock governed by time-independent interactions. By carefully-engineered coherent transport in dissipative spin chains, we achieve a scaling exponent at the precision-resolution trade-off fundamental bound, bringing this within reach of physically realistic and experimentally accessible systems. We further introduce a sudden-quench protocol that enables repeated operation through a simple initialization and detachment mechanism. Remarkably, the protocol is robust to imprecise detachment timing, implying that high-precision timekeeping can be achieved even when driven by a clock with much lower precision.",
+      "score": 92,
+      "reason": "「量子クロックの精度限界に迫る」🕰️ quantum speed limit / time-energy uncertainty に直球の作品",
+      "summary": "量子クロックの精度を理論的限界（Margolus-Levitin 等）まで詰める設計と enhancement scheme を提示。tick rate 解析が肝⚡"
+    },
+    {
+      "arxiv_id": "2604.22481",
+      "title": "Double Slit Experiment in the Heisenberg Picture of Quantum Mechanics",
+      "authors": [
+        "Vlatko Vedral"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22481",
+      "abstract": "We present the standard double slit experiment with non-relativistic particles in the Heisenberg Picture of quantum mechanics. Our motivation is threefold. First and foremost, and contrary to some claims in the literature, we show that there is no need to talk about non-locality when explaining the interference fringes. Secondly, we emphasise the fact that even in the non-relativistic regime, and in order to preserve locality, we should define the position and momentum observables of a particle as functions of both space and time (and not just time). Thirdly, our presentation compares the projective measurements in the Heisenberg picture with the \"Church of the Larger Hilbert Space\", the latter of which is seldom discussed in the Heisenberg picture of quantum mechanics.",
+      "score": 88,
+      "reason": "Vedral によるダブルスリットの Heisenberg 描像版🌀 measurement / observable 描像で干渉を再構成、基礎論ファン必見",
+      "summary": "二重スリット干渉を波動関数を介さず Heisenberg 描像の演算子発展で記述。粒子描像と干渉を両立する解析を展開🔭"
+    },
+    {
+      "arxiv_id": "2604.22178",
+      "title": "Signature of paraparticles: a minimal Gedankenexperiment",
+      "authors": [
+        "Francesco Toppan"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-th",
+        "math-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22178",
+      "abstract": "Paraparticles beyond bosons and fermions can be exchanged via either the braid group (anyons, existing up to $D=2$ space dimensions) or the permutation group; in the latter case the space dimensions are not limited. Besides being predicted, anyons have been experimentally detected. The situation differs for paraparticles exchanged via the permutation group (\"permutation-group parastatistics\").The first test to detect their theoretical signature was published in 2021 (for $Z_2\\times Z_2$-graded parafermions; it was soon followed by a second paper proving the detectability of $Z_2\\times Z_2$-graded parabosons). Later on, two further papers proved theoretical signatures of permutation-group parastatistics. These works demonstrate that, in certain situations, a long-held belief on the \"conventionality of parastatistics\" argument can be evaded: some measurements of permutation-group paraparticles cannot be recovered from ordinary bosons/fermions. The main question now is how to experimentally detect or engineer in the laboratory such paraparticles. For this aim a minimal setup for the theoretical test is here provided: a Gedankenexperiment (a simplified version of the two tests published in 2021) which, essentially, is a flow chart of logical operations. The key point is to present, to experimentalists, the necessary steps to be simulated/realized in the laboratory (possibly, by manipulating qudits). In this minimal setup, the detection/engineering of paraparticles is mapped into a chirality test. The mathematical setting is based on $Z_2\\times Z_2$-graded color Lie (super)algebras and derived mathematical structures.",
+      "score": 86,
+      "reason": "paraparticle のサインを問う Gedanken 実験💡 観測時の同定可能性を最小モデルで突き詰める基礎論枠",
+      "summary": "paraparticle 統計と通常の boson/fermion を区別できる最小限の思考実験を構成、観測量レベルでの差異を浮き彫りに🧪"
+    },
+    {
+      "arxiv_id": "2604.22376",
+      "title": "No-Go Theorem for Quantum Heat Engines Powered Purely by Quantum Measurements in the Steady Regime",
+      "authors": [
+        "Kenta Koshihara",
+        "Kazuya Yuasa"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22376",
+      "abstract": "We study the thermodynamics of a quantum measurement-powered engine that converts energy injected by measurement backaction into work. We consider an engine with a finite-dimensional working substance, driven purely by quantum measurements, i.e., by bare quantum measurements, without feedback control or thermal contact in the thermodynamic cycle. On the basis of a Poincaré-like recurrence theorem for general quantum channels, we prove a no-go result for work extraction from such an engine in the steady regime. In the steady regime, quantum measurements become nondisturbing and do not inject energy into the working substance. Consequently, no work can be extracted. This result reveals the necessity of an entropy-decreasing process, such as feedback control or thermal contact, for work extraction in steady-cycle measurement-powered engines.",
+      "score": 85,
+      "reason": "測定だけで動く量子熱機関に No-Go 結論🚫 measurement theory × thermo の境界線を厳密に引く一篇",
+      "summary": "定常 regime で量子測定のみを駆動源とする熱機関は work を取り出せないことを証明。measurement back-action の制約を整理⚖️"
+    },
+    {
+      "arxiv_id": "2604.22421",
+      "title": "Two flavor neutrino oscillations in presence of non-Hermitian dynamics",
+      "authors": [
+        "Kritika Rushiya",
+        "Gaurav Hajong",
+        "Bhabani Prasad Mandal",
+        "Poonam Mehta"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.22421",
+      "abstract": "We develop a consistent mathematical framework for studying two flavor neutrino oscillations in presence of non-Hermitian dynamics. We consider two approaches : (a) bi-orthonormal inner product defined by a positive-definite metric operator $\\mathcal{G}$ and (b) the density matrix prescription by Brody and Graefe [Phys. Rev. Lett. 109, 230405 (2012)]. For the $\\mathcal{PT}$-symmetric case, we show that the $\\mathcal{G}$ metric approach does not work well (probabilities are not conserved) both in $\\mathcal{PT}$-unbroken as well as $\\mathcal{PT}$-broken regime. Hence, we adopt the density matrix prescription by Brody and Graefe which is a positive semi-definite map. In the density matrix prescription, we note that probability in the steady state limit is not necessarily $1/2$ thereby indicating non-Markovian behavior.",
+      "score": 85,
+      "reason": "ニュートリノ振動を non-Hermitian 力学で👀 振動 = 量子干渉という基礎論視点と相性◎",
+      "summary": "2 フレーバーのニュートリノ振動に non-Hermitian Hamiltonian を導入し、減衰込みでの振動確率の変形と coherence の挙動を解析🌊"
+    }
+  ]
+}

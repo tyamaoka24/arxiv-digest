@@ -1,0 +1,92 @@
+{
+  "total_fetched": 127,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.22481",
+      "title": "Double Slit Experiment in the Heisenberg Picture of Quantum Mechanics",
+      "authors": [
+        "Vlatko Vedral"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22481",
+      "abstract": "We present the standard double slit experiment with non-relativistic particles in the Heisenberg Picture of quantum mechanics. Our motivation is threefold. First and foremost, and contrary to some claims in the literature, we show that there is no need to talk about non-locality when explaining the interference fringes. Secondly, we emphasise the fact that even in the non-relativistic regime, and in order to preserve locality, we should define the position and momentum observables of a particle as functions of both space and time (and not just time). Thirdly, our presentation compares the projective measurements in the Heisenberg picture with the \"Church of the Larger Hilbert Space\", the latter of which is seldom discussed in the Heisenberg picture of quantum mechanics.",
+      "score": 92,
+      "reason": "Vedral によるダブルスリット干渉の Heisenberg 描像版🌀 「非局所性なし」を主張する基礎論刺激枠、波束形式とも親和性◎",
+      "summary": "非相対論的粒子の二重スリット干渉を Heisenberg 描像の演算子発展で記述。non-locality に頼らず縞を再現する論証を展開💫"
+    },
+    {
+      "arxiv_id": "2604.22303",
+      "title": "An efficient framework for quantum dynamics driven by nonclassical light",
+      "authors": [
+        "Sheng-Wen Li",
+        "Zeyang Liao",
+        "Mao-Xin Liu"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22303",
+      "abstract": "Understanding quantum system dynamics driven by nonclassical light pulses is challenging, particularly for general light states with large photon numbers. Here we introduce an efficient framework that makes this task tractable. By introducing a pulse-shaped P-representation, the exact quantum evolution is decomposed into a mixture of many independent quasi-classical branches, each governed by a standard master equation with a classical pulse which can be solved efficiently. As an illustration, for a two-level system interacting with an exponential pulse, we first find out the exact analytical solutions to the Bloch equations in each quasi-classical branch, and then by taking proper P-function average over all branches, the full system dynamics driven by nonclassical light pulses is analytically obtained. For the one-photon and two-photon cases, our method well reproduces the previous exact results either analytically or numerically. Crucially, our approach scales efficiently to more complex light states (Fock, thermal, squeezed vacuum states) with large photon numbers ($N\\sim 100$). We further provide a clear physical interpretation how the system dynamics is influenced through the high-order optical coherence of the nonclassical pulses. This work provides a unified and computationally efficient route and a useful starting point to explore more complex quantum dynamics driven by nonclassical light in quantum optics and quantum information processing.",
+      "score": 88,
+      "reason": "非古典光パルスで駆動される量子系の dynamics を P 表示で効率記述✨ SPDC や squeezed 光源の解析にも応用が効きそう",
+      "summary": "Pulse-shaped P-representation で非古典光駆動の量子発展を独立 quasi-classical 分岐に分解。大光子数でも tractable な数値枠組み🔆"
+    },
+    {
+      "arxiv_id": "2604.22421",
+      "title": "Two flavor neutrino oscillations in presence of non-Hermitian dynamics",
+      "authors": [
+        "Kritika Rushiya",
+        "Gaurav Hajong",
+        "Bhabani Prasad Mandal",
+        "Poonam Mehta"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.22421",
+      "abstract": "We develop a consistent mathematical framework for studying two flavor neutrino oscillations in presence of non-Hermitian dynamics. We consider two approaches : (a) bi-orthonormal inner product defined by a positive-definite metric operator $\\mathcal{G}$ and (b) the density matrix prescription by Brody and Graefe [Phys. Rev. Lett. 109, 230405 (2012)]. For the $\\mathcal{PT}$-symmetric case, we show that the $\\mathcal{G}$ metric approach does not work well (probabilities are not conserved) both in $\\mathcal{PT}$-unbroken as well as $\\mathcal{PT}$-broken regime. Hence, we adopt the density matrix prescription by Brody and Graefe which is a positive semi-definite map. In the density matrix prescription, we note that probability in the steady state limit is not necessarily $1/2$ thereby indicating non-Markovian behavior.",
+      "score": 87,
+      "reason": "ニュートリノ振動を non-Hermitian 力学で🌊 振動 = 量子干渉という見方は波束形式と地続き、吸収モデルへの示唆も",
+      "summary": "2 フレーバー振動を bi-orthonormal 内積と密度行列の 2 流派で定式化、PT-symmetric 限での確率保存と coherence の挙動を解析⚛️"
+    },
+    {
+      "arxiv_id": "2604.22295",
+      "title": "Certification of genuine non-Gaussian entanglement",
+      "authors": [
+        "Lukáš Lachman",
+        "Carlos E. Lopetegui-González",
+        "Massimo Frigerio",
+        "Mattia Walschaers"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22295",
+      "abstract": "Entanglement is a key resource for many quantum applications. Understanding fundamental properties of entangled states is an important step towards their practical exploitation. We characterize entanglement in the context of Gaussian and non-Gaussian processes and identify entangled states that cannot be produced by any Gaussian evolution acting on separable states. This distinction exposes intrinsic limitations of Gaussian operations and highlights the role of non-Gaussian operations as an important resource. We apply this framework to develop a certification method that connects entanglement theory with quantum non-Gaussianity - an advanced quantum feature that is essential for several quantum applications. Our approach tailors the certification to experimentally relevant states that can be produced in current quantum optics experiments. We demonstrate this certification for recognizing the genuine non-Gaussian entanglement of various entangled Fock states and hybrid entangled states.",
+      "score": 86,
+      "reason": "非ガウシアン entanglement の certification 法🎯 SPDC で生まれる non-Gaussian 相関の検証ツールとして直接使える",
+      "summary": "Gaussian 過程では作れない entangled 状態を分類し、experimentally accessible な certification protocol を提案。CV エンタングル測定の実用枠📐"
+    },
+    {
+      "arxiv_id": "2604.22178",
+      "title": "Signature of paraparticles: a minimal Gedankenexperiment",
+      "authors": [
+        "Francesco Toppan"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-th",
+        "math-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22178",
+      "abstract": "Paraparticles beyond bosons and fermions can be exchanged via either the braid group (anyons, existing up to $D=2$ space dimensions) or the permutation group; in the latter case the space dimensions are not limited. Besides being predicted, anyons have been experimentally detected. The situation differs for paraparticles exchanged via the permutation group (\"permutation-group parastatistics\").The first test to detect their theoretical signature was published in 2021 (for $Z_2\\times Z_2$-graded parafermions; it was soon followed by a second paper proving the detectability of $Z_2\\times Z_2$-graded parabosons). Later on, two further papers proved theoretical signatures of permutation-group parastatistics. These works demonstrate that, in certain situations, a long-held belief on the \"conventionality of parastatistics\" argument can be evaded: some measurements of permutation-group paraparticles cannot be recovered from ordinary bosons/fermions. The main question now is how to experimentally detect or engineer in the laboratory such paraparticles. For this aim a minimal setup for the theoretical test is here provided: a Gedankenexperiment (a simplified version of the two tests published in 2021) which, essentially, is a flow chart of logical operations. The key point is to present, to experimentalists, the necessary steps to be simulated/realized in the laboratory (possibly, by manipulating qudits). In this minimal setup, the detection/engineering of paraparticles is mapped into a chirality test. The mathematical setting is based on $Z_2\\times Z_2$-graded color Lie (super)algebras and derived mathematical structures.",
+      "score": 85,
+      "reason": "paraparticle を識別する最小 Gedanken💡 量子干渉と統計の identifiability に切り込む基礎論の良い刺激",
+      "summary": "permutation-group parastatistics と通常の boson/fermion を区別する最小限の思考実験を構成、観測量レベルでの差異を提示🧪"
+    }
+  ]
+}

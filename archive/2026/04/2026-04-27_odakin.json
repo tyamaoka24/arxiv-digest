@@ -1,0 +1,134 @@
+{
+  "total_fetched": 127,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.22725",
+      "title": "Gauge-independent approach to inflation in quadratic gravity",
+      "authors": [
+        "Adrian Palomares",
+        "Ying-li Zhang",
+        "Jinsu Kim"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.22725",
+      "abstract": "We investigate the scalar sector of linear cosmological perturbations in quadratic gravity. Working in the Einstein frame, we derive the equations of motion in a gauge-independent manner and express them in terms of three sets of gauge-invariant variables. This approach allows us to distinguish genuine physical effects from gauge artefacts, which is particularly relevant for assessing the stability of perturbations in this theory. In the superhorizon limit, we obtain the leading-order behaviour of the relevant gauge-invariant variables and analyse the perturbations in several commonly used gauges. We find that the Newtonian gauge exhibits an apparent instability, characterised by the exponential growth of the metric perturbations. However, this growth is non-generic and gauge-dependent; in the other gauges analysed in this work, the perturbations remain well behaved within the perturbative regime. Physical observables can thus be consistently computed, and the apparent instability is identified as a gauge artefact rather than a pathology of the theory. Our analysis also demonstrates how the evolution behaviour of a gauge-invariant variable changes under the frame transformation and clarifies the relation between results obtained in the Jordan and Einstein frames.",
+      "score": 92,
+      "reason": "二次重力でのインフレーション解析 🌌 Higgs inflation 系の gauge dependence 議論にビビっと響く一本！",
+      "summary": "二次重力でのスローロールインフレーションを gauge-independent な定式化で解析。spectrum 予言の頑健性を再検証 ⚙️"
+    },
+    {
+      "arxiv_id": "2604.22247",
+      "title": "Integrability of Conformal Killing Vectors in the Eisenhart Lift of Scalar-Field FLRW Cosmology",
+      "authors": [
+        "Takeshi Chiba",
+        "Tsuyoshi Houri"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.22247",
+      "abstract": "We study the integrability conditions of the conformal Killing equations for the Eisenhart lift of a scalar field in a flat Friedmann-Lema\\^ıtre-Robertson-Walker universe. We show that the potential found in our earlier work is already the most general local potential that admits a non-trivial conformal Killing vector in the sector independent of the cyclic Eisenhart coordinate. The determinant condition of the prolonged conformal Killing equations reduces to a nonlinear second-order differential equation for $h=V'/V$. We solve this equation locally and find two branches. The regular branch reproduces exactly the family of potentials obtained before, while the singular branch lies on the locus where the determinant equation cannot be written locally in normal form with respect to $h''$ and is incompatible with the full conformal Killing equations. Hence the ansatz used in our earlier work is exhaustive.",
+      "score": 88,
+      "reason": "Takeshi Chiba 氏 + scalar-field FLRW + Eisenhart lift で対称性の幾何学にズバリ💫 cosmology 民必読の小品",
+      "summary": "scalar-field FLRW 宇宙の Eisenhart lift に共形 Killing vector が積分可能になる条件を整理。隠れた対称性の構造を露わに🔍"
+    },
+    {
+      "arxiv_id": "2604.22421",
+      "title": "Two flavor neutrino oscillations in presence of non-Hermitian dynamics",
+      "authors": [
+        "Kritika Rushiya",
+        "Gaurav Hajong",
+        "Bhabani Prasad Mandal",
+        "Poonam Mehta"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.22421",
+      "abstract": "We develop a consistent mathematical framework for studying two flavor neutrino oscillations in presence of non-Hermitian dynamics. We consider two approaches : (a) bi-orthonormal inner product defined by a positive-definite metric operator $\\mathcal{G}$ and (b) the density matrix prescription by Brody and Graefe [Phys. Rev. Lett. 109, 230405 (2012)]. For the $\\mathcal{PT}$-symmetric case, we show that the $\\mathcal{G}$ metric approach does not work well (probabilities are not conserved) both in $\\mathcal{PT}$-unbroken as well as $\\mathcal{PT}$-broken regime. Hence, we adopt the density matrix prescription by Brody and Graefe which is a positive semi-definite map. In the density matrix prescription, we note that probability in the steady state limit is not necessarily $1/2$ thereby indicating non-Markovian behavior.",
+      "score": 87,
+      "reason": "ニュートリノ振動 × 非エルミート力学 🧪 質量起源と崩壊・吸収を統一的に扱う野心枠、波束形式とも親和性◎",
+      "summary": "2 フレーバーのニュートリノ振動を non-Hermitian Hamiltonian で解析、減衰効果が振動確率に与える影響を定式化⚛️"
+    },
+    {
+      "arxiv_id": "2604.22336",
+      "title": "Super-Heisenberg protocol for dark matter and high-frequency gravitational wave search",
+      "authors": [
+        "Wakutaka Nakano",
+        "Ryoto Takai"
+      ],
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22336",
+      "abstract": "We propose a quantum-enhanced sensing scheme for the detection of wave-like dark matter and high-frequency gravitational waves using two-dimensional ion crystals in a Penning trap. The protocol employs spin-motion squeezed states to improve the signal-to-noise ratio and enable a super-Heisenberg scaling with respect to the number of ions over a broad parameter range. We analyze the sensitivity of the protocol to representative wave-like dark matter candidates, including the axion-like particle and the dark photon, as well as to high-frequency gravitational waves, taking into account the decoherence and dephasing of the ion spins. Our results indicate that two-dimensional ion crystals and this new protocol provide a promising platform for probing previously unexplored parameter space in searches for light dark matter and high-frequency gravitational waves.",
+      "score": 86,
+      "reason": "ダークマター & 高周波 GW を Super-Heisenberg precision で同時狙い ⚡ axion DM 検出の新手🚀",
+      "summary": "量子センサーで Heisenberg 限界を超える scaling を達成し、ULDM と HFGW の到達感度を向上させるプロトコルを提案 🎯"
+    },
+    {
+      "arxiv_id": "2604.21970",
+      "title": "Flux Mixing and CP Violation in QCD",
+      "authors": [
+        "Motoo Suzuki"
+      ],
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.21970",
+      "abstract": "We argue that kinetic mixing between topological flux sectors generates an effective shift of the QCD $\\bar\\theta$ angle, thereby inducing CP-violating effects. To demonstrate this mechanism, we analyze a $(1+1)$-dimensional $U(1)\\times U(1)$ gauge theory as a controlled setting, where kinetic mixing leads to observable shifts in electric fluxes. We then extend the analysis to four dimensions using a three-form field description of QCD coupled to an additional $U(1)$ three-form gauge field. We find that hidden-sector fluxes, through kinetic mixing, shift the effective $\\theta$ parameter of QCD and induce a nonzero expectation value of $\\langle G\\tilde{G}\\rangle$. We discuss the implications for the strong CP problem and clarify under which conditions standard solutions, such as axion or CP/parity-based mechanisms, are compromised or remain robust.",
+      "score": 85,
+      "reason": "QCD で flux mixing を介した CP violation 🌀 axion / strong CP の根本に切り込む motoo suzuki 流の小気味よい論考",
+      "summary": "QCD での flux mixing が CP violation を生み出す機構を解析、axion 物理と strong CP 問題への含意を議論🧮"
+    },
+    {
+      "arxiv_id": "2604.22311",
+      "title": "Five benefits of grand unified $SU(5)$ brane world scenario",
+      "authors": [
+        "Masato Arai",
+        "Filip Blaschke",
+        "Minoru Eto",
+        "Masaki Kawaguchi"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22311",
+      "abstract": "We construct an $SU(5)$ Grand Unified Theory on domain walls in the five-dimensional space-time. In this setup, we introduce an adjoint scalar field and a singlet that together form a set of five domain-wall solutions, realizing a dynamical brane-world. The same scalar fields also localize chiral fermion zero modes around the walls via the Jackiw-Rebbi mechanism, break $SU(5)$ down to the Standard Model gauge group via geometric Higgs mechanism and simultaneously trap gauge fields through a field-dependent gauge kinetic term. Furthermore, they enable localization of the Higgs field, providing a novel solution to the doublet-triplet splitting problem. As a result, all essential ingredients of the model are realized by a single adjoint scalar field and a singlet, making the construction very economical. We propose two realizations of the Higgs sector, derive the four-dimensional effective theory, and demonstrate that the Standard Model Yukawa couplings at the weak scale can be reproduced from the five-dimensional Yukawa couplings by the renormalization group analysis with a suitable choice of parameters.",
+      "score": 85,
+      "reason": "SU(5) ブレーンワールド GUT の御利益 5 連発 🌟 余剰次元 + Higgs sector + 量子数整合性で hep-ph/hep-th 横断⚔️",
+      "summary": "SU(5) GUT を 6D ブレーンワールドに乗せたシナリオが doublet-triplet splitting や proton 寿命など 5 つの問題に効くと主張 🛡️"
+    },
+    {
+      "arxiv_id": "2604.21996",
+      "title": "Solar Reflection of Inelastic Dark Matter",
+      "authors": [
+        "Haipeng An",
+        "Haoming Nie"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.SR",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2604.21996",
+      "abstract": "Solar-reflected dark matter (SRDM) consists of dark-matter particles up-scattered and accelerated by energetic electrons in the solar interior, producing a high-velocity tail that can enhance signals in direct-detection experiments, especially for MeV-scale masses. We consider an inelastic dark matter (iDM) model, in which solar scattering populates the excited state; subsequent de-excitation in terrestrial detectors releases the mass-splitting energy, substantially helping the energy release of the collision to be larger than the detector threshold. Using detailed Monte Carlo simulations, we generate the velocity and energy distributions of solar-reflected iDM over a range of dark-matter masses $m_\\chi$ and mass splittings $\\Delta$. We then compute event rates and energy depositions for current xenon and semiconductor experiments. Our results show that these experiments can place new constraints on the parameter space of MeV-scale iDM.",
+      "score": 85,
+      "reason": "太陽内反射で inelastic DM を直接検出射程に⛅ Higgs portal DM などの軽質量帯にもしっかり効く現象論パンチ🥊",
+      "summary": "太陽中で inelastic 散乱して逆反射する DM 粒子の flux を計算、地下検出器で見える領域とパラメータ拘束を提示 🌞"
+    }
+  ]
+}

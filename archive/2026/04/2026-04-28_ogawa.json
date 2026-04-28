@@ -1,0 +1,58 @@
+{
+  "total_fetched": 127,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.22704",
+      "title": "Approaching the Limit of Quantum Clock Precision",
+      "authors": [
+        "Chad Nelmes",
+        "Emanuel Schwarzhans",
+        "Tony Apollaro",
+        "Timothy Spiller",
+        "Irene D'Amico"
+      ],
+      "categories": [
+        "quant-ph",
+        "cond-mat.other",
+        "physics.comp-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22704",
+      "abstract": "Precise and autonomous clocks are of fundamental interest and central importance to both foundational studies and practical applications. Here, we construct a blueprint for a quantum clock governed by time-independent interactions. By carefully-engineered coherent transport in dissipative spin chains, we achieve a scaling exponent at the precision-resolution trade-off fundamental bound, bringing this within reach of physically realistic and experimentally accessible systems. We further introduce a sudden-quench protocol that enables repeated operation through a simple initialization and detachment mechanism. Remarkably, the protocol is robust to imprecise detachment timing, implying that high-precision timekeeping can be achieved even when driven by a clock with much lower precision.",
+      "score": 92,
+      "reason": "⏰ 量子 clock 精度の究極限界に肉薄! 時間独立な相互作用で精度-resolution trade-off の基本限界 scaling を達成 🎯",
+      "summary": "dissipative spin chain の coherent 輸送で精度 scaling 指数の基本限界に到達。sudden-quench で繰り返し動作も可能 🌀"
+    },
+    {
+      "arxiv_id": "2604.22481",
+      "title": "Double Slit Experiment in the Heisenberg Picture of Quantum Mechanics",
+      "authors": [
+        "Vlatko Vedral"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22481",
+      "abstract": "We present the standard double slit experiment with non-relativistic particles in the Heisenberg Picture of quantum mechanics. Our motivation is threefold. First and foremost, and contrary to some claims in the literature, we show that there is no need to talk about non-locality when explaining the interference fringes. Secondly, we emphasise the fact that even in the non-relativistic regime, and in order to preserve locality, we should define the position and momentum observables of a particle as functions of both space and time (and not just time). Thirdly, our presentation compares the projective measurements in the Heisenberg picture with the \"Church of the Larger Hilbert Space\", the latter of which is seldom discussed in the Heisenberg picture of quantum mechanics.",
+      "score": 90,
+      "reason": "🪞 Heisenberg 描像の double slit! 干渉縞は非局所性なしで説明可、位置/運動量演算子は時空両方の関数として定義すべき 💫",
+      "summary": "非相対論 double slit を Heisenberg 描像で再導出。位置・運動量を時空関数として扱い、locality を保つ枠組みを提示 ✨"
+    },
+    {
+      "arxiv_id": "2604.22500",
+      "title": "Quantum limits on squeezing",
+      "authors": [
+        "Xin Zhou",
+        "Francesco Massel"
+      ],
+      "categories": [
+        "quant-ph",
+        "cond-mat.mes-hall"
+      ],
+      "url": "https://arxiv.org/abs/2604.22500",
+      "abstract": "In our work, we show how, for a network of bosonic modes, canonical commutation relations constrain the coefficients relating input and internal modes. Based on these constraints, we derive a lower bound on the total steady-state squeezing achievable in reservoir-engineered (dissipative) squeezing schemes, quantified by the sum of mode-optimal quadrature variances normalized to its corresponding input variance. The bound follows solely from canonical commutation relations and stability, and is saturated in the strong-coupling limit at 1. Furthermore, we show that adding independent parametric driving terms for each mode changes the quantum noise-gain balance and yields a distinct optimum bound, approaching 1/2. In addition, we show how these constraints allow us to reformulate the Duan inseparability criterion for a three-mode bosonic system in terms of a single parameter-dependent figure of merit. Our results apply directly to current electromechanical and nanomechanical experiments and indicate that the two-mode bounds can be experimentally approached even at room temperature.",
+      "score": 85,
+      "reason": "🎼 squeezed coherent states 系に効くよ! 交換子と stability だけから dissipative squeezing の理論限界が出た 📐",
+      "summary": "bosonic mode network の正準交換関係から steady-state squeezing の総和に下限を導出、強結合極限で飽和 🌟"
+    }
+  ]
+}

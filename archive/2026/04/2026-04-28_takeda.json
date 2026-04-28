@@ -1,0 +1,20 @@
+{
+  "total_fetched": 127,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.22481",
+      "title": "Double Slit Experiment in the Heisenberg Picture of Quantum Mechanics",
+      "authors": [
+        "Vlatko Vedral"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22481",
+      "abstract": "We present the standard double slit experiment with non-relativistic particles in the Heisenberg Picture of quantum mechanics. Our motivation is threefold. First and foremost, and contrary to some claims in the literature, we show that there is no need to talk about non-locality when explaining the interference fringes. Secondly, we emphasise the fact that even in the non-relativistic regime, and in order to preserve locality, we should define the position and momentum observables of a particle as functions of both space and time (and not just time). Thirdly, our presentation compares the projective measurements in the Heisenberg picture with the \"Church of the Larger Hilbert Space\", the latter of which is seldom discussed in the Heisenberg picture of quantum mechanics.",
+      "score": 90,
+      "reason": "🎯 double slit 干渉を Heisenberg 描像で! 干渉縞の非局所性論争に決着、位置/運動量は時空両方の関数で扱うべき 💡",
+      "summary": "非相対論 double slit を Heisenberg 描像で構成、位置・運動量を時空関数として projector 描像と比較し locality を保つ ✨"
+    }
+  ]
+}

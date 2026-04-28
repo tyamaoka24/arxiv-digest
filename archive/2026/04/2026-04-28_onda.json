@@ -1,0 +1,56 @@
+{
+  "total_fetched": 127,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.21975",
+      "title": "The Simons Observatory: Improved Cryogenic Struts for use in the Large Aperture Telescope Receiver",
+      "authors": [
+        "John Orlowski-Scherer",
+        "Anna Kofman",
+        "Tanay Bhandarkar",
+        "Mark Devlin",
+        "Saianeesh K. Haridas",
+        "Jeff Iuliano",
+        "Alex Manduca",
+        "Robert J. Thornton"
+      ],
+      "categories": [
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2604.21975",
+      "abstract": "The Simons Observatory Large Aperture Telescope Receiver (SO LATR) is a next generation Cosmic Microwave Background camera equipped with > 60, 000 detectors operating at 100 mK. Maintaining these detectors at the correct temperatures and locations requires stiff, cryogenically insulating struts. In this paper we report the design and performance of a novel glue joint in a strut used in the SO LATR to achieve the required performance. We use a tapped hole and set screw to create a profile on the exterior and interior wall of the glue joint, respectively, which greatly increases the strength of that joint by changing the failure mode from adhesive to cohesive. The failure mode of the resulting glue joint is cohesive with a yield strength 10% higher than a comparable smooth-walled design, and an ultimate strength 33% higher. Comparisons of the measured yield strength to the predicted axial load on the strut from simulations results in a factor of safety for the strut of 7. These struts have been installed in the SO LATR for three years and have undergone numerous thermal cycles from 300 K to 100 mK with no evidence of damage to the glue joint.",
+      "score": 88,
+      "reason": "🛰️ Simons Observatory LATR で 60,000 検出器を 100mK 維持する cryogenic strut の新設計! LiteBIRD 機械熱設計に直結 🔧",
+      "summary": "tapped hole + set screw で接着 joint を強化、SO LATR の cryogenic insulating strut の強度・熱性能を実証 ❄️"
+    },
+    {
+      "arxiv_id": "2604.22075",
+      "title": "CCAT: Silicon-Platelet Feedhorns for Submillimeter Wavelengths",
+      "authors": [
+        "Jason Austermann",
+        "James Beall",
+        "James R. Burgoyne",
+        "Scott Chapman",
+        "Steve Choi",
+        "Cody J. Duell",
+        "Anthony I. Huber",
+        "Johannes Hubmayr",
+        "Matthew A. Koc",
+        "Michael D. Niemack",
+        "Joel N. Ullom",
+        "Jeffrey van Lanen",
+        "Anna Vaskuri",
+        "Michael Vissers",
+        "Jordan Wheeler"
+      ],
+      "categories": [
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2604.22075",
+      "abstract": "Silicon-platelet feedhorn arrays are an established technology at millimeter wavelengths that, for some applications, can provide significant advantages over traditional direct-machined metal feedhorns. The Prime-Cam focal planes operating in the 350 GHz ($\\sim$860 $\\mathrm{\\mu}$m) and 850 GHz ($\\sim$350 $\\mathrm{\\mu}$m) bands are anticipated to carry the first silicon-platelet feedhorn arrays to operate fully at submillimeter wavelengths, representing a significant step forward in the application of this technology. In particular, the feedhorns designed for operation in the 850 GHz band represent a 3x increase in frequency compared to previously demonstrated and deployed devices of this type. Here we present a demonstration of silicon-platelet feedhorns at these submillimeter wavelengths, including in-lab performance characterization. We present fabrication metrology, room-temperature beammaps, and cryogenic optical efficiency measurements where the feedhorns are coupled to prototype CCAT Prime-Cam detectors. We show that feedhorn performance measurements are well matched to simulation and compare that performance directly to traditional, direct-machined metal feedhorns.",
+      "score": 85,
+      "reason": "📡 CCAT Prime-Cam で 850 GHz 用の silicon-platelet feedhorn array! 提供式 CMB 検出器光学技術として LiteBIRD 系にも heritage 🌠",
+      "summary": "350/850 GHz 帯の silicon-platelet feedhorn 設計と性能を提示、submillimeter で従来金属 horn 比で大きな利点 ✨"
+    }
+  ]
+}

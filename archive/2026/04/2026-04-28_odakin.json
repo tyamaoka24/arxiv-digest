@@ -1,0 +1,99 @@
+{
+  "total_fetched": 127,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.22311",
+      "title": "Five benefits of grand unified $SU(5)$ brane world scenario",
+      "authors": [
+        "Masato Arai",
+        "Filip Blaschke",
+        "Minoru Eto",
+        "Masaki Kawaguchi"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22311",
+      "abstract": "We construct an $SU(5)$ Grand Unified Theory on domain walls in the five-dimensional space-time. In this setup, we introduce an adjoint scalar field and a singlet that together form a set of five domain-wall solutions, realizing a dynamical brane-world. The same scalar fields also localize chiral fermion zero modes around the walls via the Jackiw-Rebbi mechanism, break $SU(5)$ down to the Standard Model gauge group via geometric Higgs mechanism and simultaneously trap gauge fields through a field-dependent gauge kinetic term. Furthermore, they enable localization of the Higgs field, providing a novel solution to the doublet-triplet splitting problem. As a result, all essential ingredients of the model are realized by a single adjoint scalar field and a singlet, making the construction very economical. We propose two realizations of the Higgs sector, derive the four-dimensional effective theory, and demonstrate that the Standard Model Yukawa couplings at the weak scale can be reproduced from the five-dimensional Yukawa couplings by the renormalization group analysis with a suitable choice of parameters.",
+      "score": 92,
+      "reason": "🌌 SU(5) brane world で 5 つの恩恵! Higgs/fermion 局在 + GUT 破れを domain wall で動的に実現する余剰次元シナリオ ✨",
+      "summary": "5D で adjoint scalar + singlet が 5 個の domain wall 解を作り、Jackiw-Rebbi で fermion 局在、幾何学的 Higgs 機構で SU(5) を SM に破る 🎯"
+    },
+    {
+      "arxiv_id": "2604.22725",
+      "title": "Gauge-independent approach to inflation in quadratic gravity",
+      "authors": [
+        "Adrian Palomares",
+        "Ying-li Zhang",
+        "Jinsu Kim"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.22725",
+      "abstract": "We investigate the scalar sector of linear cosmological perturbations in quadratic gravity. Working in the Einstein frame, we derive the equations of motion in a gauge-independent manner and express them in terms of three sets of gauge-invariant variables. This approach allows us to distinguish genuine physical effects from gauge artefacts, which is particularly relevant for assessing the stability of perturbations in this theory. In the superhorizon limit, we obtain the leading-order behaviour of the relevant gauge-invariant variables and analyse the perturbations in several commonly used gauges. We find that the Newtonian gauge exhibits an apparent instability, characterised by the exponential growth of the metric perturbations. However, this growth is non-generic and gauge-dependent; in the other gauges analysed in this work, the perturbations remain well behaved within the perturbative regime. Physical observables can thus be consistently computed, and the apparent instability is identified as a gauge artefact rather than a pathology of the theory. Our analysis also demonstrates how the evolution behaviour of a gauge-invariant variable changes under the frame transformation and clarifies the relation between results obtained in the Jordan and Einstein frames.",
+      "score": 92,
+      "reason": "🚀 quadratic gravity inflation を gauge-independent に再定式化! Higgs inflation 系の擾乱安定性が真の物理か gauge artefact か判定可能 🔍",
+      "summary": "Einstein frame で 3 種類の gauge-invariant 変数を導入し、超 horizon 領域での主要挙動と通常 gauge での一致を解析 🌠"
+    },
+    {
+      "arxiv_id": "2604.22336",
+      "title": "Super-Heisenberg protocol for dark matter and high-frequency gravitational wave search",
+      "authors": [
+        "Wakutaka Nakano",
+        "Ryoto Takai"
+      ],
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "physics.atom-ph",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22336",
+      "abstract": "We propose a quantum-enhanced sensing scheme for the detection of wave-like dark matter and high-frequency gravitational waves using two-dimensional ion crystals in a Penning trap. The protocol employs spin-motion squeezed states to improve the signal-to-noise ratio and enable a super-Heisenberg scaling with respect to the number of ions over a broad parameter range. We analyze the sensitivity of the protocol to representative wave-like dark matter candidates, including the axion-like particle and the dark photon, as well as to high-frequency gravitational waves, taking into account the decoherence and dephasing of the ion spins. Our results indicate that two-dimensional ion crystals and this new protocol provide a promising platform for probing previously unexplored parameter space in searches for light dark matter and high-frequency gravitational waves.",
+      "score": 90,
+      "reason": "🌟 Penning trap 2D ion crystal で axion DM/高周波 GW を super-Heisenberg sensing! squeezed states が決め手 ⚡",
+      "summary": "spin-motion squeezed 状態で SNR を底上げし、ion 数に対して super-Heisenberg scaling を実現、ALP・dark photon 感度を解析 🪄"
+    },
+    {
+      "arxiv_id": "2604.22500",
+      "title": "Quantum limits on squeezing",
+      "authors": [
+        "Xin Zhou",
+        "Francesco Massel"
+      ],
+      "categories": [
+        "quant-ph",
+        "cond-mat.mes-hall"
+      ],
+      "url": "https://arxiv.org/abs/2604.22500",
+      "abstract": "In our work, we show how, for a network of bosonic modes, canonical commutation relations constrain the coefficients relating input and internal modes. Based on these constraints, we derive a lower bound on the total steady-state squeezing achievable in reservoir-engineered (dissipative) squeezing schemes, quantified by the sum of mode-optimal quadrature variances normalized to its corresponding input variance. The bound follows solely from canonical commutation relations and stability, and is saturated in the strong-coupling limit at 1. Furthermore, we show that adding independent parametric driving terms for each mode changes the quantum noise-gain balance and yields a distinct optimum bound, approaching 1/2. In addition, we show how these constraints allow us to reformulate the Duan inseparability criterion for a three-mode bosonic system in terms of a single parameter-dependent figure of merit. Our results apply directly to current electromechanical and nanomechanical experiments and indicate that the two-mode bounds can be experimentally approached even at room temperature.",
+      "score": 88,
+      "reason": "✨ squeezed coherent states 派にとって基礎的! reservoir-engineered squeezing の到達限界が交換子から純粋に導出された 📐",
+      "summary": "bosonic mode network の正準交換関係と stability のみから、定常 squeezing 量の下限を導出。strong coupling で飽和 🎻"
+    },
+    {
+      "arxiv_id": "2604.22248",
+      "title": "Vacuum structure of a scalar field on a torus with uniform magnetic flux",
+      "authors": [
+        "Mayumi Akamatsu",
+        "Hiroki Imai",
+        "Makoto Sakamoto",
+        "Maki Takeuchi"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.22248",
+      "abstract": "We investigate the vacuum expectation value of a complex scalar field on a two-dimensional torus with quantized magnetic flux $M$. A characteristic feature of this system is the emergence of a critical area: when the area of the torus exceeds this critical value, the vacuum expectation value becomes nonvanishing. Furthermore, any nonzero vacuum expectation value necessarily exhibits nontrivial dependence on the coordinates of the torus. Employing the lowest-mode approximation, we find a single vacuum configuration for $M=1$, whereas two and six degenerate vacuum configurations arise for $M=2$ and $M=3$, respectively. We then analyze the symmetry properties of these vacuum configurations and determine whether they preserve or spontaneously break the symmetry of the underlying system.",
+      "score": 88,
+      "reason": "🔥 余剰次元・磁束付きトーラス上の scalar 真空構造! 臨界面積を超えると VEV が出現し M に応じて多重縮退 🌀",
+      "summary": "2D torus + 量子化磁束 M で scalar の VEV を最低 mode 近似で計算、M=1 単一・M=2 二重・M=3 六重縮退を発見 🗺️"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "total_fetched": 269,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.23216",
+      "title": "Successful irradiation campaign on PRIMA/PRIMAger KIDs detectors with DRACuLA",
+      "authors": [
+        "Valentin Sauvage",
+        "Ana\"is Besnard",
+        "Giulia Conenna",
+        "Kenichi Karatsu",
+        "Stephen J. C. Yates",
+        "Lorenza Ferrari",
+        "Bruno Maffei"
+      ],
+      "categories": [
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2604.23216",
+      "abstract": "DRACuLA (Detector irRAdiation Cryogenic faciLity for Astrophysics) is a mobile dilution refrigerator platform developed at the Institut d'Astrophysique Spatiale (IAS) to expose sub-Kelvin detectors to particle beams at their nominal operating temperature, in the range 50-300 mK. We report on its design, beam-line integration at the Particle Therapy Research Center (PARTREC) in Groningen, and the operational performance achieved during the September 2025 irradiation campaign on Kinetic Inductance Detector (KID) arrays developed by SRON for the PRIMA mission. The detector samples were maintained at 120 mK throughout a 12-hour proton irradiation run at 184 MeV. The scientific results of this campaign are reported in the companion paper by Besnard et al.",
+      "score": 90,
+      "reason": "🛰️ KID検出器の宇宙線irradiation試験!Stever et al. 2021系の宇宙線systematicsと直接つながる、LiteBIRD系cryo検出器評価の参考に🎯",
+      "summary": "❄️ DRACuLA mobile dilution refrigerator(50-300mK)でPARTRECビームに曝露。PRIMA/PRIMAger KIDで実機運用温度を保ったまま宇宙線照射試験を遂行"
+    },
+    {
+      "arxiv_id": "2604.23305",
+      "title": "gateau: an observation simulator for ground-based submillimeter astronomy with integral field units and kinetic inductance detectors",
+      "authors": [
+        "A. Moerman",
+        "N. Soshnin",
+        "S. A. Brackenhoff",
+        "S. O. Dabironezare",
+        "K. Karatsu",
+        "L. H. Marting",
+        "S. A. H. de Rooij",
+        "M. Roos",
+        "B. R. Brandl",
+        "A. Endo"
+      ],
+      "categories": [
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2604.23305",
+      "abstract": "Submillimeter (submm) integral field units (IFUs) utilising kinetic inductance detectors (KIDs) are a promising instrument architecture for the study of galaxies, galaxy clusters, and the large-scale structure of the Universe. In order to design successful experiments targeting these science cases, several aspects such as instrument design, observation and calibration strategies, and data reduction pipelines must be collectively developed, tested, and optimised. This can be achieved through end-to-end simulations of the experiment, allowing for quantitative assessment of the aforementioned aspects. To this end, we have developed gateau, a modular, flexible, and efficient simulator for submm IFU observations of astronomical sources. The simulator consists of a Python interface, powered by a C/C++ backend that uses CUDA for GPU-acceleration, and is publicly available and fully open-source. gateau simulates observations by taking user input such as an astronomical source, a set of atmospheric screens, a scan pattern, and telescope and instrument parameters. It then propagates the source signal to the detectors. A physically motivated photon-noise model is used to add a white noise component to the received power. Detector noise is added as temporally correlated pink noise. The output is stored in the form of time-ordered datasets. We validated gateau against observations with DESHIMA 2.0, a superconducting, ultra-wideband spectrometer utilising KIDs and on-chip filterbank technology. We show that we can reproduce real observations of the atmosphere and Uranus with gateau simulations. Lastly, we present a use case to show how gateau can simulate long observations in timespans orders of magnitude smaller than the observation time itself, highlighting its applicability and efficiency.",
+      "score": 88,
+      "reason": "📡 KIDアレイ submm IFU の end-to-end観測シミュレータ!検出器設計・キャリブ・パイプライン統合検証ツール、LiteBIRD系のお手本になる🎯",
+      "summary": "🔬 銀河・銀河団・大規模構造観測向けsubmm IFU+KID。観測戦略・キャリブ・データ簡約パイプラインの統合最適化を支援するシミュレーション枠組み"
+    },
+    {
+      "arxiv_id": "2604.22975",
+      "title": "Probable Detection of a Cooler Gas Component in the Perseus Cluster with XRISM",
+      "authors": [
+        "Julian Meunier",
+        "Brian R. McNamara",
+        "Aurora Simionescu",
+        "Francois Mernier",
+        "Irina Zhuravleva",
+        "Congyao Zhang",
+        "Annie Heinrich",
+        "Julie Hlavacek-Larrondo",
+        "Frederick S. Porter",
+        "Benjamin Vigneron",
+        "John ZuHone",
+        "Elena Bellomi",
+        "Ian Drury",
+        "Megan E. Eckart",
+        "Ryuichi Fujimoto",
+        "Yutaka Fujita",
+        "Liyi Gu",
+        "Isamu Hatsukade",
+        "Yuto Ichinohe",
+        "Yoshiaki Kanemaru",
+        "Takao Kitaguchi",
+        "Shunji Kitamoto",
+        "Shogo Kobayashi",
+        "Takayoshi Kohmura",
+        "Hironori Matsumoto",
+        "Kyoko Matsushita",
+        "Kostas Migkas",
+        "Ikuyuki Mitsuishi",
+        "Koji Mori",
+        "Hiroshi Nakajima",
+        "Hirofumi Noda",
+        "Anna Ogorzalek",
+        "Naomi Ota",
+        "Lior Shefler",
+        "Nhut Truong",
+        "Ayseg\"ul T\"umer",
+        "Nagomi Uchida",
+        "Yuusuke Uchida",
+        "Shutaro Ueda"
+      ],
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.GA"
+      ],
+      "url": "https://arxiv.org/abs/2604.22975",
+      "abstract": "We present an analysis of the temperature structure of the Perseus cluster atmosphere using XRISM Resolve observations. The average temperature rises from 3.3 keV near the nucleus of NGC 1275 to 8 keV at 10 arcmin (210 kpc), which is consistent with Chandra and XMM measurements. The velocity and velocity dispersion profiles are broadly consistent with those in arXiv:2509.04421. While the gas at altitudes beyond $\\sim60$ kpc can be modeled as a single temperature plasma, we find evidence for more than one gas phase in the inner $\\sim60$ kpc. The hotter gas component, traced primarily by the Fe He$\\alpha$ line, has a velocity dispersion of $\\lesssim140$ km s$^{-1}$. We detect a cooler, $\\sim1.87-2.43$ keV, gas component with a velocity dispersion of $\\sim300-400$ km s$^{-1}$ and a bulk velocity of $\\sim 21-213$ km s$^{-1}$ with respect to the central galaxy. These ranges reflect large systematic uncertainties associated with modeling spatial-spectral mixing and the bright central point source. Potential low energy gain variations may add additional uncertainties. The cooler component is identified by broad wings in prominent emission lines, most notably S Ly$\\alpha$ and Fe He$\\alpha$. This cooler component's Mach number $\\sim0.73-0.96$ and non-thermal pressure fraction of $\\sim22.9-33.7\\%$ are much higher than found for the hotter gas. The cooler gas may be associated with merging halos along the line of sight which formed the cool, sloshing spiral and/or cooling gas being disturbed by the radio jets and lobes.",
+      "score": 88,
+      "reason": "🌌 XRISM/Resolve でPerseus銀河団温度構造を高分解能観測!XRISM Resolve heritage がLiteBIRDに繋がる線、観測実機の校正実例🔭",
+      "summary": "📊 NGC1275核近傍3.3keV→210kpcで8keV まで温度上昇を確認。60kpc外側は単温度プラズマだが、より複雑な熱構造の証拠も提示"
+    },
+    {
+      "arxiv_id": "2604.23185",
+      "title": "The line modulations of H-like Fe, Ca, Ar, and S observed with $XRISM$/Resolve in Cyg X-3",
+      "authors": [
+        "Tomohiro Hakamata",
+        "Hirokazu Odaka",
+        "Ryota Tomaru",
+        "Hironori Matsumoto",
+        "Taiki Kawamuro",
+        "Ralf Ballhausen",
+        "Tim Kallman",
+        "Daiki Miura",
+        "Hiroya Yamaguchi",
+        "Teruaki Enoto",
+        "Natalie Hell",
+        "Shunji Kitamoto",
+        "Hiroshi Nakajima",
+        "Shin Watanabe",
+        "Shinya Yamada",
+        "Kazutaka Yamaoka"
+      ],
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.SR"
+      ],
+      "url": "https://arxiv.org/abs/2604.23185",
+      "abstract": "Cygnus X-3, hosting a Wolf-Rayet (WR) star whose dense wind produces various spectral lines due to photoionization by X-rays from a compact object, provides an ideal laboratory for studying wind dynamics and density structure. We measured the orbital modulations of the Fe, Ca, Ar, and S Ly$\\alpha$ lines observed with the X-ray microcalorimeter (Resolve) onboard the $XRISM$, taking account of both emission and absorption lines of the Ly$\\alpha$ complexes. The modulations of Doppler shifts of the Fe, Ca, Ar, and S Ly$\\alpha$ lines showed amplitudes of 500 km s$^{-1}$ and phase offsets of 0.04, 0.09, 0.11, and 0.17, respectively, in units of an orbital period (4.8 hours) relative to the orbital motion of the compact object. This result indicated that H-like Fe most closely follows the compact object's motion. The line widths ranged from 400 to 1000 km s$^{-1}$. The intensities of both emission and absorption lines reached their minima around orbital phase 0.0 and their maxima around phase 0.5. The absorption peaks, however, did not align exactly with phase 0.5, suggesting the inhomogeneous structures such as an accretion wake and/or a bow shock. We compared the observed modulations with calculations based on a stellar wind model, accelerated by ultraviolet radiation from the WR star. One of the calculations qualitatively reproduced the observed trend that H-like Fe ions were concentrated near the compact object, whereas H-like S was distributed across the binary system, with H-like Ca and Ar showing intermediate spatial distributions. From this comparison, we estimated that a mass-loss rate of the stellar wind was approximately $5 \\times 10^{-6}$-$1 \\times 10^{-5}\\ M_{\\odot}\\ {\\rm yr}^{-1}$.",
+      "score": 87,
+      "reason": "🌟 XRISM/Resolve でCyg X-3のFe/Ca/Ar/S Lyα線軌道変調観測!microcalorimeter運用実例、X-ray heritage がLiteBIRD設計に活きる🎯",
+      "summary": "🔬 Wolf-Rayet星の高密度風×コンパクト天体でラインのDoppler変調を測定。X線microcalorimeterの軌道分解spectroscopy例として参考になる"
+    },
+    {
+      "arxiv_id": "2604.24654",
+      "title": "\\texttt{SWIM}: Stochastic Warm Inflation Module to generate and analyse Warm Inflationary power spectrum",
+      "authors": [
+        "Umang Kumar",
+        "Suratna Das"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.24654",
+      "abstract": "Numerical analysis to determine the form of the scalar power spectrum in Warm Inflationary paradigm is inevitable. One further needs numerical techniques to analyse any Warm Inflation model with the current observational data through the MCMC codes that are available publicly, like COSMOMC or Cobaya. We present \\texttt{SWIM} (Stochastic Warm Inflation Module) written in C++ and Python, that not only helps generate the Warm Inflationary scalar power spectrum, either semi-analytically or fully numerically, but also is integrated with Cobaya enabling the user to constrain the model parameters with current CMB data and thus to put any Warm Inflation model to test. \\texttt{SWIM} numerically solves the standard stochastic perturbation equations of Warm Inflation without any approximations, uses machine learning techniques to speed up the MCMC analysis while analysing the fully numerical power spectrum that significantly reduces the computational cost, and is able to accommodate any Warm Inflation model with any form of inflationary potential and dissipative coefficient for numerical analysis. We show that \\texttt{SWIM}, in most of the cases, outperforms other numerical codes on Warm Inflation that are designed to yield only the semi-analytical power spectrum as far as the runtimes are concerned. We further point out that there can be situations where the semi-analytical way of determining the scalar power spectrum in Warm Inflation can fall short, and one needs the full numerical power spectrum for parameter estimation given the observational data. In such cases, \\texttt{SWIM} is the only code available so far that is designed to perform the task. Hence, \\texttt{SWIM} offers a complete numerical platform for thorough analysis of Warm Inflation models against the current cosmological data. \\texttt{SWIM} has been made publicly available at https://github.com/umg-kmr/SWIM.",
+      "score": 86,
+      "reason": "🚀 Warm Inflation のpower spectrum生成・解析ツールSWIM、Cobaya統合済み!インフレシナリオ多様化のCMB制約パイプラインに使える📈",
+      "summary": "💻 確率的Warm Inflation のscalar power spectrum を半解析・完全数値で計算。MCMCで観測制約。CMB側の制約とつなぐ橋渡しツール"
+    }
+  ]
+}

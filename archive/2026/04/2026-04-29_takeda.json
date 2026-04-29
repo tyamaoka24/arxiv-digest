@@ -1,0 +1,90 @@
+{
+  "total_fetched": 269,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.23550",
+      "title": "Observation of OAM non-conservation in entangled photon generation",
+      "authors": [
+        "Suman Karan",
+        "Anand K. Jha"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2604.23550",
+      "abstract": "Orbital angular momentum (OAM)-entangled states produced by spontaneous parametric down-conversion (SPDC) are considered ideal for realizing high-dimensional entangled states, which have several advantages for quantum technologies. However, the limited sensitivity of current two-photon OAM detectors is a major roadblock not only for realizing such technologies but also for resolving foundational questions, such as OAM conservation in SPDC. The current theoretical understanding is that OAM is not conserved in Type-II SPDC but is conserved in Type-I. Experimentally, although non-conservation in TypeII has not been demonstrated, conservation in Type-I has been reported frequently and has become an underlying assumption for techniques generating high-dimensional OAM entangled states. In this work, we experimentally demonstrate a high-sensitivity two-photon OAM detector, using which, contrary to the current understanding, we report non-conservation of OAM in Type-I SPDC. We attribute this to a spatial walk-off effect and prove it using a framework free of standard phase-matching approximations.",
+      "score": 92,
+      "reason": "🌀 SPDC由来エンタングル光子のOAM非保存を観測!基礎問題と高次元エンタングルメント実験の両面でクリティカル、SPDC生成過程の実験検証🎯",
+      "summary": "🔬 二光子OAM検出器の感度を改善し、SPDC で OAM が非保存となるケースを実証。pump 光子 OAM の bi-photon への分配について従来理論を超えた振る舞いを観測✨"
+    },
+    {
+      "arxiv_id": "2604.23316",
+      "title": "Complementarity between bosonic and fermionic many-body interferences with partially distinguishable particles",
+      "authors": [
+        "Marco Robbio",
+        "Michael G. Jabbour",
+        "Nicolas J. Cerf"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.23316",
+      "abstract": "It is well known that bosons and fermions exhibit opposite behaviors when experiencing interference, in the sense that bosons have a tendency to bunch whereas fermions have a tendency to antibunch. Recently, this complementarity was mathematically characterized in [arXiv:2312.17709] by means of an identity relating the transition probabilities of both types of particles in a linear interferometer. Here, we show that such a complementarity still holds even when particles become partially distinguishable, for example, when they have slightly different polarizations or time delays. Namely, we establish a relation that combines bosonic and fermionic multiparticle interferences in an arbitrary linear interferometer, in the presence of partial distinguishability. Incidentally, this also provides a new mathematical identity relating the permanent and determinant of tensors of order 3. Importantly, this complementarity has direct operational consequences in quantum metrology. Indeed, we show that the correlation matrices for bosonic and fermionic particle number distributions at the output of the interferometer obey a simple sum rule: their sum equals twice the correlation matrix for classical particles. This, in turn, constraints the achievable quantum Fisher information in phase-estimation protocols, highlighting a trade-off whereby greater indistinguishability enhances bosonic sensitivity whereas reduced indistinguishability can benefit fermionic schemes.",
+      "score": 91,
+      "reason": "✨ 部分的可識別粒子でのbosonic/fermionic多体干渉の相補性恒等式!2光子干渉の波束形式・可識別度の話と直結する基礎結果🎯",
+      "summary": "📐 線形干渉計でのboson/fermion遷移確率を結ぶ恒等式が部分的可識別性下でも成立することを示す。粒子統計と可識別性の交差を定量化"
+    },
+    {
+      "arxiv_id": "2604.24560",
+      "title": "Optimization of two-photon excitation by indistinguishable photons in a three-level atom",
+      "authors": [
+        "Masood Valipour",
+        "Gniewomir Sarbicki",
+        "Karolina Slowik",
+        "Anita Dabrowska"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.24560",
+      "abstract": "We investigate the excitation of a three-level ladder-type atom by a unidirectional field with a pair of indistinguishable photons. Starting from an analytical expression for the two-photon absorption probability, we determine the two-photon state that maximizes the population of the upper atomic state at a chosen time and show that, in the limit of an infinitely long pulse, perfect excitation is possible. The optimal state is identified as the time-reversed counterpart of the two-photon state emitted in spontaneous cascade decay. We then compare this ideal excitation strategy with experimentally accessible families of states, including symmetrized Gaussian product states, temporally correlated Gaussian states, and coherent pulses. We analyze how the optimal excitation conditions depend on the ratio of atomic decay rates and on the separation of the atomic transition frequencies. For indistinguishable photons described by Gaussian pulses, quantum interference may shift the maxima of the marginal spectral distribution away from the atomic resonances and qualitatively modify the optimal excitation strategy. Our results clarify the role of indistinguishability and correlations in two-photon absorption and provide guidance for designing realistic excitation schemes in quantum-optical light-matter interfaces .",
+      "score": 89,
+      "reason": "💡 識別不能2光子による3準位原子のラダー型2光子励起の最適化!パルス無限長極限で完全励起、2光子吸収の時間反転対称性が効く🌟",
+      "summary": "🔭 解析的2光子吸収確率から最適な2光子状態を特定。原子上準位最大化の状態は時間反転状態に一致。SPDC状態設計と時間相関測定への含意"
+    },
+    {
+      "arxiv_id": "2604.23836",
+      "title": "Relative velocity in special relativity and quantum field theory",
+      "authors": [
+        "David Garfinkle"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.23836",
+      "abstract": "A derivation of the relative velocity used in the definition of the relativistic cross-section is given in terms of manifestly Lorentz invariant quantities. Along the way we find that there is a certain arbitrariness in the usual definition of cross-section.",
+      "score": 86,
+      "reason": "💡 相対論的散乱断面積の『相対速度』定義に任意性発見!wave-packet散乱・S行列の波束形式と直接関連する基礎指摘📏",
+      "summary": "📐 SR & QFT 文脈で cross-section に入る relative velocity を manifestly Lorentz-invariant に再導出。標準定義に潜む arbitrariness を指摘"
+    },
+    {
+      "arxiv_id": "2604.24751",
+      "title": "Semiclassical phases of charged spin-$1/2$ matter-wave interferometers in gravitational wave backgrounds",
+      "authors": [
+        "Nontapat Wanwieng",
+        "Apimook Watcharangkool"
+      ],
+      "categories": [
+        "gr-qc",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.24751",
+      "abstract": "A matter wave propagating through curved spacetime accumulates phase that encodes both geometry and gauge structure. We develop a semiclassical framework for charged spin-$1/2$ matter-wave interferometers based on a WKB expansion of the covariant Dirac equation, in which the phase decomposes into dynamical, spin, and electromagnetic Aharonov-Bohm (AB) contributions. In a freely falling detector frame, all three channels are governed by local tidal fields. In a weak gravitational-wave (GW) background, the dynamical and spin phases probe the gravitoelectric and gravitomagnetic sectors of curvature, while the AB phase arises from curvature-induced electromagnetic fields obtained from Maxwell's equations in curved spacetime. For a Mach-Zehnder interferometer (MZI), all three responses are determined by the same tidal scale, $\\ddot{h}_A \\sim \\Omega^2_{gw}h_0$, and filtered by a common geometric kernel, while entering through distinct physical couplings. In particular, the AB contribution depends not only on the enclosed flux but also on spatial variations of the induced fields and exhibits an intrinsic frequency dependence set by the traversal time. These results provide a unified description of matter-wave interferometric phases in time-dependent GW backgrounds and identify complementary dynamical, spin, and electromagnetic pathways through which spacetime curvature imprints itself on quantum interference.",
+      "score": 85,
+      "reason": "🌊 GW背景中の物質波干渉計のWKB位相分解!Dirac eq から動的・スピン・AB位相に分離、波束形式とリンク🎯",
+      "summary": "📐 covariant Dirac eq の WKB展開で物質波の位相を3成分分解。自由落下系で局所潮汐場支配。波束形式の幾何学的拡張として読める"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "total_fetched": 269,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.24011",
+      "title": "Primordial black hole production in scalar field inflation within $f(T)$ gravity",
+      "authors": [
+        "Daniel Villalobos-Silva",
+        "Yerko V'asquez",
+        "Giovanni Otalora"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.24011",
+      "abstract": "We investigate inflation in modified teleparallel gravity within a scalar-tensor framework. We focus on two viable extensions of the Teleparallel Equivalent of General Relativity: a power-law model and an exponential model, which introduce controlled deviations from standard teleparallel gravity through a correction parameter $\\alpha$. Inflation is driven by a string-inspired fiber inflation potential that naturally realizes a transient ultra slow-roll (USR) phase. We solve the background equations numerically and compute the evolution of cosmological perturbations within the modified teleparallel framework. We show that both models generate an amplification of the primordial curvature power spectrum on small scales due to the USR phase, while remaining compatible with cosmic microwave background constraints at large scales. The modified gravity sector introduces corrections to the slow-roll parameters, tensor spectral index, and tensor-to-scalar ratio through derivatives of the torsion function, leading to potentially observable signatures distinct from canonical inflation. We further analyze the implications of enhanced scalar perturbations for primordial black hole (PBH) formation and demonstrate that modified teleparallel gravity provides a theoretically consistent and phenomenologically rich framework for producing PBHs during inflation.",
+      "score": 92,
+      "reason": "🎯 teleparallel f(T)重力 × scalar inflation × PBH生成! Einstein-Cartan系×インフレ×DMの三重交差🔥",
+      "summary": "📐 power-law/exponential f(T)拡張+fiber inflation。USR遷移期にscalar power spectrum増幅されPBH大量生成。modified teleparallel枠での原始BH定量化💫"
+    },
+    {
+      "arxiv_id": "2604.23224",
+      "title": "Parametric Resonance in $\\phi^4$ Preheating: An Exact Numerical Study",
+      "authors": [
+        "Hrisikesh Thakur",
+        "Malay K. Nandy"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.23224",
+      "abstract": "Preheating after inflation proceeds through parametric resonance, leading to efficient particle production in scalar field models. In this work, we investigate the structure of parametric resonance in the $\\phi^4$ chaotic inflationary model during the preheating phase by performing a fully numerical analysis of the coupled dynamical equations governing the inflaton field and the mode function of the produced particles, thereby avoiding the approximations commonly employed in earlier studies. Our results reveal resonance patterns that differ significantly from those obtained with approximate analytical treatments. In the weak coupling regime, short-wavelength modes rapidly settle into oscillations with nearly constant amplitude, while the corresponding occupation numbers approach saturation. However, the long-wavelength modes exhibit gradual amplitude growth, with occupation numbers transitioning into a non-linear oscillatory regime. As the coupling strength increases, the dynamics becomes increasingly nonlinear, leading to the emergence of stochastic behavior. In the strong coupling regime, short-wavelength modes display a step-like (staircase) evolution in the occupation number, indicative of intermittent bursts of particle production. However, the long-wavelength modes exhibit a more gradual, monotonic growth with small superimposed fluctuations. These findings highlight the rich, coupling-dependent, structure of parametric resonance in the quartic inflationary model and underscore the importance of exact numerical treatment in accurately capturing preheating dynamics.",
+      "score": 88,
+      "reason": "🚀 φ⁴ chaotic inflation の preheating を近似なしで完全数値解析!従来近似と差が出るらしい📊",
+      "summary": "⚡ inflaton+mode functionの結合方程式を full numerical で解く。既存近似と異なる resonance パターン出現。粒子生成の効率と背景場逆反応も評価💥"
+    },
+    {
+      "arxiv_id": "2604.24751",
+      "title": "Semiclassical phases of charged spin-$1/2$ matter-wave interferometers in gravitational wave backgrounds",
+      "authors": [
+        "Nontapat Wanwieng",
+        "Apimook Watcharangkool"
+      ],
+      "categories": [
+        "gr-qc",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.24751",
+      "abstract": "A matter wave propagating through curved spacetime accumulates phase that encodes both geometry and gauge structure. We develop a semiclassical framework for charged spin-$1/2$ matter-wave interferometers based on a WKB expansion of the covariant Dirac equation, in which the phase decomposes into dynamical, spin, and electromagnetic Aharonov-Bohm (AB) contributions. In a freely falling detector frame, all three channels are governed by local tidal fields. In a weak gravitational-wave (GW) background, the dynamical and spin phases probe the gravitoelectric and gravitomagnetic sectors of curvature, while the AB phase arises from curvature-induced electromagnetic fields obtained from Maxwell's equations in curved spacetime. For a Mach-Zehnder interferometer (MZI), all three responses are determined by the same tidal scale, $\\ddot{h}_A \\sim \\Omega^2_{gw}h_0$, and filtered by a common geometric kernel, while entering through distinct physical couplings. In particular, the AB contribution depends not only on the enclosed flux but also on spatial variations of the induced fields and exhibits an intrinsic frequency dependence set by the traversal time. These results provide a unified description of matter-wave interferometric phases in time-dependent GW backgrounds and identify complementary dynamical, spin, and electromagnetic pathways through which spacetime curvature imprints itself on quantum interference.",
+      "score": 88,
+      "reason": "🌊 GW背景中のcharged spin-1/2 物質波干渉計のWKB相位分解。重力電磁的AB相位、波束形式と直結🎯",
+      "summary": "📐 covariant Dirac eq の WKB展開で動的・スピン・電磁AB位相に分離。自由落下系で局所潮汐場支配、GW背景でgravitoelectric/magnetic成分プローブ✨"
+    },
+    {
+      "arxiv_id": "2604.24615",
+      "title": "Non-Relativistic Chern-Simons Supergravity with Torsion",
+      "authors": [
+        "Francisco Barriga",
+        "Patrick Concha",
+        "Nelson Merino",
+        "Evelyn Rodr'iguez"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.24615",
+      "abstract": "In this work, we construct a three-dimensional non-relativistic Chern--Simons supergravity theory with both curvature and torsion within the Mielke--Baekler framework. We show that a consistent non-relativistic supergravity formulation requires starting from a $\\mathcal{N}=2$ supersymmetric extension of the Mielke--Baekler algebra and implementing a non-relativistic expansion via the semigroup expansion method, rather than a naive contraction. This procedure allows one to overcome the usual difficulties of non-relativistic supergravity constructions, ensuring closure of the superalgebra and the existence of a non-degenerate invariant bilinear form. The resulting model is characterized by two parameters $(p,q)$, which interpolate between different non-relativistic supergravity theories, including the extended Bargmann, Newton--Hooke, and torsional models. Our results provide a unified framework for non-relativistic supergravity with torsion and open new avenues for exploring supersymmetric extensions of Galilean and Carrollian gravity theories.",
+      "score": 87,
+      "reason": "🌀 Mielke-Baekler枠でのトーション付きChern-Simons超重力! Einstein-Cartan系譜、N=2 SUSY拡張+半群展開📐",
+      "summary": "🔧 3D非相対論的CS超重力をMielke-Baekler代数のN=2拡張+semigroup expansionで構築。素朴な縮約では駄目で、曲率もトーションも残る非相対論超重力得る💡"
+    },
+    {
+      "arxiv_id": "2604.23836",
+      "title": "Relative velocity in special relativity and quantum field theory",
+      "authors": [
+        "David Garfinkle"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.23836",
+      "abstract": "A derivation of the relative velocity used in the definition of the relativistic cross-section is given in terms of manifestly Lorentz invariant quantities. Along the way we find that there is a certain arbitrariness in the usual definition of cross-section.",
+      "score": 86,
+      "reason": "💡 相対論的散乱断面積で使う「相対速度」の定義に任意性発見!Lorentz不変量で再定式化、波束散乱の人にピンと来る🎯",
+      "summary": "📏 SR & QFT 文脈で相対論的cross-section定義の relative velocity を manifestly Lorentz-invariant に導出。標準定義に潜む arbitrariness を指摘"
+    },
+    {
+      "arxiv_id": "2604.22929",
+      "title": "Particle and Superparticle Confinement in Higher Codimension Braneworlds",
+      "authors": [
+        "F. E. A. de Souza",
+        "M. O. Tahim",
+        "R. I. de Oliveira J'unior",
+        "I. M. Mac^edo"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.22929",
+      "abstract": "In this work we analyze the classical confinement of relativistic and supersymmetric spinning particles in higher-codimension braneworlds. Considering warped backgrounds generated by string-like $ n=2$ and global scalar defects $ n \\geq 3$, we derive the effective radial dynamics from a Polyakov-type action. For spinless particles, the effective potential is monotonically decreasing, leading to repulsive behavior and the absence of confinement. In contrast, for $N=1,2 $ spinning particles, spin-curvature coupling modifies the potential, allowing the emergence of stable equilibrium points. Depending on the coupling parameter, particles may be confined on the membrane or in nearby regions, exhibiting bounded or satellite-like motion. These results emphasize the role of spin in localization mechanisms.",
+      "score": 86,
+      "reason": "🌐 高次余剰次元(codim n≥2)braneworld でのスピン粒子・超粒子の閉じ込め解析!UED系統の拡張✨",
+      "summary": "🔬 warped背景でPolyakov型作用から有効動径dynamics導出。spinless粒子は反発で閉じ込め無し、N=1,2スピン粒子はspin-orbit相互作用で閉じ込め発生🎲"
+    },
+    {
+      "arxiv_id": "2604.23879",
+      "title": "Searching for ultralight bosons with Josephson junction interferometry",
+      "authors": [
+        "Djuna Croon",
+        "Tanmay Kumar Poddar"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.23879",
+      "abstract": "Ultralight bosons sourced by macroscopic objects can generate long-range spin-independent and spin-dependent potentials that are accessible to precision interferometry. Such potentials induce phase shifts in Josephson junctions, detectable through precision current measurements. We propose three experimental scenarios to probe photophilic scalar interactions, Lorentz-violating scalar-mediated interactions, and axion-mediated monopole-dipole interactions, depending on the nature (unpolarized or polarized) of the source. The proposed setups provide sensitivities to novel mixed couplings that are largely unconstrained by existing bounds and enables the exploration of new forces at centimeter to micrometer length scales.",
+      "score": 85,
+      "reason": "🪐 Josephson接合干渉で超軽ボソン探索!photophilic scalar/Lorentz-violating/axion-mediated 3シナリオ👀",
+      "summary": "⚡ マクロ物体源から長距離スピン依存/非依存ポテンシャル→Josephson位相シフト。新しい mixed couplings の感度領域を提案、既存実験の補完🔥"
+    }
+  ]
+}

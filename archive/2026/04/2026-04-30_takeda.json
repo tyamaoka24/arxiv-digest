@@ -1,0 +1,84 @@
+{
+  "total_fetched": 193,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.24774",
+      "title": "Multi-modes Bessel-Gaussian-Orbital Angular Momentum Beams Quantum Holography",
+      "authors": [
+        "Jinjin Li",
+        "Chaoying Zhao"
+      ],
+      "categories": [
+        "physics.optics",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.24774",
+      "abstract": "We propose an orbital angular momentum (OAM) quantum holography scheme based on multi-mode Bessel-Gaussian (MBG) beams. Entangled photon pairs are generated through spontaneous parametric down-conversion (SPDC) process, and the axis prism parameters and topological charges of the idler photons are used for encoding to construct Bessel-Gaussian quantum selective holograms; then, the corresponding mode parameters carried by the signal photons are used for correlated decoding and information reconstruction. Theoretical analysis and numerical simulation results show that this scheme can effectively realize OAM quantum holography based on Bessel-Gaussian modes encoding. Compared with traditional single OAM encoding methods, our scheme introduce an additional mode degrees of freedom, which can enhance multiplexing dimension and encoding capacity; at the same time, relying on the non-classical correlation characteristics of entangled photons, quantum holography has a potential advantages in noise-resistance performance.",
+      "score": 85,
+      "reason": "SPDC で生成した entangled photon pair を Bessel-Gaussian OAM で多重化した quantum holography🎯 多モードへの拡張が SPDC 相関の使い方として刺激的✨",
+      "summary": "multi-mode Bessel-Gaussian OAM 基底で SPDC entangled photon pairs を符号化、idler の trit + signal の相関で量子選択 holography を実装📡"
+    },
+    {
+      "arxiv_id": "2604.25034",
+      "title": "Bell Test of Photons from Electron-Positron Annihilation via POVM-based Compton Polarimetry",
+      "authors": [
+        "Jack Clarke",
+        "Preslav Asenov",
+        "Jesse Smeets",
+        "Jia-Shian Wang",
+        "David B. Cassidy",
+        "Alessio Serafini"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-ex",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.25034",
+      "abstract": "Quantum entanglement between gamma-ray photons emitted following electron-positron annihilation is expected to be maximal and may be characterized via non-classical polarization correlations. However, this is difficult to verify experimentally because there are no established schemes that approach ideal projective-polarization measurements for high-energy photons. Hence, polarization entanglement between MeV-scale annihilation photons has not yet been conclusively demonstrated. We develop here a framework that models polarization measurements of high-energy photons via Compton polarimetry, employing the formalism of positive operator-valued measures (POVMs). We extend the POVM description to sequences of repeated interactions and show that the measurement converges toward an ideal projective measurement of linear polarization as the number of interactions increases. We demonstrate that this progressive improvement in measurement sharpness can enable the experimental violation of CHSH inequalities.",
+      "score": 90,
+      "reason": "電子陽電子消滅光子の Bell 検証を Compton polarimetry の POVM で精密化🎯✨ collider entanglement と wave-packet 測定論の境界に直撃🔥",
+      "summary": "high-energy 消滅 γ の偏極測定を POVM-based Compton polarimetry で記述、繰返し相互作用で sharpness が projective 測定に収束し CHSH 違反が可能🌟"
+    },
+    {
+      "arxiv_id": "2604.25901",
+      "title": "Testing a continuous-variable Bell-like inequality with a hybrid-encoded system",
+      "authors": [
+        "Yu Meng",
+        "Ying Wang",
+        "Clara Henke",
+        "Nikolai Bart",
+        "Arne Ludwig",
+        "Peter Lodahl",
+        "Jonas S. Neergaard-Nielsen",
+        "Ulrik L. Andersen",
+        "Leonardo Midolo",
+        "Zheng-Hao Liu"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.25901",
+      "abstract": "Continuous-variable quantum systems are promising candidates for quantum computing and quantum information processing. It is widely known that quadrature measurements on Gaussian continuous-variable systems can be described by a noncontextual hidden-variable model and cannot violate a Bell inequality. Here, we demonstrate that the observation fails when sequential measurements are involved. Our experiment is realized by mapping the spatial modes of a single photon, deterministically generated from an InAs/GaAs quantum emitter, to the logical operations in the Gottesman--Kitaev--Preskill code space. Employing a black-box-style approach, we observe a violation of the Bell-like noncontextual hidden-variable inequality by 380 standard deviations. Our results address the conceptual loopholes in previous works and open up new possibilities for studying fundamental quantum physics using photonic-encoded continuous-variable systems.",
+      "score": 87,
+      "reason": "連続変数 Gaussian でも sequential 測定なら Bell-like 違反が出る、というハッキリした実験結果📊 quantum-emitter+GKP の hybrid 経路が綺麗✨",
+      "summary": "InAs/GaAs 量子ドット由来の単一光子の空間モードを GKP code 空間に写像し、連続変数 Bell-like 不等式を 380σ で破る black-box 実験🎯"
+    },
+    {
+      "arxiv_id": "2604.25910",
+      "title": "Heralding probability optimization for nonclassical light generated by photon counting measurements on multimode Gaussian states",
+      "authors": [
+        "Jarom'ir Fiur'asek"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.25910",
+      "abstract": "Generation of highly non-classical quantum states of light is essential for optical quantum information processing and quantum metrology. Given the lack of sufficiently strong nonlinear interactions between optical fields, the commonly employed optical quantum-state preparation schemes are conditional, based on nonlinearity induced by heralding photon number measurement on a part of a multimode squeezed Gaussian state. Development and optimization of such probabilistic quantum-state engineering schemes represents one of the central challenges in current quantum optics. As technology advances and experiments progress to detection of higher numbers of photons, the maximization of the heralding probability becomes essential to ensure sufficiently high state-preparation rates. Here, we show that for the conditional quantum state preparation schemes based on Gaussian states and photon number measurements the maximization of the heralding probability can be formulated as finding solution to a system of polynomial equations, which offers an efficient way to find the optimal configuration and allows us to apply techniques dedicated specifically to solving such systems of equations. Our approach can seamlessly incorporate bounds on the available single-mode quadrature squeezing, which is highly experimentally relevant. We mainly consider generation of finite superpositions of Fock states but show that the approach can be straightforwardly extended to generation of squeezed superpositions of Fock states. We focus on Gaussian states with vanishing coherent displacements, hence the conditionally generated states have well defined photon number parity. We illustrate our general methodology on examples of generation of single-mode and two-mode states with two heralding modes.",
+      "score": 87,
+      "reason": "多モード squeezed Gaussian + photon counting heralding を最適化する一般論🎯 SPDC biphoton の preparation rate を上げる実用 tool として効く✨",
+      "summary": "多モード Gaussian state + photon-number 測定による条件付状態生成で heralding 確率を最大化する最適化問題を定式化、高光子数領域での実用解を提示📈"
+    }
+  ]
+}

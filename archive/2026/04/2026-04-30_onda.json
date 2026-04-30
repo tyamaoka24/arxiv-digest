@@ -1,0 +1,22 @@
+{
+  "total_fetched": 193,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.25813",
+      "title": "Geometric Constraints on the Pre-Recombination Expansion History from the Hubble Tension",
+      "authors": [
+        "Davide Pedrotti"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.25813",
+      "abstract": "I perform a model-independent reconstruction of the background pre-recombination expansion history of the Universe. I find that purely early-time resolutions to the Hubble tension, satisfying the geometric CMB constraints, exist at the background level. This class of solutions requires a smooth transition around matter-radiation equality, characterized by a $\\simeq 15\\%$ expansion rate enhancement prior to recombination. This result serves as a blueprint for future model-building approaches, providing a background stress-test for Hubble tension proposals.",
+      "score": 85,
+      "reason": "Hubble tension を pre-recombination の geometric CMB 制約だけで model-independent に評価🌌 LiteBIRD context で early-time 解の余地を測る blueprint📐",
+      "summary": "matter-radiation equality 周りで ~15% の expansion rate enhancement が geometric CMB と整合、early-time Hubble tension 解の background-level stress test✨"
+    }
+  ]
+}

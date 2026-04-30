@@ -1,0 +1,159 @@
+{
+  "total_fetched": 193,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.24849",
+      "title": "Accidental Peccei-Quinn Symmetry from Chiral Gauge Symmetry and Mirror QCD",
+      "authors": [
+        "Hajime Fukuda",
+        "Keisuke Harigaya"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2604.24849",
+      "abstract": "We present a solution to the strong CP problem in which a simple chiral U(1) gauge symmetry gives rise to an accidental Peccei-Quinn symmetry that is both explicitly and spontaneously broken by mirror QCD dynamics, yielding a framework without massless fermions or a light QCD axion. The model contains no stable domain walls or colored relics, and it accommodates a sufficiently high reheating temperature to account for the baryon asymmetry of the Universe via leptogenesis. Metastable domain walls and first-order mirror QCD phase transition generate a stochastic background of primordial gravitational waves. Additionally, one of the pseudo-Nambu-Goldstone bosons serves as a viable WIMP dark matter candidate. The gauge boson associated with the chiral U(1) gauge symmetry, which kinetically mixes with the Standard Model hypercharge gauge boson, provides a vector portal connecting dark matter to the Standard Model and plays a central role in the dark-matter phenomenology. Colored pseudo-Nambu-Goldstone bosons can be probed at the LHC through searches for dijet resonances, jets plus missing energy, multijet events with leptons, and displaced vertices.",
+      "score": 90,
+      "reason": "強CP問題+軸状なし+leptogenesis+WIMP DM+GW背景まで全部入りの欲張りパッケージ✨️🎯 kinetic mixing で SM と接続📡",
+      "summary": "chiral U(1) gauge から accidental PQ を立て、mirror QCD で破る🌀 pNGB が WIMP DM、metastable DW が SGWB を生成🌊"
+    },
+    {
+      "arxiv_id": "2604.24861",
+      "title": "Hawking radiation with dispersion: reconciling the Bogoliubov and tunneling approaches",
+      "authors": [
+        "Francesco Del Porro",
+        "Stefano Liberati",
+        "Marc Schneider"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.24861",
+      "abstract": "We investigate Hawking-like particle production in analogue gravity systems with superluminal modified dispersion relations. For a broad class of even, convex, and polynomially bounded dispersion relations, we show that the relevant outgoing modes are governed by an effective horizon induced by dispersive propagation. Extending the near-horizon S-matrix method beyond the purely sonic regime, we compute the Bogoliubov coefficients and demonstrate that, in the low-energy and adiabatic limits, they agree with the tunneling result obtained from the approximant ray. In both cases, the emission spectrum is controlled by an effective surface gravity associated to the effective horizon, leading to controlled deviations from exact thermality. Our results establish an analytical connection between the Bogoliubov and tunneling descriptions in dispersive settings and clarify the conditions under which Hawking radiation remains robust against ultraviolet modifications, with implications extending beyond analogue gravity.",
+      "score": 88,
+      "reason": "Hawking 輻射の Bogoliubov vs tunneling という古典的二系統を dispersion ありで橋渡し🌉 UV modification への robustness 議論が嬉しい🔥",
+      "summary": "superluminal dispersion 下で effective horizon を S-matrix 法で扱い、Bogoliubov 係数が tunneling 結果と一致することを示す🌀"
+    },
+    {
+      "arxiv_id": "2604.25090",
+      "title": "Can LLP detectors probe the reheating temperature? A case study of vector dark matter",
+      "authors": [
+        "Paulo Areyuna C",
+        "Giovanna Cottin",
+        "Basti'an D'iaz S'aez",
+        "Zeren Simon Wang",
+        "Yu Zhang"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.25090",
+      "abstract": "We study an extension of the singlet-scalar Higgs portal featuring a dark vector $V_\\mu$ and a real scalar $\\phi$. The vector is a dark matter (DM) candidate, while $\\phi$ is long-lived and decays via higher-dimensional operators. We explore the DM production via freeze-in at low and high reheating temperatures. At colliders, the decay $\\phi\\to Z+V$ yields distinctive long-lived particle (LLP) signatures. We explore the interplay between cosmological constraints and LLP searches at the LHC and FCC-hh, showing that far detectors can probe otherwise inaccessible parameter space and place novel bounds on the reheating temperature.",
+      "score": 90,
+      "reason": "singlet-scalar Higgs portal の拡張で reheating 温度を LLP で叩く話🎯✨️ DM phenomenology と cosmology の交点で美味しい🍡",
+      "summary": "dark vector V_μ + scalar φ の Higgs portal、freeze-in DM。φ→Z+V の LLP 信号が LHC/FCC-hh の遠隔検出器で reheating T を制限🌌"
+    },
+    {
+      "arxiv_id": "2604.25240",
+      "title": "Simple Analytical Solutions of the Wheeler-DeWitt Equation in the Classical Hamilton-Jacobi Limit",
+      "authors": [
+        "Naoto Maki",
+        "Chia-Min Lin",
+        "Kazunori Kohri"
+      ],
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.25240",
+      "abstract": "We investigate the Wheeler-DeWitt equation for a flat, homogeneous, and isotropic Universe containing a canonical scalar field with a potential. We show that under the constraint $|\\Psi|=1$, where the Wheeler-DeWitt equation exactly becomes the classical Hamilton-Jacobi equation, the form of the potential is completely determined depending on the value of the operator ordering parameter. Furthermore, we demonstrate that the classified potentials admit simple forms, such as the exponential, quadratic with a negative cosmological constant, and cosine-type potential with a negative cosmological constant. Several of these have already been explored in the context of inflation or dark energy. Finally, focusing on the system with the cosine-type potential and a negative cosmological constant in the classified potentials, we derive the analytical solutions for the scale factor and the scalar field and discuss the cosmological implications.",
+      "score": 85,
+      "reason": "Wheeler-DeWitt が HJ 極限で完全に解析解になる条件を整理👀 inflation/DE 文脈での古典 potential 形が cosine 等に絞り込まれる🌟",
+      "summary": "|Ψ|=1 制約下で WdW 方程式が古典 HJ になる場合の potential を operator ordering で分類、cosine+負 Λ で scale factor の解析解を提示📐"
+    },
+    {
+      "arxiv_id": "2604.25516",
+      "title": "The EDM inverse problem: Identifying the sources of CP violation and PQ breaking with electric dipole moments",
+      "authors": [
+        "Kiwoon Choi",
+        "Sang Hui Im"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.25516",
+      "abstract": "Many extensions of the Standard Model (SM) generically introduce new sources of CP violation, which can induce observable $P$-odd and $T$-odd permanent electric dipole moments (EDMs) of nuclei, atoms, and molecules. A future observation of nonvanishing EDMs would therefore provide a sensitive probe of physics beyond the SM, while also posing a nontrivial inverse problem: identifying their underlying ultraviolet origin. In this work, we identify six representative classes of CP-violating effective operators near the QCD scale, including the QCD $\\theta$-term, that are particularly relevant for low-energy EDMs and can arise in a broad range of SM extensions. We show that these operator classes lead to distinct EDM patterns across different systems, thereby enabling discrimination among them through experimentally measured EDMs. We further emphasize that EDM measurements can shed light on the origin of the vacuum expectation value of the QCD axion. In particular, they may help distinguish whether a nonzero axion vacuum expectation value is predominantly induced by high-scale Peccei--Quinn symmetry-breaking effects, such as those associated with quantum gravity, or by the interplay between beyond-the-SM CP violation and the QCD anomaly.",
+      "score": 87,
+      "reason": "EDM の inverse problem を 6 種の CP-violation operator class で systematics 化🎯✨ axion VEV の起源にまで EDM が情報を持つ点が刺さる🪡",
+      "summary": "QCD scale 近傍の 6 つの CP-violating EFT operator が異なる EDM パターンを与え、experimentally に origin を識別、PQ 起源も区別👁️"
+    },
+    {
+      "arxiv_id": "2604.25569",
+      "title": "Curvature-Assisted Dynamical Compactification in a Pre-Inflationary Higher-Dimensional Universe",
+      "authors": [
+        "Yusuke Yamada"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.25569",
+      "abstract": "We investigate a pre-inflationary dynamical compactification scenario in which a higher-dimensional expanding universe evolves into an effectively four-dimensional one through curvature-assisted modulus trapping. To obtain a calculable semiclassical realization, we consider a simple five-dimensional $S^1$ compactification in a time-dependent open FRW background. Bulk quantum fields generate both the late-time Casimir contribution that stabilizes the radion and the early-time Kaluza-Klein thermal contributions relevant for the cosmological evolution. We show that negative curvature can sustain tracker-like radion evolution, allowing the radion to be trapped in a compactified vacuum before a subsequent four-dimensional inflationary phase dilutes the curvature remnant. While our analysis is performed in a 5D toy model, it illustrates a broader mechanism by which dynamical compactification can arise in a pre-inflationary higher-dimensional cosmology.",
+      "score": 88,
+      "reason": "余剰次元の dynamical compactification が pre-inflationary curvature trapping で実現🌌🌀 KK + Casimir + 負曲率の合わせ技がご褒美✨",
+      "summary": "5D S^1 + open FRW で bulk 量子場の Casimir 寄与が radion 安定化、負曲率が tracker-like 進化を支え 4D inflation 前に compactification 完了🪐"
+    },
+    {
+      "arxiv_id": "2604.25726",
+      "title": "Imprint of domain wall annihilation on induced gravitational waves",
+      "authors": [
+        "Rishav Roshan"
+      ],
+      "categories": [
+        "hep-ph",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2604.25726",
+      "abstract": "Domain wall annihilation can leave a distinctive imprint on the induced gravitational wave spectrum. During annihilation, most of the domain wall energy transforms into the scalar field responsible for the initial $\\mathbb{Z}_2$ symmetry breaking that created the walls, along with any coupled species. If the produced scalar is sufficiently long-lived, its delayed decay drives an early matter-dominated phase following domain wall annihilation, significantly amplifying induced gravitational waves from primordial perturbations. The subsequent transition to radiation domination dilutes the domain wall contribution through entropy injection while preserving the enhanced induced signal. This creates a gravitational wave spectrum with two distinct peaks detectable across complementary frequency bands. We explore the observable parameter space and demonstrate how multi-band detection can probe early universe symmetry breaking.",
+      "score": 85,
+      "reason": "Domain wall 消滅の二峰 GW signature📈🌊 induced GW + early matter dom + entropy injection の組合せが multi-band で見える可能性が嬉しい🎶",
+      "summary": "DW annihilation 後の long-lived scalar による early matter dominated phase が induced GW を増幅、二峰 GW spectrum が complementary band で観測可能🌟"
+    },
+    {
+      "arxiv_id": "2604.25874",
+      "title": "Precision predictions for trilinear scalar couplings and Higgs pair production in models with extended scalar sectors",
+      "authors": [
+        "Johannes Braathen"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.25874",
+      "abstract": "Reconstructing the shape of the Higgs potential realised in Nature is one of the most pressing tasks of current and future colliders. This will offer deep insights into the dynamics of the electroweak phase transition and provide a unique opportunity to probe physics beyond the Standard Model (BSM). In this context, it is essential to have precise theory predictions for trilinear scalar couplings, which control the form of the potential, and for Higgs pair production processes, which are the observables that allow accessing the trilinear couplings. I summarise in these proceedings recent progress in precision calculations of both trilinear scalar couplings and Higgs pair production at the (HL-)LHC in BSM models with extended scalar sectors.",
+      "score": 87,
+      "reason": "Higgs potential の形を再構成する観点から trilinear coupling と Higgs pair の精密予言✨️🎯 EW phase transition と BSM の手掛かりに直結🔥",
+      "summary": "拡張 scalar sector における trilinear scalar coupling と (HL-)LHC での Higgs pair 生成過程の精密計算 progress を proceedings として総括📊"
+    },
+    {
+      "arxiv_id": "2604.25888",
+      "title": "Gauging Axionic Symmetries and Dark Matter: In memory of George Lazarides",
+      "authors": [
+        "Claudio Corian`o"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.25888",
+      "abstract": "These notes are written for a memorial Session dedicated to George Lazarides. They revisit a joint work on the cosmology of a gauged axion and place it in a broader line of ideas connecting anomalous gauge symmetries, orientifold effective actions, Stueckelberg fields and dark matter. In models with an anomalous extra $U(1)$ symmetry, the Stueckelberg pseudoscalar participates in the restoration of gauge invariance through Wess-Zumino counterterms and, after electroweak symmetry breaking, may leave a physical axion-like state. Its cosmological history differs from that of an ordinary Peccei-Quinn axion: the physical field appears only after Higgs-Stueckelberg mixing, is subject to sequential electroweak and QCD misalignment, and can give an appreciable dark-matter relic abundance only when the Stueckelberg scale is sufficiently large. This perspective connects naturally with George's earlier insight that the vacuum structure of axion models must be understood together with the gauge structure in which it is embedded. I dedicate these notes to his memory, with gratitude for the collaboration and for the clarity with which he connected particle physics to the early universe.",
+      "score": 87,
+      "reason": "Stueckelberg 軸 + anomalous U(1) + WZ counterterm の DM 解釈を Lazarides 追悼で総括🌙✨ misalignment が EW + QCD の二段で来る点が面白い🎻",
+      "summary": "anomalous extra U(1) gauge + Stueckelberg pseudoscalar が Higgs-Stueckelberg mixing 後に物理 axion-like 状態を残し DM relic を与える🌌"
+    }
+  ]
+}

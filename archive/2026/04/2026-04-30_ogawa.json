@@ -1,0 +1,59 @@
+{
+  "total_fetched": 193,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.24791",
+      "title": "Generalized Uncertainty Relations and Quantum Speed Limits",
+      "authors": [
+        "M. W. AlMasri"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.24791",
+      "abstract": "We propose a mathematically rigorous unified framework for hybrid quantum mechanics that systematically combines algebraic deformation and spatial non-locality within a single operator formalism. By constructing a self-adjoint hybrid kinetic operator through spectral calculus, we derive exact generalized uncertainty relations that interpolate between $q$-deformed and fractional quantum mechanical bounds. Furthermore, we establish a rigorous quantum speed limit theorem for the hybrid Hamiltonian, revealing how deformation parameters, fractional orders, and external potentials tune the fundamental evolution rate of quantum states. We prove that algebraic deformation accelerates coherent dynamics through discrete momentum quantization, while fractional non-locality induces spectral broadening that suppresses evolution speed. The framework recovers standard quantum mechanics, $q$-quantum mechanics, and fractional quantum mechanics as limiting cases, and provides explicit phenomenological signatures for experimental discrimination in trapped-ion, superconducting, and cold-atom platforms.",
+      "score": 90,
+      "reason": "一般化不確定性関係と量子速度限界を統一的にまとめた framework 🎯 q-変形と分数量子力学を補間する点がコア topic に直撃✨",
+      "summary": "algebraic deformation + 空間非局所性を hybrid kinetic operator で統合、q-deformed と fractional QM の generalized uncertainty を補間する QSL 定理を導出📐"
+    },
+    {
+      "arxiv_id": "2604.24792",
+      "title": "Quantum gravimetry with intrinsic quantum time uncertainty",
+      "authors": [
+        "Salman Sajad Wani",
+        "Sundus Abdi",
+        "Rushda Naik",
+        "Saif Al-Kuwari"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.24792",
+      "abstract": "We study quantum gravimetry when the interrogation time carries intrinsic uncertainty, motivated by a fundamental limit on temporal resolution associated with the energy--time uncertainty relation. For linearly gravity-coupled gravimeters, we obtain the effective gravity information by profiling the interrogation time from the two-parameter quantum Fisher information (QFI) matrix. In this class, the time-information block is quadratic in the gravitational parameter, and for quadratic background dynamics, the gravity--time cross term becomes affine in $g$. These properties yield a normalized expression for the fraction of standard single-parameter gravity QFI that remains once interrogation time is treated as a nuisance parameter, with an affine numerator and a Lorentzian denominator. We work out these results in three benchmark models: a freely falling Gaussian wavepacket, the Kasevich--Chu light-pulse atom interferometer, and an idealized closed-unitary optomechanical model. The Gaussian free-fall benchmark yields an exact closed-form expression for the effective gravity information and shows explicitly how nuisance-time profiling suppresses the momentum-spread-dependent part of the standard single-parameter gravity QFI. In the Kasevich--Chu interferometer, internal state population readout gives a rank-deficient measured two-parameter geometry unless independent timing information is supplied, whereas full access to the final motional and internal states restores a full-rank geometry with retention controlled by the competition between initial velocity spread and gravitationally accumulated motion. In atom-interferometric benchmarks, the framework yields explicit conditions for minimizing nuisance-time information loss, together with corresponding constraints on momentum spread, spatial localization, and long-interrogation-time operation.",
+      "score": 90,
+      "reason": "時間-エネルギー不確定性の本丸✨ interrogation time に内在する量子不確定性を nuisance として扱う Fisher 情報の解析🎯 wave-packet 形式と直結",
+      "summary": "量子重力測定で interrogation time が固有量子不確定性を持つ場合の QFI を導出、Gaussian wavepacket・Kasevich-Chu・optomechanical の 3 model で評価🌊"
+    },
+    {
+      "arxiv_id": "2604.25663",
+      "title": "Quantum memory and scrambling from the perspective of a classical neural network",
+      "authors": [
+        "Dimitrios Maroulakos",
+        "Andrzej Wal",
+        "Marcin Kowalik",
+        "Czeslaw Jasiukiewicz",
+        "Rohit Kumar Shukla",
+        "Sunil K. Mishra",
+        "Levan Chotorlishvili"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.25663",
+      "abstract": "Entropic uncertainty relations are universal quantifiers of fundamental uncertainties of quantum measurements and are widely discussed in the quantum metrology literature. Quantum memory is a phenomenon related to the specific type of quantum correlations that allows for reducing fundamental uncertainties of quantum measurements. In the present work, the modified concept of quantum memory for time-dependent problems is proposed. We compare the time-dependent formulation of quantum memory with the out-of-time-ordered correlator (OTOC). Quantum memory is a rigorous mathematical concept that requires demanding calculations. Thus, until now, quantum memory has been discussed mainly for simple model systems and stationary problems. In the present work, we demonstrate that quantum memory can also be studied for realistic and physically relevant systems, e.g., the atomic helical spin chain, as well as the emergence and propagation of quantum correlations in time. We found that quantum memory manifests faster oscillations in time than OTOC and does not equilibrate. Furthermore, an artificial neural network is trained and asked to predict results for OTOC and quantum memory. These results show that quantum memory is more sensitive than OTOC in terms of broken inversion symmetry and the nonreciprocal effect.",
+      "score": 85,
+      "reason": "Entropic uncertainty + 量子メモリの time-dependent 拡張を OTOC と比較📊 量子相関の伝播を physical な spin chain で扱う点が新鮮✨",
+      "summary": "helical spin chain で時間依存の量子メモリを定義し OTOC と比較、entropic uncertainty 緩和に効く相関の発展を classical NN で再現🌀"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "total_fetched": 177,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.26816",
+      "title": "Gouy phase engineering of self-splitting quantum correlations",
+      "authors": [
+        "A. L. S. Santos Junior",
+        "M. Damaceno",
+        "A. C. Barbosa",
+        "N. A. Ribeiro",
+        "G. B. Alves",
+        "P. H. Souto Ribeiro",
+        "A. Z. Khoury"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.26816",
+      "abstract": "We demonstrate the effect of self-splitting spatial quantum correlations induced by Gouy phase engineering. In SPDC the pump beam is structured with a mode superposition that produces dynamical splitting and recombination of the light beam. This structure is transferred to the quantum correlations between signal and idler photons. The joint two-photon probability distribution propagates like a self-splitting and recombining light beam, implementing a Mach-Zehnder-like interferometer. We observe heralded single-photon interference and two-photon NOON state interference.",
+      "score": 91,
+      "reason": "🎯 Gouy phase で構造化した SPDC pump で signal-idler の量子相関が自己分裂・再結合!Mach-Zehnder 風 + heralded + 二光子 NOON 状態干渉を観測",
+      "summary": "✨ pump を mode 重ね合わせで構造化 → biphoton joint probability が分裂・再結合で伝搬。heralded single-photon と two-photon NOON 干渉を実験観測"
+    }
+  ]
+}

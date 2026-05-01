@@ -1,0 +1,22 @@
+{
+  "total_fetched": 177,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.26716",
+      "title": "Delayed Choice Phenomena in the Projection Evolution Model",
+      "authors": [
+        "Marek Gozdz",
+        "Andrzej Gozdz",
+        "Krzysztof Lider"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.26716",
+      "abstract": "In the Schrodinger evolution of a quantum state time enters as a real parameter. In a more consistent approach time should be defined as a quantum observable, with the evolution taking place in a four-dimensional spacetime. This is possible in the projection evolution model in which the wave function is defined in both space and time. This allows to construct the time operator and discuss the temporal structure of quantum processes. We discuss a photon travelling through a Mach-Zehnder interferometer, focusing on the temporal profile of the wave function. Delayed-choice experiments can be explained by the temporal overlap of the photon and the devices.",
+      "score": 88,
+      "reason": "🎯 時間を量子観測量として 4D 時空で扱う projection evolution model で、Mach-Zehnder の delayed-choice を photon の温度プロファイルから説明",
+      "summary": "✨ wave function を空間+時間で定義し時間演算子を構成、photon と装置の temporal overlap として delayed-choice 実験を再解釈する枠組み"
+    }
+  ]
+}

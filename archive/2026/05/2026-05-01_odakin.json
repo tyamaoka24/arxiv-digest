@@ -1,0 +1,96 @@
+{
+  "total_fetched": 177,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.26004",
+      "title": "Revisiting Turner Window Axions: The Untapped Potential of NaI Dark Matter Detectors",
+      "authors": [
+        "W. C. Haxton",
+        "Xing Liu",
+        "Anupam Ray",
+        "Evan Rule"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "hep-ex",
+        "nucl-ex",
+        "nucl-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.26004",
+      "abstract": "The \"Turner window\" corresponds to axions with masses gtrsim 1 eV that have sufficiently strong couplings to matter to evade limits from the cooling of SN1987A. We show that a more complete treatment of the axion opacity in SN1987A significantly weakens prior limits, opening regions for hadronically coupled axions. NaI detectors (DAMA/LIBRA-style) can detect resonant absorption from carbon-burning stars producing 23Na thermal axions at 440 keV.",
+      "score": 88,
+      "reason": "🎯 Turner 窓の axion 復活!SN1987A opacity 再評価で QCD axion (≳10eV) の region が再開、既設 NaI 検出器で 2 年で g_app ~ 10⁻⁶˙⁵-10⁻² を探索 ✨🔬",
+      "summary": "🌟 SN1987A axion opacity を精密化して Turner 窓を再評価、Milky Way 炭素燃焼星の ²³Na 熱励起 axion (440keV) を NaI で共鳴吸収検出する新提案 🔬✨"
+    },
+    {
+      "arxiv_id": "2604.26005",
+      "title": "Asteroid-mass Primordial Black Holes as Dark Matter from Supersymmetry",
+      "authors": [
+        "Andrea Boccia",
+        "Marco Chianese"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2604.26005",
+      "abstract": "We study the formation of asteroid-mass Primordial Black Holes (PBHs) as a dark matter candidate in supersymmetric extensions of the Standard Model. Heavy MSSM particles cause transient softening of the equation of state during their non-relativistic transition, enhancing PBH formation. For SUSY masses above ~10^5 GeV, the PBH mass function is enhanced in the asteroid-mass window, allowing all of DM.",
+      "score": 86,
+      "reason": "🎉 SUSY 重粒子で w が一時 softening → asteroid-mass PBH を全 DM 化!MSSM 質量 ≳10⁵GeV、SM では同条件で観測排除 ✨🌑",
+      "summary": "💫 MSSM 重粒子の非相対論的遷移で状態方程式が低下し PBH 形成が増強。準スケール不変な原始摂動で asteroid 窓に PBH を全 DM として生成 🌟"
+    },
+    {
+      "arxiv_id": "2604.26010",
+      "title": "Specially Embedding a Composite Axion Model",
+      "authors": [
+        "Shihwen Hor",
+        "Yuichiro Nakai",
+        "Motoo Suzuki",
+        "Junxuan Xu"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.26010",
+      "abstract": "We present a novel framework of post-inflationary composite axion to address strong CP without the cosmological domain wall problem. Conventional composite axion models give N_DW > 1 producing stable walls. By specially embedding the confining gauge group and QCD into a larger product gauge group, N_DW is essentially set to unity in the UV. Small instanton effects induce a bias term making walls unstable.",
+      "score": 87,
+      "reason": "✨ 後期 inflation composite axion の domain wall 問題を gauge group 特殊埋め込みで N_DW=1 に!small instanton bias で wall を不安定化 🎯🌌",
+      "summary": "🌟 confining gauge と QCD を larger product gauge に special 埋め込み → UV で N_DW=1、small instanton で bias を生成し domain wall を不安定化 🔬"
+    },
+    {
+      "arxiv_id": "2604.26513",
+      "title": "Transient Parity Violation during Inflation: Implications for PTA Gravitational Waves",
+      "authors": [
+        "Gianmassimo Tasinato"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.26513",
+      "abstract": "We investigate the consequences of a transient phase of enhanced parity violation during inflation. Modeling this phase through a time-localized Chern-Simons-like coupling, we show that it amplifies primordial gravitational waves at small scales, producing a robust spectral shape with blue growth of effective slope n_T ~ 2. This lies in the range explored by recent PTA analyses, differing from canonical SMBHB expectations.",
+      "score": 85,
+      "reason": "🎯 inflation 中の transient parity violation で PTA GW を説明!n_T≃2 の青いスペクトル、SMBHB 起源と異なる primordial シグネチャ 🌌✨",
+      "summary": "🌟 時間局在 Chern-Simons 結合で primordial GW を small scale で増強、CMB 制約と整合の青色 (n_T≃2) スペクトル+線形偏光で SMBHB と区別 ✨"
+    },
+    {
+      "arxiv_id": "2604.26860",
+      "title": "Nanohertz gravitational waves from the baryon-dark matter coincidence",
+      "authors": [
+        "Alessia Musumeci",
+        "Jacopo Nava",
+        "Silvia Pascoli",
+        "Filippo Sala"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2604.26860",
+      "abstract": "The nanohertz GWs observed by PTAs may originate from a cosmological first-order phase transition at ~100 MeV. We point out that a PT at exactly those scales is predicted by the generation of the baryon asymmetry from a dark asymmetry via resonant neutron-dark matter oscillations, and prove that this PT can induce an observable GW signal compatible with all experimental constraints. Tested by LHC missing energy and neutron decays.",
+      "score": 89,
+      "reason": "🚀 nanohertz GW (PTA) を baryon-DM coincidence で説明!resonant n-DM 振動 baryogenesis の ~100MeV PT が観測信号を出す 🎯💫",
+      "summary": "💫 dark asymmetry → baryon asymmetry の n-DM 振動が 100MeV first-order PT を予言、PTA GW を全制約両立で生成。LHC missing-E + n decay で検証 ✨"
+    }
+  ]
+}

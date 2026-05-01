@@ -1,0 +1,40 @@
+{
+  "total_fetched": 177,
+  "scored_papers": [
+    {
+      "arxiv_id": "2604.26513",
+      "title": "Transient Parity Violation during Inflation: Implications for PTA Gravitational Waves",
+      "authors": [
+        "Gianmassimo Tasinato"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.26513",
+      "abstract": "We investigate the consequences of a transient phase of enhanced parity violation during inflation. Modeling this phase through a time-localized Chern-Simons-like coupling, we show that it amplifies primordial gravitational waves at small scales, producing a robust spectral shape with blue growth of effective slope n_T ~ 2. The signal exhibits large linear polarization and non-trivial Stokes correlations, corresponding to an almost maximally phase-coherent helicity state.",
+      "score": 87,
+      "reason": "🎯 inflation 中の transient parity violation で primordial GW が n_T≃2 の青いスペクトル!CMB 制約と整合、強い線形偏光が primordial 起源を判別",
+      "summary": "✨ 時間局在 Chern-Simons 結合で small-scale GW を増強 PTA バンドへ。Stokes 相関+coherent ヘリシティで天体起源と区別可能"
+    },
+    {
+      "arxiv_id": "2604.26541",
+      "title": "The End of the First Act: Spectral Running, Interacting Dark Radiation, and the Hubble Tension in Light of ACT DR6 Data",
+      "authors": [
+        "Mathias Garny",
+        "Florian Niedermann",
+        "Martin S. Sloth"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2604.26541",
+      "abstract": "ACT DR6 constraints on Delta N_eff are surprisingly sensitive to assumptions about the inflation initial spectrum. Considering self-interacting dark radiation and including running alpha_s and beta_s of n_s, the picture changes: with Planck+ACT DR6+DESI DR2+Pantheon+, the bound is relaxed and the Hubble tension reduces to 2.2 sigma. With dark radiation-matter decoupling around equality (DAO with r_d ~ 60 Mpc/h), the bound is further relaxed and Hubble tension drops below 2 sigma.",
+      "score": 87,
+      "reason": "🎯 ACT DR6 で α_s β_s + self-interacting dark radiation を考えると Hubble tension が 2.2σ に!DRMD+DAO で <2σ まで低下",
+      "summary": "✨ Planck+ACT DR6+DESI+Pantheon+ で running を考慮し ΔN_eff 制限が緩和。DRMD で r_d,DAO≃60Mpc/h、small-scale が inflation を制約"
+    }
+  ]
+}

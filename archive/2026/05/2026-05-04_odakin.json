@@ -1,0 +1,111 @@
+{
+  "total_fetched": 102,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.00252",
+      "title": "Micron-sized Extra Dimensions and Primordial Black Holes: Charges, Rotating, and Memory Burdened",
+      "authors": [
+        "George K. Leontaris",
+        "George Prampromis"
+      ],
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.00252",
+      "abstract": "We explore the possibility of explaining dark matter through six-dimensional (6D) primordial black holes (PBHs) in a theory with two extra dimensions. Interestingly, in this scenario the fundamental energy scale is of the order of $\\sim 10$ TeV, accessible by future experiments. We analyse the viability of charged and rotating 6D black holes under standard Hawking evaporation as well as the memory burden scenario. In the case of pure Hawking evaporation, only PBHs with masses $M > 10^8$ g survive to present, while the lifetime of near-extremal configurations is extended by a factor $1/\\beta^{1/2}$, where the parameter $\\beta$ characterizes small deviations from extremality. In the memory burden scenario evaporation is enormously suppressed, and sub-gram mass PBHs can survive to the present epoch.",
+      "score": 90,
+      "reason": "🚀6D PBH + memory burden で sub-gram 軽 PBH DM が現代まで生存！🎯 KK 質量分裂が大気 ν スケールと一致して Swampland + 衝突器 + 低エネが繋がる 💥🧩",
+      "summary": "🌌6D 余剰次元で荷電・回転 PBH を Hawking + memory burden 解析。FCC で N~21 多重度の thermal 微小 BH を予言 ⚡🔬"
+    },
+    {
+      "arxiv_id": "2605.00735",
+      "title": "DESI and Gravitational Wave Constraints Challenge Quintessential α-Attractor Inflation",
+      "authors": [
+        "Changcheng Jing",
+        "George Alestas",
+        "Sachiko Kuroyanagi"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.00735",
+      "abstract": "Quintessential inflation models provide a framework that simultaneously describes inflation and dynamical dark energy, the latter of which has recently received growing support from DESI observations. A distinctive feature of these models is the kination phase after inflation, which enhances primordial gravitational waves at high frequencies. In this work, we study a class of alpha-attractor quintessential inflation models using a fully numerical approach.",
+      "score": 88,
+      "reason": "🚨α-attractor quintessential inflation が DESI + ΔNeff で disfavor の衝撃結果！🌌🎯 nₛ が小さくなりすぎて観測と整合せず ✨",
+      "summary": "📈inflation→kination→DE 全進化を数値追跡。primordial GW を CMB B-mode 帯と GW 干渉計帯で予測 🛰️🔭"
+    },
+    {
+      "arxiv_id": "2605.00749",
+      "title": "Entanglement probes of gravitational Kaluza-Klein spectra: signal hierarchy and model discrimination",
+      "authors": [
+        "Yi Zhong",
+        "Tao-Tao Sui",
+        "Ke Yang"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.00749",
+      "abstract": "Quantum-gravity-induced entanglement of masses (QGEM) provides a phase-sensitive probe of extra-dimensional corrections to the Newtonian potential at submillimeter separations. We compare three representative Kaluza-Klein spectral scenarios: the Randall-Sundrum II (RSII) and Arkani-Hamed-Dimopoulos-Dvali (ADD) models, and the case of a gapped continuum modeled by a Pöschl-Teller potential.",
+      "score": 88,
+      "reason": "🛸QGEM で RSII / ADD / gapped continuum の KK スペクトルを識別！🔬 余剰次元の tabletop probe として面白い 💫⚖️",
+      "summary": "📐40-80μm の entangling phase / concurrence を計算、ADD > gapped > RSII のシグナル階層が出現 🎯✨"
+    },
+    {
+      "arxiv_id": "2605.00103",
+      "title": "Pre-inflationary QCD axion stars after moduli domination",
+      "authors": [
+        "Edward Hardy",
+        "Noelia Sánchez González",
+        "Henry Stubbs",
+        "Lorenzo Tranchedone"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.00103",
+      "abstract": "The growth of adiabatic density perturbations during an era of early matter domination induces O(1) fluctuations in pre-inflationary QCD axion dark matter across a broad, string-theory-motivated parameter space. At ΛCDM matter-radiation equality the scale of these perturbations coincides with the quantum Jeans scale, so they collapse to solitonic axion stars.",
+      "score": 87,
+      "reason": "🌟早期物質優勢で QCD axion DM に O(1) 揺らぎ → 量子 Jeans スケールで axion star に collapse！🎉✨🪐",
+      "summary": "🌌密度 10⁴ eV⁴、halo 込みで DM の最大 50%。m_a ≲ 10⁻⁵ eV で過渡的・間接シグナル可 🔍💫"
+    },
+    {
+      "arxiv_id": "2605.00114",
+      "title": "The formalism of energy conservation during particle decay in the Kerr spacetime",
+      "authors": [
+        "Shurui Zhang",
+        "Remo Ruffini"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.00114",
+      "abstract": "We derive a compact, covariant expression for the relative Lorentz factor of two particles in curved spacetime and apply it to particle decay in Kerr spacetime. This allows us to show that energy conservation in the local center-of-mass frame requires the rest-mass loss of the parent particle to be converted into kinetic energy of the decay products.",
+      "score": 86,
+      "reason": "🌀Kerr 時空粒子崩壊で「質量損失は optional ではなく必須」の鋭い結論！🚀 Penrose 過程の運動学が clean に整理 ⚡🎯",
+      "summary": "📐曲時空 2 粒子の相対 Lorentz 因子の共変式 → 局所 CM 系のエネ保存則。3 例で機械精度照合 ✅✨"
+    },
+    {
+      "arxiv_id": "2605.00780",
+      "title": "Breakdown of Semiclassical Gravity in Four-Dimensional Black Hole Evaporation",
+      "authors": [
+        "David A. Lowe",
+        "Larus Thorlacius"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.00780",
+      "abstract": "We study black hole formation and evaporation in a four-dimensional semiclassical model that preserves diffeomorphism invariance and reproduces the one-loop trace anomaly. The semiclassical solutions develop a spacelike thunderbolt singularity that emerges after the apparent horizon has receded.",
+      "score": 85,
+      "reason": "🕳️4D 半古典重力で apparent horizon が引いた後に macroscopic な thunderbolt 特異点が出現！⚡ 情報 paradox formulation 自体が崩壊 🔥💥",
+      "summary": "🌀1-loop trace anomaly + back-reaction 込み collapse 計算。高階微分方程式の非線形不安定性が原因 🎯✨"
+    }
+  ]
+}

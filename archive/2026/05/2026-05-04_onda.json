@@ -1,0 +1,23 @@
+{
+  "total_fetched": 102,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.00735",
+      "title": "DESI and Gravitational Wave Constraints Challenge Quintessential α-Attractor Inflation",
+      "authors": [
+        "Changcheng Jing",
+        "George Alestas",
+        "Sachiko Kuroyanagi"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.00735",
+      "abstract": "Quintessential inflation models provide a framework that simultaneously describes inflation and dynamical dark energy, the latter of which has recently received growing support from DESI observations. A distinctive feature of these models is the kination phase after inflation, which enhances primordial gravitational waves at high frequencies. In this work, we study a class of alpha-attractor quintessential inflation models using a fully numerical approach that follows the scalar-field evolution from inflation to the dark-energy-dominated era, allowing us to compute with high precision both the dynamics of dark energy and the primordial gravitational wave spectrum. Using the latest observational data, including DESI and ACT, we constrain the model parameters and show that the model becomes disfavored once constraints from the gravitational-wave contribution to the effective number of relativistic degrees of freedom, ΔNeff, are included. The resulting primordial gravitational wave power spectrum highlights prospects for detection by future CMB B-mode experiments at low frequencies and by gravitational-wave interferometer experiments at high frequencies.",
+      "score": 90,
+      "reason": "🛰️α-attractor quintessential inflation が DESI + ΔNeff で disfavor！📉 残った primordial GW スペクトルは CMB B-mode 帯にも示唆あり 🌌🎯",
+      "summary": "📈数値追跡で inflation→kination→DE 進化と primordial GW を計算、CMB B-mode + GW 干渉計帯の検出可能性を提示 ✨"
+    }
+  ]
+}

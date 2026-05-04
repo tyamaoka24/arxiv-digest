@@ -1,0 +1,22 @@
+{
+  "total_fetched": 102,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.00331",
+      "title": "Toward Heisenberg-Limited Interferometry with Dual Squeezers",
+      "authors": [
+        "Yi Gu",
+        "Song-Ping Wang",
+        "Wei Zhong"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00331",
+      "abstract": "The canonical Mach-Zehnder interferometer fed with a coherent state and a squeezed-vacuum state of equal intensities is theoretically predicted to achieve Heisenberg scaling in phase sensitivity. However, this ultimate performance is unattainable using direct photon-number-difference detection due to a divergence arising precisely at the optimal equal-intensity regime. In this work, we introduce a dual-squeezing approach that overcomes this fundamental limitation. Our scheme employs an additional single-mode squeezer before detection, forming a paired configuration with the input squeezer used to generate the squeezed-vacuum state.",
+      "score": 85,
+      "reason": "🌟dual-squeezing で Mach-Zehnder の Heisenberg scaling を実現！squeezed coherent + 検出前 squeezer の組合せが鍵 ✨🎯",
+      "summary": "📐光子数差検出の発散問題を回避し Heisenberg 限界の位相感度。検出ノイズに対してロバスト 🔬"
+    }
+  ]
+}

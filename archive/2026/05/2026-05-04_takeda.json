@@ -1,0 +1,24 @@
+{
+  "total_fetched": 102,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.00214",
+      "title": "Generation of Tunable Entanglement from Thin-Film Lithium Niobate",
+      "authors": [
+        "Saniya Shinde",
+        "Maximilian A. Weissflog",
+        "Shaun Lung",
+        "Elkin A. Santos",
+        "Jinyong Ma"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00214",
+      "abstract": "Entangled photon pairs play a major role in various modern technologies such as quantum imaging, communication, and computing. Conventional photon-pair sources are often based on spontaneous parametric down-conversion in bulk nonlinear crystals. Recent advances have also shown entangled photon-pairs from transition metal dichalcogenide thin-films, however, these materials are not widely available and are not compatible with existing fabrication capabilities. We present a new thin-film lithium niobate source of polarization-entangled photon pairs at the telecom wavelength that requires no additional optical elements for entanglement generation and allows for easy application using the existing lithium niobate fabrication technologies. We demonstrate tunable entanglement generation using the three-fold rotational crystal symmetry of lithium niobate, allowing the generation of different maximally entangled Bell states or completely separable states depending on the polarization of the pump beam.",
+      "score": 88,
+      "reason": "🌟薄膜 LiNbO3 で偏光もつれ光子対 SPDC 源！結晶の三回回転対称性で Bell 状態を pump 偏光だけで tunable 🎯✨",
+      "summary": "🔬追加光学素子なしで polarization-entangled pair、telecom 波長、既存 LiNbO3 fabrication と互換 ⚙️"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "total_fetched": 102,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.00214",
+      "title": "Generation of Tunable Entanglement from Thin-Film Lithium Niobate",
+      "authors": [
+        "Saniya Shinde",
+        "Maximilian A. Weissflog",
+        "Shaun Lung",
+        "Elkin A. Santos",
+        "Jinyong Ma",
+        "Tongmiao Fan",
+        "Anna Fedotova",
+        "Sina Saravi",
+        "Andrey A. Sukhorukov",
+        "Frank Setzpfandt"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2605.00214",
+      "abstract": "Entangled photon pairs play a major role in various modern technologies such as quantum imaging, communication, and computing. Conventional photon-pair sources are often based on spontaneous parametric down-conversion in bulk nonlinear crystals. Recent advances have also shown entangled photon-pairs from transition metal dichalcogenide thin-films, however, these materials are not widely available and are not compatible with existing fabrication capabilities. We present a new thin-film lithium niobate source of polarization-entangled photon pairs at the telecom wavelength that requires no additional optical elements for entanglement generation and allows for easy application using the existing lithium niobate fabrication technologies. We demonstrate tunable entanglement generation using the three-fold rotational crystal symmetry of lithium niobate, allowing the generation of different maximally entangled Bell states or completely separable states depending on the polarization of the pump beam.",
+      "score": 90,
+      "reason": "✨ 薄膜 LiNbO3 から tunable な entangled photon pair! 従来の bulk SPDC を超える小型化路線、量子干渉実験のソース選択肢が広がる",
+      "summary": "Thin-film lithium niobate (TFLN) で SPDC により entangled photon pair を生成、結晶長や pump 条件で entanglement を tunable にする提案"
+    },
+    {
+      "arxiv_id": "2605.00127",
+      "title": "Comment on \"Controlling the dynamical evolution of quantum coherence and quantum correlations in $e^{+} e^{-} \\rightarrow \\Lambda \\bar{\\Lambda}$ processes at BESIII''",
+      "authors": [
+        "Saeed Haddadi"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00127",
+      "abstract": "We critically examine recent claims [Phys. Rev. D 113, 016024 (2026)] regarding quantum coherence, steering, and non-Markovian dynamics in the hyperon-antihyperon system produced in the process $e^{+} e^{-} \\rightarrow \\Lambda \\bar{\\Lambda}$. We argue that the theoretical framework employed in the analyzed work suffers from fundamental physical inconsistencies. In particular, the treatment of the $\\Lambda \\bar{\\Lambda}$ pair as a bipartite system evolving under correlated quantum channels is not physically justified, since the produced hyperons are free, unstable particles that do not interact with a common environment after production. Consequently, the application of open quantum system techniques, including Markovian and non-Markovian quantum channels, lacks a clear physical basis. Moreover, we show that the computation and interpretation of quantum steering for this system is operationally and conceptually meaningless, as no well-defined measurement-induced state update or controllable local measurement scenario exists for unstable relativistic particles. These issues call into question the physical relevance of the reported quantum correlations, their hierarchy, and their dynamical behavior. Our analysis highlights the necessity of carefully distinguishing between formal mathematical quantifiers of quantumness and physically realizable quantum information protocols in high-energy particle systems.",
+      "score": 88,
+      "reason": "🔬 BESIII の e+e- → ΛΛ̄ で量子コヒーレンス・ステアリングを論じた論文への critical comment、粒子崩壊での量子情報のフレームワークの基礎を問う",
+      "summary": "BESIII ハイペロン対の量子コヒーレンス論文 (PRD 113, 016024) の理論枠組みに整合性問題があると批判、measurement 解釈に注意喚起"
+    },
+    {
+      "arxiv_id": "2605.00129",
+      "title": "Comment on \"Quantum teleportation, entanglement, LQU and LQFI in $e^{+} e^{-} \\rightarrow \\mathrm{Y} \\overline{\\mathrm{Y}}$ processes at BESIII through noisy channels''",
+      "authors": [
+        "Saeed Haddadi"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00129",
+      "abstract": "We provide a critical assessment of a recent study applying quantum information concepts, including noisy channels and teleportation fidelity, to hyperon-antihyperon pairs produced in $e^{+}e^{-} \\to Y\\bar Y$ reactions at BESIII. While the spin density matrix reconstructed from experimental data provides a physically meaningful description of production correlations, we argue that its subsequent interpretation in terms of standard decoherence models-such as amplitude damping, phase damping, and phase flip-lacks a clear physical correspondence for these systems. The produced particles emerge from a single scattering event and propagate as free, unstable relativistic states, without a well-defined system-environment interaction acting on their spin degrees of freedom. As a result, the variation of quantum correlations with an abstract noise parameter does not describe a genuine physical evolution. We further contend that the reported teleportation fidelity should not be interpreted as evidence for operational quantum communication, since hyperon states cannot be prepared, controlled, or measured in a way that would enable a realizable teleportation protocol. More generally, quantities such as logarithmic negativity, local quantum uncertainty, and local quantum Fisher information primarily characterize static production correlations rather than directly usable quantum resources. Our analysis highlights the importance of distinguishing between formal quantum-information measures and their physical interpretation in high-energy particle systems.",
+      "score": 87,
+      "reason": "🎯 BESIII Y Ȳ 系の quantum teleportation/entanglement 論文への critical comment、collider での量子情報処理の枠組み議論が前進",
+      "summary": "BESIII の e+e- → YȲ noisy channel 論文へのコメント、spin density matrix の teleportation/LQU/LQFI 解釈の妥当性を批判"
+    },
+    {
+      "arxiv_id": "2605.00331",
+      "title": "Toward Heisenberg-Limited Interferometry with Dual Squeezers",
+      "authors": [
+        "Yi Gu",
+        "Song-Ping Wang",
+        "Wei Zhong"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00331",
+      "abstract": "The canonical Mach-Zehnder interferometer fed with a coherent state and a squeezed-vacuum state of equal intensities is theoretically predicted to achieve Heisenberg scaling in phase sensitivity. However, this ultimate performance is unattainable using direct photon-number-difference detection due to a divergence arising precisely at the optimal equal-intensity regime. In this work, we introduce a dual-squeezing approach that overcomes this fundamental limitation. Our scheme employs an additional single-mode squeezer before detection, forming a paired configuration with the input squeezer used to generate the squeezed-vacuum state. We analytically demonstrate that the resulting dual-squeezing Mach-Zehnder interferometer enables Heisenberg-limited phase sensitivity with di rect photon-number-difference detection, while remaining robust against detection noise. Our work provides a feasible and robust route toward quantum-limited interferometric phase measurements",
+      "score": 87,
+      "reason": "🌀 Mach-Zehnder + dual squeezer で Heisenberg 限界へ! 等強度コヒーレント+squeezed vacuum の発散を回避する検出スキーム、波束＆squeezing 派は要チェック",
+      "summary": "Coherent + squeezed-vacuum 入力 MZ 干渉計の Heisenberg scaling を photon-number-difference 検出の発散なしで実現する dual squeezer 法を提案"
+    },
+    {
+      "arxiv_id": "2605.00286",
+      "title": "Unified approach to time-resolved x-ray and electron diffraction imaging",
+      "authors": [
+        "Mingrui Yuan",
+        "Nikolay V. Golubev"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.atom-ph",
+        "physics.chem-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00286",
+      "abstract": "Time-resolved x-ray diffraction (TR-XRD) and ultrafast electron diffraction (TR-UED) are emerging tools for probing ultrafast quantum dynamics. From a theoretical perspective, they are commonly described within different frameworks and modeled using distinct approximations. Here, we present a unified quantum-field-based description of ultrafast diffraction imaging that permits consistent consideration of TR-XRD and TR-UED within a common theoretical formalism. Our approach elucidates the correspondence between TR-XRD and TR-UED and allows their similarities and differences to be systematically disentangled. The developed formalism is sufficiently general to consistently and straightforwardly incorporate additional physical effects of interest, such as relativistic charge-current and current-current couplings. We apply our approach to simulate diffraction measurements of laser-driven electron dynamics in graphene, demonstrating the unique capabilities of diffraction imaging to unravel intricate quantum processes in matter.",
+      "score": 86,
+      "reason": "⚡ time-resolved x-ray と UED を統一量子場論的に記述、超高速量子ダイナミクスの観測理論。波束ベース散乱論の応用先として面白い",
+      "summary": "時間分解 X 線回折 (TR-XRD) と UED を統一的な量子場理論的枠組みで定式化、近似系統と各実験の対応を明確化"
+    },
+    {
+      "arxiv_id": "2605.00117",
+      "title": "Topological Charge of Causality at a PT-Symmetric Exceptional Point",
+      "authors": [
+        "Kejun Liu"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2605.00117",
+      "abstract": "Causality in linear response is conventionally treated as a binary property: a response function is either analytic in the upper half-plane or it is not. We show that in a PT-symmetric open dimer it instead carries a topological charge. As the gain-loss parameter crosses the exceptional point, a single pole of the reflection coefficient migrates into the upper half-plane, the Blaschke winding number jumps from 0 to 1, and standard Kramers-Kronig (KK) reconstruction acquires a Lorentzian residual fixed by the pole residue. The transition is sharp, protected by the codimension-one structure of the exceptional point, and directly measurable in a one-port reflection experiment. Most strikingly, the violation magnitude scales as Delta_KK ~ |gamma - gamma_c|^nu with nu ~ -1.08 in the single-port geometry: the breakdown of standard KK is strongest at threshold and weakens deeper in the broken phase. We derive the exact reflection coefficient, verify the residue-corrected dispersion relation, and propose a THz time-domain spectroscopy protocol that detects the topological charge through the residual itself.",
+      "score": 85,
+      "reason": "🧭 PT 対称開系の例外点での因果性をトポロジカルチャージとして捉える、非エルミート効果の有効ハミルトニアン側にとっても示唆的",
+      "summary": "PT 対称オープンダイマーで応答関数の極が EP を跨いで上半平面へ遷移、因果性が Blaschke winding number 化することを示す"
+    },
+    {
+      "arxiv_id": "2605.00485",
+      "title": "Entropy from Entanglement in Quantum State Reduction",
+      "authors": [
+        "Lisa Lenstra",
+        "Jasper van Wezel"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00485",
+      "abstract": "The Von Neumann entropy of reduced states is a measure of bipartite entanglement. Despite its name, the entanglement entropy cannot by itself be used as a resource for creating thermodynamic heat flows. In order to extract heat from an entangled pure state, it first needs to be converted into a stochastically mixed state by a process of quantum state reduction. Here we show that even in a system with only two degrees of freedom, for which bipartite entanglement is the sole form of entanglement available, the entanglement entropy cannot be converted into thermodynamic entropy in a one-to-one fashion. Moreover, we show that the stochastic dynamics which is necessarily present in any realistic model of quantum state reduction, allows for multiple definitions of entropy. We indicate why quantum state reduction does not allow construction of a perpetuum mobile, despite some measures of entropy evolving non-monotonically during its dynamics. Finally, we relate the different measures of entropy to the information they contain about quantum entanglement and extractable heat, and show that models of quantum state reduction based on physical, correlated stochastic driving forces give rise to observable thermodynamic signatures of quantum state reduction that can be unambiguously distinguished from environment-induced dephasing.",
+      "score": 85,
+      "reason": "🔍 量子状態縮約のもつれエントロピーを熱力学的視点から再検討、measurement プロセスの entropy 帰結に切り込む基礎論",
+      "summary": "もつれた純粋状態から熱を取り出すには quantum state reduction が必要であることを利用し、エントロピー生成と entanglement entropy の関係を解析"
+    },
+    {
+      "arxiv_id": "2605.00406",
+      "title": "Bell Correlations and Selection Bias",
+      "authors": [
+        "Huw Price"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.hist-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00406",
+      "abstract": "Selection artefacts are common in science. A method of selecting samples from a larger population may produce bias, in either direction. It may induce correlations between variables independent in the full population, or mask correlations between variables dependent in the full population. Here we propose a surprising application of these familiar ideas. We argue that they are relevant to puzzling correlations uncovered in quantum theory by John Stewart Bell (Bell 1964). In the light of Bell's work and subsequent experiments it is widely believed that the quantum world is 'nonlocal', in apparent tension with relativity. Many hold that the only alternative is to abandon 'realism', the view that there is an objective world independent of measurement. We propose instead that Bell correlations are selection artefacts, in tension neither with relativity nor realism.",
+      "score": 85,
+      "reason": "🎲 Bell 相関を「選択バイアス」の文脈で再考、測定理論・量子基礎の議論として面白い切り口",
+      "summary": "Bell 相関の選択効果による説明可能性を critical に論じる、サンプル選択バイアスが量子相関のパズルにどう関係するかを検討"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "total_fetched": 102,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.00735",
+      "title": "DESI and Gravitational Wave Constraints Challenge Quintessential {\\alpha}-Attractor Inflation",
+      "authors": [
+        "Changcheng Jing",
+        "George Alestas",
+        "Sachiko Kuroyanagi"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.00735",
+      "abstract": "Quintessential inflation models provide a framework that simultaneously describes inflation and dynamical dark energy, the latter of which has recently received growing support from DESI observations. A distinctive feature of these models is the kination phase after inflation, which enhances primordial gravitational waves at high frequencies. In this work, we study a class of alpha-attractor quintessential inflation models using a fully numerical approach that follows the scalar-field evolution from inflation to the dark-energy-dominated era, allowing us to compute with high precision both the dynamics of dark energy and the primordial gravitational wave spectrum. Using the latest observational data, including DESI and ACT, we constrain the model parameters and show that the model becomes disfavored once constraints from the gravitational-wave contribution to the effective number of relativistic degrees of freedom, {\\Delta} Neff, are included. This is because the model predicts a scalar spectral index ns that becomes too small to remain consistent with observations when the gravitational-wave abundance is constrained to stay below the {\\Delta} Neff bound. Finally, we present the resulting primordial gravitational wave power spectrum computed using our constrained parameter values, which highlights prospects for detection by future CMB B-mode experiments at low frequencies and by gravitational-wave interferometer experiments at high frequencies.",
+      "score": 88,
+      "reason": "🚀 DESI と GW 観測で α-attractor quintessential inflation を絞る! kination 期由来の primordial GW 増強は LiteBIRD の B-mode 議論にも直結",
+      "summary": "Quintessential α-attractor inflation を DESI の動的 DE 制約と高周波 primordial GW 観測で同時試験、許容領域が大幅縮小"
+    },
+    {
+      "arxiv_id": "2605.00153",
+      "title": "Radiation Total Dose for PRIMA: Cold Exposure with Alpha Particles",
+      "authors": [
+        "Elijah Kane (Matt)",
+        "Chris Albert (Matt)",
+        "Andrew Beyer (Matt)",
+        "Charles (Matt)",
+        "Bradford (Rick)",
+        "Pierre Echternach (Rick)",
+        "Logan Foote (Rick)",
+        "Jason Glenn (Rick)",
+        "Henry (Rick)",
+        "LeDuc",
+        "Hien Nguyen",
+        "Thomas Stevenson",
+        "Brian Zhu",
+        "Jonas Zmuidzinas"
+      ],
+      "categories": [
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2605.00153",
+      "abstract": "The Probe far-Infrared Mission for Astrophysics (PRIMA) is a far-infrared (24-261 micron wavelengths) probe-class space observatory currently under Phase A study, which promises orders-of-magnitude improvement in mapping speed over its predecessors. PRIMA will field exquisitely sensitive kilopixel arrays of kinetic inductance detectors (KIDs) for the Far-Infrared Enhanced Survey Spectrometer (FIRESS) instrument. PRIMA will orbit in space at the Sun-Earth L2 point, where Planck found the energetic particle flux to be about 300/min/cm2. Thus, the possible effect of a high fluence of energetic particles on the detector sensitivity must be characterized. Previous work has suggested that bombardment of KIDs by ions can reduce the quasiparticle lifetime (Barends et. al. 2009), but the conditions of the experiment were not representative of a detector which is continuously held at sub-Kelvin temperatures in the energetic particle environment of L2 orbit. To better replicate the damage which would be produced by energetic particles in this environment, we developed a fully cryogenic irradiation experiment in which a stepper motor controls a screen which can block or reveal an alpha particle emitter. This setup can be used to irradiate aluminum KID arrays fabricated for FIRESS to well-controlled dose levels. In this work, we calculate the damage dose expected for a 5-year mission in L2 orbit, and we irradiate an array to approximately 62 percent of this level. Before and after irradiation, we measure the quasiparticle lifetimes, resonant frequencies, and quality factors of the detectors.",
+      "score": 88,
+      "reason": "🛰️ PRIMA (FIR 宇宙天文台) の KID アレイへの放射線総線量試験、cold exposure + α 粒子。LiteBIRD の bolometer 系宇宙線系統解析と方法論的に近い",
+      "summary": "FIR 宇宙望遠鏡 PRIMA に搭載予定の極低温 KID アレイに対する α 粒子照射試験で放射線総線量耐性を評価、宇宙線系統に対する応答特性を取得"
+    },
+    {
+      "arxiv_id": "2605.00714",
+      "title": "Beyond Bragg-Mirrors for Gravitational Wave Telescopes: A Fabrication Tolerant Hybrid Metasurface-Bragg Mirror Design",
+      "authors": [
+        "Christian Kranhold",
+        "Mika Gaedtke",
+        "Markus Walther",
+        "Falk Eilenberger",
+        "Stefanie Kroker",
+        "Thomas Siefke"
+      ],
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2605.00714",
+      "abstract": "Coating thermal noise in high-reflectivity test-mass mirrors is a major limitation for future gravitational-wave detectors, especially in the 10--300 Hz band. ET-Pathfinder therefore requires mirror coatings that combine very high reflectance at 1.55 micrometer with low thermal noise under cryogenic conditions. Conventional dielectric Bragg mirrors provide high reflectance but require thick coatings, whereas metasurface mirrors can reduce coating-related noise but are limited by fabrication tolerances and line-edge roughness. We present a hybrid metasurface--Bragg mirror concept tailored to ET-Pathfinder. The design combines a fabrication-tolerant one-layer metasurface, an anti-resonant Fabry--Perot spacer, and a reduced dielectric Bragg stack. Optical performance is evaluated using full-wave electromagnetic simulations, while fabrication robustness is assessed with a truncated-Gaussian Monte Carlo analysis. Line-edge roughness is included as a systematic edge-smoothing effect. The resulting reflectance distributions are used to determine the minimum Bragg-stack support required to meet system-level specifications. The ideal metasurface exceeds 99.999% reflectance. When fabrication uncertainties and line-edge roughness are included, the metasurface reflectance is limited to about 99.9% at the 95% yield level. The remaining transmission can be compensated by a supporting Bragg stack with as few as seven layer pairs. For this configuration, the hybrid mirror achieves a total thermal displacement noise about one order of magnitude below the projected ET-Pathfinder coating-noise budget. These results show that fabrication-limited metasurface reflectance can be compensated within a hybrid architecture, enabling reduced coating thickness and thermal noise for next-generation gravitational-wave detectors.",
+      "score": 86,
+      "reason": "🪞 ET-Pathfinder の cryo 鏡 coating thermal noise 対策で metasurface + Bragg ハイブリッド設計。低温 mirror coating の方法論は CMB 系にも示唆的",
+      "summary": "次世代 GW 望遠鏡の coating thermal noise を抑える metasurface-Bragg ハイブリッド mirror を提案、製造誤差耐性と高反射率の両立を実証"
+    },
+    {
+      "arxiv_id": "2605.00476",
+      "title": "A consistent formulation of stochastic inflation I: Non-Markovian effects and issues beyond linear perturbations",
+      "authors": [
+        "Diego Cruces",
+        "Tomotaka Kuroda"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.00476",
+      "abstract": "We investigate the origin of non-Markovianity in stochastic inflation and its implications for nonlinear perturbation theory. In the Schwinger--Keldysh formulation, the noise terms sourcing the infrared (IR) Langevin equations are determined by ultraviolet (UV) modes evolving on top of the stochastic IR background. Since the UV-mode evolution generally depends on the past history of the IR sector, the resulting stochastic dynamics is intrinsically non-Markovian. Working perturbatively, we derive the UV-mode solutions up to second order and decompose the corresponding noise contributions into two parts. The first is a ``deterministic'' contribution, generated by the functional Taylor expansion of the first-order UV solution around the background trajectory. The second is a genuinely ``stochastic'' contribution, originating from terms in the UV-mode equations that are quadratic in the noise variables and are usually neglected in the standard formulation of stochastic inflation. Under this conventional truncation, the deterministic contribution reduces to a Markovian correction in attractor backgrounds, whereas it could become history dependent in non-attractor phases and gives rise to non-Markovian terms involving integrals over first-order IR perturbations. We finally show that the stochastic contribution is of the same perturbative order as the deterministic one, which indicate that the conventional truncation is generically inconsistent and quadratic-noise terms may be required for a consistent treatment of nonlinear perturbations in stochastic inflation. Our analysis clarifies the perturbative structure of non-Markovianity and provides the basis for a systematic treatment of quadratic-noise effects beyond the standard formulation.",
+      "score": 85,
+      "reason": "📚 stochastic inflation の non-Markovian 効果を Schwinger–Keldysh で整合的に定式化、reionization・large-scale 統計の解釈を更新する可能性",
+      "summary": "Schwinger–Keldysh 形式で stochastic inflation の noise が UV モードの IR 履歴依存となる、non-Markov 効果の整合的な扱いを提示"
+    },
+    {
+      "arxiv_id": "2605.00391",
+      "title": "Training a neural network to rapidly identify candidate gravitational-wave events in the lower mass gap",
+      "authors": [
+        "Nayyer Raza",
+        "Man Leong Chan",
+        "Daryl Haggard",
+        "Ashish Mahabal",
+        "Jess McIver",
+        "Audrey Durand",
+        "Alexandre Larouche",
+        "Hadi Moazen"
+      ],
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.00391",
+      "abstract": "The physics governing the boundary between the most massive neutron stars (NSs) and the least massive black holes (BHs) is currently uncertain, but could potentially be constrained with new observations. While NSs have been observed with masses up to $\\sim2~M_{\\odot}$, there is a dearth of electromagnetic observations of compact objects in the $\\sim2-5~M_{\\odot}$ range, known as the lower mass gap. Recent observations of gravitational-wave (GW) signals from binary mergers detected by the LIGO-Virgo-KAGRA (LVK) collaboration indicate that this gap is likely not empty. Rapidly distinguishing whether a candidate GW event has components in this purported mass gap can indicate the likelihood of a detectable electromagnetic counterpart, and thus inform decisions for follow-up observations. In this work we train a neural network model, GWSkyNet-MassGap, that simultaneously predicts the probability that a candidate merger has a component in the lower mass gap ($P_{\\mathrm{MassGap}}$) and the probability that it involves a NS ($P_{\\mathrm{NS}}$). We find that the model is able to infer information about the source chirp mass to predict $P_{\\mathrm{MassGap}}$ and $P_{\\mathrm{NS}}$, leading to correct predictions for high-mass mergers with $\\mathcal{M}_c\\gtrsim15~M_{\\odot}$, but less accurate predictions for lower-mass systems which require knowledge of the binary mass ratio to break the mass degeneracy. For candidate events in the first part of LVK's fourth observing run (O4a), the model has a mean prediction error of 9% for $P_{\\mathrm{MassGap}}$ and 6% for $P_{\\mathrm{NS}}$. The model could be further developed to rapidly predict the source chirp mass for candidate events in future observing runs.",
+      "score": 85,
+      "reason": "🌌 lower mass gap の GW event を素早く同定する NN、CMB-GW 相補性の文脈での信号同定戦略として読める",
+      "summary": "2-5 太陽質量の \"lower mass gap\" GW 事象候補を低レイテンシで同定する NN を訓練、電磁波 follow-up までの時間短縮を狙う"
+    }
+  ]
+}

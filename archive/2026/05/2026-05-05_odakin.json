@@ -1,0 +1,147 @@
+{
+  "total_fetched": 102,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.00252",
+      "title": "Micron-sized Extra Dimensions and Primordial Black Holes: Charges, Rotating, and Memory Burdened",
+      "authors": [
+        "George K. Leontaris",
+        "George Prampromis"
+      ],
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.00252",
+      "abstract": "We explore the possibility of explaining dark matter through six-dimensional (6D) primordial black holes (PBHs) in a theory with two extra dimensions. Interestingly, in this scenario the fundamental energy scale is of the order of $\\sim 10$ TeV, accessible by future experiments. We analyse the viability of charged and rotating 6D black holes under standard Hawking evaporation as well as the memory burden scenario. In the case of pure Hawking evaporation, only PBHs with masses $M > 10^8$ g survive to present, while the lifetime of near-extremal configurations is extended by a factor $1/\\beta^{1/2}$, where the parameter $\\beta$ characterizes small deviations from extremality. In the memory burden scenario evaporation is enormously suppressed, and sub-gram mass PBHs can survive to the present epoch. At future colliders such as the Future Circular Collider, these micro black holes produce characteristic high multiplicity events, $\\langle N \\rangle \\sim 21$, with thermal spectra, enabling direct probes of the fundamental scale and the number of extra dimensions. We find that the memory burden mechanism opens a broad new mass window for light PBH dark matter, while the Kaluza-Klein mass splitting $\\Delta m$ aligns with the atmospheric neutrino scale, suggesting a unified framework between Swampland constraints, cosmology, collider physics, and low energy phenomenology.",
+      "score": 92,
+      "reason": "🎯 余剰次元 + PBH ど真ん中の合わせ技! μm 級 6D 余剰次元で fundamental scale が TeV 級、charged/rotating PBH を DM 候補に ⚡",
+      "summary": "6D 余剰次元の charged/rotating 原始 BH を Hawking 蒸発 + memory burden で解析、TeV 級 fundamental scale を提案 🪐"
+    },
+    {
+      "arxiv_id": "2605.00735",
+      "title": "DESI and Gravitational Wave Constraints Challenge Quintessential {\\alpha}-Attractor Inflation",
+      "authors": [
+        "Changcheng Jing",
+        "George Alestas",
+        "Sachiko Kuroyanagi"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.00735",
+      "abstract": "Quintessential inflation models provide a framework that simultaneously describes inflation and dynamical dark energy, the latter of which has recently received growing support from DESI observations. A distinctive feature of these models is the kination phase after inflation, which enhances primordial gravitational waves at high frequencies. In this work, we study a class of alpha-attractor quintessential inflation models using a fully numerical approach that follows the scalar-field evolution from inflation to the dark-energy-dominated era, allowing us to compute with high precision both the dynamics of dark energy and the primordial gravitational wave spectrum. Using the latest observational data, including DESI and ACT, we constrain the model parameters and show that the model becomes disfavored once constraints from the gravitational-wave contribution to the effective number of relativistic degrees of freedom, {\\Delta} Neff, are included. This is because the model predicts a scalar spectral index ns that becomes too small to remain consistent with observations when the gravitational-wave abundance is constrained to stay below the {\\Delta} Neff bound. Finally, we present the resulting primordial gravitational wave power spectrum computed using our constrained parameter values, which highlights prospects for detection by future CMB B-mode experiments at low frequencies and by gravitational-wave interferometer experiments at high frequencies.",
+      "score": 90,
+      "reason": "🚀 DESI + GW で α-attractor quintessential inflation に挑戦状! kination の高周波 GW + 動的 DE 制約が同時にモデル空間を絞る ✨",
+      "summary": "Quintessential α-attractor inflation を kination 由来の primordial GW + DESI の動的 DE 制約で同時試験、許容域が大幅縮小 🌌"
+    },
+    {
+      "arxiv_id": "2605.00103",
+      "title": "Pre-inflationary QCD axion stars after moduli domination",
+      "authors": [
+        "Edward Hardy",
+        "Noelia S'anchez Gonz'alez",
+        "Henry Stubbs",
+        "Lorenzo Tranchedone"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.00103",
+      "abstract": "The growth of adiabatic density perturbations during an era of early matter domination induces $\\mathcal{O}(1)$ fluctuations in pre-inflationary QCD axion dark matter across a broad, string-theory-motivated parameter space. Remarkably, at $\\Lambda$CDM matter-radiation equality the scale of these perturbations coincides with the quantum Jeans scale, so they collapse to solitonic ``axion stars''. These axion stars have densities up to $10^4\\,\\mathrm{eV}^4$, and, including their surrounding halos, they contain as much as $50\\%$ of dark matter. Direct searches for a smooth axion background can be suppressed, but transient enhancements or indirect astrophysical signals at axion masses $m_a\\lesssim 10^{-5}\\,{\\rm eV}$ would point to a non-standard cosmological history.",
+      "score": 88,
+      "reason": "✨ 早期物質優勢期からの O(1) 揺らぎが axion star に凝縮! string-motivated パラメタで広帯域、QCD axion DM 現象論に直撃 🌠",
+      "summary": "前 inflation QCD axion DM が moduli 優勢期で量子 Jeans スケールの揺らぎを発達 → solitonic axion star へ崩壊する現象論を提示 🪐"
+    },
+    {
+      "arxiv_id": "2605.00648",
+      "title": "Anisotropy of Cosmic Background Photons from Annihilating/Decaying Dark Matter",
+      "authors": [
+        "Ryosuke Kasuya",
+        "Kazunori Nakayama"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.00648",
+      "abstract": "We provide a detailed formulation for calculating the angular power spectrum of the cosmic background photons arising from the dark matter decay or annihilation in a comprehensive manner. We pay particular attention to the case of dark matter decaying or annihilating into line photons. It is pointed out that taking account of the energy resolution of the detector is essential to correctly evaluate the angular power spectrum. We apply our formulation to the observational data from infrared, optical, X-ray and gamma-ray telescopes.",
+      "score": 88,
+      "reason": "🎯 DM 崩壊/対消滅由来の宇宙背景光子の異方性を comprehensive に定式化、ライン光子と検出器分解能の扱いまで詰め切ってる ⚡",
+      "summary": "DM 崩壊・対消滅で生じる宇宙背景光子の角度パワースペクトルを統一的に定式化、ライン光子では検出器エネルギー分解能が key と指摘 🛰️"
+    },
+    {
+      "arxiv_id": "2605.00749",
+      "title": "Entanglement probes of gravitational Kaluza-Klein spectra: signal hierarchy and model discrimination",
+      "authors": [
+        "Yi Zhong",
+        "Tao-Tao Sui",
+        "Ke Yang"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.00749",
+      "abstract": "Quantum-gravity-induced entanglement of masses (QGEM) provides a phase-sensitive probe of extra-dimensional corrections to the Newtonian potential at submillimeter separations. We compare three representative Kaluza-Klein spectral scenarios: the Randall-Sundrum II (RSII) and Arkani-Hamed-Dimopoulos-Dvali (ADD) models, and the case of a gapped continuum modeled by a P\\\"oschl-Teller potential. We evaluate the entangling phase, concurrence, and normalized phase-response profiles over $d=40$-$80\\,\\mu\\mathrm{m}$ using representative benchmark parameters guided by current short-range gravity tests. In this range, the signal exhibits a stable hierarchy: ADD $>$ gapped $>$ RSII. For conservative experimental parameters, the ADD signal surpasses the nominal entanglement threshold at smaller separations, whereas the gapped benchmark is resolvable only at the lower end of the window, and RSII remains below resolution. In a more optimistic near-term scenario, all three spectral signatures comfortably exceed the threshold. We further show that normalized distance scans of the phase response clearly separate the RSII benchmark from the ADD and gapped cases, whereas ADD and the gapped continuum remain nearly indistinguishable in normalized profile. QGEM phase observables therefore provide a complementary discriminator of Kaluza-Klein spectral structure at submillimeter scales.",
+      "score": 87,
+      "reason": "🌀 KK 重力子のスペクトル形状で QGEM 信号を識別! RSII / ADD / gapped continuum の階層を量子もつれで切り分け ⚡",
+      "summary": "QGEM 法で 3 種の KK スペクトル（RSII, ADD, Pöschl-Teller continuum）が生む位相を比較、信号階層からモデル識別する戦略を提示 🪐"
+    },
+    {
+      "arxiv_id": "2605.00476",
+      "title": "A consistent formulation of stochastic inflation I: Non-Markovian effects and issues beyond linear perturbations",
+      "authors": [
+        "Diego Cruces",
+        "Tomotaka Kuroda"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.00476",
+      "abstract": "We investigate the origin of non-Markovianity in stochastic inflation and its implications for nonlinear perturbation theory. In the Schwinger--Keldysh formulation, the noise terms sourcing the infrared (IR) Langevin equations are determined by ultraviolet (UV) modes evolving on top of the stochastic IR background. Since the UV-mode evolution generally depends on the past history of the IR sector, the resulting stochastic dynamics is intrinsically non-Markovian. Working perturbatively, we derive the UV-mode solutions up to second order and decompose the corresponding noise contributions into two parts. The first is a ``deterministic'' contribution, generated by the functional Taylor expansion of the first-order UV solution around the background trajectory. The second is a genuinely ``stochastic'' contribution, originating from terms in the UV-mode equations that are quadratic in the noise variables and are usually neglected in the standard formulation of stochastic inflation. Under this conventional truncation, the deterministic contribution reduces to a Markovian correction in attractor backgrounds, whereas it could become history dependent in non-attractor phases and gives rise to non-Markovian terms involving integrals over first-order IR perturbations. We finally show that the stochastic contribution is of the same perturbative order as the deterministic one, which indicate that the conventional truncation is generically inconsistent and quadratic-noise terms may be required for a consistent treatment of nonlinear perturbations in stochastic inflation. Our analysis clarifies the perturbative structure of non-Markovianity and provides the basis for a systematic treatment of quadratic-noise effects beyond the standard formulation.",
+      "score": 86,
+      "reason": "📚 stochastic inflation の non-Markovian 効果を Schwinger–Keldysh で解剖! 線形摂動を超えた整合的 IR Langevin の枠組み ⚡",
+      "summary": "Schwinger–Keldysh 形式で stochastic inflation の noise が UV モードの IR 履歴依存となり、非線形摂動・非マルコフ寄与が必然と論証 🌌"
+    },
+    {
+      "arxiv_id": "2605.00565",
+      "title": "Multi-messenger Constraints on a Primordial Black Hole Origin of the KM3-230213A Event",
+      "authors": [
+        "Yuber F. Perez-Gonzalez"
+      ],
+      "categories": [
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00565",
+      "abstract": "Black holes are expected to end their lifetime in a burst of Hawking radiation, emitting all Standard Model particles at ultra-high energies. The evaporation of a nearby primordial black hole (PBH) has been proposed as an explanation for the high-energy neutrino-like event reported by KM3NeT. Such a scenario requires the source to be extremely close to Earth, implying detectable gamma-ray and cosmic-ray emission. Accounting for the time-dependent field of view of gamma-ray observatories, we find that current experiments should have observed a pre-burst signal, while neutrino telescopes would also detect lower-energy events before the burst. The absence of such multimessenger signals strongly disfavors a PBH origin of the KM3-230213A event in the minimal 4D Schwarzschild scenario.",
+      "score": 86,
+      "reason": "⚠️ KM3-230213A 超高エネ事象の PBH 蒸発起源を multi-messenger で叩く! 必要な近距離 PBH のガンマ線/宇宙線が苦しい ⚡",
+      "summary": "KM3NeT で見えた超高エネ事象を near-Earth PBH の Hawking 蒸発で説明する案を、随伴ガンマ線・宇宙線データから多メッセンジャーで制約 🌠"
+    },
+    {
+      "arxiv_id": "2605.00115",
+      "title": "Crossing into the $m_a > f_a$ Region for Leptophilic ALPs",
+      "authors": [
+        "Marta F. Zamoro",
+        "'Alvaro Lozano-Onrubia",
+        "Luca Merlo",
+        "Samuel Rosende Herrero"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00115",
+      "abstract": "Axion-like particles (ALPs) are typically identified as pseudoscalars whose couplings are shift-symmetry invariant with the exception of their couplings to gauge bosons and their mass term. Additionally, the ALP mass $m_a$ is usually assumed to be (much) smaller than the ALP decay constant $f_a$. The latter condition is conservative, at best, and excludes part of the ALP parameter space that is presently viable. We revisit the interpretation of the $m_a\\ll f_a$ and perform an analysis focussing on leptophilic ALPs. In particular, we explore regions of the parameter space still uninvestigated, where $m_a>f_a$, thus providing a phenomenological study of the ALP-lepton couplings complementary to the existing literature. We point out that a leptophilic ALP may explain the $-3.8\\sigma$ tension in the anomalous magnetic dipole moment of the electron for the Caesium determination in a large region of the $m_a\\times f_a$ parameter space, testable in the near future through studies on $\\mu\\to e$ conversion in nuclei.",
+      "score": 85,
+      "reason": "🎲 leptophilic ALP の m_a > f_a 領域に踏み込む! shift 対称性破れ項を残した EFT 解析、ALP 探索の射程が動く可能性 ⚡",
+      "summary": "Leptophilic ALP の質量が崩壊定数を超える領域での結合構造を再整理、collider/precision phenomenology を更新 🌟"
+    }
+  ]
+}

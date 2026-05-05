@@ -1,0 +1,88 @@
+{
+  "total_fetched": 102,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.00331",
+      "title": "Toward Heisenberg-Limited Interferometry with Dual Squeezers",
+      "authors": [
+        "Yi Gu",
+        "Song-Ping Wang",
+        "Wei Zhong"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00331",
+      "abstract": "The canonical Mach-Zehnder interferometer fed with a coherent state and a squeezed-vacuum state of equal intensities is theoretically predicted to achieve Heisenberg scaling in phase sensitivity. However, this ultimate performance is unattainable using direct photon-number-difference detection due to a divergence arising precisely at the optimal equal-intensity regime. In this work, we introduce a dual-squeezing approach that overcomes this fundamental limitation. Our scheme employs an additional single-mode squeezer before detection, forming a paired configuration with the input squeezer used to generate the squeezed-vacuum state. We analytically demonstrate that the resulting dual-squeezing Mach-Zehnder interferometer enables Heisenberg-limited phase sensitivity with di rect photon-number-difference detection, while remaining robust against detection noise. Our work provides a feasible and robust route toward quantum-limited interferometric phase measurements",
+      "score": 88,
+      "reason": "🎯 Mach-Zehnder + dual squeezer で Heisenberg 限界! squeezed coherent state 派にとって正面衝突の話題、検出系の発散問題を回避",
+      "summary": "Coherent + squeezed-vacuum 入力 MZ 干渉計で Heisenberg scaling を photon-number-difference 検出の発散なしに実現する dual squeezer 法"
+    },
+    {
+      "arxiv_id": "2605.00287",
+      "title": "Sequential Measurements as a Resource for Quantum Metrology",
+      "authors": [
+        "Koray Mentesoglu",
+        "Rahul Trivedi",
+        "Sara Mouradian"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00287",
+      "abstract": "We present a protocol in which sequential weak measurements of a quantum harmonic oscillator enable simultaneous estimation of both quadratures of a displacement channel. Calculations of the quantum Fisher information show that the measurement backaction can increase the information gained for a range of measurement strengths. The protocol distributes information over a $N$-bit string after $N$ weak measurements. Thus we find that post-processing can be used to avoid information loss due to phase wrapping, increasing the effective dynamic range. Finally, the periodic information extraction makes the protocol robust to decoherence. Our results establish mid-sensing measurement as a resource for single- and multi-parameter quantum metrology.",
+      "score": 86,
+      "reason": "⚡ 量子調和振動子の sequential weak measurement で displacement 両 quadrature を同時推定、QFI ベースの metrology 議論",
+      "summary": "量子調和振動子の弱測定列により displacement channel の両 quadrature を同時推定、measurement backaction が情報利得に転じる範囲を QFI で評価"
+    },
+    {
+      "arxiv_id": "2605.00485",
+      "title": "Entropy from Entanglement in Quantum State Reduction",
+      "authors": [
+        "Lisa Lenstra",
+        "Jasper van Wezel"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00485",
+      "abstract": "The Von Neumann entropy of reduced states is a measure of bipartite entanglement. Despite its name, the entanglement entropy cannot by itself be used as a resource for creating thermodynamic heat flows. In order to extract heat from an entangled pure state, it first needs to be converted into a stochastically mixed state by a process of quantum state reduction. Here we show that even in a system with only two degrees of freedom, for which bipartite entanglement is the sole form of entanglement available, the entanglement entropy cannot be converted into thermodynamic entropy in a one-to-one fashion. Moreover, we show that the stochastic dynamics which is necessarily present in any realistic model of quantum state reduction, allows for multiple definitions of entropy. We indicate why quantum state reduction does not allow construction of a perpetuum mobile, despite some measures of entropy evolving non-monotonically during its dynamics. Finally, we relate the different measures of entropy to the information they contain about quantum entanglement and extractable heat, and show that models of quantum state reduction based on physical, correlated stochastic driving forces give rise to observable thermodynamic signatures of quantum state reduction that can be unambiguously distinguished from environment-induced dephasing.",
+      "score": 86,
+      "reason": "🔍 量子状態縮約のもつれエントロピーを熱力学観点から再検討、measurement の基礎論として時間-エネルギー観点とも親和的",
+      "summary": "もつれた純粋状態から熱を取り出すには quantum state reduction が必要、entanglement entropy → 熱力学的エントロピーの変換過程を解析"
+    },
+    {
+      "arxiv_id": "2605.00117",
+      "title": "Topological Charge of Causality at a PT-Symmetric Exceptional Point",
+      "authors": [
+        "Kejun Liu"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2605.00117",
+      "abstract": "Causality in linear response is conventionally treated as a binary property: a response function is either analytic in the upper half-plane or it is not. We show that in a PT-symmetric open dimer it instead carries a topological charge. As the gain-loss parameter crosses the exceptional point, a single pole of the reflection coefficient migrates into the upper half-plane, the Blaschke winding number jumps from 0 to 1, and standard Kramers-Kronig (KK) reconstruction acquires a Lorentzian residual fixed by the pole residue. The transition is sharp, protected by the codimension-one structure of the exceptional point, and directly measurable in a one-port reflection experiment. Most strikingly, the violation magnitude scales as Delta_KK ~ |gamma - gamma_c|^nu with nu ~ -1.08 in the single-port geometry: the breakdown of standard KK is strongest at threshold and weakens deeper in the broken phase. We derive the exact reflection coefficient, verify the residue-corrected dispersion relation, and propose a THz time-domain spectroscopy protocol that detects the topological charge through the residual itself.",
+      "score": 85,
+      "reason": "🧭 PT 対称開系の例外点で因果性がトポロジカルチャージ化、非エルミート効果と時間応答の基礎論として興味深い",
+      "summary": "PT 対称オープンダイマーで反射係数の極が EP を跨ぐと上半平面へ遷移、因果性が Blaschke winding number となるトポロジー的描像"
+    },
+    {
+      "arxiv_id": "2605.00406",
+      "title": "Bell Correlations and Selection Bias",
+      "authors": [
+        "Huw Price"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.hist-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.00406",
+      "abstract": "Selection artefacts are common in science. A method of selecting samples from a larger population may produce bias, in either direction. It may induce correlations between variables independent in the full population, or mask correlations between variables dependent in the full population. Here we propose a surprising application of these familiar ideas. We argue that they are relevant to puzzling correlations uncovered in quantum theory by John Stewart Bell (Bell 1964). In the light of Bell's work and subsequent experiments it is widely believed that the quantum world is 'nonlocal', in apparent tension with relativity. Many hold that the only alternative is to abandon 'realism', the view that there is an objective world independent of measurement. We propose instead that Bell correlations are selection artefacts, in tension neither with relativity nor realism.",
+      "score": 85,
+      "reason": "🎲 Bell 相関を「選択バイアス」の文脈で再考、量子測定基礎論として独立に読みやすい",
+      "summary": "Bell 相関の選択効果による説明可能性を critical に論じる、サンプル選択バイアスが量子相関のパズルにどう関係するかを検討"
+    }
+  ]
+}

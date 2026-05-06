@@ -1,0 +1,97 @@
+{
+  "total_fetched": 243,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.01932",
+      "title": "Expectation Pauli-Lubanski vector and intrinsic angular momentum of relativistic wavepackets",
+      "authors": [
+        "Konstantin Y. Bliokh"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-th",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2605.01932",
+      "abstract": "In non-relativistic mechanics, the total (orbital) angular momentum (AM) of a spatially-distributed system can be decomposed into intrinsic and extrinsic contributions. In relativistic quantum mechanics, intrinsic AM is typically associated with spin, which can be described using the Pauli-Lubanski four-vector. Here, we develop a unified formalism that combines the main features of both approaches and describes the intrinsic AM of a relativistic wavepacket, including both spin and orbital contributions.",
+      "score": 92,
+      "reason": "🎯 相対論的波束の固有角運動量を「期待値版 Pauli-Lubanski」で再構築、Bliokh 単著。波束形式の中核に直撃する内容です",
+      "summary": "📐 波束のエネルギー重心まわりに spin + 軌道 AM を統合定義。零質量特異性が消え、massless 粒子でも AM が運動量に非平行になる ✨"
+    },
+    {
+      "arxiv_id": "2605.01052",
+      "title": "Entropic Reciprocity in Time-Reversed Young Interferometry",
+      "authors": [
+        "Jianming Wen"
+      ],
+      "categories": [
+        "quant-ph",
+        "math.ST",
+        "physics.data-an",
+        "physics.optics",
+        "stat.TH"
+      ],
+      "url": "https://arxiv.org/abs/2605.01052",
+      "abstract": "We show that time-reversed Young interferometry reorganizes, rather than reverses, optical entropy. A fixed detector conditions the reciprocal source--detector Green function and produces a source-label probability distribution. Marginal entropies in the standard and time-reversed geometries are generally unequal; the reciprocal invariant is instead the mutual information between source and detector coordinates.",
+      "score": 87,
+      "reason": "🔄 時間反転 Young 干渉計で「相反不変量」が source-detector 相互情報量になる話。ダブルスリット派には刺さるはず ✨",
+      "summary": "📊 固定検出器が source-label 分布を条件付ける → 破壊的応答近傍で条件エントロピー減 + Fisher 情報増 🌀"
+    },
+    {
+      "arxiv_id": "2605.02873",
+      "title": "Fixed-detector tilt-defocus sensing by upstream source coding in a time-reversed Young interferometer",
+      "authors": [
+        "Jianming Wen"
+      ],
+      "categories": [
+        "physics.optics",
+        "physics.data-an",
+        "quant-ph",
+        "stat.AP"
+      ],
+      "url": "https://arxiv.org/abs/2605.02873",
+      "abstract": "We propose a physically explicit sensing application of a time-reversed Young (TRY) interferometer: simultaneous monitoring of beam tilt and focus drift with a fixed detector. Using a finite-width double-slit Fresnel model, we derive the exact local TRY response functions for tilt-like and defocus-like phase perturbations and compute the corresponding optimal upstream source codes numerically.",
+      "score": 86,
+      "reason": "🎛️ 有限幅ダブルスリット Fresnel モデルで TRY 干渉計を tilt + defocus センサに転用。実装寄りで実験との接続が見える",
+      "summary": "🔬 上流ソース符号化で 2 スカラーに局所 Fisher 情報を凝縮 ✨ 単一検出器で同時監視、下流マッチドモードと比較 📐"
+    },
+    {
+      "arxiv_id": "2605.01233",
+      "title": "Probing Quantum Entanglement in tau+tau- Pairs via the pi pi Channel at STCF",
+      "authors": [
+        "Xiaokang Li",
+        "Chentao Bao",
+        "Hai Chen",
+        "Mingyi Liu",
+        "Dayong Wang"
+      ],
+      "categories": [
+        "hep-ex",
+        "hep-ph",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.01233",
+      "abstract": "Quantum entanglement and Bell-inequality violation in tau+tau- pairs provide a sensitive probe of quantum correlations in high-energy interactions. We present a feasibility study of e+e- to tau+tau- at the proposed Super Tau-Charm Facility based on full Monte Carlo simulation at sqrt(s) = 7 GeV, focusing on the pi pi channel which offers the maximal spin-analyzing power and the simplest final-state topology for validating the quantum-tomography framework.",
+      "score": 86,
+      "reason": "⚛️ 衝突型実験での粒子対エンタングルメント検証。コライダーでの Bell test という方向性に直結 🎯",
+      "summary": "🔬 STCF で e+e- → τ+τ- → π+π- を full MC で feasibility 評価、再構成 concurrence 0.279 ± 0.007 を達成 ✨"
+    },
+    {
+      "arxiv_id": "2605.02721",
+      "title": "Automated experimental design for high-probability entanglement generation",
+      "authors": [
+        "Carlos Ruiz-Gonzalez",
+        "Mario Krenn",
+        "Xuemei Gu"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.02721",
+      "abstract": "Entangled photons are widely used in quantum technologies. Many photonic experiments generate them with probabilistic photon-pair sources that can be modeled as squeeze operators. In practice, these sources are usually treated in the low-gain (perturbative) regime, keeping only the leading single-pair term and neglecting higher-order multi-pair emission events. Here we develop an automated design algorithm for quantum experiments to optimize both fidelity and success probability while accounting for higher-order multi-pair emissions.",
+      "score": 85,
+      "reason": "🎲 SPDC 系の squeeze operator を perturbative 越えで扱う自動設計アルゴリズム。高次多対放出を「敵」じゃなく「味方」にする発想 ✨",
+      "summary": "🔍 トポロジー探索 + パラメータ最適化で fidelity と成功確率を両立、Bell / W / NOON で従来提案を上回る性能 📈"
+    }
+  ]
+}

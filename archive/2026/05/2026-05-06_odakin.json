@@ -1,0 +1,96 @@
+{
+  "total_fetched": 243,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.00945",
+      "title": "Oscillon Formation in Palatini Modified Gravity Theories",
+      "authors": [
+        "Shreyas Upadhye",
+        "Sukanta Panda"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.00945",
+      "abstract": "We investigate the formation of spatially localized, oscillatory in time and non topological solitonic, quasi-stable energy configurations, Oscillons, which are formed at the end of Inflationary epoch, during the preheating phase and decay over long periods of time. Oscillons have been previously studied in literature in the regime of General Relativity using Metric Formalism. In this paper we look for formation of these energy lumps by modifying the gravity part of the Einstein Hilbert Action, considering a non minimal coupling of the scalar field with Ricci Scalar, R, and working in an alternative formulation of General Relativity known as Palatini Formalism.",
+      "score": 90,
+      "reason": "🌟 Palatini formalism × preheating の Oscillon!! Higgs inflation の Palatini 路線そのもの ✨ PGW スペクトルまで出してる",
+      "summary": "🔬 非最小結合スカラー場 + Palatini で Oscillon 形成を CosmoLattice で数値追跡 ⚙️ Oscillon 支配期 + 原始重力波スペクトル"
+    },
+    {
+      "arxiv_id": "2605.01992",
+      "title": "Reviving Motivated Inflationary Potentials with $K$-inflation in the light of ACT",
+      "authors": [
+        "Milad Solbi",
+        "Daris Samart",
+        "Peera Simakachorn"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.01992",
+      "abstract": "Recent ACT data favor a higher scalar spectral index n_s, placing models such as alpha-attractor T-models and natural Inflation in tension with current observations. We propose a K-inflation framework with a field-dependent non-canonical kinetic term G(phi) that reconciles these models with the latest Planck-ACT-LB-BK18 constraints. Our analysis includes a refined calculation of the reheating equation-of-state parameter w_re, avoids standard power-law approximations, and tests consistency with the Swampland Distance and de Sitter Conjectures.",
+      "score": 88,
+      "reason": "🚨 ACT で alpha-attractor / natural inflation がピンチ → K-inflation の非標準運動項で救出 💪 reheating EoS まで丁寧",
+      "summary": "📈 場依存運動項 G(phi) で n_s を押し上げ Planck-ACT-LB-BK18 と整合 ✨ Swampland 整合性込み、natural は青色傾斜 GW 予言"
+    },
+    {
+      "arxiv_id": "2605.02172",
+      "title": "Constraints on Ultralight Scalar and Dark Photon Dark Matter from PPTA-DR3 and EPTA-DR2",
+      "authors": [
+        "Xiao-Song Hu",
+        "Siyuan Chen",
+        "Kuo Liu",
+        "Xingjiang Zhu",
+        "Shi-Yi Zhao"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.02172",
+      "abstract": "The cold dark matter model successfully describes the Universe on large scales, yet faces challenges at sub-galactic scales. Ultralight dark matter (ULDM), with particle masses around 10^-22 eV, offers a promising solution to these small-scale issues. Pulsar Timing Arrays (PTAs), designed to detect nanohertz gravitational waves, can also provide a sensitive probe for ULDM signals.",
+      "score": 87,
+      "reason": "🌌 PPTA-DR3 + EPTA-DR2 で 10⁻²² eV 級 ULDM を Bayesian 探索 ⚡ axion DM 周辺の現象論にも刺さる",
+      "summary": "🔭 スカラー ULDM の振動重力ポテンシャル + DPDM の第五力をパルサー距離込みで探索 📊 95% 上限を更新、scalar ULDM は全 DM もまだ生存"
+    },
+    {
+      "arxiv_id": "2605.02775",
+      "title": "Axion electron-electron interaction in the RaOH molecule to search for Dark matter",
+      "authors": [
+        "Mikhail Reiter",
+        "Anna Zakharova"
+      ],
+      "categories": [
+        "hep-ph",
+        "physics.atom-ph",
+        "physics.chem-ph",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.02775",
+      "abstract": "Axions are promising candidates for the role of Dark matter particles. In this paper, the question of the suitability of the RaOH molecule for the experimental detection of electron-electron interactions through the exchange of axions is studied. To take into account an impact of the rotations and vibrations a computation must be performed for a large number of molecular configurations.",
+      "score": 86,
+      "reason": "🧪 RaOH 分子で axion 媒介 e-e 相互作用を狙う ✨ 分子系で axion DM を捕まえる方向、面白い",
+      "summary": "⚛️ 一般化相対論的有効内殻ポテンシャル + 一中心復元法で RaOH の axion-electron 相互作用を多配置計算 🔬"
+    },
+    {
+      "arxiv_id": "2605.01966",
+      "title": "Confinement of Massive Ghost in Quadratic Gravity",
+      "authors": [
+        "Ichiro Oda"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.01966",
+      "abstract": "In the framework of the covariant canonical formalism of quadratic gravity, we consider the problem of confinement of massive ghost which violates the unitarity of the physical S-matrix. It is shown that if there is a bound state between the massive ghost and Faddeev-Popov ghost the massive ghost is confined in the zero-norm states through the BRST quartet mechanism, thereby the unitarity being restored.",
+      "score": 85,
+      "reason": "👻 quadratic gravity の massive ghost を BRST quartet で閉じ込め → ユニタリ性復活 ⚡ Starobinsky 系の根本問題に手をつけてる",
+      "summary": "🌀 共変正準形式 + Bonora-Tonin 超場で massive ghost と FP ghost の束縛状態 → 零ノルム閉じ込め 🔧 QCD 色閉じ込めとの類似"
+    }
+  ]
+}

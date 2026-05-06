@@ -1,0 +1,73 @@
+{
+  "total_fetched": 243,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.01832",
+      "title": "Tight Entropic Uncertainty Relations",
+      "authors": [
+        "Alberto Riccardi",
+        "Lorenzo Maccone"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.01832",
+      "abstract": "Entropic uncertainty relations H(A)+H(B) >= gamma give a nonzero lower bound gamma to the sum of the Shannon entropies H of the outcome probabilities of incompatible observables A and B. They are better than the variance-based uncertainty relations because they only depend on the Born statistics of the outcomes and not on the outcomes themselves, and because bounds gamma typically are state independent. Here we provide a state-independent lower bound gamma_s that is better than the textbook Maassen-Uffink bound and, in the limit of the parameter s to 2, becomes asymptotically tight for all A,B.",
+      "score": 90,
+      "reason": "📐 Maassen-Uffink を超える state-independent エントロピー的不確定性関係、s→2 で漸近 tight 📈 不確定性関係を直撃する内容",
+      "summary": "🔬 任意の incompatible observables A,B に対して state-independent な下限 γ_s を構成 ✨ Renyi エントロピーへ拡張可"
+    },
+    {
+      "arxiv_id": "2605.01103",
+      "title": "On Quantum Indeterminacy",
+      "authors": [
+        "Maurice de Gosson"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph",
+        "math.GT",
+        "math.MP",
+        "math.SG"
+      ],
+      "url": "https://arxiv.org/abs/2605.01103",
+      "abstract": "We introduce a geometric formulation of quantum indeterminacy from which the standard uncertainty inequalities emerge as necessary consequences. Our approach is based on convex geometry in phase space and on methods from symplectic topology, and does not rely on statistical descriptors such as variances or covariances. The central tools are h-polar duality and symplectic capacities, which provide intrinsic, coordinate-free bounds on admissible phase-space configurations.",
+      "score": 88,
+      "reason": "🌀 de Gosson による不確定性の symplectic 幾何学的再定式化。Robertson-Schrödinger 不等式が h-polar 双対性から自然に導かれる ✨",
+      "summary": "📊 分散・共分散に頼らず凸体 + symplectic capacity で量子不定性を構築 → 不確定性は統計的というより位相空間の構造原理 🔬"
+    },
+    {
+      "arxiv_id": "2605.01932",
+      "title": "Expectation Pauli-Lubanski vector and intrinsic angular momentum of relativistic wavepackets",
+      "authors": [
+        "Konstantin Y. Bliokh"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-th",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2605.01932",
+      "abstract": "In non-relativistic mechanics, the total (orbital) angular momentum (AM) of a spatially-distributed system can be decomposed into intrinsic and extrinsic contributions. In relativistic quantum mechanics, intrinsic AM is typically associated with spin, which can be described using the Pauli-Lubanski four-vector. Here, we develop a unified formalism that combines the main features of both approaches and describes the intrinsic AM of a relativistic wavepacket, including both spin and orbital contributions.",
+      "score": 86,
+      "reason": "📐 Bliokh 単著で相対論的波束の固有 AM を「期待値 Pauli-Lubanski」に統合。波束形式 + 観測量の構造に効く ✨",
+      "summary": "🌀 波束のエネルギー重心まわりに spin + 軌道 AM を定義 → 零質量特異性が消え、massless でも AM ⊥ 運動量が許される 🔬"
+    },
+    {
+      "arxiv_id": "2605.01576",
+      "title": "Relational quantum dynamics of the black hole interior: singularity resolution and quantum bounce",
+      "authors": [
+        "Paolo Fragolino",
+        "Saeed Rastgoo"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.01576",
+      "abstract": "We study the interior of the Schwarzschild black hole which is isometric to the Kantowski-Sachs cosmological model, using a fully relational and gauge-invariant quantization framework. The physical Hilbert space is constructed via refined algebraic quantization, and quantum dynamics is recovered through the Page-Wootters formalism with a covariant POVM clock built from one of the two configuration variables.",
+      "score": 85,
+      "reason": "⏰ Page-Wootters + 共変 POVM 時計で BH 内部を量子化。time operator / 観測量と時間の双対性そのもの ✨",
+      "summary": "🕳️ Refined algebraic quantization + group averaging で Kretschmann 等が有限化、量子バウンスで BH→WH 転移 🔬"
+    }
+  ]
+}

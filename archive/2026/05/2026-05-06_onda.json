@@ -1,0 +1,96 @@
+{
+  "total_fetched": 243,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.01057",
+      "title": "Status of the COSmological Microwave Observations CALibrator",
+      "authors": [
+        "L. Mousset (on behalf of the COSMOCal collaboration)"
+      ],
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.01057",
+      "abstract": "As the sensitivity of CMB telescopes increases, the need for precise calibration becomes critical. Started in 2022, the COSMOCal project aims to place an artificial polarized source in geostationary orbit, which will serve as a reference for CMB telescopes. This source will emit at 90, 150 and 270 GHz and will be linearly polarized with a highly precise orientation smaller than 0.1 deg.",
+      "score": 89,
+      "reason": "📡 CMB 偏光較正用の人工偏光源を静止軌道に置く COSMOCal プロジェクト最新状況。LiteBIRD の偏光角系統誤差にもろ効く話 ✨",
+      "summary": "🛰️ 90/150/270 GHz、偏光方向精度 < 0.1° の人工偏光源 → 2026/3 IAS で較正キャンペーン実施 🔬"
+    },
+    {
+      "arxiv_id": "2605.02882",
+      "title": "Tracing Primordial Gravitational Waves via non-Gaussian Signatures of Halo Bias",
+      "authors": [
+        "Mariam Abdelaziz",
+        "Pritha Bari",
+        "Sabino Matarrese",
+        "Angelo Ricciardone"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.02882",
+      "abstract": "Primordial gravitational waves (PGWs) generate scalar density perturbations at second order. Since the induced density contrast is quadratic in the tensor field, it is intrinsically non-Gaussian. We study the imprint of this tensor-induced non-Gaussianity (NG) on the large-scale clustering of dark matter halos through its correction to halo bias. Focusing on inflationary scenarios with a peaked primordial tensor spectrum, we derive the leading scale-dependent contribution sourced by the bispectrum of the induced density field.",
+      "score": 88,
+      "reason": "🌌 LSS の halo bias で原始重力波を追う新ルート ✨ B-mode と相補的な PGW 観測の窓",
+      "summary": "📊 ピーク型 tensor スペクトル → 2 次密度ゆらぎの非ガウス性 → halo bias に O(1) 補正 (z=7 の希少 halo) 🔭 標準 PNG とは異なるスケール依存"
+    },
+    {
+      "arxiv_id": "2605.01992",
+      "title": "Reviving Motivated Inflationary Potentials with K-inflation in the light of ACT",
+      "authors": [
+        "Milad Solbi",
+        "Daris Samart",
+        "Peera Simakachorn"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.01992",
+      "abstract": "Recent ACT data favor a higher scalar spectral index n_s, placing models such as alpha-attractor T-models and natural Inflation in tension with current observations. We propose a K-inflation framework with a field-dependent non-canonical kinetic term G(phi) that reconciles these models with the latest Planck-ACT-LB-BK18 constraints. Our analysis includes a refined calculation of the reheating equation-of-state parameter w_re.",
+      "score": 87,
+      "reason": "🚨 ACT で alpha-attractor / natural inflation がピンチ → K-inflation で救出。LiteBIRD の r 予言とも直結 🎯",
+      "summary": "📈 場依存運動項 G(phi) で n_s を上げ Planck-ACT-LB-BK18 と整合 ✨ natural は青色傾斜 GW、alpha-attractor は赤色傾斜"
+    },
+    {
+      "arxiv_id": "2605.01146",
+      "title": "XRISM/Resolve observations of Hercules X-1: a pulsating, highly broadened Fe K emission line from the neutron star accretion column",
+      "authors": [
+        "Peter Kosec",
+        "Laura Brenneman",
+        "Erin Kara",
+        "Ciro Pinto",
+        "Daniele Rogantini"
+      ],
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2605.01146",
+      "abstract": "The study of X-ray pulsar accretion columns helps us characterize accretion physics in this extreme regime of strong gravity and strong magnetic fields. We obtained a high-spectral resolution view of the Fe K energy band of Hercules X-1 thanks to a 200 ks observation with the XRISM observatory. The XRISM/Resolve microcalorimeter spectra allow us to separate the different spectral components and accurately model them with phenomenological models.",
+      "score": 86,
+      "reason": "🛰️ XRISM/Resolve で Her X-1 の幅広 Fe K 線を 200 ks 観測。並列 X 線テーマに直撃 ✨",
+      "summary": "📡 σ ~ 1 keV の Fe K 線が pulse phase で強変動 → 降着柱起源の reprocessing/再結合と整合 🔬 35 日周期で pulsation pattern 変化"
+    },
+    {
+      "arxiv_id": "2605.02662",
+      "title": "Is XRISM/Resolve probing a 'raining' absorber in Mrk 509?",
+      "authors": [
+        "M. Dadina",
+        "V. Missaglia",
+        "V. Braito",
+        "M. Cappi",
+        "A. Luminari"
+      ],
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2605.02662",
+      "abstract": "X-ray spectroscopy of AGN offers unique insights into the reprocessing of radiation and gas dynamics near SMBH. The Sey 1 galaxy Mrk 509 is an ideal laboratory for these studies. We present the first high-resolution 2-12 keV spectrum of Mrk 509 obtained with the Resolve calorimeter on-board XRISM, complemented with XMM-Newton and NuSTAR observations.",
+      "score": 85,
+      "reason": "🌧️ XRISM/Resolve で Mrk 509 に「雨」のように落下する電離吸収体の兆候。X 線分光の最新成果 ✨",
+      "summary": "📊 σ~10 eV の narrow Fe Kα + σ~450 eV の broad 成分、3.6σ で v_in ~ 11000 km/s の infalling ionized absorber 🔭"
+    }
+  ]
+}

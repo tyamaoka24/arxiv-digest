@@ -1,0 +1,67 @@
+{
+  "total_fetched": 193,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.03038",
+      "title": "Squeezed-state radiation in shockwave scattering: QCD-Gravity double copy",
+      "authors": [
+        "Anna M. Sta'sto",
+        "Himanshu Raj",
+        "Raju Venugopalan"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.03038",
+      "abstract": "Gluon and graviton radiation in strong field shockwave scattering are described by effective Lipatov vertices, with the graviton Lipatov vertex proportional to the bilinear of its QCD counterpart. We show here that the n-particle gluon radiation spectrum can be described as a generalized Susskind-Glogower (gSG) squeezed coherent state and discuss the properties of such squeezed states. The double copy structure of the radiative frameworks suggests that multi-graviton radiation can be similarly described as a gSG state. We examine the physical parameter space and show that very large squeezing parameters $\\sim \\ln({\\bar n})$ (where ${\\bar n}$ is the mean graviton occupancy) are feasible for nearly minimal uncertainty configurations of the gSG state. Quantum noise in the corresponding gravitational wave spectrum is enhanced above the sensitivity of current and future gravitational wave detectors. Our results point to the importance of a comprehensive study of the strong field Lipatov regime of gravitational radiation.",
+      "score": 86,
+      "reason": "shockwave 散乱の gluon 輻射が squeezed coherent state! 🎆 double copy で graviton 側にも拡張、波束 + S-matrix 派にお勧め ✨",
+      "summary": "Lipatov vertex 由来の n-粒子グルーオン輻射を一般 Susskind-Glogower 圧搾コヒーレント状態に同定、graviton にも double copy 適用 📐"
+    },
+    {
+      "arxiv_id": "2605.03121",
+      "title": "Simulation-guided design of an integrated photonic cavity for frequency-multiplexed Spontaneous Parametric Down Conversion",
+      "authors": [
+        "Benjamin Szamosfalvi",
+        "Michael Raymer",
+        "CJ Xin",
+        "Leticia Magalhaes",
+        "Jarrett Nelson",
+        "Marko Loncar",
+        "Ryan M. Camacho"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2605.03121",
+      "abstract": "Frequency-multiplexed entangled photon pair sources with narrow bandwidths and high pair generation efficiency are a key enabling technology for quantum networking. We present a simulation-based design study of an integrated photonic racetrack resonator source for spontaneous parametric down-conversion (SPDC) that simultaneously achieves all three properties. The central result is a simulated set of 90 doubly resonant signal/idler frequency-mode pairs with an effective Schmidt number of 89.62, average bandwidths of 1.08 GHz, a mean free spectral range of 51.9 GHz, and a total internal pair-generation-rate efficiency of 1.16 GHz/mW. Under deterministic wavelength-based splitting, the accessible frequency-state Schmidt number is reduced to 44.93. To support these predictions, we derive a closed-form analytical connection between classical cavity parameters (resonant frequencies, decay rates, coupling coefficients) and the quantum joint spectral amplitude and pair generation rate, extending the dispersive-medium quantization formalism of Raymer to the nonlinear optical cavity case. We demonstrate how classical electromagnetic field simulations can be combined with this analytical framework to predict quantum figures of merit for an integrated photonic source prior to fabrication. Fabrication and experimental validation are left for future work.",
+      "score": 87,
+      "reason": "周波数多重 SPDC を integrated cavity で! 🔆 Schmidt 数 89.6, 帯域 1.08 GHz の多モード源、量子ネットワーク向け設計 ✨",
+      "summary": "racetrack resonator で doubly resonant signal/idler 90 ペアを生成、narrow bandwidth + 高効率を simulation 主導で同時達成 🧪"
+    },
+    {
+      "arxiv_id": "2605.03254",
+      "title": "Mirror Quantum Tomography Finds Unexpected Polarization Phenomena in Z Boson Production in pp Collisions at the LHC",
+      "authors": [
+        "A. Gautam",
+        "J. C. Martens",
+        "J. P. Ralston",
+        "G. Stejskal",
+        "J. D. Tapia Takaki"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2605.03254",
+      "abstract": "The ATLAS, CMS and LHCb collaborations have reported data for the inclusive production of lepton pairs with invariant mass 80-100 GeV in pp collisions. We find the ATLAS data from at $\\sqrt{s}$ =8 TeV shows an unexpected vortex-like configuration of Z boson spins circulating around the beam axis. Associated with this structure is a local maximum of the entropy of the Z-boson polarization density matrix extracted using quantum tomography. Data from CMS and LHCb at $\\sqrt{s}=13$ TeV are broadly consistent. The origin of the observed phenomena is unknown but generally related to observables that are formally odd under charge conjugation, parity and time-reversal. Quantum tomography using Standard Model lepton couplings to the Z boson determines the spin-1 density matrix of the system model-independently, bypassing any model of the hadronic production process.",
+      "score": 88,
+      "reason": "ATLAS 8 TeV データに渦状 Z スピン構造発見! 🌀 quantum tomography で偏極密度行列を抽出、CMS/LHCb 13 TeV でも整合 ✨🎯",
+      "summary": "pp 衝突 80-100 GeV 二粒子質量域で Z スピンが beam 軸周りに渦巻く異常配位、偏極密度行列のエントロピー局所極大として現れる 🔬"
+    }
+  ]
+}

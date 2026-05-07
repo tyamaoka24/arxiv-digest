@@ -1,0 +1,23 @@
+{
+  "total_fetched": 193,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.03783",
+      "title": "New constraints on primordial non-Gaussianity from large-scale cross-correlations of CMB lensing and the cosmic infrared background",
+      "authors": [
+        "Joseph Thornton",
+        "Fiona McCarthy",
+        "Carmen Embil Villagra",
+        "Blake D. Sherwin"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.03783",
+      "abstract": "We present new constraints on the local-type primordial non-Gaussianity parameter, $f_\\mathrm{NL}^\\mathrm{local}$, through analysis of the scale-dependent bias effect on the cosmic infrared background (CIB). To avoid biases from galactic dust contamination on large scales, we use cross-correlations between the CIB and Planck cosmic microwave background (CMB) lensing maps to constrain non-Gaussianity. Our measurement employs new dust-cleaned CIB maps that have been designed to be unbiased on large scales, which allows us to improve our constraining power on $f_\\mathrm{NL}^\\mathrm{local}$ by a factor of $\\sim 2$ over previous CIB analyses. We derive a constraint of $f_\\mathrm{NL}^\\mathrm{local}=43 \\pm 23$, matching the precision of the tightest existing constraints from cross-correlation methods. Consistency- and null-tests demonstrate that our results are robust to modeling assumptions and residual dust contamination.",
+      "score": 90,
+      "reason": "CMB lensing × CIB cross-correlation で f_NL^local を更新! 🌌 dust-cleaned CIB マップで大スケール bias を回避、制限大幅改善 📈✨",
+      "summary": "scale-dependent bias 効果を CIB に乗せて Planck CMB lensing と相関、新 dust-clean マップで原始非ガウス性を制限 🎯"
+    }
+  ]
+}

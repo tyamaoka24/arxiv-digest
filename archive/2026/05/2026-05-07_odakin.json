@@ -1,0 +1,94 @@
+{
+  "total_fetched": 193,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.02955",
+      "title": "Spontaneous Symmetry Breaking and the Emergent Einstein-Standard Model: From Weyl x SU (2)L x U (1)Y Gauge Theory to Geometric Mass Generation",
+      "authors": [
+        "Hao-Qian Peng",
+        "Yun-Tao Gu",
+        "Yu-Xiao Liu"
+      ],
+      "categories": [
+        "hep-ph",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.02955",
+      "abstract": "We construct a Weyl x SU(2)_L x U(1)_Y invariant theory by extending four-dimensional Weyl quadratic gravity with Weyl-invariant scalar, fermion, Yukawa and gauge sectors. The quadratic structure (R^tilde - mu^2 |phi|^2)^2 allows the Weyl Goldstone mode to be extracted via a Stueckelberg mechanism independent of the Higgs field. Spontaneous breaking of Weyl gauge symmetry reduces the Weyl quadratic curvature to the Einstein-Hilbert action with a positive cosmological constant, generates a mass term for the Weyl gauge field, and simultaneously produces the Higgs potential -mu^2 |phi|^2 + lambda^2 |phi|^4, which is otherwise forbidden by the symmetry. Our framework unifies the Stueckelberg, Higgs and Yukawa mechanisms, reproduces Standard Model mass generation, and predicts additional Higgs-induced contributions to the Weyl gauge field mass, together with a set of Higgs-Weyl couplings. These interactions provide new phenomenological handles, including a vector dark matter candidate, and highlight the geometric origin of mass.",
+      "score": 92,
+      "reason": "Weyl 二次重力 + 標準模型 = 幾何学的質量生成! 🚀 Higgs ポテンシャル自動発生、ベクター DM も付いてくる欲張り設計 ✨🌌🎯",
+      "summary": "Weyl ゲージ対称性の自発破れで Einstein-Hilbert + 宇宙項 + Higgs 質量項を一挙に出し、Weyl ゲージ場が DM 候補に 🪐"
+    },
+    {
+      "arxiv_id": "2605.03277",
+      "title": "Quasinormal modes and continuum response of de Sitter black holes via complex scaling method",
+      "authors": [
+        "Shoya Ogawa",
+        "Okuto Morikawa",
+        "Takuya Hirose"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.03277",
+      "abstract": "We apply the complex scaling method to black-hole perturbations in four-dimensional Schwarzschild--de~Sitter (dS) spacetimes. The method converts the outgoing-wave boundary-value problem into a non-Hermitian spectral problem and enables quasinormal-mode poles and the rotated continuum to be treated in a common framework. We focus in particular on the continuum level density, which characterizes the continuum response beyond isolated quasinormal-mode frequencies. Using Regge--Wheeler-type perturbation equations for scalar, electromagnetic, and gravitational fields, we investigate how a nonzero cosmological constant modifies the pole and continuum sectors. We also discuss a possible extension to string-inspired coupled-channel systems, and illustrate that higher-dimensional dS black holes can be treated within the same framework, at least in tensor- and vector-type sectors. Our results indicate that complex scaling offers a useful spectral framework for analyzing both quasinormal modes and continuum response in black-hole physics.",
+      "score": 88,
+      "reason": "森川さんたちの新作! 🎉 dS BH の QNM を complex scaling で攻める、連続スペクトル込みの非エルミート問題に変換 🕳️✨📐",
+      "summary": "Schwarzschild-de Sitter 摂動を complex scaling で非エルミート固有値問題に変換、QNM と連続応答を統一枠組で記述 🌌"
+    },
+    {
+      "arxiv_id": "2605.03758",
+      "title": "Dark Matter Production from Bubble Collisions during a First-Order Phase Transition at the End of Inflation",
+      "authors": [
+        "Zihong Cheng",
+        "Fa Peng Huang"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.03758",
+      "abstract": "We study whether a first-order phase transition at the end of inflation can generate the observed dark matter abundance through bubble collisions. The transition occurs in a spectator scalar sector with an inflaton-dependent effective potential, so that the nucleation rate grows during inflation and becomes significant only near its end. We identify the region of parameter space in which vacuum decay is dominated by the Coleman--De~Luccia channel, the Hawking--Moss transition remains subdominant, and the nucleated bubbles admit a consistent physical interpretation in an inflating background. Requiring also that the phase transition completes successfully, we then analyze particle production from bubble collisions. In the viable regime, elastic self-scatterings of the spectator particles can efficiently redistribute their momenta, while their decay into dark matter provides the dominant channel for transferring the spectator population to the dark sector. Other competing number-changing or sink processes remain inefficient compared with the Hubble expansion. The final relic abundance receives contributions from both direct production in bubble collisions and the subsequent decay of spectator field particles. We find that the observed dark matter abundance can be accommodated, within the order-of-magnitude accuracy of the collision-production treatment, in a restricted region of parameter space.",
+      "score": 88,
+      "reason": "インフレ末端の一次相転移バブル衝突で DM 生成! 🎈💥 Coleman-De Luccia vs Hawking-Moss の境界整理、PT GW も副産物 🌊",
+      "summary": "spectator scalar の inflaton 依存ポテンシャルで終端期に nucleation 加速、衝突で観測量の DM abundance を作る経路 🌑"
+    },
+    {
+      "arxiv_id": "2605.03922",
+      "title": "Minimum lifetime of a black hole",
+      "authors": [
+        "Eugenio Bianchi",
+        "Matthew Brandsema",
+        "Kenneth Czuprynski",
+        "Daniel E. Paraizo"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.03922",
+      "abstract": "We derive bounds on the lifetime of an evaporating black hole. The bound follows from energy conservation and purification, within the framework of `asymptotically semiclassical spacetimes'. We use the recently derived expression for the Bondi flux of Hawking radiation, together with the expression for the entanglement entropy of Hawking radiation at null infinity, to investigate the purification phase after the last semiclassical ray. We discuss the energy-cost of entanglement purification and we find a lower bound on the purification time of the black hole, which scales as $M_0^4/\\hbar^{3/2}$, where $M_0$ is the initial black hole mass. Additionally, motivated by quantum gravity considerations, we include the additional assumption that a Planck mass black hole is metastable. With this assumption, we find that the the purification time is extended to be exponential in the square of the initial black hole mass, i.e. in its initial area. We find that the redshift exponent is negative in this purification phase, which indicates the existence of a white-hole remnant which releases information slowly. We comment on phenomenological implications for primordial black hole remnants.",
+      "score": 86,
+      "reason": "蒸発 BH の寿命下限を Bondi flux + 量子もつれエントロピーで導出 🕳️⏳ purification 時間が M_0^4 スケールで効く話 ✨📐",
+      "summary": "asymptotically semiclassical 時空で energy 保存と purification から寿命下限、ホーキング末期の entanglement コストを精査 🌟"
+    },
+    {
+      "arxiv_id": "2605.04041",
+      "title": "Jordan Frame in Supergravity and Cosmology",
+      "authors": [
+        "Renata Kallosh"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.04041",
+      "abstract": "The superconformal action can be gauge-fixed in a gauge where is leads to the Einstein frame supergravity defined by a \\K potential $\\mathcal{K}(z, \\bar z)$, or in a gauge where it leads to a Jordan frame supergravity defined by the frame function $\\Omega(z, \\bar z)$, in addition to $\\mathcal{K}(z, \\bar z)$. We present {\\it new supergravity $\\xi$-attractor models with non-minimal coupling to gravity}, which offer some advantages over the previously known $\\xi$-attractors.\n  New attractors include exponential and polynomial $\\xi$-attractors and have some features similar to those of the Palatini attractors. However, we show that the Palatini gravity with nonminimal scalar coupling and an independent affine connection has no supergravity embedding.",
+      "score": 88,
+      "reason": "Kallosh の新作 ξ-attractor 模型! 🌟 Jordan frame supergravity 上の non-minimal coupling、Palatini 風の特徴も持つ系列 🪐✨📜",
+      "summary": "superconformal action の gauge-fixing で Jordan/Einstein 切替、frame function Ω(z,zbar) 経由で新 attractor 群を構築 🎯"
+    }
+  ]
+}

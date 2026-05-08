@@ -1,0 +1,163 @@
+{
+  "total_fetched": 159,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.04484",
+      "title": "Confidence uncertainty: position and momentum can be jointly determined with a guaranteed probability",
+      "authors": [
+        "Jia-Yi Lin",
+        "Xin-Yu Li",
+        "Wei Wang",
+        "Shengjun Wu"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.04484",
+      "abstract": "Heisenberg's uncertainty principle states that the position and momentum of a particle cannot be sharply determined simultaneously. Standard-deviation and entropic formulations capture the spread of the probability distribution but say little about the probability itself contained in a small region. We introduce the \"confidence uncertainty\" $\\Delta^{c}x(\\theta_x)$ as the minimal Lebesgue measure of the support set in which the particle is found with probability at least $\\theta_x$, and the companion \"interval confidence uncertainty\" $\\Delta^{I}x(\\theta_x)$ which restricts the support to a single interval. We prove two complementary uncertainty inequalities. (i) For $\\theta_x+\\theta_p\\le 1$ both confidence uncertainties can be made arbitrarily small simultaneously, so that no nontrivial product bound holds; in particular, position and momentum can be jointly localised with probability at least~$50\\%$. (ii) For $\\theta_x+\\theta_p>1$ a lower bound holds: combining Lenard's projection inequality with the Donoho--Stark operator-norm bound we obtain $\\Delta^{c}x\\,\\Delta^{c}p\\geq 2\\pi\\hbar\\bigl(\\sqrt{\\theta_x\\theta_p}-\\sqrt{(1-\\theta_x)(1-\\theta_p)}\\bigr)^{\\!2}$, and for the interval version we obtain the sharp implicit Landau--Pollak bound $\\Delta^{I}x\\,\\Delta^{I}p\\geq 4\\hbar\\,\\lambda_{0}^{-1}\\!\\bigl((\\sqrt{\\theta_x\\theta_p}-\\sqrt{(1-\\theta_x)(1-\\theta_p)})^{2}\\bigr)$, where $\\lambda_{0}(c)$ is the largest prolate-spheroidal eigenvalue. We support the analytical bounds with numerical evaluation of $\\lambda_{0}(c)$, provide closed-form small-$c$ and large-$c$ asymptotics, compute the optimal Slepian-superposition states that saturate the interval bound, and compare the resulting product against the variance Heisenberg--Kennard, the Bia\\l{}ynicki-Birula--Mycielski entropic, and the Donoho--Stark concentration bounds.",
+      "score": 90,
+      "reason": "Heisenberg超え!confidence型不確定性で位置と運動量を同時局在化🎯量子基礎ど真ん中✨",
+      "summary": "Lebesgue測度で確率θ確保の支持台幅Δᶜを定義。θ_x+θ_p>1で新しい不等式、Slepian状態が飽和💫"
+    },
+    {
+      "arxiv_id": "2605.04142",
+      "title": "Heterotic String Theory Suggests a QCD Axion Near 0.5 neV",
+      "authors": [
+        "Joshua N. Benabou",
+        "Giulio Alvise Dainelli",
+        "Mario Reig",
+        "Benjamin R. Safdi"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.04142",
+      "abstract": "We show that in heterotic string theory -- and dual corners of the landscape including Type I string theory -- the QCD axion mass is bounded from below by $m_a \\gtrsim 0.5$ neV, a direct consequence of the model-independent axion whose decay constant is fixed by the grand unified theory (GUT) gauge coupling. We explicitly compute the mass of the QCD axion in an ensemble of heterotic compactifications on Calabi-Yau hypersurfaces of toric varieties sampled from the Kreuzer-Skarke (KS) ensemble, as well as on complete intersection Calabi-Yau manifolds. We then perform an extensive search over the K\\\"ahler moduli space of KS compactifications with up to $11$ axions -- the maximum we identify as consistent with unification in our sample. We establish that for all but a handful of manifolds the QCD axion mass is precisely the model-independent value, lying in $[0.5, 0.8]$ neV, depending on the GUT gauge coupling. This window should be a high-priority target for future lumped-element detectors such as DMRadio-GUT. We show that the heavy axion population in our heterotic ensemble generically decays before big bang nucleosynthesis and can naturally accommodate leptogenesis, unlike in Type IIB axiverse constructions.",
+      "score": 90,
+      "reason": "heteroticがQCD axion質量を≳0.5 neVに下から押さえる⚡DMRadio-GUTで狙い撃ちのtarget🎯",
+      "summary": "KS ensemble全数調査でmodel-independent値[0.5,0.8] neVに集中、重axionはBBN前に崩壊✨"
+    },
+    {
+      "arxiv_id": "2605.04670",
+      "title": "Gravitational Waves from Higgs Preheating after Inflaton $Z_2$-Symmetry Breaking",
+      "authors": [
+        "Hua Zhou (Southwest University of Science",
+        "Technology)",
+        "Qing Yu (Southwest University of Science",
+        "Technology)",
+        "Wei Cheng (Chongqing University of Posts",
+        "Telecommunications)",
+        "Ruo-Peng Zhang (Chongqing Vocational Institute of Engineering)"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.04670",
+      "abstract": "In this paper, nonperturbative lattice simulations are used to study Higgs preheating and the associated gravitational wave (GW) background after the inflaton $Z_2$ symmetry is broken during inflation. This symmetry breaking generates both trilinear and quartic inflaton-Higgs interactions during preheating. The quartic inflaton-Higgs coupling is characterized by $q_{\\phi h}\\equiv \\lambda_{\\phi h}/\\lambda_\\phi$, while the trilinear interaction enters jointly through $q_{\\phi h}$ and $q_\\epsilon\\equiv m_\\phi/(\\sqrt{\\lambda_\\phi}\\phi_0)$. The Higgs self-coupling parameter $q_h\\equiv \\lambda_h/\\lambda_\\phi$ determines the onset of backreaction through the effective mass induced by Higgs self-interactions. Our simulations show that efficient preheating requires both a sufficiently broad resonance band and delayed backreaction. For $\\lambda_\\phi=10^{-13}$, the viable parameter region is approximately $10<q_{\\phi h}<10^4$, $q_h<10^3$, and $q_\\epsilon<10^{-5}$. Smaller $q_\\epsilon$ keeps the system in a quartic-dominated regime and suppresses the rapid drift of resonance bands, while smaller $q_h$ delays the end of preheating by weakening self-interaction-induced backreaction. The amplified Higgs inhomogeneities source GW through the transverse-traceless part of the anisotropic stress tensor. The lattice results show that the GW spectrum grows rapidly during parametric resonance, broadens through rescattering, and saturates in the nonlinear stage. At late times, the spectrum develops a broad peak with amplitude $\\Omega_{\\rm gw}\\sim10^{-6}$ at production. After redshifting to the present day, the peak frequency is $f\\sim10^9\\,{\\rm Hz}$ with present-day amplitude $\\Omega_{\\rm gw,0} h^2 \\sim 10^{-10}$. These results suggest that high-frequency GW from Higgs preheating may be detectable by future resonant-cavity detectors.",
+      "score": 88,
+      "reason": "インフレートンZ_2破れ後のHiggs preheating+格子GW⚡10⁹ Hzピークでresonant cavity射程🌊",
+      "summary": "三線形+四点Higgs-inflaton結合、効率preheatingに広resonance bandと遅backreactionが必要🎯"
+    },
+    {
+      "arxiv_id": "2605.04824",
+      "title": "Singlet-doublet dark matter induced radiative neutrino mass and TeV scale leptogenesis",
+      "authors": [
+        "Partha Kumar Paul",
+        "Narendra Sahu",
+        "Shashwat Sharma"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.04824",
+      "abstract": "The singlet-doublet dark matter (SDDM) model is a well-motivated WIMP framework that accommodates viable dark matter over a broad range of parameter space. In this work, we explore the possibility of TeV-scale leptogenesis within two realizations of the SDDM setup: Majorana SDDM scenario and Dirac SDDM scenario. The light neutrino mass, in either case, arises radiatively at one loop level. The particles running in the loop are responsible for Dark matter relic and TeV-scale leptogenesis while satisfying other phenomenological constraints. In the Majorana setup, the Standard Model is extended by three generations of singlet fermions $N_i$ and doublet fermions $\\Psi_i$, and a singlet scalar $\\phi$. The \\textit{CP}-violating, out-of-equilibrium decays of the heavier singlets ($N_{2,3}$) generate baryon asymmetry via the leptogenesis route, while the first generation of singlet-doublet fermions give rise to the usual SD Majorana dark matter. In the Dirac setup, the standard model is extended by three generations of complex scalars ($\\phi_i$) and right-handed Dirac partners ($\\nu_{R_i}$) of SM neutrinos ($\\nu_{L_i}$), along with a pair of singlet-doublet fermions $\\chi$ and $\\Psi$. The \\textit{CP}-violating out-of-equilibrium decays of the scalar fields $\\phi_i$ generate baryon asymmetry via the Dirac leptogenesis route. We show that in the Majorana setup, successful leptogenesis is possible even in the sub-TeV regime, while in the Dirac setup, the scale of leptogenesis is at a few TeV. With the particle mass at the TeV scale, the model remains promising for collider experiments, particularly through signatures such as prompt decays and displaced vertex searches. In addition, the presence of Dirac neutrinos can contribute to $\\Delta N_{\\rm eff}$, providing complementary cosmological signatures.",
+      "score": 88,
+      "reason": "SDDMでDM+1-loopν質量+TeV leptogenesis全部入り🌌colliderで観測可能✨",
+      "summary": "Majorana版sub-TeVもDirac版数TeVも可、CP非対称decayでbaryon生成→prompt/displaced vertex探索📡"
+    },
+    {
+      "arxiv_id": "2605.04158",
+      "title": "Emergent gravity from nonlinear perturbation of spherical accretion with variable adiabatic index",
+      "authors": [
+        "Rohith Ghosh",
+        "Souvik Ghose",
+        "Biplab Raychaudhuri",
+        "Apashanka Das",
+        "Tapas K. Das"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2605.04158",
+      "abstract": "The main aim of the present work is to demonstrate that the analogue gravity phenomena is not an artifact of linear perturbation, rather gravity-like effects emerge through the non linear higher order perturbation of transonic fluid as well. To establish that fact, a spherically accreting astrophysical system has been considered where the hydrodynamic accretion with a relativistic, multi-component equation of state with position dependent adiabatic index onto compact astrophysical objects has been considered. rate. By extending the acoustic metric formalism beyond the linear regime, it has been shown that the aforementioned perturbations satisfy a covariant wave equation in an effective acoustic spacetime with non-linear corrections, making the analogue geometry dynamical. As a consequence, the acoustic horizon can shift (inward or outward), depending on the relative amplitudes of density, temperature, and mass accretion-rate fluctuations. This provides a more realistic framework to investigate the dynamics of the non-linear analogue spacetime in astrophysically relevant accretion flows.",
+      "score": 87,
+      "reason": "emergent gravityが線形摂動のartifactではないと示す力作🌊acoustic horizonが動的にシフト!",
+      "summary": "球対称降着の非線形2次摂動でacoustic spacetimeが動く。密度/温度/降着率振幅でhorizonが内外へ🕳️"
+    },
+    {
+      "arxiv_id": "2605.04233",
+      "title": "Indications for New Higgs Bosons",
+      "authors": [
+        "Andreas Crivellin",
+        "Saiyad Ashanujjaman",
+        "Sumit Banik",
+        "Siddharth P. Maharathy",
+        "Guglielmo Coloretti"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2605.04233",
+      "abstract": "After the Higgs discovery, the question of whether particles beyond those of the Standard Model exist is more pressing than ever. In this context, the scalar sector is particularly promising, since it lies at the core of the internal problems of the Standard Model, while extensions of it allow us to resolve them and can provide explanations for Dark matter, non-zero neutrino masses, inflation etc. In these proceedings, we review the indications for new Higgs bosons at the electroweak scale with masses of $\\approx$95 GeV and $\\approx$152 GeV. These excesses are most significant in the di-photon channel but are supported by weaker-than-expected limits in other decay modes. While for the 95 GeV candidate the production mechanism is mostly unknown, the (hypothetical) 152 GeV Higgs is dominantly produced in association with leptons, $(b)$ jets and missing energy, pointing towards the Drell-Yan production of an $SU(2)_L$ triplet with $Y=0$. Interestingly, this model predicts $t\\to H^\\pm b$ with $H^\\pm\\to WZ$, which resembles the signature of $t\\bar{t}Z$ production in the Standard Model and is in fact preferred by current data. Finally, we investigate the possibility that the significant tensions between the Standard Model predictions and the measurements in differential top-quark distributions are due to contamination from new physics involving both the 152 GeV and the 95 GeV scalar.",
+      "score": 87,
+      "reason": "95+152 GeVの新Higgs兆候レビュー🎉di-photon超過+t→H±bが予言、tt̄Z見間違いも示唆✨",
+      "summary": "152 GeVはSU(2)_L triplet Y=0のDrell-Yan生成、95 GeVと併せてtop差分分布の張力も説明🎲"
+    },
+    {
+      "arxiv_id": "2605.05122",
+      "title": "Exponential Quintessence: Analytic Relationship Between the Current Equation of State Parameter and the Potential Parameter",
+      "authors": [
+        "Naoto Maki",
+        "Kazunori Kohri"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.05122",
+      "abstract": "Motivated by the indications of time-varying dark energy equation of state reported from DESI, we investigate a quintessence model with an exponential potential $V_0 e^{-\\lambda\\phi/m_{\\mathrm{pl}}}$. We derive an analytical relationship between the current equation of state parameter for the quintessence field and the potential parameter $\\lambda$ required to realize sufficient duration of radiation and matter domination. Our results provide a useful analytical relation for inferring the potential parameter $\\lambda$ from the observed current equation of state parameter. Furthermore, based on this framework, we provide a new analytical upper bound on the potential parameter $\\lambda$ for current accelerated expansion. Concretely, we obtain $\\lambda<1.94$ by adopting $\\Omega_{\\phi0}=0.685$.",
+      "score": 87,
+      "reason": "Kohri氏共著📈DESI時間変動DEに動機、現在のw↔potential parameter λの解析関係式✨",
+      "summary": "V_0 exp(-λφ/m_pl)で放射+物質優勢期を要求、Ω_φ0=0.685でλ<1.94の上限を導出🌌"
+    },
+    {
+      "arxiv_id": "2605.05015",
+      "title": "Dephasing Effects on the Dynamical Evolution of Quantum Correlations and Coherence in Neutrino Oscillations",
+      "authors": [
+        "Omar Bachain",
+        "Elhabib Jaloum",
+        "Mohamed Amazioug",
+        "Nazek Alessa",
+        "Wedad R. Alharbi",
+        "Rachid Ahl Laamara",
+        "Abdel-Haleem Abdel-Aty"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.05015",
+      "abstract": "Neutrino oscillations confirm the presence of mode entanglement, as each flavor eigenstate is composed of a coherent superposition of distinct mass eigenstates. In this work, we investigate the dynamics of quantum resources in neutrino oscillation systems by analyzing quantum steering, logarithmic negativity, and quantum coherence within a two-flavor framework. Treating neutrino oscillations as an effective two-level quantum system, we study the influence of environmental decoherence on these nonclassical features by modeling the system as an open quantum system. Three representative noise channels are considered, namely amplitude damping (AD), phase flip (PF), and phase damping (PD), allowing us to capture both dissipative and dephasing mechanisms. We examine the evolution of quantum resources in both Markovian and non-Markovian regimes, highlighting the role of memory effects in the system-environment interaction. The results reveal a clear hierarchy in the robustness of quantum resources under decoherence. Steering is the most sensitive correlation in the hierarchy under decoherence effects. while logarithmic negativity exhibits intermediate robustness. Quantum coherence displays the highest resilience, persisting over a wider range of parameters. In the PF and PD channels, logarithmic negativity and coherence are shown to exhibit identical dynamical behavior, reflecting their common dependence on phase-related noise. In contrast, the non-Markovian regime leads to delayed decoherence and partial revivals of entanglement and coherence due to information backflow, whereas quantum steering remains strongly suppressed. These findings provide a comparison of different quantum resources in neutrino oscillation systems and offer new insights into the interplay between decoherence mechanisms and quantum correlations.",
+      "score": 85,
+      "reason": "ニュートリノ振動を波束→2準位open systemとして steering/log-neg/coherence比較🌀",
+      "summary": "AD/PF/PD 3 channelで階層: steering最弱→log-neg→coherence最強、non-Markovで部分回復✨"
+    }
+  ]
+}

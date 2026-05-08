@@ -1,0 +1,79 @@
+{
+  "total_fetched": 159,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.04415",
+      "title": "New Exponential and Polynomial $\\xi$-attractors",
+      "authors": [
+        "Renata Kallosh",
+        "Andrei Linde"
+      ],
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.04415",
+      "abstract": "We introduce a new family of cosmological attractors with non-minimal coupling of gravity and non-canonical kinetic terms. In the Einstein frame, these models transform into a class of exponential and polynomial attractors with the spectral index $n_{s}$ spanning a broad range $1-2/N \\leq n_{s} < 1-1/N$, and $r$ can decrease to zero in the limit $\\xi \\to \\infty$. This is sufficient to match any combination of Planck, BICEP/Keck, ACT, SPT, and DESI data. We present a supergravity implementation of these models.",
+      "score": 88,
+      "reason": "Kallosh-Linde新ξ-attractor!n_sの広いレンジ+ξ→∞でr→0🎯Planck/BICEP/ACT/SPT/DESIに対応",
+      "summary": "non-minimal coupling+非標準kinetic、Einstein frameでexponential/polynomial attractor。SUGRA実装も提示"
+    },
+    {
+      "arxiv_id": "2605.05157",
+      "title": "Are PTA measurements sensitive to gravitational wave non-Gaussianities?",
+      "authors": [
+        "Chiara Cecchini",
+        "Jonas El Gammal",
+        "Gabriele Franciolini",
+        "Mauro Pieroni"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.05157",
+      "abstract": "Observing non-Gaussianity in the timing residuals of Pulsar Timing Arrays (PTAs) has recently attracted attention as a potential discriminator between astrophysical and cosmological origins of the observed Gravitational Wave (GW) signal. In this work, we show that even in an idealized signal-dominated setup, after decorrelating data to avoid spurious detections, statistical tests applied to PTA data cannot distinguish between Gaussian and non-Gaussian GWBs in a model-agnostic way. In particular, without making strong assumptions on the GW spectrum or the properties of the population, the sensitivity to any distinctive non-Gaussian feature is washed out.",
+      "score": 88,
+      "reason": "PTA timing residualsのGW non-Gaussianity判別はモデル非依存では無理⚠️天体起源vs宇宙論起源",
+      "summary": "decorrelation後のidealized signal-dominated setupでもGaussian/non-Gaussian GWBの統計的区別不可"
+    },
+    {
+      "arxiv_id": "2605.04815",
+      "title": "Primordial black holes from inflation: on the decoupling between large and small scales",
+      "authors": [
+        "Laura Iacconi"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.04815",
+      "abstract": "Primordial black holes (PBHs) can be produced from inflation if the primordial curvature power spectrum is strongly enhanced on scales much shorter than those probed by cosmic microwave background (CMB) experiments. In single-field models this typically requires a transient departure from slow-roll, attractor dynamics, for example realized through a brief ultra-slow-roll phase. In these scenarios, there is reasonable concern that large-scale modes, whose statistics is tightly constrained by CMB observations, might back-react to the amplified perturbations on much shorter scales. In a perturbative expansion for the long-mode power spectrum, this effect first appears at 1-loop. In these proceedings we summarize recent works on this issue, based on the application of the separate-universe framework and its general extension with multi-point propagators. We show that back-reaction at 1-loop is due to either (i) non-linear super-horizon evolution, or (ii) 1-loop-corrected initial conditions. By assuming separation of scales and adiabaticity of the long mode, we show that the 1-loop back-reaction is not observable and large scales decouple from enhanced short ones. While we demonstrate that PBH production within single-field inflation does not disrupt large-scale predictions, we close by discussing scenarios to which our results do not apply.",
+      "score": 87,
+      "reason": "PBH作るUSR期の長波長back-reactionは観測不能と確認🎉single-field PBHシナリオの大スケール非干渉性",
+      "summary": "separate-universe+adiabatic仮定で1-loop補正は超horizon evolution+初期条件由来、観測量にdecoupling"
+    },
+    {
+      "arxiv_id": "2605.04983",
+      "title": "Capturing statistical isotropy violation with rotational averages",
+      "authors": [
+        "Vaishali R",
+        "Dipayan Mukherjee",
+        "Tarun Souradeep"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.04983",
+      "abstract": "Recent high precision cosmological observations have revealed several anomalies in the Cosmic Microwave Background (CMB), indicating possible violations of statistical isotropy (nSI). Typically, nSI in the CMB sky is studied in the harmonic space, such as, using the Bipolar Spherical Harmonics (BipoSH) formalism, where the BipoSH coefficients capture the general structure of the angular correlation function. In this work, we present a geometric real space framework to quantify violations of statistical isotropy complementing the BipoSH approach. This geometric approach involves averaging the angular correlation function over all rotated configurations, weighted by Wigner matrices. These rotational averages systematically isolate the nSI components of the CMB sky. They also provide a physical space based route to interpretation of how the BipoSH formalism captures breaking of rotational symmetry. As a demonstration, we consider an analytical dipole modulation model. We numerically implement the rotational average measures and show their agreement with their harmonic space counterparts. The real space approach to quantify nSI could be advantageous in certain scenarios: rotational averages can directly extract nSI information from the correlation function at the level of a given multipole, bypassing the need to compute BipoSH coefficients up to arbitrarily high internal ranks. Importantly, analyzing the temperature map in real space can circumvent the unavoidable partial-sky effects present in CMB observations, which typically complicate harmonic space approaches. We envisage broader applications of this formalism to studies of primordial non-Gaussianity, CMB polarization, and weak gravitational lensing, as well as to the characterization of general random fields on a sphere.",
+      "score": 86,
+      "reason": "CMB statistical isotropy破れの検出に幾何的実空間framework!BipoSHを補完🌌LiteBIRDにも有用",
+      "summary": "回転平均で相関関数の統計的等方性破れを定量、harmonic spaceのBipoSHと相補的なreal-space表現"
+    }
+  ]
+}

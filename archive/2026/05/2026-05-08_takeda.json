@@ -1,0 +1,44 @@
+{
+  "total_fetched": 159,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.04484",
+      "title": "Confidence uncertainty: position and momentum can be jointly determined with a guaranteed probability",
+      "authors": [
+        "Jia-Yi Lin",
+        "Xin-Yu Li",
+        "Wei Wang",
+        "Shengjun Wu"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.04484",
+      "abstract": "Heisenberg's uncertainty principle states that the position and momentum of a particle cannot be sharply determined simultaneously. Standard-deviation and entropic formulations capture the spread of the probability distribution but say little about the probability itself contained in a small region. We introduce the \"confidence uncertainty\" $\\Delta^{c}x(\\theta_x)$ as the minimal Lebesgue measure of the support set in which the particle is found with probability at least $\\theta_x$, and the companion \"interval confidence uncertainty\" $\\Delta^{I}x(\\theta_x)$ which restricts the support to a single interval. We prove two complementary uncertainty inequalities. (i) For $\\theta_x+\\theta_p\\le 1$ both confidence uncertainties can be made arbitrarily small simultaneously, so that no nontrivial product bound holds; in particular, position and momentum can be jointly localised with probability at least~$50\\%$. (ii) For $\\theta_x+\\theta_p>1$ a lower bound holds: combining Lenard's projection inequality with the Donoho--Stark operator-norm bound we obtain $\\Delta^{c}x\\,\\Delta^{c}p\\geq 2\\pi\\hbar\\bigl(\\sqrt{\\theta_x\\theta_p}-\\sqrt{(1-\\theta_x)(1-\\theta_p)}\\bigr)^{\\!2}$, and for the interval version we obtain the sharp implicit Landau--Pollak bound $\\Delta^{I}x\\,\\Delta^{I}p\\geq 4\\hbar\\,\\lambda_{0}^{-1}\\!\\bigl((\\sqrt{\\theta_x\\theta_p}-\\sqrt{(1-\\theta_x)(1-\\theta_p)})^{2}\\bigr)$, where $\\lambda_{0}(c)$ is the largest prolate-spheroidal eigenvalue. We support the analytical bounds with numerical evaluation of $\\lambda_{0}(c)$, provide closed-form small-$c$ and large-$c$ asymptotics, compute the optimal Slepian-superposition states that saturate the interval bound, and compare the resulting product against the variance Heisenberg--Kennard, the Bia\\l{}ynicki-Birula--Mycielski entropic, and the Donoho--Stark concentration bounds.",
+      "score": 88,
+      "reason": "Heisenberg超え!confidence型不確定性で位置+運動量同時局在化🎯波束/量子基礎ど真ん中",
+      "summary": "Lebesgue測度で確率θ確保の支持台幅Δᶜを定義、θ_x+θ_p>1で新不等式、Slepian状態が飽和💫"
+    },
+    {
+      "arxiv_id": "2605.05015",
+      "title": "Dephasing Effects on the Dynamical Evolution of Quantum Correlations and Coherence in Neutrino Oscillations",
+      "authors": [
+        "Omar Bachain",
+        "Elhabib Jaloum",
+        "Mohamed Amazioug",
+        "Nazek Alessa",
+        "Wedad R. Alharbi",
+        "Rachid Ahl Laamara",
+        "Abdel-Haleem Abdel-Aty"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.05015",
+      "abstract": "Neutrino oscillations confirm the presence of mode entanglement, as each flavor eigenstate is composed of a coherent superposition of distinct mass eigenstates. In this work, we investigate the dynamics of quantum resources in neutrino oscillation systems by analyzing quantum steering, logarithmic negativity, and quantum coherence within a two-flavor framework. Treating neutrino oscillations as an effective two-level quantum system, we study the influence of environmental decoherence on these nonclassical features by modeling the system as an open quantum system. Three representative noise channels are considered, namely amplitude damping (AD), phase flip (PF), and phase damping (PD), allowing us to capture both dissipative and dephasing mechanisms. We examine the evolution of quantum resources in both Markovian and non-Markovian regimes, highlighting the role of memory effects in the system-environment interaction. The results reveal a clear hierarchy in the robustness of quantum resources under decoherence. Steering is the most sensitive correlation in the hierarchy under decoherence effects. while logarithmic negativity exhibits intermediate robustness. Quantum coherence displays the highest resilience, persisting over a wider range of parameters. In the PF and PD channels, logarithmic negativity and coherence are shown to exhibit identical dynamical behavior, reflecting their common dependence on phase-related noise. In contrast, the non-Markovian regime leads to delayed decoherence and partial revivals of entanglement and coherence due to information backflow, whereas quantum steering remains strongly suppressed. These findings provide a comparison of different quantum resources in neutrino oscillation systems and offer new insights into the interplay between decoherence mechanisms and quantum correlations.",
+      "score": 85,
+      "reason": "ニュートリノ振動を波束→2準位open quantum systemで扱い steering/log-neg/coherence比較🌀",
+      "summary": "AD/PF/PD 3 channelで階層: steering最弱→log-neg→coherence最強、non-Markovで部分回復✨"
+    }
+  ]
+}

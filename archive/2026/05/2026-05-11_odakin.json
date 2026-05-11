@@ -1,0 +1,97 @@
+{
+  "total_fetched": 177,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.05500",
+      "title": "Exact solution and Classical tests of New General Relativity",
+      "authors": [
+        "V. P. Vandeev",
+        "V. A. Parkhomenko",
+        "A. N. Semenova"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.05500",
+      "abstract": "In this work, we present an exact static spherically symmetric vacuum solution of the New General Relativity (NGR) field equations. Unlike the Schwarzschild solution in General Relativity (GR), this solution is characterized by two parameters. Subsequently, using the four classical tests of relativistic gravity (perihelion precession, light bending, Shapiro time delay and gravitational redshift), a more stringent constraint on the value of the second parameter was derived compared to the original work [1].",
+      "score": 88,
+      "reason": "teleparallel 系 NGR の静的球対称真空 exact 解✨ 4 古典テストで第二パラメータをグッと制約🔭🌌🪐",
+      "summary": "二パラの解📐 近日点歳差・光屈曲・Shapiro 遅延・赤方偏移を総動員で絞り、原論文より厳しい上限を導出🚀✨"
+    },
+    {
+      "arxiv_id": "2605.06147",
+      "title": "Cosmological Dynamics of a Non-Canonical Generalised Brans-Dicke Theory",
+      "authors": [
+        "Matthew Debono",
+        "Jackson Levi Said",
+        "Gabriel Farrugia"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.06147",
+      "abstract": "The LCDM model has been presented with a number of cosmic tensions in the face of precision cosmological data, suggesting the presence of a dynamical dark energy component. In this context, we investigate the cosmology arising from a generalisation of Brans-Dicke theory, with a non-minimally coupled scalar field characterising deviations from standard general relativity, and having a non-canonical kinetic term. By reformulating the field equations into an autonomous set of dynamical equations, we use the methods of dynamical systems to investigate the equilibrium states of the system and their stability for a set of widely-used potentials, namely the constant, power-law, and exponential potentials, with the flow visualized using bounded phase portraits. Furthermore, we investigate the physical meaning of the critical points, and we find viable solutions that can reproduce the characteristics of the $\\Lambda$CDM model at background level for each of the three potentials. Furthermore, in each case, we observe that the dynamical behaviour differs noticeably from that observed in other scalar-tensor models due to the non-minimal coupling and non-canonical field, despite using similarly defined dynamical variables.",
+      "score": 85,
+      "reason": "Brans-Dicke を非標準動力学項に拡張🌌 動力学系手法で ΛCDM 再現＆相空間可視化✨🔭",
+      "summary": "非最小結合スカラー＋非標準 K📈 定数・power-law・指数ポテンシャルで臨界点と安定性を網羅、scalar-tensor との違いも🚀"
+    },
+    {
+      "arxiv_id": "2605.05304",
+      "title": "Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves",
+      "authors": [
+        "Tammi Chowdhury",
+        "Leah Jenks",
+        "Edward W. Kolb",
+        "Andrew J. Long",
+        "Evan McDonough"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.05304",
+      "abstract": "We explore the coincidence of scales between cosmic inflation and right-handed neutrinos in seesaw models. We show that inflation models, which will be tested by next-generation CMB experiments, can produce right-handed neutrinos in sufficient abundance to explain the observed baryon asymmetry of the universe. The model can be tested by gravitational wave signatures from cosmic inflation and particle production.",
+      "score": 92,
+      "reason": "重力的粒子生成🌌で右巻き ν を作って seesaw leptogenesis ✨ 次世代 CMB と原始 GW で直接検証可能🚀🔭🌠",
+      "summary": "インフレ中の重力生成で BAU 説明📐 inflation models が GW シグネチャを持ち実験で選別、コインシデンス問題に切り込む✨"
+    },
+    {
+      "arxiv_id": "2605.05295",
+      "title": "Ultraviolet completion of Starobinsky inflation",
+      "authors": [
+        "Ignatios Antoniadis",
+        "Chrysoula Markou",
+        "Dimitri V. Nanopoulos"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.05295",
+      "abstract": "We construct an $N=1$ supergravity action whose bosonic part contains an arbitrary function of the scalar curvature, the so-called $F(R)$ gravity. As in $R+R^2$ supergravity, it can be described in terms of two chiral superfields of no-scale supergravity: one contains the scalaron which plays the role of the Starobinsky inflaton and the other contains the goldstone fermion of spontaneously broken supersymmetry during the inflation plateau. Its (complex) scalar component acquires a non-tachyonic mass in the presence of the string dilaton and can be set to zero, together with the pseudoscalar partner of the scalaron, so that the scalar potential is reduced to the one of $F(R)$ gravity. In a perturbative expansion in powers of $R$, one obtains a small deformation of the Starobinsky cosmological model that solves the problem of initial conditions within the validity of the effective field theory, below the scale of tower of states predicted by the swampland distance conjecture. We also show that a particular example of an underlying microscopic theory with such properties is provided by a four-dimensional heterotic string model containing the Standard Model of particle physics.",
+      "score": 92,
+      "reason": "Starobinsky の UV 完備化✨ N=1 sugra + no-scale で R² 構造を実現🌌 SM 含む 4D heterotic 例まで🚀🔭",
+      "summary": "F(R) sugra + dilaton で scalar partner を非タキオン化📐 R 展開で Starobinsky を small deformation, 初期条件問題も解消🌠"
+    },
+    {
+      "arxiv_id": "2605.05916",
+      "title": "Squeezed Gravitons and One-Loop Self-Energy under Light-Cone Smearing",
+      "authors": [
+        "Hiroki Matsui"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.05916",
+      "abstract": "We investigate light-cone smearing induced by quantum fluctuations of gravitons and its implications for the ultraviolet structure of quantum field theory. By treating the first-order correction to Synge's world function as an operator, we show that the retarded Green's function is smeared by the variance of graviton fluctuations. The smearing width depends on the quantum state of gravitons: vacuum fluctuations generate a Gaussian smearing of the light cone, coherent states shift the light-cone position, and squeezed states modify the smearing width itself. We then apply the smeared Feynman propagator to one-loop self-energies in interacting scalar field theories. In both the $\\phi^3$ bubble diagram and the $\\phi^4$ tadpole diagram, the short-distance singularities responsible for the usual ultraviolet divergences are regularized by a nonzero smearing width. We also estimate the contribution from primordial gravitons generated during inflation and show that it induces a finite correction of order $10^{-10}$ to the one-loop self-energy. Our results suggest that the quantum state of gravitons can leave a finite imprint on the causal and short-distance structure of quantum field theory.",
+      "score": 90,
+      "reason": "🌌 Squeezed graviton ✨が光円錐を smear して UV を正則化、原始 graviton で 10⁻¹⁰ の有限補正🚀🔭🌠",
+      "summary": "Synge world function を演算子化📐 vacuum=Gauss smearing/coherent=shift/squeezed=幅変化、φ³φ⁴ self-energy が有限化✨"
+    }
+  ]
+}

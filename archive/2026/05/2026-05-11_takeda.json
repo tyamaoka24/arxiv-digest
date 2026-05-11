@@ -1,0 +1,21 @@
+{
+  "total_fetched": 177,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.05633",
+      "title": "Eigenstate-Selective Entangled Two-Photon Absorption in Monolayer WSe$_2$",
+      "authors": [
+        "Minseok A. Jang",
+        "Hongki Yoo"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.05633",
+      "abstract": "We show that the Bell-state phase of a polarization-entangled photon pair controls the biexciton eigenstate distribution produced by entangled two-photon absorption (ETPA) in monolayer WSe$_2$. In a frequency-nondegenerate ladder scheme, two independent valley pathways ($K$ and $K'$) share no intermediate state, so the biphoton phase sets the relative amplitude between them. Within the valley-symmetric limit this phase factorizes from the material response, and the resulting selection rule partitions the excitation among biexciton eigenstates according to the Bell-state phase $\\varphi$. The symmetric Bell state ($\\varphi = 0$) selectively drives bright eigenstates, while the antisymmetric state ($\\varphi = \\pi$) drives the exchange-dark eigenstate. No classical polarization source reproduces this $\\varphi$-dependent eigenstate distribution. Including valley dephasing and intervalley scattering at 4~K, the phase-scan visibility exceeds $0.97$ for broadband SPDC ($T_e \\sim 100$~fs) with high source purity.",
+      "score": 95,
+      "reason": "偏光もつれ光子対の Bell 相が biexciton 固有状態の選択則を決定✨ ETPA + SPDC ど真ん中の必読論文🎯",
+      "summary": "K/K′ 二谷経路で振幅比が biphoton 位相に係留📐 φ=0 で bright, φ=π で exchange-dark を選択、4K でも可視度 0.97 超"
+    }
+  ]
+}

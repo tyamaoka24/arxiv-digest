@@ -1,0 +1,102 @@
+{
+  "total_fetched": 139,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.06849",
+      "title": "Tracing complex zeros of the quantum survival amplitude: How the energy distribution controls dynamical phase transitions",
+      "authors": [
+        "Jakub Novotný",
+        "Jan Strelecek",
+        "Pavel Stránský",
+        "Pavel Cejnar"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.06849",
+      "abstract": "We analyze the zeros of the complex-time survival (Loschmidt) amplitude in finite quantum systems and develop a general framework for their approximation based on the stability of zeros of holomorphic functions.",
+      "score": 90,
+      "reason": "⏱️ Loschmidt 生存振幅の複素零点を初期状態のエネルギー分布で支配する解析枠組み。時間-エネルギー双対性が見通し良く整理される ✨",
+      "summary": "📊 零点の大域構造はエネルギー分布の包絡で決まり、優勢成分由来の周期零点鎖で構成。DQPT を energy spread から論じる"
+    },
+    {
+      "arxiv_id": "2605.07992",
+      "title": "Uncertainty Principles and Maximum Entropic Force",
+      "authors": [
+        "Jonas Mureika",
+        "Elias C. Vagenas"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.07992",
+      "abstract": "We consider quantum gravity corrections to the maximum entropic force that arise from several gravitational uncertainty principles (GUP/EUP/GEUP/LQGUP).",
+      "score": 88,
+      "reason": "🌀 GUP/EUP/GEUP/LQGUP を比較した量子重力補正カタログ。空間-運動量側の不確定性原理の俯瞰として有用 📚",
+      "summary": "🧲 修正最大エントロピー力が各 UP パラメタで違う形に。MOND 様補正や Tsallis 熱力学との接続も議論 🔭"
+    },
+    {
+      "arxiv_id": "2605.07228",
+      "title": "Kochen-Specker nonlocal hidden variables must include time-ordering to allow for measurement independence of several agents",
+      "authors": [
+        "Valerio Scarani",
+        "Antoine Suarez"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.07228",
+      "abstract": "We consider an ontology in which contextual nonlocal hidden variables are stored as pre-existing possibilities, and show that context must include time-ordering of agent choices.",
+      "score": 87,
+      "reason": "⌚ 隠れ変数モデルが measurement independence を保つには time-ordering を context に含める必要あり、と論証 ✨",
+      "summary": "📐 Bell 実験での複数 agent 構成で、spacelike/timelike を問わず choice の time order を context に含めないと矛盾 💭"
+    },
+    {
+      "arxiv_id": "2605.08076",
+      "title": "Unlocking vacuum entanglement",
+      "authors": [
+        "Andrew Steane",
+        "Haru Ishizaka"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.08076",
+      "abstract": "The structure of entanglement in the ground state of the harmonic chain is studied. A class of two-mode squeezed states, useful for this purpose, is identified.",
+      "score": 87,
+      "reason": "🎵 harmonic chain 基底の two-mode squeezed states を活用!squeezed coherent states の応用範囲を拡げる材料 ✨",
+      "summary": "🔓 中央モード測定 + 通信で両端モードのエンタングルメントを解錠。元々ゼロでも引き出せる条件を提示 💫"
+    },
+    {
+      "arxiv_id": "2605.07405",
+      "title": "Commutativity from a single Bargmann invariant equality",
+      "authors": [
+        "Rafael Wagner",
+        "Ernesto F. Galvão"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.07405",
+      "abstract": "We provide a universal necessary and sufficient condition for pairwise commutativity of quantum states: they commute iff tr(ρ1² ρ2²) = tr(ρ1 ρ2 ρ1 ρ2).",
+      "score": 85,
+      "reason": "🧮 状態の可換性を Bargmann 不変量ひとつの等式で判定!観測量-状態双対の数理的整理に効く一品 ✨",
+      "summary": "📏 ρ1,ρ2 が交換 ⇔ tr(ρ1²ρ2²)=tr(ρ1ρ2ρ1ρ2)。qubit では purity と overlap の polynomial に簡約 🎯"
+    },
+    {
+      "arxiv_id": "2605.06774",
+      "title": "Finite-time memory detectors and fully constraining Faddeev-Kulish dressings in QED and gravity",
+      "authors": [
+        "Brett Oertel"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.06774",
+      "abstract": "Finite-time Faddeev-Kulish dressings can be fully constrained by symmetry, recovering classical memory effects. Finite-time Fock spaces and memory detectors are constructed.",
+      "score": 85,
+      "reason": "⏳ 有限時間の Faddeev-Kulish 衣 + memory detector!asymptotic state を有限時間版に置換する波束的議論と接続 ✨",
+      "summary": "🌐 対称性で衣の選択が一意化、有限時間 Fock 空間で gravitational memory と Christodoulou 高次寄与を再構成 💫"
+    }
+  ]
+}

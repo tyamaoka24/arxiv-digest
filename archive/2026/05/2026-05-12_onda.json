@@ -1,0 +1,61 @@
+{
+  "total_fetched": 139,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.08080",
+      "title": "CMB Limits on the Absorption of Light Vector and Axial-Vector Dark Matter",
+      "authors": [
+        "Gabriele Montefalcone",
+        "Nicola Bellomo",
+        "Kimberly K. Boddy"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.08080",
+      "abstract": "Leptophilic sub-MeV spin-1 dark matter can be converted into a photon via inelastic scattering or absorption in the primordial plasma. Using Planck 2018 T/E/B + lensing data, we obtain upper limits on vector and axial-vector DM-electron couplings for DM masses 100 eV to 100 keV.",
+      "score": 90,
+      "reason": "🛰️ Planck 2018 の T/E + lensing 制約を sub-MeV vector/axial DM の吸収・散乱に初適用。CMB B-mode 級の感度を非 GW チャネルでも実証 ✨",
+      "summary": "📡 100 eV-100 keV 域で DM-electron 結合上限を提示。水素フォームファクタ抑制が高エネルギー側の感度を決める 🎯"
+    },
+    {
+      "arxiv_id": "2605.06787",
+      "title": "The structure of multi-axion solutions to the strong CP problem",
+      "authors": [
+        "Mario Fernández Navarro",
+        "Marta F. Zamoro",
+        "Marko Pesut",
+        "Xavier Ponce Díaz"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.06787",
+      "abstract": "We investigate the general structure of multi-axion solutions to the strong CP problem and study the different qualitative mass-coupling patterns.",
+      "score": 86,
+      "reason": "🪐 多軸 axion で m-g_aγγ パターンが QCD バンド外にも展開。LiteBIRD の cosmic birefringence 探索の ALP パラメタ空間に直結 ✨",
+      "summary": "🎻 QCD バンドの左右や帯振幅変化が一般的に出現。ALP-photon coupling 探索戦略への含意 💫"
+    },
+    {
+      "arxiv_id": "2605.06917",
+      "title": "X-ray spectroscopy mass constraints on V1674 Her: the fastest nova does not have a near-Chandrasekhar white dwarf",
+      "authors": [
+        "Tekeba Olbemo",
+        "Manel Errando",
+        "Andrea Gokus"
+      ],
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.SR"
+      ],
+      "url": "https://arxiv.org/abs/2605.06917",
+      "abstract": "We present a broadband X-ray study of V1674 Her combining XMM-Newton and NuSTAR observations to constrain WD mass and magnetic field via post-shock accretion column model.",
+      "score": 85,
+      "reason": "💫 XMM + NuSTAR の post-shock 降着柱モデル fit で nova の WD 質量を決定。XRISM Resolve 系の X線分光路線と地続きで参考に ✨",
+      "summary": "🔬 最速 nova V1674 Her の WD 質量は Chandrasekhar 上限近くではないと結論、磁場と質量を同時拘束 🌟"
+    }
+  ]
+}

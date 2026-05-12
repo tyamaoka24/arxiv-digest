@@ -1,0 +1,131 @@
+{
+  "total_fetched": 139,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.07344",
+      "title": "DESI and Dynamical Dark Energy from Extended Pre-geometric Gravity",
+      "authors": [
+        "Andrea Addazi",
+        "Yermek Aldabergenov",
+        "Daulet Berkimbayev",
+        "Yifu Cai",
+        "Salvatore Capozziello"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.07344",
+      "abstract": "We consider the simplest quadratic extension of MacDowell-Mansouri pre-geometric gravity preserving the topological pre-volume form symmetry. After symmetry breaking, it becomes (Lovelock)^2 gravity, dual to a Galileon-like Horndeski scalar-tensor theory. The gravitational Higgs mechanism forces the Gauss-Bonnet coupling to be inversely proportional to the bare cosmological constant.",
+      "score": 95,
+      "reason": "🎯 MacDowell-Mansouri pre-geom 拡張で gravi-axion が DE スケール生成!Einstein-Cartan 系 + axion + DESI を一気に串刺し ✨🚀",
+      "summary": "📐 Lovelock² 双対の Horndeski を gravi-Higgs 機構で導出。GB 係数が Λ_bare 逆比、θ角が動的化し DE を実現 🌌"
+    },
+    {
+      "arxiv_id": "2605.07992",
+      "title": "Uncertainty Principles and Maximum Entropic Force",
+      "authors": [
+        "Jonas Mureika",
+        "Elias C. Vagenas"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.07992",
+      "abstract": "We consider quantum gravity corrections to the maximum entropic force that arise from several gravitational uncertainty principles. These include GUP, EUP, GEUP, and LQGUP.",
+      "score": 90,
+      "reason": "🌀 GUP/EUP/GEUP/LQGUP を entropic force に流し込み量子重力補正を一網打尽 ✨ 不確定性 × emergent gravity の交差点 💫",
+      "summary": "🧲 修正最大エントロピー力が GUP パラメタ依存、E-UP 系では MOND 様補正や Tsallis 熱力学との接続も検討 🔭"
+    },
+    {
+      "arxiv_id": "2605.06777",
+      "title": "Neutrino-Antineutrino Conversion from Ultralight Vector Dark Matter",
+      "authors": [
+        "Asher Berlin",
+        "Rodolfo Capdevilla",
+        "Ting Cheng",
+        "Matheus Hostert",
+        "Pedro A. N. Machado"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2605.06777",
+      "abstract": "We show that Majorana neutrinos convert into antineutrinos in a background of ultralight vector dark matter coupled to lepton number, such as U(1)_{B-L} or U(1)_{L_i - L_j}.",
+      "score": 88,
+      "reason": "🌌 U(1)_{B-L} 等の超軽量ベクトル DM 場で Majorana ν↔ν̄ 変換!DUNE/HK/JUNO の SN ν バーストで未踏領域 🎯⚡",
+      "summary": "🔭 ν 質量で抑制も宇宙論距離で増幅、超新星ν で g~10⁻²⁵ 領域に感度。レプトン数ゲージ DM の新プローブ ✨"
+    },
+    {
+      "arxiv_id": "2605.06787",
+      "title": "The structure of multi-axion solutions to the strong CP problem",
+      "authors": [
+        "Mario Fernández Navarro",
+        "Marta F. Zamoro",
+        "Marko Pesut",
+        "Xavier Ponce Díaz"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.06787",
+      "abstract": "We investigate the general structure of multi-axion solutions to the strong CP problem and study the different qualitative mass-coupling patterns that arise.",
+      "score": 87,
+      "reason": "🪐 多軸 axion 解で標準 QCD バンド外の m-g パターンが出現!実験プログラム再考の手掛かり ⚡✨",
+      "summary": "🎻 多 axion 時 m_a-g_aγγ 関係が変調、QCD バンド左右や帯振幅変化が一般的に発生。検出戦略への含意 💫"
+    },
+    {
+      "arxiv_id": "2605.07879",
+      "title": "Gravitational Wave Memory in Beyond GR Theories",
+      "authors": [
+        "Silvia Gasparotto"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.07879",
+      "abstract": "We present the first computation of memory from full inspiral-merger-ringdown waveforms in a theory beyond GR, focusing on scalar Gauss-Bonnet gravity.",
+      "score": 86,
+      "reason": "🌊 sGB 重力で IMR フル波形のメモリ初計算、GR との mismatch がメモリ込みで激増 ⚡ beyond GR の新観測量 ✨",
+      "summary": "🔬 sGB で %レベルの GR からのズレ、主因はマージダイナミクス、スカラー誘起 tensor memory は強く抑制 🎯"
+    },
+    {
+      "arxiv_id": "2605.06796",
+      "title": "Decaying spin-3/2 dark matter from baryon number violation",
+      "authors": [
+        "Francesco Costa",
+        "Gabriel M. Salla"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.06796",
+      "abstract": "We explore non-supersymmetric spin-3/2 dark matter with baryon number violating interactions in an effective field theory description.",
+      "score": 85,
+      "reason": "🦄 非 SUSY の spin-3/2 DM + baryon 数破れ portal、freeze-in が baryogenesis と絡む新しい角度 ✨⚡",
+      "summary": "🌟 UV/Boltzmann 抑制 freeze-in で relic 達成、freeze-out は除外。崩壊シグナル + baryogenesis 連動の現象論 💫"
+    },
+    {
+      "arxiv_id": "2605.07616",
+      "title": "Probing the Inert Doublet Dark Matter with Stellar-Mass Black Hole Mini-Spikes",
+      "authors": [
+        "Rameswar Sahu"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2605.07616",
+      "abstract": "We investigate the IDM parameter space through an analysis of FermiLAT observations of dark matter mini-spikes surrounding stellar-mass black holes.",
+      "score": 85,
+      "reason": "🕳️ 恒星質量 BH まわりの DM mini-spike で IDM パラメタ空間を Fermi-LAT 制限!Higgs portal 系 DM 探索の新角度 ⚡✨",
+      "summary": "🎯 BH 重力圧縮で DM 密度増大、γ線フラックスで IDM 質量・カップリングを制約。BH 系プローブとして補完的 🌌"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "total_fetched": 139,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.06907",
+      "title": "A collider as a quantum computer",
+      "authors": [
+        "Wei Xie",
+        "Ji-Chong Yang"
+      ],
+      "categories": [
+        "hep-ph",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.06907",
+      "abstract": "Scattering processes are inherently quantum mechanical. We reformulate scattering at the level of the process itself by representing helicity transition matrices as quantum circuits.",
+      "score": 90,
+      "reason": "🎯 collider 散乱を helicity 遷移の量子回路として再定式化!S 行列を波束 + 量子情報視点で再構成する道筋として刺さる ✨",
+      "summary": "🔄 運動学固定後の遷移行列を有限次元量子写像に reduce、回路表現で entanglement を過程レベルから扱う 🌐"
+    },
+    {
+      "arxiv_id": "2605.06774",
+      "title": "Finite-time memory detectors and fully constraining Faddeev-Kulish dressings in QED and gravity",
+      "authors": [
+        "Brett Oertel"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.06774",
+      "abstract": "Finite-time Faddeev-Kulish dressings can be fully constrained by symmetry, recovering classical memory effects. Finite-time Fock spaces and memory detectors are constructed.",
+      "score": 87,
+      "reason": "⏳ 有限時間 FK 衣 + memory detector!漸近状態を有限時間版に置換する波束-S行列議論と地続き ✨",
+      "summary": "🌐 対称性で衣選択を一意化、有限時間 Fock 空間で gravitational memory + Christodoulou 高次寄与を再構成 💫"
+    },
+    {
+      "arxiv_id": "2605.07281",
+      "title": "Scalable Liquid-Crystal Integrated Silicon Nitride Photonic Circuits for Reconfigurable Quantum Interference",
+      "authors": [
+        "Chunghyun Ahn",
+        "Yongjin Hwang",
+        "Sangbaek Lee",
+        "Jinil Lee",
+        "Hyunjin Ko"
+      ],
+      "categories": [
+        "physics.optics",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.07281",
+      "abstract": "We demonstrate liquid-crystal integrated silicon nitride photonic circuits for low-power reconfigurable quantum interference experiments.",
+      "score": 86,
+      "reason": "💎 LC + SiN で低消費電力な再構成可能量子干渉プラットフォーム。SPDC 干渉実験の実装側として注目 ✨",
+      "summary": "🔬 LC の大きな屈折率変化と SiN の低損失を組合せ、低電圧で位相変調。集積光量子回路の現実的選択肢 🎵"
+    },
+    {
+      "arxiv_id": "2605.08056",
+      "title": "An Exactly Solvable Absorbing Quantum Walk",
+      "authors": [
+        "Francisco Riberi"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.08056",
+      "abstract": "We solve from first principles a continuous-time quantum walk with absorption from a Lindblad boundary sink, obtaining the exact propagator and first-passage statistics.",
+      "score": 85,
+      "reason": "⏰ 吸収境界 (Lindblad sink) 入りの量子歩行を厳密解!非エルミート吸収モデル + first-passage の良い教科書例 ✨",
+      "summary": "🚪 sink トレースで rank-1 純虚 defect な非エルミート tight-binding に。弱結合-強散逸両極限で挙動を解析 💫"
+    },
+    {
+      "arxiv_id": "2605.07033",
+      "title": "Analytic $C_{\\ell_1}$ norm of Coherence Evolution for Bell States under a Two-Qubit Superconducting Hamiltonian",
+      "authors": [
+        "Seyed Mohsen Moosavi Khansari"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.07033",
+      "abstract": "We derive the exact analytic time evolution and C_{l1} norm of coherence for Bell states under a two-qubit superconducting Hamiltonian.",
+      "score": 85,
+      "reason": "🎼 Bell 状態の C_{l1} コヒーレンスを解析的に完全に追跡。2 光子干渉の量子情報量化のひな型として参考 ✨",
+      "summary": "📐 2 つの Bell 状態は不変、残り 2 つは可調 dynamics。time-dependent density matrix の閉形式表現を提供 💫"
+    }
+  ]
+}

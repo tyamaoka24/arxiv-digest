@@ -1,0 +1,89 @@
+{
+  "total_fetched": 265,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.09854",
+      "title": "Time-of-flight force sensing below the quantum zero-point fluctuation",
+      "authors": [
+        "Sotatsu Otabe",
+        "Mitsuyoshi Kamba",
+        "Yuto Kojima",
+        "Kiyotaka Aikawa"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2605.09854",
+      "abstract": "Sensing weak forces through observing a mechanical motion near or below its quantum zero-point fluctuation has been desired in diverse areas. While mechanical oscillators have played a crucial role in such studies, their application to free-fall-type sensing has been elusive, in particular in the quantum regime. Here, we demonstrate sensing a static force of the order of 10 zeptonewtons with a levitated nanomechanical oscillator below the zero-point fluctuation through the rapid modulation of its confining potential. We prepare a squeezed state with a reduced velocity uncertainty by abruptly decreasing the potential. Subsequently, we detect the exerted static force through time-of-flight measurements, where we release the nanoparticle from the potential and measure the displacement during a free fall. Furthermore, time-of-flight measurements allow us to perform quantum state tomography of the squeezed state, from which we reconstruct its Wigner quasiprobability distribution and evaluate the Fisher information for the position measurement to quantify the achievable force sensitivity of our protocol. Our results demonstrate that modulating the trap stiffness serves as a crucial technique for quantum-limited force sensing and paves the way to utilize a levitated nanoparticle as a promising sensing platform beyond the quantum limit with a capability of quantum state tomography.",
+      "score": 95,
+      "reason": "⏱️levitated粒子+スクィーズで自由落下力センシング、波束/squeezed coherent/到着時間ど真ん中🎯",
+      "summary": "🌀confining potentialの急速変調でvelocity uncertainty縮減のsqueezed状態を準備、ゼロ点揺らぎ以下で10 zeptoN静的力を検出"
+    },
+    {
+      "arxiv_id": "2605.08428",
+      "title": "Bipartite temporal Bell inequality for squeezed coherent state of inflationary perturbations",
+      "authors": [
+        "Aurindam Mondal"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.08428",
+      "abstract": "We investigate the role of the bipartite temporal Bell inequality, an analogue of the spatial Bell inequality, in probing the quantum imprints of primordial perturbations when the initially chosen Bunch-Davies vacuum is replaced by a coherent state. Although it is based on the same principles of locality and realism, its primary advantage lies in the fact that it does not require two distinct set of observable for its construction. Instead, measurements performed on a single component of the pseudo-spin operator at different times are sufficient. Consequently, it is particularly well suited for cosmological scenarios, where observational constraints typically allow access to only one component of the pseudo-spin operator. Assuming a coherent state as the initial condition, we derive an analytical expression for the expectation value of the bipartite temporal Bell operator and demonstrate the absence of temporal Bell violation in such a scenario. Interestingly, the results for squeezed coherent state is found to differ - albeit slightly - from those of squeezed vacuum state for large values of the squeezing parameter. This suggests that the ability to distinguish among different initial states of primordial perturbations does not rely on the violation of temporal Bell inequality. Furthermore, the dependence of the temporal Bell inequality on a purely imaginary phase factor of the wave function appears to be an unique feature, which is entirely absent in the context of spatial Bell inequalities.",
+      "score": 92,
+      "reason": "🌠squeezed coherent state×Bell不等式、単一観測量で時間Bell構築 — 波束/時間-エネルギー直撃🎯",
+      "summary": "🌌Bunch-Davies真空をcoherent stateに置換、pseudo-spinの異なる時刻測定で時間Bell不等式を実装"
+    },
+    {
+      "arxiv_id": "2605.09014",
+      "title": "Resource theory of coherence in continuous position basis from measurement-induced dephasing",
+      "authors": [
+        "Karol Sajnok",
+        "Fabio Costa"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2605.09014",
+      "abstract": "We develop a resource-theoretic framework for quantum coherence directly in continuous basis, with emphasis on the position representation. Since position eigenstates are non-normalizable generalized eigenstates, the standard finite-dimensional dephasing map cannot be transferred directly to normal states. We therefore introduce a physically motivated dephasing channel based on random momentum kicks, equivalently described as the unconditional back-action of a finite-resolution position measurement. This yields a fixed-point notion of incoherence and a natural class of dephasing-covariant free operations. For physically relevant kernels, however, the fixed-point set contains no normal states, showing that continuous-basis coherence is tied to dephasing disturbance rather than to distance from a nonempty set of diagonal states. We study two quantifiers built from the channel action: a relative-entropy dephasing loss and a Hilbert-Schmidt dephasing loss. The former satisfies the main resource-theoretic properties under the free operations considered, while the latter is convex and experimentally transparent but fails monotonicity and strong monotonicity. We also formulate threshold witnesses for certifying coherence above a finite value and connect them, in a two-path setting, with interference visibility. Finally, we illustrate the framework with a Gaussian wavepacket evolving in a gravitational potential. The resulting theory provides a mathematically consistent and physically motivated treatment of coherence in continuous-variable systems.",
+      "score": 88,
+      "reason": "📐連続位置基底のcoherence resource理論、運動量kickによるdephasing — 波束的測定論ど真ん中",
+      "summary": "🎯非規格化な位置固有状態に対しランダム運動量kick(有限分解能位置測定の反作用)でdephasing channelを構築、incoherence不動点を定義"
+    },
+    {
+      "arxiv_id": "2605.08375",
+      "title": "The extended Wigner's friend, many- and single-worlds and reasoning from observation",
+      "authors": [
+        "Andrew Steane"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.08375",
+      "abstract": "The concept of an isolated system, and Frauchiger and Renner's extended `Wigner's friend' scenario are discussed. It is argued that: (i) it is questionable whether the approximation of the isolated system is valid when measurement-like processes are involved; (ii) one may infer, from Frauchiger and Renner's thought-experiment, and similar thought-experiments, that any interpretation of quantum theory involving *subjective collapse* fails; (iii) this does not distinguish single-world from many-world (relative-state) interpretations of quantum theory; (iv) reasoning from observations has to take into account the possible quantum-erasure of those observations if it is to be valid reasoning; (v) a single-world interpretation is valid if certain kinds of outcome are not quantum-erased in the future.",
+      "score": 87,
+      "reason": "🤔Frauchiger-Renner拡張Wigner's friendとmany/single-world、量子基礎の正面議論",
+      "summary": "🔍isolated system近似の妥当性、subjective collapse解釈の破綻、observation reasoningの取り扱いを多角的に整理"
+    },
+    {
+      "arxiv_id": "2605.09558",
+      "title": "Classical Limit: Dissipation of Spekkens' Generalised Contextuality under Decoherence",
+      "authors": [
+        "Enrico Bozzetto",
+        "Jonte R. Hance"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.hist-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.09558",
+      "abstract": "Contextuality is considered as one of the most distinctive features of nonclassical systems. Here we show that a Spekkens contextual system (nonclassical) under decoherence becomes noncontextual (classical) after a certain threshold. We show also that some quasiprobability representations are more effective than others in showing nonclassical features. This will help us understand the relationship between decoherence, Spekkens' generalised contextuality, and quantum advantage from universality for quantum computation.",
+      "score": 85,
+      "reason": "🌫️Spekkens一般化文脈性がdecoherence下で消失する閾値を解析、基礎+測定論⚡",
+      "summary": "📊quasiprobability表現の効果差を比較、Spekkens非文脈性への遷移を通じてdecoherenceと量子優位の関係を考察"
+    }
+  ]
+}

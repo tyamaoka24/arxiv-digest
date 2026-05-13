@@ -1,0 +1,128 @@
+{
+  "total_fetched": 265,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.09571",
+      "title": "Einstein-Cartan pseudoscalaron inflation, reheating and nonthermal leptogenesis",
+      "authors": [
+        "Carlo Di Benedetto",
+        "Alessandro Di Marco",
+        "Emanuele Orazi",
+        "Gianfranco Pradisi"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.09571",
+      "abstract": "We study the postinflationary dynamics of an Einstein-Cartan-Holst gravity-motivated inflationary scenario, known as Einstein-Cartan pseudoscalaron inflation, coupled to a type-I seesaw extension of the Standard Model with three heavy right-handed Majorana neutrinos. In particular, we show that nonthermal leptogenesis emerges as a necessary and self-consistent mechanism for generating the observed baryon asymmetry of the Universe, mainly because of the universal coupling of the inflaton to the additional heavy Majorana fermions. The resulting framework provides theoretical predictions that are fully compatible with the latest cosmological constraints from the Cosmic Microwave Background, Baryon Acoustic Oscillations, and Big Bang Nucleosynthesis, as well as with neutrino oscillation experiments, for a wide range of the fundamental Barbero-Immirzi model parameter $\\gamma$, which controls the inflationary and postinflationary phases. In particular, for $\\gamma \\sim -1/100$ and a lightest Majorana-neutrino mass of order $10^{13}$ GeV, we find a scalar spectral index $n_s \\sim 0.970$, a tensor-to-scalar ratio $r \\sim 0.004$, for a number of e-folds before the end of inflation $N_e \\lesssim 60$, and a baryon-to-entropy ratio $n_B/s \\sim 8.7 \\times 10^{-11}$.",
+      "score": 95,
+      "reason": "🎯Einstein-Cartanインフレーション×reheating×非熱的レプトジェネシス、コアテーマど真ん中!🔥",
+      "summary": "✨Einstein-Cartan-Holst重力動機のpseudoscalaronインフレーション+type-I seesawで非熱的レプトジェネシスを自然に実現🌌"
+    },
+    {
+      "arxiv_id": "2605.08428",
+      "title": "Bipartite temporal Bell inequality for squeezed coherent state of inflationary perturbations",
+      "authors": [
+        "Aurindam Mondal"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.08428",
+      "abstract": "We investigate the role of the bipartite temporal Bell inequality, an analogue of the spatial Bell inequality, in probing the quantum imprints of primordial perturbations when the initially chosen Bunch-Davies vacuum is replaced by a coherent state. Although it is based on the same principles of locality and realism, its primary advantage lies in the fact that it does not require two distinct set of observable for its construction. Instead, measurements performed on a single component of the pseudo-spin operator at different times are sufficient. Consequently, it is particularly well suited for cosmological scenarios, where observational constraints typically allow access to only one component of the pseudo-spin operator. Assuming a coherent state as the initial condition, we derive an analytical expression for the expectation value of the bipartite temporal Bell operator and demonstrate the absence of temporal Bell violation in such a scenario. Interestingly, the results for squeezed coherent state is found to differ - albeit slightly - from those of squeezed vacuum state for large values of the squeezing parameter. This suggests that the ability to distinguish among different initial states of primordial perturbations does not rely on the violation of temporal Bell inequality. Furthermore, the dependence of the temporal Bell inequality on a purely imaginary phase factor of the wave function appears to be an unique feature, which is entirely absent in the context of spatial Bell inequalities.",
+      "score": 92,
+      "reason": "🎯squeezed coherent stateでインフレ揺らぎのBell不等式、波束×宇宙論×量子基礎の三冠⭐",
+      "summary": "🌠Bunch-Davies真空をcoherent stateに置き換え、単一観測量で時間Bell不等式を構築。波束基礎研究と相性◎"
+    },
+    {
+      "arxiv_id": "2605.10338",
+      "title": "Fifth-Force Constraints from UV-Complete Scalar-Tensor Gravity",
+      "authors": [
+        "Alfio M. Bonanno",
+        "Emiliano M. Glaviano"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.10338",
+      "abstract": "We study an $O(N)$ scalar multiplet nonminimally coupled to gravity and follow its renormalization-group (RG) flow in the vicinity of an interacting, nonperturbatively UV-complete scaling regime of scalar-tensor theory. In the broken phase, the radial mode mediates a universal Yukawa correction to Newtonian gravity, parametrized by a strength $\\alpha$ and range $\\lambda$. Imposing UV completeness -- regular RG trajectories that reach the UV scaling regime -- restricts the infrared data to a finite wedge, which maps to a narrow region in the $(\\alpha,\\lambda)$ plane. Its complement is, therefore, ruled out by UV completeness alone. Remarkably, part of this theory-excluded domain lies below current experimental exclusion envelopes, so improved fifth-force searches can directly test and potentially falsify this class of UV-complete scalar-tensor models.",
+      "score": 88,
+      "reason": "🎯O(N)スカラー多重項×UV完備scalar-tensor重力でYukawa第五力制約、Higgs inflation周辺🚀",
+      "summary": "✨非摂動UV scalar-tensor理論のRG flowを追い、Newton重力Yukawa補正(α,λ)を制約。第五力探索と直結"
+    },
+    {
+      "arxiv_id": "2605.09979",
+      "title": "Higgs-Portal Spin-1 Dark Matter with Parity-Violating Interaction for a Galactic Halo Gamma Ray Excess",
+      "authors": [
+        "Kimiko Yamashita"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.09979",
+      "abstract": "We study a dark photon dark matter scenario associated with a gauged $U(1)_X$ symmetry, stabilized by a dark parity that forbids kinetic mixing with the Standard Model. The leading interactions between the dark photon dark matter and the Standard Model arise from dimension-six Higgs-portal operators. In previous work, we found that for the parity-violating operator, the dark matter annihilation process is $p$-wave suppressed, naturally evading stringent direct-detection constraints while reproducing the observed relic abundance through thermal freeze-out. For a cutoff scale of 1 TeV, a dark matter mass of around 400 GeV is favored to realize the observed relic abundance. This scenario predicts cosmic-ray signals, in particular in the $W^{+}W^{-}$ channel, which can be targeted by indirect-detection experiments. Recently, a halo-like gamma-ray excess has been reported by Totani. Assuming a Navarro--Frenk--White $-\\rho^2$ morphology for the dark matter distribution, a dark matter mass of 420 GeV is favored for the $W^{+}W^{-}$ final state. Motivated by this excess, we consider the present dark photon dark matter framework augmented by a CP-even scalar mediator with a mass of around 400 MeV, which couples to the dark photon mass operator in order to enhance the present-day annihilation rate in the Galactic halo without affecting the freeze-out dynamics. The exchange of this scalar induces a long-range attractive force, leading to Sommerfeld enhancement of the annihilation rate. The enhancement is saturating in dwarf spheroidal galaxies and the annihilation rate is dropping as $p$-wave remaining consistent with constraints from dwarf galaxies and cosmology.",
+      "score": 87,
+      "reason": "🌌Higgs-portal spin-1ダークマター+pワ抑制で銀河γ線過剰を説明、ポータルDM直撃!🎯",
+      "summary": "🔥dark photon DM×U(1)_X+dim-6 Higgs-portalでparity-violating相互作用、直接検出を回避しつつrelicと銀河γ線過剰を両立"
+    },
+    {
+      "arxiv_id": "2605.09686",
+      "title": "Asymmetric Reheating of Dark QED",
+      "authors": [
+        "Simon Cl'ery",
+        "Jean Kimus",
+        "Michel H. G. Tytgat"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.09686",
+      "abstract": "We study in detail a scenario in which the inflaton scalar field couples to both a visible sector (VS) and a hidden sector (HS). The VS is assumed to contain the Standard Model (SM), while the HS contains a dark matter (DM) candidate. We are in particular interested in a scenario in which the inflaton decays dominantly into the HS degrees of freedom. The DM candidate is taken to be a dark Dirac fermion $\\chi$, coupled to a massive dark photon $\\gamma'$, a popular model for a HS also known as Dark QED. The inflaton decays into particles of both sectors generate an initial asymmetry between the SM and HS fermion abundances, which we model as being proportional to the ratio of effective Yukawa couplings, $y$ and $y'$. We pay particular attention to the process of thermalisation of the HS, with temperature $T'$, as a function of $y'$ and $\\alpha'$, the HS fine structure constant. We investigate the several possible ways of producing the observed DM relic abundance, and their interplay with the reheating of the HS and the transfer of energy between the HS and the VS. Key results, beyond the systematic character of our analysis, include: a new mechanism for DM production, which occurs when DM particles annihilate while still being produced by the inflaton decay; a study of the temperature ratio $\\xi = T'/T$ and its relation with the initial energy asymmetry between the HS and VS, as parameterized by $\\xi_i = \\sqrt{y'/y}$; a reassessment of the domain of viable DM candidates, taking into account the constraints set by unitarity and the thermalisation of the HS, accounting for the LPM effect; and, in cases where the HS does not reach thermal equilibrium, an analysis of how non-thermal DM production fits within the domain of thermal DM candidates.",
+      "score": 86,
+      "reason": "🌟Dark QED+非対称reheatingでhidden sector DM、BSM現象論+宇宙論ど真ん中⚡",
+      "summary": "✨inflaton→visible+hidden両セクター崩壊、ダークDirac fermion+massive dark photon間で初期非対称を生成"
+    },
+    {
+      "arxiv_id": "2605.10699",
+      "title": "Distinguishing Higgs portal and neutralino dark matter via vector boson fusion",
+      "authors": [
+        "Amit Chakraborty",
+        "Tathagata Ghosh",
+        "Rafiqul Rahaman"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.10699",
+      "abstract": "Understanding the nature of dark matter (DM) is a fundamental challenge in particle physics. In this paper, we investigate the potential of vector boson fusion (VBF) processes at the Large Hadron Collider (LHC) to demonstrate, as a proof of principle, the feasibility of distinguishing between different dark matter scenarios, focusing on Higgs portal DM (HPDM) and neutralino DM in the $2j + \\not\\!\\! E_T$ final state and exploiting the distinctive kinematic features of the VBF jets and the missing transverse energy. Our study reveals that the polarization of weak bosons in VBF plays a crucial role in shaping the transverse momentum distributions of the tagged jets, with the jets being less energetic in the transverse direction for the Higgs portal scenario compared to the neutralino scenario. In addition, the kinematic variables $\\Delta\\eta$ and $\\Delta\\phi$ exhibit characteristic differences between the Higgs portal and neutralino DM signals, providing significant discriminating power between these scenarios. We further apply a Kolmogorov--Smirnov test using linear discriminant analysis to quantify the distinguishability of the signals and find that the Higgs portal signals can be differentiated from neutralino DM signals with a C.L. exceeding $5\\sigma$, thereby establishing the viability of collider-based discrimination between dark matter models.",
+      "score": 86,
+      "reason": "🎯Higgs portal DM vs neutralino DMをVBFで識別、LHC現象論+ポータルDM両側にヒット🔥",
+      "summary": "⚡LHCのVBF 2j+MET最終状態でweak bosonの偏極を活用、HPDMとneutralino DMを運動学で区別する手法"
+    },
+    {
+      "arxiv_id": "2605.10728",
+      "title": "Numerical Study of Some Generalizations of the Starobinsky Inflationary Model",
+      "authors": [
+        "Jordan Zambrano",
+        "'Angel Rodr'iguez",
+        "Melisa Alvear",
+        "Clara Rojas"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.10728",
+      "abstract": "In this work, we perform a numerical study of three Starobinsky--type inflationary scenarios: the $\\alpha$--Starobinsky inflationary model, the power--law Starobinsky inflationary model, and the power--law $\\alpha$--Starobinsky inflationary model. For an appropriate choice of parameters, each scenario reproduces the standard Starobinsky limit. For each case, we derive the relevant slow--roll expressions in order to compute numerically the scalar and tensor power spectra over the corresponding parameter space and evaluate the associated inflationary observables. Finally, we provide a comparative analysis in the $(n_\\sca,A_\\sca)$ and $(r,n_\\sca)$ parameter spaces using contour plots. Our results indicate that, for certain choices of parameters, the $\\alpha$--Starobinsky model and the power--law $\\alpha$--Starobinsky model are favored by \\textit{Planck} 2018 observations.",
+      "score": 85,
+      "reason": "🎯Starobinsky系インフレーション3種を数値解析、tensor-to-scalar比などの観測量も評価📊",
+      "summary": "🌌α-Starobinsky/power-law系3シナリオでslow-roll表式を導出、スカラー&テンソルパワースペクトラと観測量を比較"
+    }
+  ]
+}

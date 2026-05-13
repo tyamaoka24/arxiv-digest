@@ -1,0 +1,58 @@
+{
+  "total_fetched": 265,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.08337",
+      "title": "Entanglement Requirements for Coherent Enhancement in Detectors",
+      "authors": [
+        "Zachary Bogorad",
+        "Roni Harnik"
+      ],
+      "categories": [
+        "hep-ph",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.08337",
+      "abstract": "Coherent enhancement is a powerful mechanism for improving the sensitivity of a wide range of detectors, but its practical use is often limited by the difficulty of preparing the required quantum states. We show that this difficulty has a fundamental origin: coherent enhancement of a signal interacting with a detector is quantitatively constrained by entanglement. We prove general bounds on how the strength of coherent effects can scale with system size, as a function of the single-mode entanglement entropy of the detector. These bounds smoothly interpolate between the incoherent and fully coherent regimes, and apply both to parameter-estimation problems and to scattering processes. We discuss these results from two complementary perspectives: First, they appear as bounds on the quantum Fisher information of many-body states, which translate directly into limits on parameter sensitivity via the quantum Cram\\'er-Rao bound. Second, they can be interpreted as limits on a class of scattering cross sections, leading to predictions for how minimum detectable interaction strengths scale with target size. Together, these results provide a unified view of coherent enhancement in metrology and scattering experiments, and motivate the development of new techniques for generating entangled detector states.",
+      "score": 88,
+      "reason": "🎯coherent enhancement×検出器のentanglement制約、波束的測定論ど真ん中で必読⚡",
+      "summary": "🌀検出器のcoherent enhancementがsingle-mode entanglement entropyに量的に拘束されることを証明、無相関〜完全相関を補間"
+    },
+    {
+      "arxiv_id": "2605.09682",
+      "title": "Spin-flavor entanglement in $\\Lambda_b \\to \\Lambda D$ and weak phase extraction",
+      "authors": [
+        "Yong Du",
+        "Chao-Qiang Geng",
+        "Xiao-Gang He",
+        "Chia-Wei Liu",
+        "Sheng-Lin Liu",
+        "Xin-Yi Liu"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2605.09682",
+      "abstract": "We identify a new spin-flavor entanglement structure in $\\Lambda_b\\to\\Lambda D$ decays, formed by the correlation between the $\\Lambda$ spin and the $D$ flavor states ($D=D^0,\\overline D^0,D_1,D_2$). The entanglement information is encoded in the decay rates and Lee-Yang parameters of the four neutral-$D$ modes. We then show that the same spin-flavor structure provides a new method to determine the weak phase $\\gamma$, a key angle of the Cabibbo-Kobayashi-Maskawa unitarity triangle. We find that the experimental uncertainty scales as $\\sigma_\\gamma\\propto 1/{\\cal C}$, where ${\\cal C}$ is the Wootters concurrence, thereby quantitatively relating the precision of the weak-phase extraction to the amount of spin-flavor entanglement.",
+      "score": 87,
+      "reason": "🎯Λb→ΛD崩壊のspin-flavor entanglement、粒子崩壊の量子もつれ+CKM γ抽出、QFT側に直撃",
+      "summary": "✨Λスピンと中性D mesonフレーバー(D0/D̄0/D1/D2)のentanglement構造を同定、Lee-Yangパラメータからγ位相も決定"
+    },
+    {
+      "arxiv_id": "2605.08428",
+      "title": "Bipartite temporal Bell inequality for squeezed coherent state of inflationary perturbations",
+      "authors": [
+        "Aurindam Mondal"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.08428",
+      "abstract": "We investigate the role of the bipartite temporal Bell inequality, an analogue of the spatial Bell inequality, in probing the quantum imprints of primordial perturbations when the initially chosen Bunch-Davies vacuum is replaced by a coherent state. Although it is based on the same principles of locality and realism, its primary advantage lies in the fact that it does not require two distinct set of observable for its construction. Instead, measurements performed on a single component of the pseudo-spin operator at different times are sufficient. Consequently, it is particularly well suited for cosmological scenarios, where observational constraints typically allow access to only one component of the pseudo-spin operator. Assuming a coherent state as the initial condition, we derive an analytical expression for the expectation value of the bipartite temporal Bell operator and demonstrate the absence of temporal Bell violation in such a scenario. Interestingly, the results for squeezed coherent state is found to differ - albeit slightly - from those of squeezed vacuum state for large values of the squeezing parameter. This suggests that the ability to distinguish among different initial states of primordial perturbations does not rely on the violation of temporal Bell inequality. Furthermore, the dependence of the temporal Bell inequality on a purely imaginary phase factor of the wave function appears to be an unique feature, which is entirely absent in the context of spatial Bell inequalities.",
+      "score": 86,
+      "reason": "🌠squeezed coherent stateを使った時間Bell不等式、波束/squeezed基礎研究と直結🎯",
+      "summary": "🌌Bunch-Davies真空をcoherent stateに置換、pseudo-spinの異なる時刻測定で時間Bell不等式を構築"
+    }
+  ]
+}

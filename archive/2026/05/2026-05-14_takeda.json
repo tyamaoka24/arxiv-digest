@@ -1,0 +1,58 @@
+{
+  "total_fetched": 202,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.10972",
+      "title": "Tripartite Entanglement as a Probe of Neutrino Mass Hierarchy, CP Violation, and Non-Standard Interactions",
+      "authors": [
+        "Hridya Harish Nambiar",
+        "Bipin Singh Koranga"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.10972",
+      "abstract": "We investigate global tripartite quantum entanglement in three-flavor neutrino oscillations as a tool for probing the neutrino mass hierarchy and CP violation. Using the linear entropy formalism, we compute the global entanglement entropy for an initial electron neutrino state as a function of L/E, comparing Normal Ordering (NO) and Inverted Ordering (IO) across CP phases 0, 90, 120 and 180, in vacuum and in constant-density matter rho = 2.8g/cm^3, L = 1300km). We define the hierarchy sensitivity diagnostic dell S and show that MSW matter effects amplify dell S by roughly a factor of two relative to vacuum, with peak sensitivity at L/E approx 655km/GeV (approx 2GeV at the DUNE baseline). For antineutrinos the diagnostic is near-perfectly antisymmetric to the neutrino case at the MSW resonance, with deviations directly encoding dell CP. ANnother diagonostic defined here separates the matter hierarchy signal from the CP asymmetry signal in the tripartite entanglement. For non-standard interactions (NSI) parameterized by epsilon_{ee}, we find Dell S{max} is approx 0.113 + 0.105epsilon_{ee}, a linear and CP-phase-independent relation. The optimal L/E for hierarchy discrimination is stable at approx 655km/GeV for all epsilon_{ee}less than or equal to 0.2, providing a robust, NSI-independent energy recommendation for DUNE.",
+      "score": 88,
+      "reason": "プロフィール直球!ニュートリノ振動を量子干渉現象として扱う系で、tripartite エンタングルメントで質量階層 & CP 位相を探るアプローチが面白い ✨",
+      "summary": "線形エントロピー形式で 3 フレーバー振動のエンタングルメントを計算、MSW 物質効果で識別感度が約 2 倍に増幅、DUNE L/E ≈ 655 km/GeV で最大化 🔬"
+    },
+    {
+      "arxiv_id": "2605.11323",
+      "title": "Characterizing quantum correlations and quantum teleportation in $gg \\to t\\bar{t}$ and $q\\bar{q} \\to t\\bar{t}$ processes under noisy channels",
+      "authors": [
+        "Elhabib Jaloum",
+        "Omar Bachain",
+        "Mohamed Amazioug",
+        "Nazek Alessa",
+        "Rachid Ahl Laamara",
+        "R. T. Matoog",
+        "Abdel-Haleem Abdel-Aty"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.11323",
+      "abstract": "The measurement of top-quark spin correlations provides a key tool for probing its interactions with high precision. Owing to its extremely short lifetime ($\\tau \\sim 10^{-25}$ s), the top quark preserves its spin polarization information, making the $t\\bar{t}$ system an ideal framework for investigating quantum correlations in high-energy physics. In this work, we analyze quantum correlations in $t\\bar{t}$ pairs produced in QCD using several quantum information-theoretic measures, including Bell nonlocality, quantum steering, concurrence, and geometric quantum discord. Their dependence on kinematic variables is examined in both the $gg \\to t\\bar{t}$ and $q\\bar{q} \\to t\\bar{t}$ channels, with convergence toward the $gg \\to t\\bar{t}$ dominated regime in the ultra-relativistic limit ($\\beta = 1$). We also investigate the effect of three effective decoherence channels (AD, PD, and PF). The AD and PD channels lead to a monotonic degradation of correlations as the decoherence parameter $p$ increases, while the PF channel exhibits a symmetric behavior around $p=1/2$. The impact of these channels on quantum teleportation is analyzed, showing that it remains above the classical threshold of $2/3$ even in the presence of noise. These results indicate that certain quantum resources can persist despite decoherence, opening new perspectives at the interface of quantum information and particle physics.",
+      "score": 87,
+      "reason": "コライダーでの Bell test + スピン相関 + ノイズ下のデコヒーレンス、 profile の QFT × エンタングルメントど真ん中 ✨",
+      "summary": "gg→tt̄ / qq̄→tt̄ で Bell 非局所性・量子ステアリング・concurrence・量子テレポーテーション忠実度を脱分極/振幅減衰下で運動学依存解析 🔬"
+    },
+    {
+      "arxiv_id": "2605.12033",
+      "title": "Quantumness of top quark pairs produced at LHC within SMEFT framework",
+      "authors": [
+        "Amir Subba",
+        "Yu Shi"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.12033",
+      "abstract": "Top and anti-top quark pair production at LHC provides a unique setting to probe non-classical correlations at the TeV scale. We study quantum information (QI) properties of the $t\\bar{t}$ spin state in $pp$ collisions at $\\sqrt{s}=13$ TeV within the Standard Model Effective Field Theory (SMEFT), focusing on dimension-6 operators that induce anomalous chromo- and weak dipole moments of the top quark within their current experimental bounds. The $t\\bar{t}$ spin density matrix is reconstructed from the joint angular distribution of the final state charged leptons in the $k$-$r$-$n$ helicity basis. We analyze three complementary QI quantities: concurrence-based quantum entanglement (QE), geometric quantum discord (GQD), and the Bell parameter,across four $t\\bar{t}$ invariant-mass bins. Within the Standard Model (SM), non-vanishing QE appears only near threshold ($m_{t\\bar{t}}\\lesssim 400$ GeV), while GQD remains nonzero across the full phase space, indicating persistent non-classical correlations even for separable states. Anomalous chromo-dipole interactions modify these observables primarily near threshold: $\\hat{\\mu}_t$ induces asymmetric shifts, whereas $\\hat{d}_t$ produces a mild symmetric response without Bell inequality violation. Among weak dipole operators, the CP-even coupling $C_2^V$ generates the largest deformation of the QI observables, while $\\Delta C_1^{A,V}$ leave them unchanged. These results demonstrate that QI observables derived from the $t\\bar{t}$ spin density matrix provide a complementary probe of anomalous top-quark interactions with distinct sensitivity to CP-even and CP-odd operator structures.",
+      "score": 85,
+      "reason": "top クォーク対のスピン相関で量子情報量を測る LHC 系列の続き、SMEFT 演算子で新物理感度を見るのが面白い 🎯",
+      "summary": "pp→tt̄ @13TeV、dim-6 色・弱双極子モーメントで concurrence・幾何 discord 等の QI 指標が SM 値からどう動くか LHC 実測の角度分布で再構成"
+    }
+  ]
+}

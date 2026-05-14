@@ -1,0 +1,184 @@
+{
+  "total_fetched": 202,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.11062",
+      "title": "Neutrino mixing and gravitational production via inflation",
+      "authors": [
+        "Oleg Lebedev",
+        "Jong-Hyun Yoon"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.11062",
+      "abstract": "We develop the Bogolyubov coefficient formalism for gravitational production of fermions with time-dependent mixing, which allows us to study a prototype neutrino system. The neutrino masses and mixings depend on the scalar field values, i.e. the Higgs or singlet scalar expectation values. These are time-dependent in the Early Universe and, due to de Sitter fluctuations, can reach very large values during inflation. As a result, gravitational production of all types of neutrinos can be much enhanced. We obtain an upper bound on the abundance of active and sterile neutrinos produced by classical gravity, $Y \\lesssim 10^{-11}$.",
+      "score": 95,
+      "reason": "🎯Lebedev論文！重力生成+ニュートリノ+インフレ+Higgs/singletスカラーVEV依存の全部入り✨尾田の興味ど真ん中🌌💎",
+      "summary": "時間依存質量混合のBogolyubov係数で重力生成ニュートリノを計算。de Sitter揺らぎで生成増幅、Y≲10⁻¹¹を導出🌟⚡"
+    },
+    {
+      "arxiv_id": "2605.11065",
+      "title": "CMB Birefringence from Vacuum Interfaces",
+      "authors": [
+        "Nemanja Kaloper"
+      ],
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.11065",
+      "abstract": "Hints of cosmic microwave background polarization rotation ($\\Delta\\vartheta \\sim 10^{-3}$ rad) are commonly attributed to late-time dynamics of ultralight axions. We show that such ultralight degrees of freedom are not required. Polarization rotation naturally arises as a geometric interface phase acquired when photons cross interfaces between topologically distinct dark sector vacua. The effect is a discrete phase shift fixed by the normalization of a wall-supported electromagnetic Chern--Simons interaction and protected by an emergent $1$-form symmetry of the low energy effective theory. This mechanism reproduces the familiar adiabatic rotation induced by light axion domain walls, but persists for arbitrarily thin walls where the axion is heavy or absent. In this regime the rotation manifests as a Pancharatnam phase localized at vacuum interfaces, independent of redshift and photon frequency below a natural ultraviolet cutoff. Cosmic birefringence thus emerges as a probe of vacuum structure in the dark sector, rather than of light-field dynamics.",
+      "score": 92,
+      "reason": "Kaloper先生のCMB birefringence🔥軽い軸粒子なしで真空界面の幾何位相で偏光回転🌌全5カテゴリ縦断のヤバいやつ💫",
+      "summary": "ダーク真空界面のChern-Simonsで光がPancharatnam位相を獲得🎯redshift/振動数非依存の離散シフト、軸粒子DM代替シナリオ✨"
+    },
+    {
+      "arxiv_id": "2605.11078",
+      "title": "An ultra-broadband axion dark matter experiment",
+      "authors": [
+        "Angelo Esposito",
+        "Kin Chung Fong",
+        "Lam Hui"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2605.11078",
+      "abstract": "We propose a novel broadband strategy to search for axions by leveraging observables controlled by the axion field squared. We present a practical implementation of this concept for probing the axion--photon coupling. This is done by operating a dc SQUID at the flux sweet spot, where the voltage depends quadratically on the magnetic flux, and using lock-in modulation to evade low-frequency noise. The proposed setup is ultra-broadband, spanning over 15 orders of magnitude in axion mass, with further expansion of the mass range possible. The projected sensitivity is $|g_{a\\gamma\\gamma}| \\gtrsim 10^{-16} \\text{ GeV}^{-1}$, orders of magnitude better than current bounds, and largely independent of axion mass. We discuss the sources of systematic background and a nulling technique to reduce them to an acceptable level. We also discuss how our strategy could be adapted to probe the axion-fermion coupling, as well as to detect other dark matter candidates such as dark photons.",
+      "score": 90,
+      "reason": "Esposito&Lam Huiの超広帯域axion DM実験提案💡15桁の質量レンジ走査とかロマン爆発🌟g_aγγ~10⁻¹⁶ GeV⁻¹は強い⚡",
+      "summary": "dc SQUIDを磁束sweet spotで動かしaxion場の二乗を観測🎯非対称ロックインで低周波ノイズ回避、超広帯域でDP/axion-fermionも狙える✨"
+    },
+    {
+      "arxiv_id": "2605.12057",
+      "title": "Explicit Conditions for Diagnosing Tree-Level Unitarity",
+      "authors": [
+        "Jaehoon Jeong",
+        "Pyungwon Ko",
+        "Yu-Hui Zheng"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.12057",
+      "abstract": "We explicitly present all coupling conditions required for tree-level unitarity (tree unitarity) in theories with a finite number of massive and massless particles of spin up to 1. They allow us to diagnose tree unitarity of a system using only its particle content in the mass basis, without reconstructing the full Lagrangian. We show that all four-point amplitudes whose high-energy growth is canceled by tree unitarity conditions are on-shell constructible, thereby motivating the recursive construction of four-point amplitudes. By examining their high-energy growth, we derive tree unitarity conditions for four-point amplitudes. Imposing these conditions to simplify the Lagrangian structure, we use the St\\\"uckelberg formulation to derive the tree unitarity conditions arising from all higher-point amplitudes. We show that all tree unitarity conditions are fully captured up to five-point amplitudes, ensuring no necessity of examining higher-point ones. We apply our results to systematically examine tree unitarity conditions in the dark sector with a massive dark photon and dark matter particles of spin up to 1, and extract the essential features for mass generation in the massive dark photon case. In addition, we show that our results allow us to conclude that theories without scalars require an infinite tower of vectors and fermions for tree unitarity. Finally unitarity and related issues in the Higgs portal VDM are discussed in brief.",
+      "score": 88,
+      "reason": "tree unitarityをLagrangian再構成なしで質量基底だけで診断🎯Higgs portal VDMにも応用、BSM現象論的に超実用的💎⚡",
+      "summary": "スピン1以下の有限粒子系のtree unitarity条件を5点振幅まで完備に列挙🌟Stückelberg定式で高点振幅を解析、暗光子DMで具体例✨"
+    },
+    {
+      "arxiv_id": "2605.11068",
+      "title": "Towards the Realization of the Dark Dimension Scenario in Ho\\v{r}ava-Witten Theory",
+      "authors": [
+        "Ralph Blumenhagen",
+        "Antonia Paraskevopoulou"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.11068",
+      "abstract": "It has been suggested that Ho\\v{r}ava-Witten theory could provide a concrete realization of the Dark Dimension Scenario. In this context, the observable Standard Model sector is naturally localized in the micron-sized large dimension, which is the interval in the eleventh direction. Considering Calabi-Yau manifolds supporting generic vector bundles including also abelian factors, we point out that symmetric tadpole cancellation on the $E_8$ walls has the potential to ameliorate some of the issues of such a realization, including too fast proton decay. By taking not only the hierarchically small value of the dark energy but also the size of the Standard Model gauge couplings into account, one is driven to a special infinite distance limit, which is the Ho\\v{r}ava-Witten analogue of a limit recently at the focus of the M-theoretic Emergence Proposal. Extrapolating results obtained for BPS-saturated amplitudes, we speculate about the possibility of obtaining the moduli dependence of the scalar potential, the gauge couplings and the Planck scale by simple one-loop Schwinger integrals over towers of states.",
+      "score": 88,
+      "reason": "Dark Dimension ScenarioをHořava-Witten理論で実現🌌余剰次元×SM局在×Emergence Proposalのhep-th大盛りセット🎯💫",
+      "summary": "E_8ウォール上のtadpole消去で陽子崩壊問題を緩和🔥dark energy階層性とSMゲージ結合からM理論的無限距離極限に到達✨"
+    },
+    {
+      "arxiv_id": "2605.11332",
+      "title": "Reviving primordial black hole formation in slow first-order phase transitions",
+      "authors": [
+        "Wen-Yuan Ai",
+        "Ke-Pan Xie"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.11332",
+      "abstract": "Large curvature perturbations generated during slow first-order phase transitions are a promising source of primordial black holes. However, recent analyses suggested that the mechanism is ruled out once the density contrast and the formation threshold are evaluated in the same gauge. In this work, we show that this mechanism remains viable: after a supercooled transition, reheating can be sufficiently slow that the Universe enters an early matter-dominated era, during which even small overdensities grow and collapse into primordial black holes. An interesting feature of this scenario is that the black holes are produced with large spins.",
+      "score": 87,
+      "reason": "PBH formation from slow 1st-order PT復活劇🔥同一ゲージ問題を初期物質優勢期で迂回、しかも生成PBHは大スピン持ち⚡✨",
+      "summary": "過冷却PT後の遅いreheatingで初期matter-dominated期に入りδ_cがPBH崩壊閾値を超える🌟Higgs portal等PT scenarioに直結🎯"
+    },
+    {
+      "arxiv_id": "2605.11097",
+      "title": "Two-loop neutrino mass model with modular $S_4$ symmetry",
+      "authors": [
+        "A. E. C'arcamo Hern'andez",
+        "J. Echeverria-Puentes",
+        "Vishnudath K. N.",
+        "Sergey Kovalenko",
+        "Daniel Salinas-Arizmendi",
+        "Carlos A. Vaquera-Araujo"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.11097",
+      "abstract": "We propose a two-loop radiative neutrino mass model based on the modular $\\Gamma_4 \\simeq S_4$ flavour symmetry supplemented by a discrete $Z_3$ symmetry. After spontaneous modular symmetry breaking, a remnant $Z_2$ symmetry guarantees both the radiative origin of active neutrino masses and stabilizes dark matter candidates. The model successfully reproduces charged lepton masses and neutrino oscillation data for normal ordering. It also predicts observable rates for charged lepton flavour violation (LFV). Due to the singlet-doublet mixing the model provides a viable scalar dark matter candidate. A fermionic dark matter candidate, strongly linked to LFV, is also present. We identify parameter regions consistent with relic density, LFV constraints, and direct detection limits, providing testable benchmark configurations.",
+      "score": 87,
+      "reason": "modular S_4×Z_3でν質量2-loop生成＋scalar DM＋fermion DM＋LFV全部入り🌌BSM現象論の幕の内弁当🎯✨",
+      "summary": "残存Z_2でν質量radiative生成とDM安定化を同時実現💡normal orderingで荷電lepton質量と振動データを再現、relic abundance/直接検出制限も整合⚡"
+    },
+    {
+      "arxiv_id": "2605.11085",
+      "title": "A Quantum Gravitational Mechanism for Isotropization of de Sitter Cosmologies",
+      "authors": [
+        "Stephon Alexander",
+        "Bruno Alexandre",
+        "Daine L. Danielson",
+        "David N. Spergel"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.11085",
+      "abstract": "Today, the observable cosmos exhibits a remarkable degree of isotropy and plausibly began in a nearly isotropic initial state. The properties of the Lorentzian Chern-Simons-Kodama (CSK) functional can provide an understanding of this initial state. In gravity with a positive cosmological constant, the Chern-Simons-Kodama (CSK) wavefunctional is an exact, chiral solution of the quantum gravitational constraints. We suggest that the normalizability and other issues with this functional, if interpreted as a proper state of quantum gravity, instead suggest an embedding into a larger quantum gravitational completion, and recast the CSK functional as a gravitational sphaleron with observationally desirable properties. By perturbing around the dominant de Sitter saddle of the wavefunctional with appropriate quantum gravitational boundary conditions, we find that for a closed universe the system is dynamically driven to spatial isotropy, while all anisotropic modes acquire positive quadratic curvature and are Gaussian-suppressed. The decay of this sphaleron therefore proceeds along an isotropic channel, providing an intrinsic quantum-gravitational mechanism for dynamical isotropization. This isotropization effect is robust under the inclusion of a slow-roll inflaton, and no analogous isotropic sphaleron exists for spatially flat or hyperbolic geometries. Taken together, these results recast the Lorentzian CSK functional as a chiral sphaleron that naturally prepares an approximately isotropic de Sitter background for inflation. Beyond this phenomenological study, we further suggest that the CSK functional can be understood as a boundary functional for a class of anomaly-free objects, including a complexified generalization of the Hartle-Hawking state.",
+      "score": 86,
+      "reason": "CSK波動関数をsphaleronと再解釈してde Sitter等方化🌌量子重力起源の宇宙等方性、しかもインフレ前準備として機能💎⚡",
+      "summary": "Lorentzian Chern-Simons-Kodamaを大重力completionのboundary stateと見る🎯closed universeで異方mode抑制、anomaly-free Hartle-Hawking複素化🌟"
+    },
+    {
+      "arxiv_id": "2605.11890",
+      "title": "A cosmology-to-ringdown EFT consistency map for scalar-tensor gravity",
+      "authors": [
+        "Mushtaq Ahmad",
+        "M. Farasat Shamir"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.11890",
+      "abstract": "We construct an effective-field-theory bridge from late-time scalar-tensor cosmology to black-hole ringdown observables. Starting from a cosmology-conditioned EFT posterior, we lift Jordan-frame FLRW data through a finite covariant jet, transport the result to the arbitrary-background EFT for black-hole perturbations with a timelike scalar, and project it onto parity-resolved quasinormal-mode response kernels. The cosmological layer is a deterministic compressed likelihood built from BAO-like distances, growth summaries, low-redshift tensor-speed information, stability filters, and posterior samples for the ringdown pushforward. The detector layer uses Bayesian time-domain injections, one-, two-, and three-mode recovery models, analytic marginalization over linear sine/cosine amplitudes, remnant-calibration covariance products, and start-time variations. The transported posterior shows that FLRW tensor-speed deformations inherited from cosmology are driven far below ringdown detectability, whereas operators that vanish on homogeneous FLRW backgrounds can remain active in the anisotropic near zone of a black hole. For a literature-calibrated Hayward branch, we specify the prior measure, separate directly admissible points from a proxy continuation, and propagate both to detector-whitened consistency modes. The resulting framework turns cosmological viability into black-hole spectroscopy priors while keeping the strong-field completion explicit rather than assumed.",
+      "score": 86,
+      "reason": "scalar-tensor cosmologyからBH ringdownへのEFT橋渡し🌌晩期宇宙論×強重力場spectroscopyの繋ぎは尾田好み✨🎯",
+      "summary": "BAO/growth/tensor速度のEFT posteriorを準正規mode応答カーネルに転送💎FLRWで自明化する演算子もBH近接域では活性化⚡"
+    },
+    {
+      "arxiv_id": "2605.12246",
+      "title": "Toward Charge-Dependent Tests of the Equivalence Principle: A Phenomenological Parameter and an Unexplored Frontier",
+      "authors": [
+        "Renato Vieira dos Santos"
+      ],
+      "categories": [
+        "hep-ph",
+        "cond-mat.stat-mech",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.12246",
+      "abstract": "We introduce and define the phenomenological parameter $\\kappa$, defined by $\\Delta a/g = \\kappa \\, \\Delta(q/m)$, to quantify potential linear coupling between electric charge and gravitational acceleration. A synthesis of existing precision equivalence principle experiments yields the first quantitative estimate of the effective sensitivity to this coupling: $|\\kappa| < 2.1 \\times 10^{-4}~\\si{\\kilo\\gram\\per\\coulomb}$ at 95\\% confidence level. This constraint is approximately eleven orders of magnitude less stringent than corresponding bounds on composition-dependent violations, revealing that the electromagnetic axis remains a largely underexplored frontier in empirical gravity. We connect $\\kappa$ to established frameworks -- the Standard-Model Extension and the $TH\\epsilon\\mu$ formalism -- showing that it occupies a region of parameter space untouched by existing high-precision tests. An effective field theory analysis shows that dimension-six operators that couple curvature directly to the electromagnetic field strength are suppressed by the minuscule terrestrial spacetime curvature ($G_N \\rho_\\oplus \\sim 10^{-55}~\\text{GeV}^2$) and are therefore phenomenologically irrelevant. Consequently, a future measurement of $\\kappa$ at an accessible level would not probe minimal geometric couplings but would signal physics beyond minimal gravitational EFT, such as mediation by light scalar fields as in Einstein-Maxwell-Dilaton theory. We examine the Schiff-Barnhill effect, the primary systematic background for any such measurement, and show how it can be separated from a genuine signal. We outline the necessary experimental strategy, focused on maximizing charge-to-mass ratio differences, to transform this overlooked axis into a targeted probe for new physics.",
+      "score": 85,
+      "reason": "等価原理の電荷依存破れκ<2.1×10⁻⁴を導出🌟Einstein-Maxwell-Dilaton的light scalar mediatorの探査軸開拓✨⚡",
+      "summary": "Δa/g=κΔ(q/m)を定義しSME/THεμ枠組と接続💡曲率×電磁場dim-6演算子は地球曲率で抑制、Schiff-Barnhill背景の分離戦略提案🎯"
+    }
+  ]
+}

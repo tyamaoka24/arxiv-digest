@@ -1,0 +1,80 @@
+{
+  "total_fetched": 202,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.11065",
+      "title": "CMB Birefringence from Vacuum Interfaces",
+      "authors": [
+        "Nemanja Kaloper"
+      ],
+      "categories": [
+        "hep-th",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.11065",
+      "abstract": "Hints of cosmic microwave background polarization rotation ($\\Delta\\vartheta \\sim 10^{-3}$ rad) are commonly attributed to late-time dynamics of ultralight axions. We show that such ultralight degrees of freedom are not required. Polarization rotation naturally arises as a geometric interface phase acquired when photons cross interfaces between topologically distinct dark sector vacua. The effect is a discrete phase shift fixed by the normalization of a wall-supported electromagnetic Chern--Simons interaction and protected by an emergent $1$-form symmetry of the low energy effective theory. This mechanism reproduces the familiar adiabatic rotation induced by light axion domain walls, but persists for arbitrarily thin walls where the axion is heavy or absent. In this regime the rotation manifests as a Pancharatnam phase localized at vacuum interfaces, independent of redshift and photon frequency below a natural ultraviolet cutoff. Cosmic birefringence thus emerges as a probe of vacuum structure in the dark sector, rather than of light-field dynamics.",
+      "score": 93,
+      "reason": "コズミック・バイリフリンジェンスの起源、超軽量アクシオン抜きで説明できるって新機軸✨ LiteBIRD のメイン科学にド直球。",
+      "summary": "ダークセクター真空界面の幾何学的位相 (Pancharatnam) で CMB 偏光回転を生成。アクシオン場ダイナミクス不要、赤方偏移・周波数非依存の離散位相。"
+    },
+    {
+      "arxiv_id": "2605.12104",
+      "title": "Discriminating Planck Reionisation Histories with the kSZ Effect",
+      "authors": [
+        "M. Douspis",
+        "A. Gorce",
+        "S. Ili'c",
+        "L. McBride",
+        "M. Mu~noz-Echeverr'ia",
+        "E. Pointecouteau",
+        "L. Salvati",
+        "M. Tristram"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.12104",
+      "abstract": "The epoch of reionisation is a key phase in cosmic history, but its detailed evolution remains poorly constrained by current cosmic microwave background (CMB) observations. We investigate whether the kinetic Sunyaev--Zel'dovich (kSZ) effect can discriminate among reionisation histories consistent with current large-scale CMB constraints. Using histories derived from Planck data, we compute the corresponding kSZ angular power spectra within an analytical framework, separating late-time and patchy contributions and accounting for uncertainties in both the ionisation history, $x_e(z)$, and astrophysical parameters constrained by the LORELI II simulations. The allowed histories fall into two broad classes, `short' and `long' duration reionisation, yielding distinct kSZ signatures. Uncertainties from $x_e(z)$ and astrophysical parameters produce comparable amounts of dispersion, yet the two classes remain clearly separable, with variations within each class at the $\\sim$10\\% level. Current kSZ measurements ($\\sim$0--3 $\\mu$K$^2$) are not yet precise enough to distinguish between these scenarios, although they tend to favor a `short' reionisation. The kSZ effect thus provides a promising probe of reionisation beyond optical depth constraints. In particular, a measurement of the kSZ power spectrum at $\\ell \\sim 2000$ with $\\sim$0.4 $\\mu$K$^2$ sensitivity would discriminate between `short' and `long' reionisation scenarios.",
+      "score": 88,
+      "reason": "Planck と整合する再電離史を kSZ でさらに絞る話。LiteBIRD の reionization bump 戦略にそのまま効く🎯",
+      "summary": "大規模 CMB で許される再電離史を short/long の 2 クラスに分け、kSZ 角度パワースペクトルで識別可能性を評価。現状は short 寄りを示唆。"
+    },
+    {
+      "arxiv_id": "2605.12054",
+      "title": "Ultra-light axion constraints from Planck and ACT: the role of nonlinear modelling",
+      "authors": [
+        "Lauren Gaughan",
+        "Anne M. Green",
+        "Adam Moss"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.12054",
+      "abstract": "We study how constraints on the abundance of ultralight axions (ULAs) from cosmic microwave background (CMB) data depend on their nonlinear modelling. We focus on the axion mass range $10^{-25} \\leq m/\\rm{eV} \\leq 10^{-23}$, where the axion Jeans scale falls in the quasi-linear regime probed by CMB lensing, making constraints highly sensitive to the choice of nonlinear prescription. We show that the inferred constraints depend significantly on the choice of nonlinear model, which must therefore be treated carefully. Performing Markov Chain Monte Carlo (MCMC) analyses with \\Planck\\, 2018, ACT DR6 and DESI DR2 BAO data, we find naive nonlinear modelling of non-cold matter can produce an artificial preference for a subdominant ULA dark matter component with mass $m \\approx 10^{-24}\\,$eV. This arises from a lensing-like enhancement of the CMB power spectrum.",
+      "score": 86,
+      "reason": "超軽量アクシオン制限が非線形モデル次第でゴロッと変わる話。ALP 系の偏光関連制約と読み合わせると面白い👀",
+      "summary": "m ~ 10^-24 eV の ULA に対する Planck+ACT+DESI 解析。非線形プレスクリプションの選択で人為的に dark matter 成分の preference が出てしまう問題を指摘。"
+    },
+    {
+      "arxiv_id": "2605.11079",
+      "title": "New Isocurvature Constraints from JWST UV Luminosity Function",
+      "authors": [
+        "Raymond T. Co",
+        "Sai Chaitanya Tadepalli"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.11079",
+      "abstract": "We constrain uncorrelated primordial isocurvature perturbations using a combination of large- and small-scale cosmological probes, with the small-scale data provided by the ultraviolet luminosity function (UVLF) -- a measure of number density of galaxies as a function of UV brightness. We consider several isocurvature modes, including cold dark matter, baryon, neutrino density, neutrino velocity, and dark radiation perturbations. The isocurvature power spectrum is modeled using two independent parameterizations: a broken power law and a running power law, without fixing the spectral index a priori. Our analysis combines large-scale data from the Cosmic Microwave Background (CMB), baryon acoustic oscillations, and Type Ia supernovae with small-scale constraints from UVLF measurements obtained by \\textit{HST} and \\textit{JWST}. The UVLF probes matter fluctuations over a continuous range of intermediate scales, $k \\sim 0.5$--$10~\\mathrm{Mpc}^{-1}$ over a wide range of redshift $4\\lesssim z \\lesssim 13$, providing a direct handle on structure formation in a regime where constraints on the scale dependence of isocurvature perturbations remain comparatively limited. Our result represents the first UVLF-based constraint on model-agnostic isocurvature perturbations carried by various components. We construct $68\\%$ and $95\\%$ credible envelopes in $k$-space for the allowed isocurvature power and find good agreement between the envelopes for the $95\\%$ envelope across a wide range of scales, indicating that our constraints are mostly insensitive to the assumed power-law form.",
+      "score": 85,
+      "reason": "JWST UVLF で isocurvature 摂動に新制限。CMB + 小スケールの組合せで原始ゆらぎを攻める王道路線👍",
+      "summary": "CDM・バリオン・ニュートリノ・dark radiation の uncorrelated isocurvature を CMB+BAO+SN+UVLF で制約。k~0.5–10 Mpc^-1 を直接 probe。"
+    }
+  ]
+}

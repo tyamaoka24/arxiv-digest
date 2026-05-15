@@ -1,0 +1,37 @@
+{
+  "total_fetched": 84,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.13739",
+      "title": "Quantum selective measurement as a quasilinear evolution",
+      "authors": [
+        "Jakub Rembieli'nski",
+        "Karol Lawniczak"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.13739",
+      "abstract": "We propose replacing the instantaneous state reduction in von Neumann selective measurement with continuous nonlinear evolution. Despite its nonlinearity, this evolution preserves the equivalence of quantum ensembles and hence obeys the no-signaling principle. Its final states coincide with those produced by the von Neumann projection. The defining features of rank-one projective measurement are retained: convergence to the eigenstate of the observable associated with the selected outcome, independence of this final state from the initial state, and consistent action on entangled states.",
+      "score": 85,
+      "reason": "射影測定をvon Neumann reductionから連続的な準線形発展に置き換える提案。測定理論の基礎に直球で刺さる🎯",
+      "summary": "rank-1射影測定の瞬間的状態縮約を連続的な非線形発展で置換、no-signalingを保ちつつ最終状態は射影と一致する形式を構成。"
+    },
+    {
+      "arxiv_id": "2605.13756",
+      "title": "Quasilinear evolution versus von Neumann selective measurement",
+      "authors": [
+        "Jakub Rembieli'nski",
+        "Karol Lawniczak"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.13756",
+      "abstract": "In this article, we introduce a new form of quantum selective measurement in which the von Neumann projection postulate is replaced by quasilinear evolution, governed by a nonlinear generalization of the von Neumann equation. We demonstrate that this equation preserves the equivalence of quantum ensembles and, consequently, satisfies the no-signalling principle, ensuring consistency with both quantum mechanics and Einstein causality. Our approach eliminates the need for instantaneous, discontinuous state collapse and provides a unified description of the postmeasurement quantum state reduction as a form of quantum state evolution. Notably, it does not require invoking concepts such as the quantum state assigned to a classical apparatus. At the same time, the stochastic character of selective measurement and the Born rule remain unchanged. We present several numerical solutions of the evolution equation for quasilinear selective measurement in two-level quantum systems and compare them with the standard von Neumann projection. The results demonstrate agreement between the two measurement schemes in their fundamental properties. Furthermore, we investigate phenomena associated with the structural instability of the evolution equation and identify very narrow parameter regions in which the outcomes deviate from those predicted by the von Neumann projection. These regions may offer opportunities to test the proposed approach experimentally. Finally, using specific analytical solutions, we discuss the Stern-Gerlach experiment within the framework of quasilinear measurement.",
+      "score": 85,
+      "reason": "von Neumann公理を準線形発展で置き換える companion paper。Born則を保ちつつ非連続的collapseを排除する試み✨",
+      "summary": "von Neumann方程式の非線形一般化として選択測定を再定式化。Einstein因果律と整合、2準位系の数値解で従来射影と比較。"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "total_fetched": 106,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.13483",
+      "title": "Vectorial field reconstruction without detecting the field",
+      "authors": [
+        "Jonas Vasikonis",
+        "Sebastian T\"opfer",
+        "Satyajeet Patil",
+        "Jorge Fuenzalida",
+        "Markus Gr\"afe"
+      ],
+      "categories": [
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2605.13483",
+      "abstract": "Vector beams, whose polarization varies across the transverse profile, are a central resource in structured-light optics and quantum photonics. Their characterization, however, becomes challenging when the field lies in a spectral region for which efficient spatially resolving detectors are unavailable. Here we demonstrate the spatially resolved reconstruction of an undetected vector beam by exploiting induced coherence in a nonlinear interferometer. In this effect, indistinguishability between two down-conversion pathways allows information encoded in an undetected field to be read out through interference of its detected partner. A telecom-wavelength idler field acquires a spatially varying polarization transformation but is never directly detected. Instead, its local polarization information is inferred from single-photon interference in the visible signal field, enabled by momentum correlations of the photon pair. Using phase-shifting and off-axis quantum holography with two polarization projections, we reconstruct the horizontal and vertical amplitudes and their relative phase across the beam profile, thereby recovering the full vectorial structure of the undetected field. We experimentally retrieve the polarization texture of an $m=2$ vector beam and compare multi-shot and single-shot reconstruction strategies. Our results extend imaging with undetected light from scalar objects to vectorial optical fields and open a route to polarization-sensitive sensing and state reconstruction in spectral regions that are difficult to access directly.",
+      "score": 92,
+      "reason": "プロフィール直球!SPDC で生成した photon pair の運動量相関を使って、検出されない idler の偏光情報を signal 側の単一光子干渉で再構成 ✨",
+      "summary": "非線形干渉計の induced coherence + 量子ホログラフィで、検出器がない波長帯の vector beam を空間分解再構成。telecom idler を可視 signal 経由で読み出し 🔬"
+    },
+    {
+      "arxiv_id": "2605.13250",
+      "title": "Determining the Spin-Analyzing Powers via Invariants of the Spin Correlation Matrices and Probing the Bell Non-Locality at the Lepton Colliders",
+      "authors": [
+        "Dianwei Wang",
+        "Xiqing Hao",
+        "Liwei Liu",
+        "Lina Wu",
+        "Tianjun Li"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.13250",
+      "abstract": "We consider the two-fermion $F_a F_b$ productions and decays via one mediator exchange at the $e^+e^-$ collider. With the assumption that the spin is defined via the Lorentz symmetry, or considering the implicit symmetry in the spin density matrix, we prove that the trace ${\\rm Tr} [C]$ of the spin correlation matrix $C$ is an invariant quantity, and is invariant under basis rotations. Thus, for the exchanges of one mediator such as scalar and gauge boson, we can determine the product of the spin-analyzing powers for $F_a F_b$ via ${\\rm Tr} [C]$, and reconstruct the spin correlation matrix. With the CHSH-Horodecki criterion, we can probe the Bell non-locality, and evade the no-go theorem. To be concrete, we study the Bell non-locality for the $\\Lambda \\bar \\Lambda$ productions and decays at the BESIII experiment. In addition, the invariant ${\\rm Tr} [C]$ is a new physics observable to probe the new physics beyond the Standard Model (SM) and study the SM precision measurements. Moreover, for the scalar exchanges, we discuss the general invariants of the spin correlation matrices and the related phenomenological consequences.",
+      "score": 91,
+      "reason": "コライダーでの Bell test 直球!spin correlation matrix の Tr[C] が basis 不変量で、CHSH-Horodecki で no-go を回避できる枠組み 🎯",
+      "summary": "e+e- → F_a F_b でスピン解析能を Tr[C] から決定、Λbar Λ at BESIII で Bell 非局所性を検証、新物理プローブにも使える ⚡"
+    },
+    {
+      "arxiv_id": "2605.13677",
+      "title": "Decoherence of spatial superpositions along stationary worldlines",
+      "authors": [
+        "Clemens Jakubec",
+        "Aaron Bartleson",
+        "Peter W. Milonni",
+        "Kanu Sinha"
+      ],
+      "categories": [
+        "quant-ph",
+        "gr-qc",
+        "physics.atom-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.13677",
+      "abstract": "We analyze the decoherence of a particle's spatial superposition moving along a stationary worldline through the Minkowski vacuum. The particle is modeled via an internal degree of freedom that couples to a scalar field, and an external degree of freedom, i.e., its quantized center-of-mass motion around the stationary worldline. Assuming a separation of time scales between the particle's internal and external dynamics, we first obtain an effective red-shifted polarizability of the particle, characterizing the trajectory-dependent linear response of the internal oscillator to the field. We then derive a quantum Brownian motion master equation for the particle's center of mass, under the Born-Markov approximation, which describes its decoherence in the position basis, as well as, Hamiltonian modifications corresponding to a dispersive potential. The resulting decoherence has two components: (1) arising from a modified field spectrum observed by the particle; and (2) due to a differential time-dilation over the particle's extended spatial wavefunction. For stationary trajectories, both contributions take an effectively thermal form. We evaluate the decoherence rates for two specific cases of hyperbolic and uniform circular motion.",
+      "score": 87,
+      "reason": "波束の空間重ね合わせがスカラー場とカップルして decohere するモデル、Born-Markov で master eq 導出 ➡ measurement の波束 formalism と相性◎",
+      "summary": "Minkowski 真空中の stationary worldline で粒子内部 DOF + 重心運動の量子 Brownian eq を導出。場のスペクトル変化と時間遅延の 2 寄与 🌊"
+    },
+    {
+      "arxiv_id": "2605.13494",
+      "title": "Violations of the Leggett-Garg inequality in Hybrid Liouvillian Dynamics: The Nonlinear Role of Detector Efficiency",
+      "authors": [
+        "Sourav Paul",
+        "Parveen Kumar",
+        "Sourin Das"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.13494",
+      "abstract": "Violations of the Leggett-Garg inequality (LGI) up to its algebraic bound under non-Hermitian dynamics are well established theoretically. Here, we demonstrate that such extreme violations are intrinsically fragile when realistic measurement processes are taken into account. We consider an open two-level system described by a time-local hybrid Liouvillian, with a continuous parameter $q \\in [0,1]$, representing detector efficiency, i.e., the fraction of quantum jump trajectories that are retained in the ensemble. This parameter interpolates between trace-preserving Lindblad dynamics ($q=1$) and non-Hermitian ``no-jump\" evolution ($q=0$). While $K_3$ approaches its algebraic maximum of 3 in the null-efficiency limit, even an infinitesimal increase in detector efficiency induces a rapid, highly nonlinear suppression toward the classical bound. This logarithmic sensitivity reveals that maximal LGI violations are not robust physical features but rather singular limits of idealized measurement conditions. Our results have direct experimental implications: achieving algebraic LGI violations in systems undergoing continuous time evolution requires near-perfect suppression of detected quantum jumps (i.e., effective post-selection), placing stringent constraints on detector performance. In contrast to discrete protocols based on time-non-divisible dynamics, our framework shows that extreme violations arising within continuous, divisible quantum trajectory evolution constitute a fundamentally fragile regime.",
+      "score": 86,
+      "reason": "non-Hermitian dynamics での LGI 違反が detector efficiency に対して logarithmic に fragile、吸収/検出モデルの観点で面白い 🔍",
+      "summary": "open 2 準位系を hybrid Liouvillian で記述、jump 保持率 q を変化させて K_3 の代数的上限到達条件を解析。実験的含意も議論 💡"
+    },
+    {
+      "arxiv_id": "2605.13359",
+      "title": "Distribution of GHz sequential Time-bin Entanglement in a Metropolitan Fiber Network",
+      "authors": [
+        "Martin Achleitner",
+        "Alessandro Trenti",
+        "Philip Walther",
+        "Hannes H\"ubel"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.13359",
+      "abstract": "Efficient generation and high-quality distribution of entanglement is becoming increasingly more relevant in the field of quantum technologies, with important applications such as multiparty computation as well as quantum key distribution (QKD) on the rise. Quantum communication protocols based on entanglement offer an inherent quantum based randomness for key generation and provide in general higher security compared to prepare and measure implementations. Moreover, the future quantum internet will also be based on the distribution of entanglement for securely connecting quantum computers in a network.\n  In this work we show the feasibility of using sequential time-bin entangled states for quantum key distribution in metropolitan networks using off-the-shelf components. The time-bin encoding ensures high fidelity distribution robust against random polarisation fluctuations occuring in optical fibers. Modulated laser pulses in the GHz frequency range are used to generate time-bin entangled photon pairs. The entangled photons are then sent over an about 30km long (9.5dB loss) fiber link within the Vienna fiber network, showing high degree of distributed entanglement with a measured 93\\% quantum visibility.",
+      "score": 86,
+      "reason": "GHz time-bin entangled photon pair をメトロ網 30km で配布、polarization fluctuation に robust なエンコーディング ✨",
+      "summary": "変調レーザーパルスで生成した time-bin もつれを Vienna fiber 網 (9.5dB loss) で配信、高 fidelity を維持して QKD 実証へ向かう 🌐"
+    },
+    {
+      "arxiv_id": "2605.12955",
+      "title": "Microscopic Origins of Collapse Models: Decoherence from Graviton Bremsstrahlung",
+      "authors": [
+        "Moslem Zarei"
+      ],
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.12955",
+      "abstract": "Some collapse models proposed that gravitational effects cause the instability of mass distribution superpositions, leading to wave function collapse. In this paper, we utilize the quantum Boltzmann equation (QBE) to analyze the behavior of a fermion in a spatial superposition under graviton emission. We introduce a quantitative measure that links the stability of the superposition to the spatial separation, particle mass, and gravitational coupling. By examining the collision term in the QBE, we derive the decoherence rate and show how it depends on these parameters. Our results provide a detailed framework for understanding gravity induced decoherence, bridging the gap between quantum field theory and collapse models. We also discuss the implications of these findings for experimental tests of gravitationally induced wave function collapse and the broader class of collapse models known as dissipative continuous spontaneous localization (CSL) model.",
+      "score": 85,
+      "reason": "重力子放出による波動関数 collapse の微視的起源を QFT で解析、CSL 系 collapse model と QFT を架橋する試み 🌀",
+      "summary": "Quantum Boltzmann 方程式で重ね合わせ状態フェルミオンの decoherence rate を質量・空間分離・重力結合の関数として導出 ⚛️"
+    }
+  ]
+}

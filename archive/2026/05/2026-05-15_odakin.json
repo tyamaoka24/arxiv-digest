@@ -1,0 +1,151 @@
+{
+  "total_fetched": 113,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.12948",
+      "title": "Secondary Gravitational Wave Signatures from 5D Rotating Primordial Black Holes in the Dark Dimension",
+      "authors": [
+        "Waqas Ahmed",
+        "George K. Leontaris"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.12948",
+      "abstract": "We investigate five-dimensional rotating primordial black holes (PBHs) as dark matter candidates within the Dark Dimension (DD) scenario motivated by the Swampland Program. In this framework, a micron-scale extra dimension suppresses Hawking evaporation, allowing PBHs with initial masses \\(M \\gtrsim 10^{10}\\,\\mathrm{g}\\) to survive to the present epoch. Moreover, the memory burden effect, a quantum-gravitational suppression of the evaporation rate by \\(S^{-p}\\), significantly prolongs PBH lifetimes and enlarges the allowed parameter space. We compute the evaporation dynamics for rotating 5D PBHs, derive the enhanced lifetime for \\(p=2\\), and establish the dark matter window \\(10^{10}\\,\\mathrm{g} \\lesssim M \\lesssim 10^{21}\\,\\mathrm{g}\\). The curvature perturbations responsible for PBH formation also generate a stochastic gravitational wave background through second-order scalar-induced effects. Assuming a log-normal primordial power spectrum with \\(\\sigma=1\\) and \\(f_{\\mathrm{PBH}}=1\\), we calculate the present-day energy density \\(\\Omega_{\\mathrm{GW}}h^2\\) across the Dark Dimension window. The predicted signals peak at frequencies from nHz to Hz, within the sensitivity ranges of LISA and DECIGO/BBO, while remaining consistent with current CMB spectral distortion bounds. Fisher forecasts show that future observatories can constrain the PBH mass, dark matter fraction, spectral width, and memory burden exponent with percent-level precision. A detection of the predicted gravitational wave background would provide simultaneous evidence for a micron-sized extra dimension, PBH dark matter, and the memory burden effect, offering a decisive test of quantum gravity and extra-dimensional physics.",
+      "score": 95,
+      "reason": "余剰次元+回転PBH+Hawking+DMが全部入りの全部のせ盛り合わせ✨ LISA/DECIGOで検証可能な二次GW、これは興味プロファイル直撃🎯",
+      "summary": "Dark Dimension内の5D回転PBHをDM候補とし、memory burden効果で寿命延長。曲率擾乱起源のscalar-induced GW背景をnHz〜Hzで予言。"
+    },
+    {
+      "arxiv_id": "2605.13677",
+      "title": "Decoherence of spatial superpositions along stationary worldlines",
+      "authors": [
+        "Clemens Jakubec",
+        "Aaron Bartleson",
+        "Peter W. Milonni",
+        "Kanu Sinha"
+      ],
+      "categories": [
+        "quant-ph",
+        "gr-qc",
+        "physics.atom-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.13677",
+      "abstract": "We analyze the decoherence of a particle's spatial superposition moving along a stationary worldline through the Minkowski vacuum. The particle is modeled via an internal degree of freedom that couples to a scalar field, and an external degree of freedom, i.e., its quantized center-of-mass motion around the stationary worldline. Assuming a separation of time scales between the particle's internal and external dynamics, we first obtain an effective red-shifted polarizability of the particle, characterizing the trajectory-dependent linear response of the internal oscillator to the field. We then derive a quantum Brownian motion master equation for the particle's center of mass, under the Born-Markov approximation, which describes its decoherence in the position basis, as well as, Hamiltonian modifications corresponding to a dispersive potential. The resulting decoherence has two components: (1) arising from a modified field spectrum observed by the particle; and (2) due to a differential time-dilation over the particle's extended spatial wavefunction. For stationary trajectories, both contributions take an effectively thermal form. We evaluate the decoherence rates for two specific cases of hyperbolic and uniform circular motion.",
+      "score": 92,
+      "reason": "スカラー場と結合した粒子の空間重ね合わせの量子コヒーレンス劣化🌊 静的軌道で熱的形になるところ、波束形式の人には刺さる🎯",
+      "summary": "Minkowski真空中の定常worldlineに沿う粒子の空間重ね合わせの decoherence を、内部DOFとc.m.の量子Brownian master eqで導出。双曲・等速円運動を評価。"
+    },
+    {
+      "arxiv_id": "2605.13508",
+      "title": "Quantum resolution of the Schwarzschild singularity",
+      "authors": [
+        "Vishnulal Cheriyodathillathu",
+        "Tanmay Patil",
+        "Saurya Das",
+        "Soumen Basak"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.13508",
+      "abstract": "We revisit the Schwarzschild singularity in a semiclassical setting where the background geometry is classical and quantum effects enter through Bohmian (quantal) trajectories associated with a Klein Gordon wave packet. Using the Madelung-Bohm decomposition of the Klein Gordon wavefunction, we show that the quantum-modified motion is equivalent to geodesic motion in an effective metric conformally related to Schwarzschild, with a conformal factor fixed by the wavefunction amplitude. Solving the wavefunction equation near $r\\to 0$ determines this factor and yields finite curvature invariants, in suitable coordinates the interior extends smoothly and the effective spacetime is geodesically complete. This suggests that quantum dynamics on a fixed classical background can regularize the Schwarzschild singularity without a full theory of quantum gravity.",
+      "score": 91,
+      "reason": "Klein-Gordon波束のBohm軌道でSchwarzschild特異点を解消💫 量子重力フルバージョン無しで semiclassical に攻める手筋、波束ファンの心くすぐる🔥",
+      "summary": "Madelung-Bohm分解でKG波束の量子修正geodesicが、振幅で決まるconformal factor付の有効計量上の geodesic と等価に。r→0で曲率有限・測地完備に。"
+    },
+    {
+      "arxiv_id": "2605.12546",
+      "title": "Quantum Field-Theoretic Predictions of {\\Psi}-Epistemic Models of Quantum Mechanics",
+      "authors": [
+        ".Inanc Sahin"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.12546",
+      "abstract": "$\\Psi$-epistemic models of quantum mechanics imply that the quantum state does not correspond to physical reality, but instead reflects the observer's knowledge of the underlying quantum system. The epistemic view of the quantum state has the potential to shed light on several foundational problems of quantum theory and has attracted considerable attention in the literature. On the other hand, the Pusey-Barrett-Rudolph theorem demonstrated that broad classes of $\\psi$-epistemic models must lead to predictions that deviate from those of quantum mechanics. Although the original theorem involved entangled joint measurements on composite systems, alternative no-go theorems involving measurements on single quantum systems were developed shortly thereafter. Experimental investigations of the deviations predicted by $\\psi$-epistemic models from quantum mechanics are still ongoing. So far, such tests have been performed within the framework of non-relativistic quantum mechanics and predominantly rely on quantum information based measurement procedures. In this work, assuming that $\\psi$-epistemic models respect Lorentz symmetry, we show that they can give rise to deviations from standard quantum field-theoretic predictions through modifications of polarized scattering cross sections and decay widths. Our results do not require a relativistic formulation of ontological models or of the Harrigan-Spekkens criterion; Lorentz symmetry alone is sufficient. The present work constitutes a proof-of-principle study demonstrating that particle physics tests of the ontological status of the quantum state are possible and that $\\psi$-epistemic models may exhibit experimentally distinguishable signatures in particle phenomenology.",
+      "score": 88,
+      "reason": "Ψ-epistemic模型を素粒子現象論で検証!?😳 Lorentz対称性だけで偏極散乱や崩壊幅にズレが出るらしい。量子基礎×QFTの面白アングル✨",
+      "summary": "ψ-epistemic模型がLorentz対称性を尊重するなら、偏極散乱断面積や崩壊幅にQFT標準予言からの逸脱を与えうると示す。素粒子で量子基礎をテスト可。"
+    },
+    {
+      "arxiv_id": "2605.12955",
+      "title": "Microscopic Origins of Collapse Models: Decoherence from Graviton Bremsstrahlung",
+      "authors": [
+        "Moslem Zarei"
+      ],
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.12955",
+      "abstract": "Some collapse models proposed that gravitational effects cause the instability of mass distribution superpositions, leading to wave function collapse. In this paper, we utilize the quantum Boltzmann equation (QBE) to analyze the behavior of a fermion in a spatial superposition under graviton emission. We introduce a quantitative measure that links the stability of the superposition to the spatial separation, particle mass, and gravitational coupling. By examining the collision term in the QBE, we derive the decoherence rate and show how it depends on these parameters. Our results provide a detailed framework for understanding gravity induced decoherence, bridging the gap between quantum field theory and collapse models. We also discuss the implications of these findings for experimental tests of gravitationally induced wave function collapse and the broader class of collapse models known as dissipative continuous spontaneous localization (CSL) model.",
+      "score": 88,
+      "reason": "重力誘起波動関数収束をgraviton制動放射で微視的に書く挑戦💥 Quantum Boltzmann eqで CSL 模型と接続、実験テストの実装も射程に🛰️",
+      "summary": "Quantum Boltzmann方程式でgraviton放出に伴う空間重ね合わせfermionのdecoherence率を、空間分離・質量・重力結合の関数として導出。CSL系へ接続。"
+    },
+    {
+      "arxiv_id": "2605.12946",
+      "title": "Minimal Majoron Dark Matter",
+      "authors": [
+        "Kensuke Akita",
+        "Koichi Hamaguchi",
+        "Haruto Kitagawa",
+        "Tatsuya Yokoyama"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.12946",
+      "abstract": "We study Majoron dark matter (DM) in its minimal realization, based on the Type-I seesaw framework extended by a SM-singlet complex scalar. Remaining agnostic about the origin and value of the Majoron mass, we evaluate the DM abundance from both the freeze-in and misalignment mechanisms, and identify the viable parameter space consistent with observational constraints. Without fine-tuning of the initial misalignment angle, we find that the Majoron mass is bounded by $m_J \\lesssim \\mathcal{O}(10)~\\mathrm{MeV}$. We also discuss compatibility with thermal leptogenesis. Successful leptogenesis with two right-handed neutrinos favors misalignment-dominated production with the Majoron mass $m_J \\lesssim \\mathcal{O}(100)~\\mathrm{eV}$, while freeze-in dominated production is compatible with leptogenesis only with a mild fine-tuning of the initial misalignment angle, $\\theta_i \\lesssim \\mathcal{O}(0.01)$.",
+      "score": 87,
+      "reason": "Type-I seesaw に複素singletを足すだけのミニマルMajoron DM🌑 freeze-in と misalignment 両刀、leptogenesis 整合まで詰めてる律儀さ👏",
+      "summary": "Type-I seesaw+SM singletスカラーの最小実現でMajoron DMのfreeze-inとmisalignment丸ごと評価。m_J≲O(10)MeV、leptogenesis整合解も提示。"
+    },
+    {
+      "arxiv_id": "2605.13809",
+      "title": "\"Metric-affine-like\" generalization of YM (mal-YM): detailed classical consideration",
+      "authors": [
+        "Wladyslaw Wachowski"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.13809",
+      "abstract": "We consider the ``metric-affine-like'' generalization of the Yang-Mills theory (mal-YM) which we first proposed earlier. In this model, the connection is no longer assumed to be compatible with the Hermitian form in the fibers. As a consequence, along with the usual YM potential $\\boldsymbol{A}_a$ and the field strength tensor $\\boldsymbol{F}_{ab}$, it contains non-trivially interacting fields $\\boldsymbol{B}_a$, $\\boldsymbol{h}$, and $\\boldsymbol{G}_{ab}$, $\\boldsymbol{N}_a$, forming a non-Abelian generalization of St\\\"{u}ckelberg theory. Due to the spontaneous symmetry breaking $GL(n,\\mathbb{C}) \\to U(n)$, these new fields can be made massive and the limit $M\\to\\infty$ restores the standard YM theory. We perform a detailed analysis of this theory on the classical level. We discuss in detail geometric motivation for the model, field transformations, gauge symmetry and its spontaneous breaking, action, equations of motion, Noether identities, gauge fixing, and other issues.",
+      "score": 86,
+      "reason": "Hermitian接続を仮定しないYM一般化🌀 GL(n,C)→U(n)の自発破れでStückelberg化、metric-affine 重力と並走する非可換版🤔",
+      "summary": "Yang-Millsをmetric-affineに一般化、fiber内Hermite形式と非互換な接続を許す。B,h,G,N等の追加場が自発破れで質量化、M→∞で通常YMに戻る。"
+    },
+    {
+      "arxiv_id": "2605.13042",
+      "title": "The Gravitational Spectral Radio Forest: A Signature of Primordial Black Holes",
+      "authors": [
+        "P. George Christopher (IIT Bombay)",
+        "K. Hari (IIT Bombay)",
+        "S. Shankaranarayanan (IIT Bombay)"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.GA",
+        "hep-th",
+        "physics.atm-clus"
+      ],
+      "url": "https://arxiv.org/abs/2605.13042",
+      "abstract": "We propose a novel gravitational signature to detect Primordial Black Hole (PBH) dark matter by treating interstellar hydrogen as a quantum sensor for spacetime curvature. Focusing on H II regions, we demonstrate that the Riemann tidal tensor of an \\emph{asteroid-mass} PBH induces a symmetric splitting of the $2P_{3/2}$ state in bound hydrogen atoms. This relativistic effect redistributes $9.9\\,\\mathrm{GHz}$ absorption line into a gravitational spectral radio forest with a bandwidth $\\sim 2\\,\\mathrm{GHz}$. By accounting for active accretion of Hydrogen atoms and the resulting density-squared emission measure within the Bondi radius, we find a relatively enhanced absorption spectrum. This feature presents a concrete, high-contrast target for upcoming radio-surveys to constrain PBH populations in the dark matter sector.",
+      "score": 85,
+      "reason": "星間Hを量子センサにしてPBH-DMを探す気合の宇宙物理🌟 9.9 GHz線がgravitational forestに割れる、というロマン砲🚀",
+      "summary": "Asteroid質量PBHのRiemann潮汐テンソルがHのP3/2を分裂、HII領域で9.9 GHz吸収線を約2 GHz幅のgravitational radio forestに変形。電波サーベイで PBH-DM制限。"
+    }
+  ]
+}

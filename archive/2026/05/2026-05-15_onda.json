@@ -1,0 +1,40 @@
+{
+  "total_fetched": 68,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.13016",
+      "title": "Revisiting constraints on primordial vector modes and implications for sourced magnetic fields and observed $EB$ power spectrum",
+      "authors": [
+        "Kaito Yura",
+        "Shohei Saga",
+        "Shuichiro Yokoyama",
+        "Kiyotomo Ichiki"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.13016",
+      "abstract": "We revisit regular primordial vector modes sustained by the anisotropic stress of free-streaming neutrinos. We consider two classes of neutrino-sector initial conditions, the neutrino velocity isocurvature mode ($\\nu\\mathrm{VI}$) and the neutrino octupole mode ($\\nu\\mathrm{OCT}$). We update their observational constraints using current cosmological data, and examine the impact of including the BICEP/Keck 2018 $B$-mode polarization data. From an MCMC analysis, we obtain the 95\\% C.L. upper bounds on the vector-to-scalar ratio as $r_\\mathrm{v}<1.55\\times10^{-4}$ and $r_\\mathrm{v}<1.04\\times10^{-2}$ for the $\\nu\\mathrm{VI}$ and $\\nu\\mathrm{OCT}$ modes at the vector pivot scale $k_{0} = 0.01\\,{\\rm Mpc}^{-1}$, respectively. We then study two consequences of these bounds. First, we estimate the magnetic fields inevitably generated in the pre-recombination plasma associated with the vector modes. We find that the magnetic-field amplitude at recombination with a coherent length of $1~{\\rm Mpc}$ is bounded by $B\\sim\\mathcal{O}(10^{-23})\\,{\\rm G}$ and $B\\sim\\mathcal{O}(10^{-21})\\,{\\rm G}$ for the $\\nu\\mathrm{VI}$ and $\\nu\\mathrm{OCT}$ modes, respetively, which is too small to provide the seed of magnetic fields observed today. Second, assuming the helical vector mode, we compute the induced CMB $EB$ spectrum. We show that even a fully helical primordial vector mode cannot reproduce the currently observed $EB$ signal while remaining consistent with parity-even CMB constraints.",
+      "score": 92,
+      "reason": "BICEP/Keck の B-mode + EB スペクトルで primordial vector mode を制約! r_v < 1.55e-4、LiteBIRD の parity 解析にも効く話 📡",
+      "summary": "ν free-streaming 由来 vector mode (ν_VI/ν_OCT) を再解析、recombination 期の磁場 ~1e-23 G、helical mode でも観測 EB を再現できないと結論。"
+    },
+    {
+      "arxiv_id": "2605.12579",
+      "title": "Phase-resolved field-space distance bounds in ekpyrotic, bouncing and cyclic cosmologies",
+      "authors": [
+        "Marcin Postolak"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.12579",
+      "abstract": "The inflationary Lyth bound relates the primordial tensor amplitude to the inflaton field excursion. There is no analogous universal relationship in the case of ekpyrotic, bouncing, and cyclic models because scalar and tensor perturbations depend on entropy conversion, matching through the bounce and the specific mechanism that violates or evades the null energy condition. Nevertheless, the background kinematics fulfills a useful non-inflationary analogue: a field-space distance budget. In this study, we propose a phase-resolved distance criterion for a non-inflationary smoothing process and decompose the invariant scalar distance into ekpyrotic smoothing, entropy-to-curvature conversion, bounce, and post-bounce contributions. Then, we impose BKL anisotropy suppression as an additional constraint on the ekpyrotic phase. In the canonical phase of the ekpyrotic contraction, we recover the known small-field scaling and generalize it to total budget inequality. We impose three requirements: a BKL (Belinski-Khalatnikov-Lifshitz) anisotropy suppression that is parameterized separately, a phenomenological cutoff-corrected distance budget inspired by tower of states logic, and observational conversion windows from residual isocurvature and non-Gaussianity. Furthermore, we propose a new master condition that provides a lower bound on the value of the parameter $\\epsilon_{\\rm ek}$ that depends on the remaining distance available after conversion and the cosmological bounce. We also derive a curvature constraint for scale-invariant entropy perturbations in curved field space which shows that the small total distance and the observed red tilt seem to indicate ultra-fast-roll ekpyrosis, sharp turns, short or strongly modified bounces, and/or significant negative sectional curvature of the scalar manifold. Finally, we demonstrate methods for testing the distance budget against observational data.",
+      "score": 85,
+      "reason": "Lyth bound の ekpyrotic/bouncing 版! r とフィールド距離の関係を CMB 観測窓で test する master condition 提案、tensor 探査文脈で面白い 🌀",
+      "summary": "ekpyrotic 収縮の phase-resolved distance budget を提案、BKL 異方性抑制 + cutoff 補正 + 残存 isocurvature/非ガウス性で ε_ek の下限を導出。"
+    }
+  ]
+}

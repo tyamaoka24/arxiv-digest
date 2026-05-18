@@ -1,0 +1,110 @@
+{
+  "total_fetched": 195,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.14592",
+      "title": "Entangled Telecom Photon Generation using Twisted Van der Waals Crystals",
+      "authors": [
+        "Nidhin Prasannan",
+        "Konstantinos Mourzidis",
+        "Vishwas Jindal",
+        "Hanting Li",
+        "Di Lin",
+        "Wenchen Yang",
+        "Deng Hu",
+        "Liu Yang",
+        "Andrea Balocchi",
+        "Delphine Lagarde",
+        "Pierre Renucci",
+        "Zhiwei Wang",
+        "Gang Wang",
+        "Xavier Marie"
+      ],
+      "categories": [],
+      "url": "https://arxiv.org/abs/2605.14592",
+      "abstract": "Nanoscale quantum light sources are essential building blocks for integrated quantum photonic systems. Here, we report a wavelength-scale entangled-photon source based on van der Waals-engineered NbOBr$_2$, and benchmark its performance for telecom-wavelength quantum light generation. By exploiting the material's second-order nonlinearity, we generate quantum-correlated photon pairs via spontaneous parametric down-conversion. We then use a 90$^{\\circ}$ twisted stacking to induce quantum interference in photon-pair generation, yielding polarization-entangled photons. This approach enables tunability of the quantum optical state via control of the excitation laser polarization. We experimentally obtain entanglement fidelities exceeding 95% for Bell states, along with a high coincidence-to-accidental ratio of $\\sim$335, and a brightness approximately one order of magnitude higher than recently reported telecom sources based on transition metal dichalcogenide (TMD) 2D materials. These results establish twisted van der Waals engineering as a powerful platform for highly tunable, high-brightness quantum light sources at telecom wavelengths.",
+      "score": 88,
+      "reason": "🎯wavelength-scaleなSPDC源!90°ねじれvdWでpolarization-entangled telecom photon、波束モデル直結",
+      "summary": "📡NbOBr₂のχ⁽²⁾でSPDC、90° twist構成でpolarization entanglement、telecom λで性能評価"
+    },
+    {
+      "arxiv_id": "2605.14807",
+      "title": "The influence of strong coupling between single-photon source and spectral filter on photon statistics",
+      "authors": [
+        "Ivan V. Panyukov",
+        "Evgeny S. Andrianov"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14807",
+      "abstract": "One of the most common approaches for coupling optical single-photon sources and photonic integrated circuits is to use a cavity. The cavity acts as a spectral filter that distorts the light spectrum and changes its statistical properties. But in the general case one should take into account not only spectral filtering of light but also the spectral filter influence on the single-photon source dynamics. We build an effective analytical model for description of the cavity influence on the photon statistics of light emitted by the single-photon source as spectral filtering only. We show that this model correctly describes the photon statistics even in a strong-coupling regime between the single-photon source and the spectral filter. Our results can be useful for analytical modeling of photon statistics of quantum emitters strongly coupled to various electromagnetic interfaces.",
+      "score": 88,
+      "reason": "🎯cavity spectral filterがphoton statisticsを歪める効果を解析モデルで!source dynamicsへのback-action込み",
+      "summary": "🔬cavity filterの通常/strong coupling regimeでphoton statistics歪みを定量、解析解導出"
+    },
+    {
+      "arxiv_id": "2605.14858",
+      "title": "Efficient ultrafast homodyne detection of quantum light",
+      "authors": [
+        "Young-Do Yoon",
+        "Chan Roh",
+        "Geunhee Gwak",
+        "Young-Sik Ra"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14858",
+      "abstract": "Ultrafast continuous-variable quantum states offer new opportunities for advanced quantum technologies, but efficient homodyne detection of these states remains challenging. Here, we present a method for efficient ultrafast homodyne detection by exploiting temporal correlations in detector signals. By optimizing the temporal weight used to extract quadrature outcomes, we achieve a substantial increase in the signal-to-noise ratio of ultrafast homodyne detection, thereby improving the detection efficiency. We analyze the autocorrelations of shot noise and electronic noise and determine the optimal weight by solving a generalized Rayleigh quotient problem. The optimal weight enhances the squeezing and anti-squeezing levels observed experimentally. These results highlight the importance of optimized signal processing for efficient quantum measurements.",
+      "score": 86,
+      "reason": "🎯ultrafast CV量子状態の効率homodyne!時間相関を活かしSNR改善、波束形式の検出側道具",
+      "summary": "shot/electronic noiseのautocorrelationを考慮した最適temporal weightでhomodyne効率向上"
+    },
+    {
+      "arxiv_id": "2605.14825",
+      "title": "Stokes-anti-Stokes correlations of light propagating through weakly guiding optical fiber",
+      "authors": [
+        "Ivan V. Panyukov",
+        "Evgeny S. Andrianov"
+      ],
+      "categories": [],
+      "url": "https://arxiv.org/abs/2605.14825",
+      "abstract": "Statistical properties of light produced in spontaneous Raman scattering on an ensemble of molecules indicate the quantum nature of this phenomenon. The scattered light is non-classical and has high non-classical intensity correlations between Stokes and anti-Stokes components. The temporal coherence of this light is well investigated, while many questions related to spatial coherence remain open. Recent experiments reveal two peculiar features of the spatial coherence of the Stokes and anti-Stokes light. First, the intensity correlations between Stokes and anti-Stokes light remain non-classical even for macroscopic samples containing many molecules. Second, these correlations decrease when signal propagates through a multi-mode optical fiber: the more propagating fiber modes at Stokes and anti-Stokes frequencies the less the correlations. Moreover, the second-order autocorrelation function of Stokes and anti-Stokes light also decreases with the number of propagating modes in multi-mode fiber. In this paper, we build a model of spontaneous Raman scattering correlations of light produced by an ensemble of molecules and propagating through weakly guiding optical fiber that quantitatively explains all these observations. We show that spacial orthogonality of the fiber modes makes the light propagating through these modes uncorrelated in the standard detection scheme. This leads to suppression of non-classical intensity correlations of the total field in the multi-mode fiber. We find the degree of non-classical correlations on fiber parameters. The obtained results pave the way for engineering of non-classical Stokes -- anti-Stokes correlations.",
+      "score": 85,
+      "reason": "🌈光ファイバー伝搬でのStokes-anti-Stokes相関の空間coherence!Raman系非古典相関と波束伝搬の好例",
+      "summary": "🔬weakly guiding fiberでS-aS強度相関の非古典性と空間coherenceを実験+理論で議論"
+    },
+    {
+      "arxiv_id": "2605.14395",
+      "title": "Interference visibility as a witness of preparation contextuality via overlap inequalities",
+      "authors": [
+        "Mohd Asad Siddiqui"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14395",
+      "abstract": "We show that standard multi-path interferometry, using only pairwise visibility measurements, provides an operational route to tests of preparation noncontextuality. Under ideal symmetric conditions, interference visibility directly encodes state overlaps, without requiring tomography or SWAP tests. For three paths, any jointly diagonalizable (coherence-free) description must satisfy ${V}_{12}^2+{V}_{23}^2-{V}_{13}^2\\le 1$, where ${V}_{ij}$ are two-path visibilities. Pure qubit detector states violate this bound, achieving a maximal value of $5/4$. We generalize to arbitrary $n$-path interferometers and derive the tight qubit bound $S_n^{\\max}=n\\cos^2(\\pi/2n)-1$ for all $n\\ge3$, achieved by coplanar pure qubit states with uniform angular separation $\\pi/n$. A robustness analysis yields explicit experimental thresholds. Under the operational equivalences used in overlap-based generalized noncontextuality frameworks, violations of these visibility inequalities also witness preparation contextuality. For $n$-cycle inequalities, only the pairwise visibilities appearing in the cycle need to be measured.",
+      "score": 85,
+      "reason": "🔍multi-path干渉visibilityだけでpreparation contextualityをテスト!2光子visibility解釈にも示唆",
+      "summary": "3-pathでV_12²+V_23²-V_13²≤1がcoherence-free限界、qubit状態は5/4まで違反"
+    },
+    {
+      "arxiv_id": "2605.14756",
+      "title": "Evolution of Gaussian mixed states under the Markovian master equation for a driven quantum oscillator",
+      "authors": [
+        "B. A. Tay"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14756",
+      "abstract": "We study a generic quantum Markovian master equation for a linearly displaced or driven harmonic oscillator. It was known that the displacement dynamics of Gaussian mixed states depends on the unitary part of the Liouvillian, the decay rate of the system but not on the bath temperature. Here we further show that the fast-rotating modes do not affect the system's displacement dynamics under linear driving forces. Analytical solutions of the quantum master equation are obtained for displaced Gaussian mixed states. Because the non-driven and driven Liouvillians are related by a unitary displacement operator, they are expected to share the same exceptional points structure. At the exceptional points, the displacement of critically damped oscillator displays a characteristics polynomial-in-time prefactor multiplied by an exponential decay. We discuss how external time-dependent forces affect the displacement dynamics using impulsive force and harmonic force as examples. The results obtained for constant driving remain valid in the presence of time-dependent driving.",
+      "score": 85,
+      "reason": "🎯駆動振動子のGaussian mixed state Markovian進化、解析解!波束形式とopen systemの橋渡し",
+      "summary": "displaced Gaussianのanalytical solution、bath温度に依存しないdisplacement dynamicsを導出"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "total_fetched": 195,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.15192",
+      "title": "Isocurvature-Free QCD Axion Dark Matter from Inflaton-Driven Early QCD: the Necessity of Inflationary Plateaus",
+      "authors": [
+        "Katherine Freese",
+        "Evangelos I. Sfakianakis",
+        "Barmak Shams Es Haghi"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.15192",
+      "abstract": "A direct coupling between the inflaton and Standard Model gluons can dynamically raise the QCD confinement scale during inflation, making the axion temporarily heavy and suppressing axion isocurvature perturbations. As inflation proceeds, the confinement scale relaxes, the axion becomes light, and late-time de Sitter fluctuations can generate the observed dark matter abundance. We analyze this mechanism without specifying an inflationary potential, instead parametrizing the background by $\\epsilon(N) \\propto 1/N^p$, where $N$ is the number of $e$-folds before the end of inflation. The single parameter $p$ distinguishes monomial models ($p=1$), standard plateau models ($p=2$), and ultra-flat plateau or hilltop-like models ($p\\ge 3$). We (analytically) show that the mechanism selects plateau-like ($p\\ge 2$) inflation: monomial models generically cause the confinement scale to grow too rapidly, while plateau models keep the QCD sector under perturbative control. In the minimal scenario, reheating occurs through the same inflaton-gluon coupling, and viable axion dark matter production is obtained when deconfinement occurs after the CMB window. The early-confinement sector also shifts the scalar spectral index to larger, bluer values, opening viable parameter space for models otherwise disfavored by CMB data.",
+      "score": 92,
+      "reason": "🎯Higgsインフレ的plateauでisocurvature-freeなQCD axion DM!plateauの必要性を示すのは核心テーマ✨",
+      "summary": "🌌inflaton→gluon直接結合でQCD scaleを上げaxionを一時的に重く→isocurvature抑制、plateau必須を主張"
+    },
+    {
+      "arxiv_id": "2605.14684",
+      "title": "QCD axion from broken scale symmetry",
+      "authors": [
+        "Georgios K. Karananas",
+        "Mikhail Shaposhnikov"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14684",
+      "abstract": "A consistent non-compact axion cosmology requires a non-periodic field, an effective field theory valid sufficiently above the inflationary scale, and a small non-QCD contribution to the potential that tilts the axionic vacuum landscape in order to trigger a timely domain-wall collapse. All conditions can be met by the dilaton -- the pseudo-Nambu-Goldstone boson of spontaneously broken approximate scale invariance.",
+      "score": 92,
+      "reason": "🎯dilaton=QCD axion!scale対称性の自発的破れとaxionを同一視、scale-invariant gravity興味と直結⚡",
+      "summary": "📐non-compact axion cosmologyをdilatonで実装、small non-QCD寄与でdomain wallをtimely崩壊"
+    },
+    {
+      "arxiv_id": "2605.14797",
+      "title": "How Much Can Gravitons Be Squeezed?",
+      "authors": [
+        "Panagiotis Dorlis",
+        "Nick E. Mavromatos",
+        "Sarben Sarkar",
+        "Sotirios-Neilos Vlachos"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14797",
+      "abstract": "Quantum Gravity remains elusive, largely because its observable effects are suppressed by powers of the Planck scale. Direct detection of single gravitons is widely believed to be impossible. Here we propose a concrete astrophysical mechanism that may overcome this suppression. We show that superradiant axion-like-particle clouds surrounding rotating black holes can generate multimode squeezed states of gravitons containing up to $10^6$ - $10^7$ correlated quanta. Such states exhibit distinctive polarization correlations and quantum-noise signatures that could be detectable in future gravitational-wave interferometers. Observation of these signatures would constitute direct evidence for the quantum nature of gravitational radiation. Conversely, their absence can place constraints on axion-cloud lifetimes. Our approach also provides a test of General Relativity as an effective field theory.",
+      "score": 92,
+      "reason": "🤯回転BH周りのALP cloudがgraviton squeezed状態を10^6–7個!squeezed coherent state+回転BH全部入り🎶",
+      "summary": "⚙️superradiant ALP cloud×Kerr BHでmultimode squeezed gravitons生成、偏光相関で検出可能性を議論"
+    },
+    {
+      "arxiv_id": "2605.13958",
+      "title": "Baryoid Dark Matter from $\\mathbb{Z}_N$ Domain Walls: The $(N-1):1$ origin of the dark matter-baryon coincidence",
+      "authors": [
+        "Yang Bai",
+        "Ting-Kuo Chen"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.13958",
+      "abstract": "We propose an explanation for the dark matter-baryon coincidence based on collapsing $\\mathbb{Z}_N$ domain walls, which form a novel compact baryonic state: the baryoid. A baryoid has an asteroid-scale mass and up-to-nuclear-scale energy density, and can serve as a dark matter candidate. Starting from equal baryon numbers in the domains formed in the early universe, the collapse of the domain walls after the QCD phase transition leads to a baryon-number ratio of $(N-1):1$ between the false- and true-vacuum domains. Since baryons are slightly lighter in the false-vacuum domains than in the true-vacuum domain, the resulting dark matter-to-baryon energy-density ratio is naturally close to, but slightly smaller than, $(N-1):1$, or $6:1$ for $N=7$. We calculate the domain-wall dynamics and the efficiency of baryon-number trapping, derive the resulting baryoid properties, and discuss a broad set of phenomenological probes.",
+      "score": 86,
+      "reason": "🌑DM-baryon coincidenceをZ_N DWで説明!QCD相転移後の壁崩壊から(N-1):1比が自然に出る発想◎",
+      "summary": "⚛️Z_N domain wall崩壊でfalse vacuum側baryonがcompact baryoid化、asteroid-mass DM候補に"
+    },
+    {
+      "arxiv_id": "2605.15146",
+      "title": "Effective Matter Flavor Conversion Mediated by Pseudo-Sterile States as the Possible Origin of Neutrino Oscillation Anomalies",
+      "authors": [
+        "Sabya Sachi Chatterjee",
+        "Antonio Palazzo"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2605.15146",
+      "abstract": "Neutrino oscillation experiments present anomalous results across a vast range of baselines and energies. Here we show that a 3+1 scenario in which sterile neutrinos feel a novel matter potential $V_s$ proportional to background density of ordinary or (asymmetric) dark matter is able to explain several anomalies. At low-energies ($E\\lesssim$ 1 TeV) the model behaves as an effective 3-flavor NSI-like scheme among active flavors and eliminates the tension between the two LBL experiments NOvA and T2K provided that the potential is negative and the two sterile mixing angles $\\theta_{14}$ and $\\theta_{24}$ are non-zero. A further indication in favor of a negative non-zero potential comes from the anomalous excess of $\\nu_e$-like events observed in Super-Kamiokande atmospheric neutrinos, which, in the new scenario is explained by a modification of the 3-flavor resonance at few GeV. A high energies ($E\\gtrsim $ 1 TeV) the new framework reveals its 4-flavor nature and produces a resonant behavior at $E \\simeq$ 10 TeV as hinted at by IceCube. We identify an irreducible 3-level dynamics generating a new resonance in the $(\\nu_e, \\nu_\\mu)$ sector intertwined with two conventional resonances in the $(\\nu_e, \\nu_s$) and $(\\nu_\\mu, \\nu_s)$ systems. The novel amplification mechanism manifests with the emergence of effective mixing angles in matter ($\\theta_{12}^m$ or $\\theta_{13}^m$) involving active neutrinos. The scenario requires values of $f = V_s/|V_{NC}| \\sim -20 $, $\\Delta m^2_{41} \\sim 60 $ eV$^2$, $|U_{e4}|^2\\simeq \\sin^2\\theta_{14} \\simeq 0.01-0.03$ and $|U_{\\mu4}|^2 \\simeq \\sin^2\\theta_{24}\\simeq 10^{-4}-10^{-3}$. Such a very small size of $|U_{\\mu4}|^2$ eliminates the tension between IceCube and the other $\\nu_\\mu$ disappearance searches. The model can be directly probed by KATRIN, which is very sensitive to the electron-sterile neutrino admixture in the region of high $\\Delta m^2_{41}$.",
+      "score": 86,
+      "reason": "🌀sterile νがDM起源matter potentialを感じる3+1!NOvA/T2K tension緩和+MiniBooNE/Gallium整合💡",
+      "summary": "🔬sterile νの新matter potential V_sでν振動異常群を統一説明、LBL tension解消を試行"
+    },
+    {
+      "arxiv_id": "2605.15175",
+      "title": "Detecting the Axion-Photon Conversion Background",
+      "authors": [
+        "Felix Weber",
+        "Vikram Ravi"
+      ],
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2605.15175",
+      "abstract": "The potential to detect axion dark matter through astrophysical processes has shown high promise in recent years. We therefore expand on previous work studying the axion-to-photon conversion efficacy of neutron stars and the interstellar medium (ISM) in this endeavor, respectively. For neutron stars (NS), we examine the possibility of a background signal emanating from all NS magnetospheres in the galaxy. Using a heuristic Galactic model, we find a significant background signal emanating from such magnetospheres in the Milky Way. This signal, while weak in absolute power ($\\gtrsim 1$ mJy sr$^{-1}$ from the Galactic Center, at 2 GHz), can be detected through new statistical techniques with current instrumentation like the Atacama Large Millimeter Array (ALMA) at high radio frequencies (200 - 950 GHz). These techniques make use of higher order statistics like spectrally-limited ($\\sim 300$ km s$^{-1}$) increases in confusion noise levels and kurtoses of survey images, and also show promise for general population estimation techniques.\nFor the ISM, we consider Primakoff processes between free electrons and axions, and derive typical signal strengths of $10^{-15}$ Jy sr$^{-1}$ $\\cdot$ $m_a$/eV, with a local, cosmological upper bound of $10^{-8}$ Jy sr$^{-1}$ $\\cdot$ $m_a$/eV. Hence, we find that any diffuse axion signal from the ISM and other, large-scale, astrophysical plasmas to be too weak to be detected with modern technologies. We therefore find that the best avenue towards detecting a potential quantum chromodynamics (QCD) axion dark-matter particle is through the radio imaging of large swaths of the Galactic Center and other regions where we expect large numbers of pulsars and neutron stars.",
+      "score": 85,
+      "reason": "⚡axion DM検出の新ルート!銀河中性子星magnetosphereの集合からの背景信号を低周波で見る試み🔭",
+      "summary": "📡銀河系NS magnetosphere全部足したaxion→photon変換背景を見積もり、低周波で検出可能性を主張"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "total_fetched": 195,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.14756",
+      "title": "Evolution of Gaussian mixed states under the Markovian master equation for a driven quantum oscillator",
+      "authors": [
+        "B. A. Tay"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14756",
+      "abstract": "We study a generic quantum Markovian master equation for a linearly displaced or driven harmonic oscillator. It was known that the displacement dynamics of Gaussian mixed states depends on the unitary part of the Liouvillian, the decay rate of the system but not on the bath temperature. Here we further show that the fast-rotating modes do not affect the system's displacement dynamics under linear driving forces. Analytical solutions of the quantum master equation are obtained for displaced Gaussian mixed states. Because the non-driven and driven Liouvillians are related by a unitary displacement operator, they are expected to share the same exceptional points structure. At the exceptional points, the displacement of critically damped oscillator displays a characteristics polynomial-in-time prefactor multiplied by an exponential decay. We discuss how external time-dependent forces affect the displacement dynamics using impulsive force and harmonic force as examples. The results obtained for constant driving remain valid in the presence of time-dependent driving.",
+      "score": 88,
+      "reason": "🎯Gaussian mixed stateの駆動振動子Markovian進化!displacement dynamicsのbath温度非依存性を明示、波束形式の道具箱",
+      "summary": "displaced Gaussianの解析解、駆動/非駆動Liouvillianをunitary displacementで結ぶ"
+    },
+    {
+      "arxiv_id": "2605.14820",
+      "title": "The Heisenberg-Weyl-parity group its coherent states and a unified Wigner-Weyl function",
+      "authors": [
+        "A.Vourdas"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14820",
+      "abstract": "The Heisenberg-Weyl group $HW(d)$ related to a $d$-dimensional Hilbert space $H(d)$, is enlarged into the Heisenberg-Weyl-parity group $HWP(d)$ that incorporates parity transformations. It consists of $2d^3$ elements, of which $d^3$ elements belong to the $HW(d)$ subgroup, and extra $d^3$ elements which are related through a Fourier transform with the former ones. It is shown that $HWP(d)$ is a generalised version of the dihedral group. The properties of operators that combine displacements and parity, are discussed. $HWP(d)$ is shown to be a solvable group, and commutators of its elements perform displacement and parity transformations of quantum states, along loops in the discrete phase space.$2d^2$ coherent states related to the $HWP(d)$ group are introduced, which consist of $d^2$ coherent states related to the $HW(d)$ subgroup, and extra $d^2$ coherent states which are related through a Fourier transform with the former ones. In noisy cases, expansion of an arbitrary state in terms of the $2d^2$ coherent states with Bargmann coefficients, is advantageous in comparison to expansion in terms of the $d^2$ coherent states related to $HW(d)$. One of the consequences of the $HWP(d)$ group, is a natural unification of the Wigner and Weyl functions. The properties of the unified Wigner-Weyl function are discussed.",
+      "score": 85,
+      "reason": "🌀HW群をparity込みに拡張、coherent statesとWigner-Weyl関数を統一視点で。位相空間道具立てが整理される",
+      "summary": "HW(d)→HWP(d) (2d^3元)拡張、displacement+parity演算子でcoherent statesとWigner関数を再構成"
+    },
+    {
+      "arxiv_id": "2605.14395",
+      "title": "Interference visibility as a witness of preparation contextuality via overlap inequalities",
+      "authors": [
+        "Mohd Asad Siddiqui"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14395",
+      "abstract": "We show that standard multi-path interferometry, using only pairwise visibility measurements, provides an operational route to tests of preparation noncontextuality. Under ideal symmetric conditions, interference visibility directly encodes state overlaps, without requiring tomography or SWAP tests. For three paths, any jointly diagonalizable (coherence-free) description must satisfy ${V}_{12}^2+{V}_{23}^2-{V}_{13}^2\\le 1$, where ${V}_{ij}$ are two-path visibilities. Pure qubit detector states violate this bound, achieving a maximal value of $5/4$. We generalize to arbitrary $n$-path interferometers and derive the tight qubit bound $S_n^{\\max}=n\\cos^2(\\pi/2n)-1$ for all $n\\ge3$, achieved by coplanar pure qubit states with uniform angular separation $\\pi/n$. A robustness analysis yields explicit experimental thresholds. Under the operational equivalences used in overlap-based generalized noncontextuality frameworks, violations of these visibility inequalities also witness preparation contextuality. For $n$-cycle inequalities, only the pairwise visibilities appearing in the cycle need to be measured.",
+      "score": 85,
+      "reason": "🔍干渉visibilityだけでpreparation noncontextualityをテスト!tomography/SWAP不要のオペレーショナル道具",
+      "summary": "3-pathでV_12²+V_23²-V_13²≤1がcoherence-free限界、量子状態は5/4まで違反可能"
+    }
+  ]
+}

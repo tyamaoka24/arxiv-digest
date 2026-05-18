@@ -1,0 +1,138 @@
+{
+  "total_fetched": 195,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.14572",
+      "title": "Modifications of CMB Temperature and Polarization Quadrupole Signals in Thurston Spacetimes",
+      "authors": [
+        "Tanay Gupta",
+        "Sukanta Panda",
+        "Rajib Saha"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.14572",
+      "abstract": "Recent cosmological tests have discovered a fresh new set of anomalies in the large-scale isotropy of the universe. Motivated thus by the numerous pieces of evidence for large-scale cosmic isotropy violation with the advent of the 'precision cosmology' era, we are led to explore the viability of anisotropic Thurston geometries, described in William Thurston's geometrization conjecture. In this work, we examine the coherent temperature and polarization signals generated in the CMB sky by such geometries. We begin with introducing Thurston spacetimes as our background model and the formalism we use to obtain the patterns. We then construct a set of transfer equations relative to a given background and solve them for each spacetime geometry. We finally discuss the role of spatial curvature in these FLRW limiting models along with their underlying geometry, and attempt to establish some general results on the symmetries of the patterns produced by their time evolution in terms of the Stokes parameters P, Q, U and V. We show the evolution of temperature and polarization amplitudes in terms of such Stokes parameters at different timestamps and attempt to isolate individual Thurston geometries.",
+      "score": 90,
+      "reason": "🎯Thurston幾何の異方性宇宙がquadrupole TT/EEに与えるsignature!大スケールCMB anomalyの理論枠組み",
+      "summary": "📐Thurston幾何8種でquadrupoleパターン計算、大スケールisotropy violation説明可能性をCMB skyで評価"
+    },
+    {
+      "arxiv_id": "2605.14970",
+      "title": "Exploring the CMB in Anisotropic Universes",
+      "authors": [
+        "Robbert W. Scholtens",
+        "Marcello Seri",
+        "Holger Waalkens",
+        "Rien van de Weygaert"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.14970",
+      "abstract": "In recent years, there have been increasing challenges to the cosmological principle, based on new observations of e.g. supernovae and the cosmic bulk flow. As a result, the cosmological community is speaking their concern for the cosmological principle, and from which scales onwards it should apply. In this context, there is a desire to understand more fully the properties and signatures of cosmologies not obeying the cosmological principle. In this article, we let go of the demand of cosmic isotropy, and instead assume only spatial homogeneity in our cosmological models. We follow the results of our previous works [see citations in the list of references], and here bring these together into one unified picture, with the goal of describing the signature(s) of anisotropy in anisotropic cosmological models. We first introduce the Bianchi models -- a particular instance of spatially homogeneous cosmologies -- and show that a metric can be constructed for them when an appropriate collection of desired Killing vector fields is supplied. Then, we give the perturbations of the Friedmann equations in such Bianchi models, in the Newtonian gauge, derived using much the same methodology as applicable to the FLRW models. We show these can be combined into one characteristic partial differential equation. Finally, we use this equation in order to simulate the CMB of a toy Bianchi V example and produce its power spectrum. We close with a discussion, and suggestions for further research.",
+      "score": 90,
+      "reason": "🌌cosmological principle緩めてanisotropic universeでCMBをフル解析!Bianchi系のCMB signature体系探索",
+      "summary": "homogeneityのみ仮定したBianchi-type宇宙でCMBのproperties/signatureを系統探索"
+    },
+    {
+      "arxiv_id": "2605.15175",
+      "title": "Detecting the Axion-Photon Conversion Background",
+      "authors": [
+        "Felix Weber",
+        "Vikram Ravi"
+      ],
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2605.15175",
+      "abstract": "The potential to detect axion dark matter through astrophysical processes has shown high promise in recent years. We therefore expand on previous work studying the axion-to-photon conversion efficacy of neutron stars and the interstellar medium (ISM) in this endeavor, respectively. For neutron stars (NS), we examine the possibility of a background signal emanating from all NS magnetospheres in the galaxy. Using a heuristic Galactic model, we find a significant background signal emanating from such magnetospheres in the Milky Way. This signal, while weak in absolute power ($\\gtrsim 1$ mJy sr$^{-1}$ from the Galactic Center, at 2 GHz), can be detected through new statistical techniques with current instrumentation like the Atacama Large Millimeter Array (ALMA) at high radio frequencies (200 - 950 GHz). These techniques make use of higher order statistics like spectrally-limited ($\\sim 300$ km s$^{-1}$) increases in confusion noise levels and kurtoses of survey images, and also show promise for general population estimation techniques.\nFor the ISM, we consider Primakoff processes between free electrons and axions, and derive typical signal strengths of $10^{-15}$ Jy sr$^{-1}$ $\\cdot$ $m_a$/eV, with a local, cosmological upper bound of $10^{-8}$ Jy sr$^{-1}$ $\\cdot$ $m_a$/eV. Hence, we find that any diffuse axion signal from the ISM and other, large-scale, astrophysical plasmas to be too weak to be detected with modern technologies. We therefore find that the best avenue towards detecting a potential quantum chromodynamics (QCD) axion dark-matter particle is through the radio imaging of large swaths of the Galactic Center and other regions where we expect large numbers of pulsars and neutron stars.",
+      "score": 90,
+      "reason": "🎯銀河NS magnetosphere全部のaxion→photon背景!cosmic birefringence/ALP-photon coupling探索と相補",
+      "summary": "📡heuristic Galactic modelでNS magnetosphereのaxion-photon変換背景を予測、低周波で検出可能性"
+    },
+    {
+      "arxiv_id": "2605.14279",
+      "title": "Opportunities for Gravitational Wave Physics at the South Pole",
+      "authors": [
+        "C. A. Argüelles",
+        "M. DuVernois",
+        "P. W. Graham",
+        "T. Kovachy",
+        "J. Mitchell"
+      ],
+      "categories": [
+        "astro-ph.IM",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14279",
+      "abstract": "Atom interferometers represent a promising approach for gravitational wave detection in the decihertz frequency band, complementary to existing light-based detectors. The South Pole offers unique advantages for such experiments: exceptionally low seismic noise, established infrastructure for large scientific projects, and a location that strengthens gravitational wave source localization through global triangulation. Here we discuss the scientific case and practical considerations for deploying a long-baseline atom interferometer at the South Pole, which has the potential to expand the global network of gravitational wave detectors while enabling precision tests of fundamental physics.",
+      "score": 87,
+      "reason": "❄️南極atom interferometerでdecihertz GW!地震ノイズ低+大型インフラ、CMB-S4立地と相補的なGW観測",
+      "summary": "🛰️長基線atom interferometerを南極設置する科学的・実用的検討、global triangulation強化"
+    },
+    {
+      "arxiv_id": "2605.14657",
+      "title": "Parametrization of the primordial power spectrum in loop quantum cosmology",
+      "authors": [
+        "Almudena Guillén",
+        "Kai Langer",
+        "Guillermo A. Mena Marugán",
+        "Niklas Rodenbücher",
+        "Antonio Vicente-Becerril"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.14657",
+      "abstract": "We investigate the imprints on the angular power spectra of cosmological perturbations of a pre-inflationary bounce phase, as described by the hybrid and dressed metric approaches to loop quantum cosmology. For this purpose, we derive a new parametrization of the primordial power spectrum at the end of the inflationary regime. Apart from slow-roll coefficients and cosmological parameters that are present in the standard cosmological scenario without quantum modifications, this parametrization additionally depends only on pre-inflationary physics. More specifically, we find a dependence on the number of e-folds during the bounce epoch and on a characteristic suppression scale which, given the e-folds accumulated during cosmic evolution, is determined by the energy density at the bounce. Recall that this density depends on the Immirzi parameter and the area gap known from LQG. This leads to a robust and accurate parametrization of the primordial power spectrum. Since in pre-inflationary scenarios there is no preferred vacuum state, we adopt the NO-AHD proposal, which selects a vacuum that is optimally adapted to the background dynamics and yields a non-oscillatory primordial power spectrum. With this choice, we show that the tensor-to-scalar ratio in both quantization approaches coincides with its expression in the standard $\\Lambda$CDM model when the observed scales are not much smaller than the power-suppressed region. Computing also the angular power spectrum, we find that, for a total cosmic expansion of about 140 e-folds, both the hybrid and the dressed metric approaches exhibit excellent agreement with Planck data at high multipoles, while apparently improving the fit with respect to $\\Lambda$CDM for low multipole numbers.",
+      "score": 87,
+      "reason": "🔁LQC pre-inflationary bounceがprimordial spectrumに残す痕跡!CMB解析でtestableな新パラメータ化",
+      "summary": "🎯hybrid/dressed metric LQCをslow-roll+pre-inflation parameterで再パラメータ化、CMB観測比較"
+    },
+    {
+      "arxiv_id": "2605.15192",
+      "title": "Isocurvature-Free QCD Axion Dark Matter from Inflaton-Driven Early QCD: the Necessity of Inflationary Plateaus",
+      "authors": [
+        "Katherine Freese",
+        "Evangelos I. Sfakianakis",
+        "Barmak Shams Es Haghi"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.15192",
+      "abstract": "A direct coupling between the inflaton and Standard Model gluons can dynamically raise the QCD confinement scale during inflation, making the axion temporarily heavy and suppressing axion isocurvature perturbations. As inflation proceeds, the confinement scale relaxes, the axion becomes light, and late-time de Sitter fluctuations can generate the observed dark matter abundance. We analyze this mechanism without specifying an inflationary potential, instead parametrizing the background by $\\epsilon(N) \\propto 1/N^p$, where $N$ is the number of $e$-folds before the end of inflation. The single parameter $p$ distinguishes monomial models ($p=1$), standard plateau models ($p=2$), and ultra-flat plateau or hilltop-like models ($p\\ge 3$). We (analytically) show that the mechanism selects plateau-like ($p\\ge 2$) inflation: monomial models generically cause the confinement scale to grow too rapidly, while plateau models keep the QCD sector under perturbative control. In the minimal scenario, reheating occurs through the same inflaton-gluon coupling, and viable axion dark matter production is obtained when deconfinement occurs after the CMB window. The early-confinement sector also shifts the scalar spectral index to larger, bluer values, opening viable parameter space for models otherwise disfavored by CMB data.",
+      "score": 87,
+      "reason": "🎯inflaton→QCD直接結合でaxion isocurvature抑制!plateauの必要性、CMB観測のr制限と整合",
+      "summary": "ε(N)∝1/N^pでbackgroundパラメータ化、plateauがaxion DM観測整合に必須と主張"
+    },
+    {
+      "arxiv_id": "2605.14797",
+      "title": "How Much Can Gravitons Be Squeezed?",
+      "authors": [
+        "Panagiotis Dorlis",
+        "Nick E. Mavromatos",
+        "Sarben Sarkar",
+        "Sotirios-Neilos Vlachos"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.14797",
+      "abstract": "Quantum Gravity remains elusive, largely because its observable effects are suppressed by powers of the Planck scale. Direct detection of single gravitons is widely believed to be impossible. Here we propose a concrete astrophysical mechanism that may overcome this suppression. We show that superradiant axion-like-particle clouds surrounding rotating black holes can generate multimode squeezed states of gravitons containing up to $10^6$ - $10^7$ correlated quanta. Such states exhibit distinctive polarization correlations and quantum-noise signatures that could be detectable in future gravitational-wave interferometers. Observation of these signatures would constitute direct evidence for the quantum nature of gravitational radiation. Conversely, their absence can place constraints on axion-cloud lifetimes. Our approach also provides a test of General Relativity as an effective field theory.",
+      "score": 86,
+      "reason": "🌀回転BH周りのALP cloudでmultimode squeezed graviton!polarization相関でprimordial GW探索の新窓",
+      "summary": "Kerr BH superradiant ALP cloudが10^6–7個のcorrelated graviton squeeze状態を生成"
+    }
+  ]
+}

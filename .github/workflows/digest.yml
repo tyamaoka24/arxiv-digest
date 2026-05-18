@@ -5,6 +5,10 @@ on:
     - cron: '30 1 * * 1-5'  # UTC = JST 10:30, weekdays only
   workflow_dispatch:          # Manual trigger button
 
+
+permissions:
+  contents: read
+
 jobs:
   digest:
     runs-on: ubuntu-latest

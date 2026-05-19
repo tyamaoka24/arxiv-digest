@@ -1,0 +1,116 @@
+{
+  "total_fetched": 156,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.15658",
+      "title": "Wave packet landscape in linear open quantum systems",
+      "authors": [
+        "Kang Xu",
+        "Miao-Miao Yi",
+        "Zi-Hong Yan",
+        "C. P. Sun"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.15658",
+      "abstract": "We develop a quantum landscape approach to characterize the long-time behavior of wave packet spreading in linear open quantum systems. Instead of treating diffusion, localization, and collapse of the wave packet as separate dynamical phenomena, we show that they originate from the symmetry structure of an underlying landscape in covariance space. The geometry of this landscape determines these distinct long time behaviors. Trapping potentials and bath fluctuations act as distinct symmetry-breaking perturbations, leading to noncommuting long-time limits and abrupt changes in the asymptotic wave-packet width. This geometric picture provides a unified origin for wave-packet diffusion, localization, and collapse in dissipative quantum dynamics.",
+      "score": 92,
+      "reason": "線形開放量子系の波束拡散をランドスケープ的に統一する論文✨ 波束形式の中心テーマど真ん中。トラップとバス揺らぎを対称性破れとして扱う見立ても面白い🎯",
+      "summary": "covariance空間の幾何を作って、拡散・局在・収縮を同一ランドスケープの対称性破れとして長時間挙動を分類。"
+    },
+    {
+      "arxiv_id": "2605.15261",
+      "title": "Magnetic Turbulence Boosts Supernova Signals of Axion-Photon Conversion",
+      "authors": [
+        "Damiano F. G. Fiorillo",
+        "'Angel Gil Muyor",
+        "Georg G. Raffelt",
+        "Edoardo Vitagliano"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2605.15261",
+      "abstract": "Magnetic fields between a supernova (SN) and Earth convert axions into gamma rays. The absence of such a signal in coincidence with SN 1987A neutrinos, using the coherent Milky Way field, provides well-studied constraints on $g_{ap}\\times g_{a\\gamma}$ (axion-proton times axion-photon couplings) and on $g_{a\\gamma}$ alone. We show that the small-scale power of the turbulent magnetic field component boosts axion-photon conversion and, crucially, extends sensitivity to larger masses. The turbulent field components of the Milky Way and of the Large Magellanic Cloud (hosting SN 1987A) yield improvements of up to two orders of magnitude in $g_{ap}\\times g_{a\\gamma}$. Turbulence should likely impact the sensitivity of other searches based on other axion-photon conversion sites, such as starburst galaxies.",
+      "score": 88,
+      "reason": "超新星間磁場の小スケール乱流で軸子→光子変換が増幅される話🌀 SN1987A制約が高質量側へ拡張、軸子DM phenomenologyに直撃💥",
+      "summary": "SN-地球間の乱流磁場で軸子→γ変換が増幅、結合g_aγへの制約が大質量領域へ伸びる。"
+    },
+    {
+      "arxiv_id": "2605.15371",
+      "title": "Warm, not Fuzzy: Generalized Ultralight Dark Matter Limits from Milky Way Satellites",
+      "authors": [
+        "Ethan O. Nadler",
+        "Mustafa A. Amin",
+        "Risa H. Wechsler",
+        "M. Sten Delos",
+        "Andrew Benson",
+        "Vera Gluscevic"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.15371",
+      "abstract": "We generalize lower limits on the dark matter (DM) particle mass $m$ derived from Milky Way (MW) satellite galaxy abundances to scenarios in which DM is an ultralight scalar field produced with a field power spectrum peaked at a subhorizon wavenumber $k_*$. In these models, the DM field free-streams similar to warm dark matter while also exhibiting significant small-scale wave interference effects. The resulting dimensionless density power spectrum shows two effects: (i) free-streaming suppression at $k_{\\rm fs}\\sim k_{\\rm eq}/[(k_*/a_{\\rm eq}m)\\ln(a_{\\rm eq}m/k_*)]$; (ii) Poisson-like enhancement related to wave interference, at $k\\gtrsim10^{-2}k_*$, which saturates near the Jeans scale $k_{\\rm J}\\sim k_{\\rm eq}/(k_*/a_{\\rm eq}m)$. Comparing these predictions with established constraints on a free-streaming cutoff in the linear matter power spectrum from the MW satellite population, we obtain $m>6\\times10^{-18}\\,{\\rm eV}\\,(k_*/10^4\\,{\\rm Mpc}^{-1})$ for $k_*>10^4\\,{\\rm Mpc}^{-1}$ at 95\\% confidence. For smaller $k_*$, Poisson-noise enhancement on MW satellite scales weakens the constraint, yielding $m>6\\times10^{-18}\\,{\\rm eV}\\,(k_*/10^4\\,{\\rm Mpc}^{-1})^2$ for $k_*<10^4\\,{\\rm Mpc}^{-1}$ at 95\\% confidence.",
+      "score": 86,
+      "reason": "MW衛星銀河からULDM質量下限を「warm + 干渉」二段で一般化🌌 ファジィDMだけでなく一般スカラー場ULDMにも効く制約に。",
+      "summary": "サブホライズンkの場パワー峰で生成されたULDMに対し、free-streaming + 干渉効果でDM質量下限を拡張。"
+    },
+    {
+      "arxiv_id": "2605.16201",
+      "title": "Irreducible Graviton Floor from Reheating",
+      "authors": [
+        "James M. Cline",
+        "Yong Xu"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.16201",
+      "abstract": "Inflaton decay inevitably emits gravitons through bremsstrahlung during reheating. We show that the soft part of this emission amplitude, fixed by Weinberg's soft-graviton theorem, becomes an irreducible stochastic gravitational-wave (GW) background after accounting for cosmological evolution. The theorem fixes the infrared branch of the spectrum, $\\Omega_{\\rm GW}\\propto f$, independently of the microscopic operator responsible for inflaton decay, while the normalization is controlled by the hard inflaton decay rate and by a phase-space factor. We carry this out for inflaton $n$-body decays, including the phase-space integrals, finding that the maximum of the spectrum scales as $2/n$ relative to the $n=2$ case. The signal can reach $\\Omega_{\\rm GW}h^2\\sim \\mathcal O(10^{-17})$ at frequencies above the GHz scale. This predicts a stochastic graviton floor from perturbative reheating: a larger signal would require either other processes beyond perturbative bremsstrahlung or inflationary scenarios beyond conventional single-field slow roll.",
+      "score": 90,
+      "reason": "インフラトン崩壊から避けられないグラビトン背景がワインバーグソフト定理で導出される✨ Ω_GW ∝ f の IR スペクトル、再加熱物理の普遍下限🎉",
+      "summary": "reheating期にinflaton崩壊が必ず放つソフトグラビトンが、模型非依存のIR下限ΩGW∝fを与える。"
+    },
+    {
+      "arxiv_id": "2605.15858",
+      "title": "Loop Quantum Kaluza-Klein Cosmology and Inflation",
+      "authors": [
+        "Shengzhi Li",
+        "Yongge Ma",
+        "Faqiang Yuan",
+        "Xiangdong Zhang"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.15858",
+      "abstract": "We present the detailed analyses of five-dimensional loop quantum Kaluza-Klein cosmology based on the symmetric reduction of the connection formulation of the full theory. The previous results in a particular scenario are extended to more general cases. The effective scalar constraint for the geometric sector of the model is derived by the systematic semi-classical analysis in both the canonical and path-integral formulations, incorporating the quantum fluctuations as a subleading-order correction. The resulting effective scalar constraint not only exhibits the correct classical limit of the quantum system, but also serves as the basis for investigating the following three distinct effective scenarios through the incorporation of matter contributions: (i) vacuum, (ii) minimally coupling with a scalar field, and (iii) coupling with the dust. In all the three effective scenarios, the big bang and potential past big rip singularities in the classical model are naturally resolved by including the leading-order quantum correction of holonomies. Moreover, the visible universe undergoes a super-inflationary phase after overcoming the classical big bang singularity, during which the phenomenologically desired 55 e-folds can be achieved by appropriate initial conditions. In the case where the subleading-order quantum fluctuation term is included as a constant, the evolutions of the five-dimensional universe in all the three effective scenarios not only achieve sufficient inflation in the visible dimensions, but also exhibit re-collapse behaviors at certain large scales. Hence the cosmic inflation may originate from the interplay between compact extra dimensions and quantum geometric effects.",
+      "score": 87,
+      "reason": "5次元ループ量子Kaluza-Kleinコスモロジーで semi-classical 有効ハミルトニアン構築🌟 余剰次元×インフレーションのコア課題に直接効く",
+      "summary": "5D LQKK cosmology の effective scalar constraint を canonical + path-integral 両方で導出、inflation局面を解析。"
+    },
+    {
+      "arxiv_id": "2605.15772",
+      "title": "Accretion Effects on Primordial Black Hole Reheating Constraints",
+      "authors": [
+        "Chenhuan Wang"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.15772",
+      "abstract": "In this work, we study the effects of accretion on the primordial black hole (PBH) reheating scenario. PBHs could form from primordial fluctuations. If they have the right mass and abundance, they could dominate the Universe and complete the reheating entirely through Hawking radiation. We find accretion effects on the BH can not only increase the BH mass, but also prolong such early matter domination. The consequence of the accretion is further investigated using isocurvature induced gravitational waves (GWs), which are generated right after the sudden evaporation of the BHs from the oscillation of the gravitational potential. Big Bang nucleosynthesis limits on the energy density of the GWs put important constraints on the PBH domination scenario. Inclusion of accretion shifts such constraints significantly towards smaller formation mass and smaller initial abundance. Furthermore, the PBH could undergo mergers leading to extended mass functions. We find similar shifts in the allowed parameters with the inclusion of accretion for the merger constraint. We find the constraints from isocurvature GWs typically stronger than the constraints from mergers.",
+      "score": 86,
+      "reason": "PBH 由来 reheating への accretion 効果✨ BH質量増加 + early matter domination 延伸 → isocurvature induced GW シグナル🌊 おもしろ",
+      "summary": "降着効果でPBH質量増 + early matter dominationが延びる、isocurvature induced GW で probing 可能に。"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "total_fetched": 156,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.16201",
+      "title": "Irreducible Graviton Floor from Reheating",
+      "authors": [
+        "James M. Cline",
+        "Yong Xu"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.16201",
+      "abstract": "Inflaton decay inevitably emits gravitons through bremsstrahlung during reheating. We show that the soft part of this emission amplitude, fixed by Weinberg's soft-graviton theorem, becomes an irreducible stochastic gravitational-wave (GW) background after accounting for cosmological evolution. The theorem fixes the infrared branch of the spectrum, $\\Omega_{\\rm GW}\\propto f$, independently of the microscopic operator responsible for inflaton decay, while the normalization is controlled by the hard inflaton decay rate and by a phase-space factor. We carry this out for inflaton $n$-body decays, including the phase-space integrals, finding that the maximum of the spectrum scales as $2/n$ relative to the $n=2$ case. The signal can reach $\\Omega_{\\rm GW}h^2\\sim \\mathcal O(10^{-17})$ at frequencies above the GHz scale. This predicts a stochastic graviton floor from perturbative reheating: a larger signal would require either other processes beyond perturbative bremsstrahlung or inflationary scenarios beyond conventional single-field slow roll.",
+      "score": 92,
+      "reason": "🌊 reheating由来の不可避なsoft graviton背景がΩ_GW∝f のIRスペクトルを持つ。LiteBIRDのr目標と相補的なPGW floor として非常に注目。",
+      "summary": "Weinberg soft graviton定理から、inflaton崩壊で生じるソフトグラビトンが模型非依存のIR PGW下限を与えると示す。"
+    },
+    {
+      "arxiv_id": "2605.15259",
+      "title": "TransitionListener v2.0 -- Robust gravitational wave predictions for cosmological phase transitions",
+      "authors": [
+        "Jonas Matuszak",
+        "Carlo Tasillo"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.15259",
+      "abstract": "Gravitational wave backgrounds from strong first-order cosmological phase transitions are key observational targets predicted by many SM extensions and might be observed by current and future observatories like LISA, the Einstein Telescope or pulsar timing arrays (PTAs). Still, their precise forecast given a specific model remains a challenge. In this article, we present TransitionListener v2.0, a Python framework for precision studies of cosmological phase transitions and their associated gravitational wave (GW) signals. The code provides an end-to-end pipeline from a user-defined scalar potential to GW spectra and signal-to-noise ratios, enabling both benchmark studies and large-scale parameter scans. Version 2 introduces a self-consistent treatment of the transition dynamics, including the evolution of the true-vacuum fraction and its backreaction on the Hubble expansion, as well as a consistent description of reheating during percolation. A direct computation of the mean bubble separation allows to faithfully map to the GW spectral templates from bubble collisions, sound waves, and turbulence stemming from state-of-the-art simulations. TransitionListener includes built-in sensitivity curves for space- and ground-based detectors and PTAs, interfaces to PTA likelihoods, and wrappers for Bayesian model inference and high-dimensional parameter scans. Compared to existing public tools, TransitionListener v2.0 improves the physical consistency and numerical stability of GW predictions across a wide range of models, with particular emphasis on the strongly supercooled and ultraslow transition regime where conventional approximations break down and the most promising GW signals are expected.",
+      "score": 86,
+      "reason": "cosmological phase transition の重力波予測精度を上げる TransitionListener v2.0🔧 LISA/ET/PTA向けだが、CMB B-mode 二次寄与にも関連。",
+      "summary": "first-order PTからのGW背景を精密にforecastするPython framework v2.0。LISA/ET/PTAのターゲット予測を強化。"
+    },
+    {
+      "arxiv_id": "2605.15947",
+      "title": "Dipoles for everyone: the pseudo-$C_\\ell$ approach to directional stacking",
+      "authors": [
+        "Lea Harscouet",
+        "Amy Wayland",
+        "David Alonso"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.15947",
+      "abstract": "Stacking (i.e. averaging) the value of a given astrophysical field around sources allows us to detect new cosmological signatures, such as the kinematic Sunyaev-Zel'dovich, and gain insight on the astrophysical properties of galaxies and their environment. Further information may be gained by orienting these stacks along preferred axes defined by a local directed field, such as the transverse galaxy velocities, galaxy shapes, or the local tidal forces. Examples of this are searches for the moving lens effect, the detection of dipole signatures, or the study of cosmic filaments. Here we show that all directional stacking signals may be reconstructed, without loss of information, in terms of the cross-power spectrum between the quantity of interest and the $E$ and $B$ modes of the spin field used to define the preferred axes weighted by the local galaxy density. The power spectrum approach has several practical advantages, in terms of speed, finite-resolution effects, data visualisation, and combination with other cosmological probes. We also argue that, in some cases, such as stacking using velocities or tidal forces reconstructed from the density field, the recovered signal may be dominated by information that is already present in the cross-spectrum between the target field and the galaxy overdensity itself.",
+      "score": 85,
+      "reason": "directional stacking を pseudo-Cl で系統的に扱う一般枠組み📊 kSZや銀河shape整列など CMB-LSS cross の使い勝手が良くなる。",
+      "summary": "任意のdirected fieldに沿った天体まわりの場の方向stackingを、pseudo-Cl 形式で一般的に定式化。"
+    }
+  ]
+}

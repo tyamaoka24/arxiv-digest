@@ -1,0 +1,72 @@
+{
+  "total_fetched": 300,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.17532",
+      "title": "From Fundamental Dynamics to Applied Cryptography: Studies on the Quantum Speed Limit and Fully Passive Quantum Key Distribution",
+      "authors": [
+        "Jinjie Li"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.17532",
+      "abstract": "This thesis studies two distinct frontiers of quantum information processing: the\n  fundamental physical limits of dynamical evolution and the practical realization of secure\n  quantum communication networks.",
+      "score": 88,
+      "reason": "⏱️ QSLとQKDを束ねたPhD thesis。quantum speed limitに直接ど真ん中の総説的位置付け",
+      "summary": "量子動力学の根源的限界 (QSL) と fully passive QKD の実装を一冊で連結、QSL章は時間-エネルギーの規律根拠としても有用"
+    },
+    {
+      "arxiv_id": "2605.16935",
+      "title": "Exact Entanglement-Depth Speed Frontier for Complete Quantum Charging",
+      "authors": [
+        "Wenlong Sun",
+        "Gang Lu",
+        "Yuanfeng Jin"
+      ],
+      "categories": [
+        "quant-ph",
+        "math.OA"
+      ],
+      "url": "https://arxiv.org/abs/2605.16935",
+      "abstract": "Complete quantum charging provides a sharp setting in which to ask how much multipartite entanglement is forced by speed itself. For a closed \\(N\\)-qubit battery evolving from \\(\\ket{\\downarrow}^{\\otimes N}\\) to \\(\\ket{\\uparrow}^{\\otimes N}\\) under a time-independent Hamiltonian, we exactly solve the pure-state depth-constrained speed problem. If the realized trajectory has entanglement depth at most \\(k\\), then the largest possible QSL-normalized rate \\(\\eta=\\tau_{\\rm QSL}/T\\) is \\(\\eta_{\\max}(k)=\\lceil N/k\\rceil^{-1/2}\\). Conversely, an observed rate \\(\\eta\\) certifies trajectory entanglement depth at least \\(\\bigl\\lceil N/\\lfloor \\eta^{-2}\\rfloor\\bigr\\rceil\\). The mechanism is block orthogonalization: under a fixed product partition, complete charging forces all blocks to orthogonalize simultaneously, and the quantum speed limit converts this counting constraint into the speed bound. Balanced cluster-flip evolutions saturate the bound, establishing an exact integer staircase frontier. Thus fast complete charging cannot be explained by many small independently charging blocks; in particular, crossing the threshold \\(\\eta>1/\\sqrt2\\) certifies, for \\(N>1\\), the generation of genuine \\(N\\)-partite entanglement.",
+      "score": 87,
+      "reason": "⚡ N-qubit batteryでentanglement depth k制約下のQSL正規化レートを exact 解。QSLの幾何の足腰を強化",
+      "summary": "depth-k許可下の最大レート η_max(k,N) を厳密化、Mandelstam-Tamm線の上界の構造化に有用"
+    },
+    {
+      "arxiv_id": "2605.18392",
+      "title": "Precision limits for time-dependent quantum metrology under Markovian noise",
+      "authors": [
+        "Luca Previdi",
+        "Francesco Albarelli"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.18392",
+      "abstract": "We derive ultimate precision bounds for estimating parameters encoded in \\emph{time-dependent} Hamiltonians in the presence of general Markovian noise, allowing for arbitrary adaptive protocols with fast controls and noiseless ancillas. Extending the minimization-over-purifications framework to time-varying continuous channels, we obtain a differential upper bound on the achievable quantum Fisher information (QFI) that can be evaluated at all times via semidefinite programming. For parameter-independent noise, we prove a universal long-time scaling law: if the coherent (noiseless) dynamics yields $Q_{\\mathrm{coh}}(T)\\sim T^{2k}$, then under Markovian noise the QFI scales at most as $Q(T)\\sim T^{2k}$ in the DHNLS regime, whereas in the DHLS regime it is fundamentally limited to $Q(T)\\sim T^{2k-1}$. We illustrate these behaviors on paradigmatic driven-qubit sensors, exhibiting $T^{4}$ and $T^{3}$ scalings under dephasing and spontaneous emission, respectively. Finally, we provide explicit continuous exact and approximate quantum error correction constructions -- supplemented by spin-squeezed probes -- that asymptotically saturate the bounds, establishing their tightness.",
+      "score": 86,
+      "reason": "🎯 時間依存ハミルトニアン推定の precision bound を QFI で SDP に乗せる。time-energy的精度限界の正統な拡張",
+      "summary": "Markovian noise下のadaptive推定 + ancilla allowedで QFI 上界をSDP化、time-encoded推定の標準枠組み"
+    },
+    {
+      "arxiv_id": "2605.17935",
+      "title": "The problem of time: a path integral view",
+      "authors": [
+        "Juan Manuel Diaz",
+        "Alejandro Perez"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.17935",
+      "abstract": "We show that the emergence of time evolution in an otherwise timeless nonrelativistic closed quantum system -- viewed as a poor man's model of generally covariant quantum theory -- can be understood from the perspective of the path integral representation. As often happens in the functional integral approach, this viewpoint offers a more intuitive account of features that become cumbersome in the operator/Hilbert-space formulation. We show how Schr\\\"odinger evolution emerges once a clock degree of freedom is identified and placed in a suitable semiclassical `good-clock state'.\n  Our analysis has a consequence that extends to path integral formulations of generally covariant systems with action $S$ (including gravity). In such theories certain transition amplitudes take the form $\\exp(iS/\\hbar)+\\exp(-iS/\\hbar)$ rather than the expected `forward propagating' $\\exp(iS/\\hbar)$. This feature, known as the {\\em cosine problem}, appears in concrete regularizations of the path integral, for example in the spin foam representation defining the physical inner product between spin network states in loop quantum gravity. Both formally and in explicit regularizations, this apparent difficulty has led some authors to seek modifications of the basic amplitudes to eliminate backward propagation.\n  Our model shows that the cosine problem is instead a natural consequence of time-reversal invariance of the fundamental dynamics together with the time-neutral boundary states commonly used in transition amplitudes. When a suitable clock system is identified and placed in a semiclassical `good-clock state', it introduces a time arrow selecting the `forward propagating' $\\exp(iS/\\hbar)$, without modifying the fundamental dynamics.\n  The analysis clarifies how time emerges under suitable conditions and emphasizes that, in the canonical formulation, quantum gravity is fundamentally timeless.",
+      "score": 85,
+      "reason": "🕰️ \"the problem of time\" を path integral で見直す論。clock-DOF導入から Schrödinger 復元の筋を追えて GR量子化の地ならし",
+      "summary": "量子GRのトイ模型で path integral 視点から time-emergence を整理、Page-Wootters的clock構成の道筋を明示"
+    }
+  ]
+}

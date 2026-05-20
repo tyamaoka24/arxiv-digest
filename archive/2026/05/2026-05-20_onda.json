@@ -1,0 +1,162 @@
+{
+  "total_fetched": 300,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.16772",
+      "title": "Constraints on non-canonical chaotic inflation from ACT DR6 and BICEP/Keck data",
+      "authors": [
+        "Wei Yang",
+        "Chen-Hao Wu",
+        "Ya-Peng Hu"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.16772",
+      "abstract": "In this study, we precisely evaluated the feasibility of the chaotic inflation model within a non-canonical kinetic framework. By applying the slow-roll approximation and imposing constraints on the equilateral non-Gaussianity $f_{\\rm NL}^{\\rm equil}$, we imposed constraints on the feasible range of the potential index $n$. We established physical bounds for the non-canonical parameter $\\alpha$. To obtain precise parameter constraints, we solved the primordial perturbation equations numerically and conducted a rigorous MCMC analysis by using a comprehensive joint P-ACT-LB-BK18 dataset. For these potentials $n=1/3$, $2/3$, and $1$, our results respectively tightly limit $\\alpha$ to the levels of $8.8^{+1.6}_{-2.8}$, $11.7^{+1.7}_{-2.6}$, and $16.4^{+3.7}_{-7.0}$, within the corresponding $1\\sigma$ confidence intervals. Meanwhile, the required number of $e$-foldings naturally converges to $N \\simeq 54$, without the need for fine-tuning. These findings confirm that non-standard mechanisms can resurrect excluded chaotic inflation models within the $1\\sigma$ allowed regions of high-precision cosmological data.",
+      "score": 91,
+      "reason": "🔭 ACT DR6 + BICEP/Keck で non-canonical chaotic inflation を制約。LiteBIRDの r 探索の文脈で押さえとくべき",
+      "summary": "非カノニカル運動項+f_NL_equil制約からポテンシャル指数nに物理境界、テンソル/スカラー比とindex同時制約"
+    },
+    {
+      "arxiv_id": "2605.17813",
+      "title": "Positive Running of the Spectral Index for Scalar Theory and Modified Gravity",
+      "authors": [
+        "S. D. Odintsov",
+        "V. K. Oikonomou"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.17813",
+      "abstract": "In this work we address the possibility of having a positive running of the spectral index in inflationary theories. The recent ACT data indicate mildly that the running of the spectral index might be positive, and several other physical indications point out this possibility. If the running of the spectral index is confirmed to be positive by future cosmic microwave background experiments, this can rule out quite popular inflationary scenarios. We investigate how it is possible to obtain a positive running of the spectral index in the context of minimally coupled scalar field gravity and modified gravity. For the modified gravity we choose two mainstream and of string origin candidate theories, $F(R)$ gravity and Einstein-Gauss-Bonnet gravity. In the case of scalar field inflation and $F(R)$ gravity inflation, we demonstrate the difficulties for obtaining a positive running of the spectral index for a viable inflationary regime, so scalar theories and $F(R)$ gravity are mostly compatible with the Planck data. But nuanced scalar field scenarios can be compatible with the ACT data and produce a positive running of the spectral index. In the context of Einstein-Gauss-Bonnet theories which are compatible with the GW170817 event, the running of the spectral index can easily be positive while in parallel having a viable inflationary era.",
+      "score": 90,
+      "reason": "⚡ ACT匂わせの「α_s>0」を真に受けて modified gravity 系で実現性検証。inflation 予言比較の足場として有用",
+      "summary": "R^2系・scalar系で正のrunning α_s実現条件を探索、BICEP/Planck r制約と両立する領域を提示"
+    },
+    {
+      "arxiv_id": "2605.18286",
+      "title": "Primary gravitational waves at high frequencies II: Emergence of the exponential cut-off in the power spectrum",
+      "authors": [
+        "Alipriyo Hoory",
+        "Jerome Martin",
+        "Arnab Paul",
+        "L. Sriramkumar"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.18286",
+      "abstract": "[Abridged] In slow roll inflation, the power spectrum (PS) of primary gravitational waves (PGWs) generated from the quantum vacuum rises as $k^2$ over wave numbers $k$ which never leave the Hubble radius. In fact, over such small scales, the PS exhibits a similar behavior at any time after inflation. In a recent work, we had argued that the PS of PGWs has to be regularized to truncate the unphysical quadratic rise at large wave numbers. Assuming instantaneous transitions from inflation to the epochs of radiation and matter domination, we had shown that the regularized PS oscillates with a constant amplitude about a vanishing mean over small scales during these epochs. We had also smoothed the transition (actually, the `effective potential' governing the equation of motion of GWs) from inflation to radiation domination using a linear function and evaluated the regularized PS of PGWs post inflation. In such a case, we had shown that, over small scales, while the regularized PS continues to oscillate about zero, its amplitude decreases as $k^{-1}$. In this work, using the Born approximation, we examine the behavior of the regularized PS of PGWs over small scales when they are evolved through smoother and smoother transitions from inflation to the epochs of radiation and matter domination. We illustrate that, at small scales or high frequencies, the suppression in the regularized PS of PGWs occurs more and more sharply as the transition is smoothed further and further. With the help of examples, we also show that, in the case of transitions described by infinitely differentiable `effective potentials', the regularized PS of PGWs exhibits an exponential suppression on small scales. We argue that the observation of the exponential drop in the PS of PGWs can help us determine the energy scale and the time of the end of inflation. We clarify related issues and discuss the wider implications.",
+      "score": 89,
+      "reason": "🌊 primordial GWの power spectrum の指数カットオフを slow-roll inflation で導出。CMB B-mode の高周波限界の話",
+      "summary": "PGW PSの k^2 上昇を物理的に切る regularization を inflation→radiation遷移で実装、高周波の理論不定性を整理"
+    },
+    {
+      "arxiv_id": "2605.18659",
+      "title": "Faster CMB lensing with control variates",
+      "authors": [
+        "Toshiya Namikawa",
+        "Blake D. Sherwin"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.18659",
+      "abstract": "We present a new method for fast computation of the realization-dependent bias, a major computational bottleneck in measurements of the cosmic microwave background (CMB) lensing power spectrum. The method accelerates the bias calculation by differencing two correlated estimates: one based on fully realistic masked simulations and the other on isotropic simulations, for which the bias is analytically tractable. We show that our algorithm reduces the total computational cost of a lensing power spectrum measurement by approximately a factor of five for Atacama Cosmology Telescope- or Simons Observatory-like noise levels, or by a factor of three if current anisotropic filtering methods are left unchanged. Owing to its simplicity, the method can be readily implemented in existing CMB lensing analysis pipelines.",
+      "score": 88,
+      "reason": "🛰️ CMB lensing power spectrum の realization-dependent bias を control variates で高速化。Namikawa+Sherwin の解析ツール",
+      "summary": "マスクあり/isotropic 2 estimator の差分で bias 計算を加速、LiteBIRD-scale 解析計算量を実用域へ"
+    },
+    {
+      "arxiv_id": "2605.17178",
+      "title": "An EFT Map of Axion Dark Radiation from Reheating",
+      "authors": [
+        "Yong Xu"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.17178",
+      "abstract": "Light, weakly coupled sectors can retain information about the cosmological background in which they are produced. We study light axions produced during reheating and their contribution to dark radiation, $\\Delta N_{\\rm eff}$. We develop a shift-symmetric EFT in which an inflaton-dependent axion kinetic term systematically organizes the leading production channels. The same kinetic function generates both direct inflaton decay and inflaton annihilation from the oscillating inflaton background. Direct decay is described by an invisible inflaton branching fraction, while annihilation is a genuinely reheating-sensitive source controlled by a coherent combination of Wilson coefficients. We derive the contribution to $\\Delta N_{\\rm eff}$ from both channels and show that they scale oppositely with the reheating temperature: the decay contribution falls as $T_{\\rm rh}^{-2}$, whereas the annihilation contribution grows approximately as $T_{\\rm rh}^{4/3}$. Their crossing is missed by treatments that keep only one production channel. We translate current and projected $\\Delta N_{\\rm eff}$ sensitivities into constraints on the Wilson coefficients of the kinetic function, obtaining a two-dimensional EFT map of axion dark radiation from reheating. This map can imply both lower and upper bounds on the reheating temperature, showing that light axion relics can turn dark radiation measurements into constraints on reheating.",
+      "score": 86,
+      "reason": "🌠 reheating期のaxion生成を shift対称EFT で整理、ΔN_eff予言。CMB-S4 / LiteBIRD で見える領域も議論",
+      "summary": "inflaton依存kinetic項でdirect decayとannihilationを統一、dark radiation寄与とCMB感度域を提示"
+    },
+    {
+      "arxiv_id": "2605.16945",
+      "title": "Circular polarization of the cosmic microwave background induced by the optical Magnus effect on gravitational lensing",
+      "authors": [
+        "Yusuke Nishida"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.16945",
+      "abstract": "Polarization of the cosmic microwave background (CMB) brings out information not only on the early universe but also on the late-time large-scale structure via weak gravitational lensing. Here, we show that circular polarization is induced in principle from CMB temperature fluctuations when the optical Magnus effect is incorporated into gravitational lensing. This is a consequence of the transverse shift of a trajectory of light depending on its helicity that requires right-handed and left-handed components at the same observation point to be sourced from different points of the surface of last scattering. Whereas the resulting circular polarization is found far beyond the scope of current detection, our work establishes the optical Magnus effect on gravitational lensing as a new fundamental mechanism to produce circular polarization of CMB.",
+      "score": 86,
+      "reason": "🌀 重力レンズの optical Magnus 効果で CMB に circular polarization を誘起、新しい B-mode 起源候補",
+      "summary": "光の helicity-dependent 横ずれを通常レンズに加味すると T fluctuation→V mode 変換、SO/LiteBIRD で原理探索可能"
+    },
+    {
+      "arxiv_id": "2605.18716",
+      "title": "Recoupled Dark Radiation reconciling CMB and DESI BAO measurements",
+      "authors": [
+        "Ravi Kumar Sharma",
+        "Maria Archidiacono",
+        "Julien Lesgourgues"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.18716",
+      "abstract": "Recent DESI BAO measurements, combined with CMB data, reveal a tension within the $\\Lambda$CDM model that leads to a discrepancy between cosmological and laboratory bounds on the summed neutrino mass. We show that a recoupled interacting radiation component can alleviate this cosmological tension, as well as the one with neutrino oscillation experiments. Sterile neutrinos interacting through a light pseudoscalar mediator provide a concrete realization of this scenario. The resulting interacting fluid modifies the CMB phenomenology, lowers the preferred matter density, and improves the consistency between CMB and DESI BAO measurements. Combining CMB with DESI DR2 BAO measurements, we find a $2.7 \\sigma$ preference for a nonzero interacting sterile neutrino component, $\\nsp=0.253 \\pm 0.094$, corresponding to an improvement $\\Delta \\chi^2=-8.98$ relative to $\\Lambda$CDM. The model also reduces the tension with the SH0ES determination of the Hubble constant to the $2.4\\sigma$ level.",
+      "score": 86,
+      "reason": "⚛️ CMB+DESI BAOのν質量緊張を recoupled dark radiation で緩和。LiteBIRD時代のΛCDM拡張を考えるなら",
+      "summary": "光pseudoscalar mediatorで sterile ν を相互作用化、cosmologicalとlab.のν質量制約を整合化"
+    },
+    {
+      "arxiv_id": "2605.17786",
+      "title": "The First Insights into an Ultraluminous X-ray Pulsar with XRISM: Phase-Resolved High-Resolution Spectroscopy of the Fe K-shell Band of M82 X-2",
+      "authors": [
+        "Shogo B. Kobayashi",
+        "Peter Kosec",
+        "Kazuki Ampuku",
+        "Erin Boettcher",
+        "Renata Cumbee",
+        "Adam Foster",
+        "Yutaka Fujita",
+        "Kotaro Fukushima",
+        "Skylar Grayson",
+        "Gabriel Grell",
+        "Edmund Hodges-Kluck",
+        "Ann Hornschemeier",
+        "Richard Kelley",
+        "Caroline Kilbourne",
+        "Mike Loewenstein",
+        "Ikuyuki Mitsuishi",
+        "Dustin Nguyen",
+        "Evan Scannapieco",
+        "Takeshi Tsuru",
+        "Noriko Yamasaki",
+        "Mihoko Yukita"
+      ],
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2605.17786",
+      "abstract": "During the performance verification phase, XRISM observed the M82 galaxy for a net exposure of 207.7 ks, with the ultraluminous X-ray pulsar (ULXP) X-2 included in the field of view. A pulsation search identified a candidate signal with a period close to the previously known value, 1.38727 s, at a significance of $3.15\\sigma$ based on Monte Carlo simulations. Using this candidate period, phase-resolved spectral analysis with the high spectral resolution of Resolve was performed. The spectra suggest that, if the candidate pulsation is real, the Fe K$\\alpha$ emission line in the pulse peak phase has a larger width ($36^{+60}_{-13}$ eV) than that in the remaining phase at a significance exceeding $3\\sigma$. This suggests that at least a fraction of the Fe K$\\alpha$ emission is associated with the ULXP system. The observed width corresponds to a velocity dispersion of $(1.7^{+2.8}_{-0.6})\\times10^3$ km s$^{-1}$, which is too large to be explained by motions in the companion star atmosphere. The rise time of the pulsation constrains the line-emitting region to be smaller than $6.3\\times10^4$ km, suggesting an origin in the accretion flow. This work demonstrates the capability of XRISM Resolve for pulsation-resolved high-resolution spectroscopy of ULX pulsars.",
+      "score": 85,
+      "reason": "🛰️ XRISM Resolveの初観測 ULXP M82 X-2 の phase-resolved Fe-K spectroscopy。XRISM heritage派は読む",
+      "summary": "1.387秒パルサーをphase-binで Fe-K 解析、X-ray reflectionと風成分の角度依存を初分離"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "total_fetched": 193,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.20078",
+      "title": "On Performance and Limitations of NISQ Hardware for Simulations of Quantum Wave Packet Dynamics",
+      "authors": [
+        "Tamila Kuanysheva",
+        "Jonathan Andrade-Plascencia",
+        "Jayakrushna Sahoo",
+        "Brian Kendrick",
+        "Dmitri Babikov"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.20078",
+      "abstract": "Digital quantum simulation offers a promising route for studying quantum dynamics, but efficient operator representations and circuit depth remain key challenges for near-term hardware. We investigate one-dimensional wave packet dynamics using a grid-based encoding of the wave function onto qubit registers. Time evolution is implemented via split-operator approach, with kinetic energy operator applied using Quantum Fourier Transform (QFT) with polynomial scaling and potential energy operator expressed through commuting Pauli-Z gates, improving accuracy and enabling incorporation of arbitrary discretized potentials. While the full Pauli decomposition of Hamiltonian scales exponentially as O(4^n ), the present approach reduces the operator scaling to O(2^n) for n qubits. We benchmark this approach on classical simulators and quantum hardware (IBM Quantum and IonQ) for two- to five-qubit implementations. For two- and three-qubit cases, all platforms qualitatively reproduce the benchmarked dynamics; at larger qubit counts, the IBM results deviate more strongly, whereas IonQ remains closer to the benchmark.",
+      "score": 90,
+      "reason": "🌊 NISQ実機でのwave packet動力学シミュレーション性能と限界、波束形式直撃のテーマ",
+      "summary": "1D波束をqubitレジスタにグリッド符号化、split-operatorで時間発展、実機の誤差と回路深さの限界を体系評価"
+    },
+    {
+      "arxiv_id": "2605.19706",
+      "title": "Finite-Precision Quantum Mechanics",
+      "authors": [
+        "Abbas Edalat"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2605.19706",
+      "abstract": "Standard quantum mechanics is an idealisation based on infinite-precision objects: point states, exact probabilities, and sharp measurements. Yet every real experiment has finite resolution, and for macroscopic systems we never have access to the microscopic state. Following Heisenberg's call for a theory built only on observable quantities, and von Neumann's insight that a complete description of a macroscopic system is neither possible nor necessary, we elevate the macroscopic state to a fundamental concept.\n  We introduce Interval Quantum Mechanics (IQM), in which the state of a quantum system is never a point but a quantum parcel - a basic weak-star open set of density matrices defined by finitely many open expectation intervals. Such a parcel is the exact mathematical representation of the set of all microscopic states that are compatible with the measured values of a finite set of macroscopic observables.\n  We show that unitary evolution lifts to a deterministic flow on parcels, and that a finite-precision (fuzzy) measurement process is represented by a volume-contracting update that refines the initial parcel into a more constrained open set, strictly increasing the geometric information defined as the Hilbert-Schmidt volume of the parcel. By introducing a second impossible set, we obtain a double-parcel whose information increases monotonically - resolving the von Neumann entropy paradox.\n  The framework eliminates foundational puzzles without additional interpretational assumptions: wave-particle duality becomes a smooth trade-off; Schroedinger's cat is never in a literal superposition; and the spooky action at a distance of entanglement disappears, replaced by a purely epistemic geometric update. All empirical predictions of standard quantum mechanics are recovered exactly in the infinite-precision limit, which is never physically attained.",
+      "score": 86,
+      "reason": "🔬 「有限精度量子力学」、Heisenbergの観測可能量だけで書く立場、von Neumann拡張で測定理論を再構築",
+      "summary": "理想化された点状態・鋭い測定を捨て、自己共役縮小作用素として観測量を扱う有限精度QMの定式化を提示"
+    },
+    {
+      "arxiv_id": "2605.20111",
+      "title": "Mechanism of wavefunction collapse in measurements of separated quantum subsystems",
+      "authors": [
+        "Gregory D. Scholes"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.20111",
+      "abstract": "The specific advance of this work is to propose a mechanism by which superpositions collapse during measurement of the separated subsystems of entangled quantum states. It is shown how the phase that locks together entangled states plays a special role in the measurement of isolated subsystems. This `contextual' phase is installed randomly into the entangled state, and decides the measurement outcomes for the subsystems by directing the collapse of each superposition to a particular classical outcome when a subsystem is measured. The measuring apparatus thus obtains a classical read-out of the quantum correlations embedded in an entangled state. More broadly, these results solidify the theory of measurement of quantum superpositions.",
+      "score": 85,
+      "reason": "🌀 分離した部分系の測定で波束収束を担うメカニズム提案、エンタングル位相が文脈依存に役割",
+      "summary": "エンタングル状態の位相を「文脈位相」として導入、孤立した部分系を測ったときに位相が崩壊結果を決める描像"
+    }
+  ]
+}

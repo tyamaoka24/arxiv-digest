@@ -1,0 +1,145 @@
+{
+  "total_fetched": 193,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.18939",
+      "title": "The Lumina Project: CMB Optical Depth Fluctuations from Patchy Reionization",
+      "authors": [
+        "Aaron Smith (UT Dallas)",
+        "Oliver Zier (CfA)",
+        "Rahul Kannan (York)",
+        "Xuejian Shen (MIT)",
+        "Rongrong Liu (CfA)",
+        "Mark Vogelsberger (MIT)",
+        "Volker Springel (MPA)",
+        "Ruediger Pakmor (MPA)",
+        "Sonja M. Koehler (CfA)",
+        "Lars Hernquist (CfA)",
+        "Meredith Neyer (MIT)"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.GA"
+      ],
+      "url": "https://arxiv.org/abs/2605.18939",
+      "abstract": "Patchy reionization couples the ionized-bubble morphology to the underlying density field, making the CMB Thomson optical depth sensitive to both the global ionization history and anisotropic fluctuations on the sky. Using the large-volume radiation-hydrodynamical Lumina simulation, we compute $\\tau_{\\rm CMB}$ in two ways: (i) from global volume- and mass-weighted ionization histories, and (ii) from explicit line-of-sight integrations through on-the-fly light cones. We find that the sightline-averaged optical depth in the light cone, $\\langle \\tau_{\\rm LOS} \\rangle = 0.0550$, exceeds the value inferred from a global volume-weighted history, $\\tau_{{\\rm CMB},V} = 0.0515$, by $\\approx 7\\%$. This enhancement is largely captured by the global mass-weighted prediction, $\\tau_{{\\rm CMB},m} = 0.0544$, indicating that precision comparisons to CMB optical-depth constraints should use mass-weighted electron fractions or explicit light-cone integration rather than volume-weighted ionized fractions alone. The excess optical depth accumulates primarily near $z_{\\rm LOS} = 8.0^{+1.9}_{-1.3}$, where the combination of high physical density and strong ionization-field patchiness is greatest. The resulting $\\tau_{\\rm LOS}$ field is non-Gaussian and exhibits $\\gtrsim 5\\%$ sightline-to-sightline scatter, with fluctuations tracing rare early-ionized overdensities and large-scale structure. Coarse-graining experiments show that smoothing the ionization field on $\\gtrsim 3 {\\rm cMpc}$ scales suppresses the density-ionization correlation and biases $\\tau_{\\rm CMB}$ low relative to the resolved calculation. Finally, angular power spectra and real-space correlation functions decomposed into HII, HeII, and HeIII auto- and cross-contributions reveal scale-dependent departures from simple hydrogen-helium co-tracing and evolving characteristic scales with redshift.",
+      "score": 89,
+      "reason": "💫 LuminaシミュでpatchyリオニゼーションのCMB光学厚みゆらぎを計算、τ_CMBの大規模ばらつき定量化",
+      "summary": "輻射流体大ボリュームシミュで、グローバル電離履歴とパッチ的揺らぎの両方からτ_CMB空間相関とパワースペクトルを評価"
+    },
+    {
+      "arxiv_id": "2605.18938",
+      "title": "First detection of the moving lens effect with ACT and DESI LS",
+      "authors": [
+        "Selim C. Hotinli",
+        "Kendrick M. Smith",
+        "Simone Ferraro",
+        "Ali Beheshti",
+        "Arthur Kosowsky",
+        "Elena Pierpaoli",
+        "Emmanuel Schaan"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.18938",
+      "abstract": "The moving lens effect is a secondary CMB anisotropy induced by the transverse motion of gravitational potentials. We develop a Fourier-space cross-spectrum estimator that retains the scale dependence of the signal, and apply it to the Atacama Cosmology Telescope (ACT) DR6 CMB temperature maps and luminous red galaxies from the DESI Legacy Imaging Surveys. Using the foreground-reduced ACT NILC map, we find strong evidence for a non-zero amplitude of the cross-correlation $b_{\\rm ML} = 1.24 \\pm 0.26$ ($4.8\\sigma$) for the extended sample and $0.93 \\pm 0.25$ ($3.7\\sigma$) for the main sample, both consistent with the halo-model prediction for the moving lens signal. Our Fourier-based pipeline enforces separation of scales between the reconstructed velocities and the cross-correlation, which we show is essential for foreground mitigation. The residual foreground contamination is expected to be significantly smaller than the signal from both simulations and the multi-frequency analysis presented in this paper. No curl-mode test exceeds $2\\sigma$, and the results are robust across analysis variants. They constitute the first detection of the moving lens effect and unlock access to transverse velocities, a new cosmological probe. When combined with the kinematic Sunyaev-Zel'dovich effect, this provides a path toward mapping the three-dimensional velocity field of the Universe, opening a new avenue for probing the growth of structure and gravity on large scales.",
+      "score": 87,
+      "reason": "🎯 ACT DR6×DESI LRGでmoving lens効果を初検出、CMB×銀河で重力ポテンシャル横運動を捕捉",
+      "summary": "Fourier空間クロススペクトル推定器でACT NILCマップとDESI Legacy LRGを相関、moving lens信号を有意検出"
+    },
+    {
+      "arxiv_id": "2605.19763",
+      "title": "CMB lensing imprints of cosmic voids in DESI Legacy Survey DR9 LRGs with photometric redshift calibration",
+      "authors": [
+        "Simone Sartori"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.19763",
+      "abstract": "The lensing imprint of cosmic voids in the Cosmic Microwave Background (CMB) provides a powerful test of the $\\Lambda$CDM model. However, recent studies report a \"lensing-is-low\" tension between observations and mock predictions. To investigate this, we measure the stacked CMB lensing signal of 3D cosmic voids identified in the DESI Legacy Survey DR9 Luminous Red Galaxy (LRG) sample, cross-correlated with the Planck 2018 lensing map. We compare our observations to $\\Lambda$CDM templates derived from Buzzard mocks, critically calibrated using over one million DESI spectra to perfectly match the sparseness and photometric redshift error distributions of the observed data. By categorizing voids based on their gravitational potential, we disentangle the signals of void-in-voids and void-in-clouds, achieving two independent record detection significances of $\\sim 17\\sigma$. We find full agreement between observations and simulated $\\Lambda$CDM templates across all void populations and redshift bins ($0.35\\! <\\! z\\! <\\! 0.95$), measuring an amplitude parameter $A_\\kappa = 1.016 \\pm 0.054$ for the full sample. This highlights the necessity of accurate systematic control, effectively resolving the reported lensing tension within this dataset. This proceeding summarizes the results presented in Sartori et al. (2025).",
+      "score": 87,
+      "reason": "🌌 DESI LRGの3Dボイドに対するCMBレンズ刻印、lensing-is-low tensionをDR9で再評価",
+      "summary": "光的赤方偏移較正したDESI Legacy DR9 LRGから3Dボイドを抽出、ΛCDM予想に対する積層CMBレンズ信号を測定"
+    },
+    {
+      "arxiv_id": "2605.19953",
+      "title": "Probing String-Theory-Inspired Topologies of the Early Universe through CMB Temperature and Polarization Anisotropies",
+      "authors": [
+        "Nick E. Mavromatos",
+        "Miguel-Angel Sanchis-Lozano"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.19953",
+      "abstract": "TeV string-mass-scale strings have been excluded experimentally at colliders, as their effects have not been observed at the Large Hadron Collider (CERN). On the other hand, higher-scale string theory, with mass scales typically close to the Planck scale, is often regarded as experimentally inaccessible due to the enormous energies required for direct tests, and far beyond the reach of present or foreseeable particle accelerators. Nevertheless, the early Universe may provide an indirect observational window for high-string scale through imprints left on the Cosmic Microwave Background (CMB). In this work, building on previous studies, we reexamine temperature and polarization angular correlations as probes of the geometry and topology of the pre-inflationary Universe. We focus in particular on two-point correlation functions at large angular scales, where signatures of nontrivial spatial topology may survive as relics of primordial physics. We investigate the observational consequences of toroidal compactification and analyze their impact on the primordial power spectrum of the CMB provided by the Planck satellite. Within the current experimental and theoretical uncertainties, we identify a possible indication closely related to spatial-parity breaking, consistent with the presence of six spatial extra dimensions in the early Universe, compactified at the GUT epoch before the start of inflation. Finally, we extend our framework to B-mode polarization, highlighting its potential as a sensitive probe in forthcoming ground-based and space-borne experiments with unprecedented precision.",
+      "score": 85,
+      "reason": "🧵 高スケール弦理論起源のトポロジー(ハンドル・ポンチ)がCMB温度＋偏光に残す指紋を計算",
+      "summary": "Planckスケール弦のCMB anisotropy への効果を解析、TT/EE/BBへのインプリントとLiteBIRD感度下の検出可能性を議論"
+    },
+    {
+      "arxiv_id": "2605.20076",
+      "title": "A novel pre-inflationary model in view of the lack of angular correlation of CMB",
+      "authors": [
+        "M. Montes",
+        "Jos'e Edgar Madriz Aguilar",
+        "A. Bernal",
+        "Diego Allan Reyna"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-th",
+        "physics.space-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.20076",
+      "abstract": "In this paper we propose a novel unified cosmological model that connects a pre-inflationary epoch, starting at the Planckian time, with the onset of inflation within a single scalar-field framework. The pre-inflationary phase is characterized by a decelerated expansion with an increasing comoving Hubble horizon, followed by a gradually transition to an accelerated inflationary regime. This early dynamics leads to a modified causal structure that naturally accounts for the suppression of large-angle $(\\theta \\gtrsim 60^\\circ)$ correlations in the cosmic microwave background (CMB) reported by the satellite PLANCK. We study the quantum fluctuations of the scalar field using the Mukhanov-Sasaki formalism and a canonical quantization procedure based on energy minimization. We find that the vacuum state is well-defined only for sub-horizon modes at the onset of inflation, which induces a natural cutoff in the primordial power spectrum. The resulting spectrum exhibits a suppression at large scales while remaining nearly scale-invariant at small scales. In the appropriate limit, the model recovers the standard de Sitter result, in agreement with current observational constraints. These results highlight the relevance of pre-inflationary dynamics for addressing large-scale anomalies within a consistent inflationary framework.",
+      "score": 85,
+      "reason": "🌅 CMB大角度相関欠如を説明するpre-inflationaryモデル、Planck時刻から始まる減速→加速の単一スカラー枠",
+      "summary": "Planck期から開始する膨張Hubble地平が後にインフレへ遷移、CMB低多重極のlow correlation問題を説明できるかを評価"
+    },
+    {
+      "arxiv_id": "2605.19825",
+      "title": "Inflaton Accretion onto Primordial Black Holes During Reheating",
+      "authors": [
+        "Jitumani Kalita",
+        "Debaprasad Maity"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.19825",
+      "abstract": "Primordial Black Holes (PBHs) forming prior to Big Bang Nucleosynthesis evolve during the reheating epoch, an environment dominated by an oscillating inflaton field decaying into a relativistic thermal bath. In this work, we track the complete lifecycle of PBHs within this coupled inflaton-radiation background. Utilizing $\\alpha$-attractor E-models, we analytically anchor the reheating initial conditions directly to Cosmic Microwave Background observations. By matching exact scalar field solutions in a Schwarzschild spacetime to the cosmological far-zone, we derive the cycle-averaged mass accretion rate and couple it to the growing radiation bath. We find that this combined accretion induces a highly non-linear enhancement of the final PBH mass. Because the Hawking evaporation timescale scales cubically with mass, PBHs forming near their critical runaway limits experience a massive extension of their lifespans. Surviving deeper into the radiation-dominated era triggers a multi-order-of-magnitude amplification in their emitted Stochastic Gravitational Wave Background (SGWB).",
+      "score": 85,
+      "reason": "⚡ リヒーティング中のPBH進化に新展開、α-attractor E-modelでインフラトン降着→Hawking蒸発のフル追跡",
+      "summary": "BBN前のPBHがインフラトン振動＋熱浴中で進化、密度成長と蒸発の競合を解析的に解いてDM残存窓を再評価"
+    },
+    {
+      "arxiv_id": "2605.19841",
+      "title": "Domain-wall Quintessence",
+      "authors": [
+        "Nobufusa Kobayashi",
+        "Yuichiro Tada",
+        "Fuminobu Takahashi",
+        "Takahiro Terada"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.19841",
+      "abstract": "We investigate a dark energy model driven by a planar domain-wall-like structure with a thickness comparable to, or larger than, the current Hubble radius, focusing on its intrinsic anisotropy and observational viability. Near the centre of the domain wall (DW), the spacetime is anisotropic, with distinct expansion rates parallel and perpendicular to the wall. This anisotropic structure induces direction-dependent cosmic expansion and modifies photon geodesics from cosmological sources, leaving characteristic signatures in cosmological observables. We confront the model with recent observational data. We first compute the anisotropic Cosmic Microwave Background (CMB) temperature multipoles generated by the DW and impose constraints from the Planck 2018 measurements. These constraints severely limit the allowed DW abundance, requiring the DW energy density to be less than $\\mathcal{O}(10^{-5})$ of the current critical density in order to suppress the quadrupole contributions. We then perform a Markov Chain Monte Carlo (MCMC) analysis using Type Ia supernova (SNe Ia) data, including the Pantheon+ SH0ES and DESY5 samples, to compare the DW scenario with the standard $\\Lambda$CDM model. We find that although the DW naturally realises anisotropic accelerated expansion, the combined constraints from the CMB and SNe Ia favour the $\\Lambda$CDM limit, in which the DW contribution is negligible, and the universe is effectively isotropic. Our results demonstrate that a Hubble-scale domain wall is tightly constrained by current observations and can only play a subdominant role in the late-time cosmic acceleration.",
+      "score": 85,
+      "reason": "🧱 Tada+Takahashi、地平サイズのドメインウォール型クインテッセンス、DEの異方性が観測可能",
+      "summary": "現Hubble半径と同程度の厚みのDWがDE駆動、壁内側で空間異方化、CMB双極子・大規模構造の整合条件を導出"
+    }
+  ]
+}

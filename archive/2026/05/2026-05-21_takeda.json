@@ -1,0 +1,97 @@
+{
+  "total_fetched": 193,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.20078",
+      "title": "On Performance and Limitations of NISQ Hardware for Simulations of Quantum Wave Packet Dynamics",
+      "authors": [
+        "Tamila Kuanysheva",
+        "Jonathan Andrade-Plascencia",
+        "Jayakrushna Sahoo",
+        "Brian Kendrick",
+        "Dmitri Babikov"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.20078",
+      "abstract": "Digital quantum simulation offers a promising route for studying quantum dynamics, but efficient operator representations and circuit depth remain key challenges for near-term hardware. We investigate one-dimensional wave packet dynamics using a grid-based encoding of the wave function onto qubit registers. Time evolution is implemented via split-operator approach, with kinetic energy operator applied using Quantum Fourier Transform (QFT) with polynomial scaling and potential energy operator expressed through commuting Pauli-Z gates, improving accuracy and enabling incorporation of arbitrary discretized potentials. While the full Pauli decomposition of Hamiltonian scales exponentially as O(4^n ), the present approach reduces the operator scaling to O(2^n) for n qubits. We benchmark this approach on classical simulators and quantum hardware (IBM Quantum and IonQ) for two- to five-qubit implementations. For two- and three-qubit cases, all platforms qualitatively reproduce the benchmarked dynamics; at larger qubit counts, the IBM results deviate more strongly, whereas IonQ remains closer to the benchmark.",
+      "score": 90,
+      "reason": "🌊 NISQ実機でwave packet動力学を実装、波束形式の量子シミュ性能評価で直球テーマ",
+      "summary": "1D波束をqubitレジスタにグリッド符号化、split-operatorで時間発展、ノイズ・回路深さの限界を体系評価"
+    },
+    {
+      "arxiv_id": "2605.20111",
+      "title": "Mechanism of wavefunction collapse in measurements of separated quantum subsystems",
+      "authors": [
+        "Gregory D. Scholes"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.20111",
+      "abstract": "The specific advance of this work is to propose a mechanism by which superpositions collapse during measurement of the separated subsystems of entangled quantum states. It is shown how the phase that locks together entangled states plays a special role in the measurement of isolated subsystems. This `contextual' phase is installed randomly into the entangled state, and decides the measurement outcomes for the subsystems by directing the collapse of each superposition to a particular classical outcome when a subsystem is measured. The measuring apparatus thus obtains a classical read-out of the quantum correlations embedded in an entangled state. More broadly, these results solidify the theory of measurement of quantum superpositions.",
+      "score": 87,
+      "reason": "🔍 分離部分系の測定で波動関数収束を支配する位相、エンタングル光子の測定描像と直結",
+      "summary": "エンタングル状態の「文脈位相」が無作為に印字され、片側測定の結果を決定するメカニズムを定式化"
+    },
+    {
+      "arxiv_id": "2605.19442",
+      "title": "Exact dynamics of a single-photon emitter in front of a mirror",
+      "authors": [
+        "Mateusz Duda",
+        "Thomas Hartwell",
+        "Daniel Hodgson",
+        "Gin Jose",
+        "Pieter Kok",
+        "Almut Beige"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.19442",
+      "abstract": "Single-photon emitters in nanophotonic structures are a key building block for many photonic devices with quantum technology applications, like quantum sensors and quantum computers. In this paper, we determine the exact dynamics of a single-photon emitter in a one-dimensional waveguide terminated by a partially-transparent mirror interface, by solving the Schrodinger equation via a local-photon approach. In general, the evolution of the emitter is non-Markovian, characterized by a non-exponential decay profile. The decay can resemble an exponential after a time that is much larger than the emitter-mirror round-trip time and becomes exponential in the Markovian limit, where the round-trip time between the emitter and the mirror is neglected. We also derive the spatial and spectral profile of the emitted photon wave packet and demonstrate how its properties are altered by the environment.",
+      "score": 86,
+      "reason": "💡 ミラー前の単一光子エミッタの厳密ダイナミクス、波束局所論で導波路-鏡系を解く",
+      "summary": "部分透過ミラー終端の1D導波路で単一光子エミッタ動力学をSchrödinger方程式の局所光子振幅で厳密に解析"
+    },
+    {
+      "arxiv_id": "2605.19117",
+      "title": "Quantum Magic Reveals CP Phases Invisible to Entanglement in Spin-0 Decays",
+      "authors": [
+        "Nicolas Viaux",
+        "Ariel Norambuena",
+        "Pedro Orellana"
+      ],
+      "categories": [
+        "quant-ph",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.19117",
+      "abstract": "All standard scalar quantum-information measures -- concurrence, negativity, entanglement entropy, the optimized CHSH bound, and quantum Fisher information -- are CP-blind in ideal \\\\ spin-0 $\\to f\\bar f$ decays because the two-qubit spin state is maximally entangled for every CP angle. We show that stabilizer magic, fixed in the physical Pauli frame of spin analysis, escapes this blind spot: the stabilizer R\\'enyi entropy admits an exact closed form, vanishing at CP-definite and Clifford phases and peaking at maximal non-Clifford mixing. Two experimentally accessible, magic-inspired CP witnesses follow; the linear amplitude is $14.3\\times$ more efficient than its quartic counterpart and reaches discovery-level sensitivity at the HL-LHC for $H\\to\\tau^+\\tau^-$.",
+      "score": 85,
+      "reason": "🎭 スピン0崩壊のCP位相、エンタングルメント・concurrence・CHSHが盲点に、Pauliフレームのmagicが破る",
+      "summary": "ggg→ff̄崩壊でスカラー型量子情報量はCP角に対し縮退、Pauli軸固定のstabilizer magicでCP感度を回復"
+    },
+    {
+      "arxiv_id": "2605.19754",
+      "title": "Hypothesis Tests for Observing Quantum Entanglement in HWW at the LHC",
+      "authors": [
+        "Vincent Alexander Croft",
+        "Lennart Voelz",
+        "Andrii Vak",
+        "Andre Sopczak",
+        "Carsten Burgard"
+      ],
+      "categories": [
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2605.19754",
+      "abstract": "We present a novel experimental strategy for testing quantum entanglement in Higgs boson decays to $W$ boson pairs at the Large Hadron Collider. Unlike theoretical approaches that rely on expectation values of Bell operators, which are highly sensitive to outliers and detector effects, we introduce a continuous formulation of the CGLMP inequality that enables standard hypothesis testing between entangled and separable states. To overcome the fundamental challenge of reconstructing invisible neutrino momenta in the $H \\rightarrow WW^* \\rightarrow \\ell\\nu\\ell\\nu$ channel, we employ conditional denoising diffusion probabilistic models (cDDPM), which provide unbiased, multidimensional unfolding applicable to the full measured dataset, including backgrounds. We evaluate the diffusion-based reconstruction against analytical methods through profile likelihood hypothesis tests implemented in RooFit, with systematic uncertainties from background normalisation and unfolding shape fully propagated. Our results demonstrate that the diffusion-based approach enables robust hypothesis testing of quantum entanglement in a realistic collider environment, with 3$\\sigma$ evidence of quantum entanglement projected at approximately 555~fb$^{-1}$ and exceeding 5$\\sigma$ at 1600~fb$^{-1}$ to be well within the expected limits of the HL-LHC luminosity targets.",
+      "score": 85,
+      "reason": "🔬 H→WWでCGLMP連続形式を仮説検定にして、コライダーBellテストの統計設計を改善",
+      "summary": "期待値型Bell演算子の検出器系統依存を回避、CGLMPを連続形式に拡張し尤度比検定でエンタングル検出力を引き上げ"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "total_fetched": 160,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.20768",
+      "title": "Mid-infrared single-photon sub-pixel temporal ghost imaging",
+      "authors": [
+        "Wen Zhang",
+        "Kun Huang",
+        "Zhibin Zhao",
+        "Huijie Ma",
+        "Ziyu He",
+        "Jianan Fang",
+        "Heping Zeng"
+      ],
+      "categories": [
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2605.20768",
+      "abstract": "Temporal ghost imaging (TGI) enables ultrafast temporal signal recovery using slow detectors, offering a promising route for high-speed mid-infrared (MIR) detection. However, conventional schemes remain limited in temporal resolution by the modulation bandwidth or pattern timescale, and are mostly confined to structured illumination. Here, we demonstrated a high-resolution MIR single-photon computational TGI system, which integrated nonlinear structured detection with sub-pixel temporal shifting. A pre-programmed near-infrared pump serves as a temporally optical gate to drive sum-frequency generation in a nonlinear crystal. Consequently, MIR waveforms at 3.4 $\\mu$m were upconverted, and captured by a room-temperature silicon detector. We realized sub-pixel operation by fractional-bin temporal stepping of the gate and multi-shot fusion via pseudo-inverse reconstruction. The sub-pixel shifting strategy decouples the achievable resolution from modulation speed, enabling 40 ps temporal precision at a driving rate of only 3.125 Gbps. This performance surpasses both detector jitter and pattern-rate limits, while maintaining single-photon sensitivity. The presented paradigm establishes a versatile route for ultrafast MIR waveform reconstruction, opening new opportunities in high-resolution infrared sensing and quantum photonics.",
+      "score": 88,
+      "reason": "🌗 mid-IR の single-photon temporal ghost imaging を、 非線形構造検出 + sub-pixel time shift で実現🎯 ゴースト像の時間分解能を跳ね上げる",
+      "summary": "📷 modulation bandwidth による分解能の壁を超えるため、 構造照明に頼らず非線形 detection でパターンを符号化、 ultrafast 信号回復🔬"
+    },
+    {
+      "arxiv_id": "2605.20447",
+      "title": "Compact narrowband photon-pair generation by slow-light spectral engineering",
+      "authors": [
+        "Ashwith Prabhu",
+        "Elizabeth A. Goldschmidt"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.20447",
+      "abstract": "Efficiently generating photon pairs with high heralding efficiency and high single photon purity that are bandwidth matched to quantum emitters, quantum memories, and other matter-based qubits is critical for quantum networking applications. However, nonlinear optics-based sources require substantial spectral engineering to overcome the orders of magnitude bandwidth mismatch between those sources and qubit systems. A popular solution is cavity-enhanced spontaneous parametric down conversion (SPDC) where the cavity sets the photon bandwidth and simultaneously enhances the spectral brightness of the SPDC. Bulk, free-space configurations are generally required to achieve the MHz-scale bandwidths required to interface with most qubit systems. Replicating these in scalable integrated photonic architectures is an ongoing challenge due to the much higher propagation losses that limit the size and linewidth of chip-based resonators. We show here how an intra-cavity slow light medium, acting as an ultra-narrow filter, would enable narrowband photon pair generation in broadband cavities with high single photon purity and without compromising the heralding efficiency. We show that such metrics can be readily realized in erbium doped thin-film lithium niobate microrings using realistic design parameters.",
+      "score": 87,
+      "reason": "💎 cavity-enhanced SPDC の bandwidth mismatch 問題を slow-light spectral engineering で解決、 量子メモリと整合する狭帯域 photon pair 源✨",
+      "summary": "🔗 量子ネットワーク向けの heralding 効率と純度を保ったまま、 量子放出体と帯域整合する compact 光源、 SPDC engineering の新手⚙️"
+    },
+    {
+      "arxiv_id": "2605.20329",
+      "title": "Orbital-Angular-Momentum Entangled Photon Emission from Circular Currents in Semiconductor-Superconductor Structures",
+      "authors": [
+        "Avi Koriat",
+        "Ankit Kumar",
+        "Alex Hayat"
+      ],
+      "categories": [
+        "quant-ph",
+        "cond-mat.supr-con"
+      ],
+      "url": "https://arxiv.org/abs/2605.20329",
+      "abstract": "We theoretically demonstrate that a superconducting circular current induced in a semiconductor results in emission of orbital-angular-momentum (OAM) entangled photon pairs upon carrier recombination. Combining the macroscopic Ginzburg-Landau theory and the microscopic Bardeen-Cooper-Schrieffer (BCS) theory, we investigate the emission of a superconducting light-emitting diode (SLED) with a spatially varying phase profile in the superconducting order parameter. We show that in the active region of the SLED with a circular supercurrent, radiative recombination processes inherit the order parameter phase and result in photon pairs emitted into modes of different OAM quantum numbers. We demonstrate that coherent superposition of superconducting qubit eigenstates can also be mapped onto a coherent superposition of emitted photon states. We also show that other recombination processes due to thermally excited quasi particles do not significantly degrade the state purity. Our results introduce an original scheme for generating OAM-entangled photons enabling a new method of transmitting superconducting qubit information to photonic channels thereby bridging the gap between solid-state and photon-based platforms for quantum communications and information processing.",
+      "score": 85,
+      "reason": "🌀 半導体-超伝導構造の円電流から OAM-entangled photon pair が放出される理論提案、 軌道角運動量を担う biphoton state🧲",
+      "summary": "💫 GL × BCS で空間的に位相が回る秩序変数を仮定、 active region で carrier 再結合に伴って OAM entangled emission を予言🌐"
+    },
+    {
+      "arxiv_id": "2605.20958",
+      "title": "High-Dimensional Carrier-Assisted Entanglement Purification Based on Mutually Unbiased Bases",
+      "authors": [
+        "Zihua Song",
+        "Lin Chen",
+        "Yongge Wang"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.20958",
+      "abstract": "Distilling high-dimensional quantum entanglement under realistic, general asymmetric noise remains a formidable challenge. Standard entanglement purification protocols inevitably fail to satisfy convergence constraints under severe asymmetric noise. In this paper, we investigate carrier-assisted entanglement purification protocols, namely CAEPP and mCAEPP, for two-qutrit systems, demonstrating that without adaptive pre-processing, convergence is strictly bottlenecked by marginal $X$-error probabilities. To overcome this limitation, we introduce a deterministic pre-processing scheme based on mutually unbiased bases (MUBs). By actively rotating the qutrit phase space to establish primary-axis error dominance, we rigorously prove that the MUB-adapted mCAEPP deterministically yields unit asymptotic fidelity for any two-qutrit Pauli channel with initial fidelity $p_{00} > 1/3$.",
+      "score": 86,
+      "reason": "🧪 高次元 (qutrit) の asymmetric noise 下で carrier-assisted entanglement purification を MUB ベースで設計、 収束を救う構成🛡️",
+      "summary": "📐 CAEPP / mCAEPP で marginal X-error の bottleneck を MUB carrier で外す、 非対称 noise 下でも収束する distillation を実証🔧"
+    },
+    {
+      "arxiv_id": "2605.20859",
+      "title": "Impact of matter effects on the unitarity test of lepton mixing",
+      "authors": [
+        "Ryuichiro Kitano",
+        "Joe Sato",
+        "Sho Sugama"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2605.20859",
+      "abstract": "Testing the unitarity of the lepton mixing matrix, in a manner analogous to the unitarity tests of the CKM matrix in the quark sector, is an important step toward probing physics beyond the standard three-generation framework. In long baseline neutrino oscillation experiments, the formula of the oscillation probabilities can be written as a sum of terms with various combinations of the mixing-matrix elements, and their coefficients depend differently on energy. By observing the spectral information of long baseline experiments such as T2HK and a future neutrino factory at J-PARC with a $\\nu_e$ beam, the elements of the mixing matrix can be extracted without assuming a specific parametrization of the mixing matrix. We investigate how such an extraction method can be applied to neutrino oscillations by taking into account matter effects, and discuss how one can test unitarity of the mixing matrix in future long baseline experiments. As a concrete example, we examine the unitarity test by using a four-generation model, where we look at a quantity which should be vanishing in a unitary model. Among possible combinations of measurements, the most powerful test can be provided from the energy spectra of the CP-conjugate appearance channels $\\nu_\\mu \\to \\nu_e$ and $\\bar{\\nu}_\\mu \\to \\bar{\\nu}_e$ at T2HK, as well as from the T-conjugate pair $\\nu_\\mu \\to \\nu_e$ and $\\nu_e \\to \\nu_\\mu$ available at neutrino factories.",
+      "score": 85,
+      "reason": "🌠 lepton mixing の unitarity test を long-baseline で matter effect 込みで再評価、 量子干渉としてのニュートリノ振動の精密化✨",
+      "summary": "🌊 振動確率の各係数のエネルギー依存を物質中で展開し、 spectral 情報からスペクトル成分を分離して U 行列要素を制約🎚️"
+    },
+    {
+      "arxiv_id": "2605.21293",
+      "title": "Quantum Nonlocality and Device-Independent Randomness are Robust to Noisy Signaling Channels",
+      "authors": [
+        "Kuntal Sengupta",
+        "Lewis Wooltorton"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.21293",
+      "abstract": "Given a pair of isolated devices that accept random binary inputs and return binary outputs, a user can deduce from the observed data alone if the underlying mechanism can be explained classically. Bell's theorem further states that a classical explanation can be ruled out if the devices perform certain measurements on an entangled quantum state, underpinning the security of cryptographic protocols that are device-independent (DI). For certain protocols, such as those performed in a tight space, it might be difficult to perfectly enforce the non-signaling assumption required in Bell's theorem. This prompts the question: is quantum nonlocality robust to such imperfections? We show that if a binary channel sends a noisy copy of one party's input to the other before any measurements take place, the answer is yes. We completely characterize the vertices and facets of the local polytope in this scenario, and identify Bell inequalities that certify non-signaling quantum correlations. This is possible even when a near perfect copy of the input is sent. We go on to show that the identified inequalities are more robust to depolarizing noise than the Clauser-Horne-Shimony-Holt inequality when certifying DI randomness in this scenario. In addition, we characterize the local polytope when both parties receive a noisy copy of each other's input and make similar conclusions, leaving many new potential Bell inequalities to be explored.",
+      "score": 85,
+      "reason": "🔐 device-independent randomness の signaling noise への耐性を解析、 ノイジーチャネル下でも Bell 違反由来の安全性が残る話🛡️",
+      "summary": "🎲 入力出力 device 間に有限の信号漏れがあっても DI randomness が頑健に取り出せる条件を導出、 暗号応用の現実性を後押し🔒"
+    }
+  ]
+}

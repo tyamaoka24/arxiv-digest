@@ -1,0 +1,90 @@
+{
+  "total_fetched": 167,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.22143",
+      "title": "Holographic Dark Energy with Hubble Radius as an Infrared Cutoff in Einstein-Cartan Gravity",
+      "authors": [
+        "Yongjun Yun",
+        "Jungjai Lee"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.22143",
+      "abstract": "Non-interacting HDE with Hubble radius IR cutoff in E-C gravity. Weyssenhoff spin fluid gives torsion scalar Phi ~ a^-3 without ad hoc ansatz, w crossing phantom divide.",
+      "score": 90,
+      "reason": "🎯 Einstein-Cartan ど真ん中！🌌 Weyssenhoff spin fluid で torsion scalar の scaling を ad hoc なしで導出 🔥 DESI 整合も主張",
+      "summary": "✨ Hubble radius IR cutoff の HDE、 Φ ~ a^-3 を自然導出。 ω_X が phantom divide cross、 weak torsion |Φ/H|<1 で動的 DE 🎢"
+    },
+    {
+      "arxiv_id": "2605.21721",
+      "title": "The Higgs-top-Z mass coincidence relation after NNLO matching",
+      "authors": [
+        "E. Torrente-Lujan"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.21721",
+      "abstract": "M_H^2 ~ M_Z M_t at pole gives rho = 1.00362 +/- 0.00261 (1.4 sigma). NNLO MS-bar matching at mu=M_t gives rho-hat = 0.96714 +/- 0.00361.",
+      "score": 88,
+      "reason": "🤔 M_H² ≃ M_Z M_t 偶然関係を 2025 PDG + NNLO matching で再評価 ✨ pole 1.4σ で生存、 MS-bar では 〜10σ 非整合 🎯 MCPP 路線好み",
+      "summary": "📐 Pole-level: M_H = 125.426 ± 0.120 GeV 予言で 1.4σ 整合 ⚖️ MS-bar 境界条件 λ = g_Z y_t/(4√2) は M_t スケールで非整合 ⚠️"
+    },
+    {
+      "arxiv_id": "2605.21838",
+      "title": "New mechanism for fermion localization in f(T,T_G)-brane",
+      "authors": [
+        "Allan R. P. Moreira",
+        "Fernando M. Belchior",
+        "Guo-Hua Sun",
+        "Shi-Hai Dong"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.21838",
+      "abstract": "5D braneworld with f(T,T_G) gravity. Non-minimal Dirac coupling to torsional invariants modifies KK localization, Gauss-Bonnet term reshapes effective potentials.",
+      "score": 87,
+      "reason": "🧱 Teleparallel + brane + KK の三役満 🎰 Gauss-Bonnet 項が effective potential を modulate 🌀 余剰次元 × teleparallel の交差点",
+      "summary": "🌀 f(T,T_G)-brane で fermion localization、 KK の Schrödinger 方程式導出。 zero mode は片 chirality のみ局在、 resonant states 出現 🎼"
+    },
+    {
+      "arxiv_id": "2605.21809",
+      "title": "Generalised Cartan Geometry",
+      "authors": [
+        "David Osten"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.21809",
+      "abstract": "Cartan-geometric framework for generalised geometries governed by a differential graded Lie algebra. Tangent bundle extended with global duality + local gauge group.",
+      "score": 86,
+      "reason": "📐 Cartan 幾何の generalised 版 (M-theory branes 上)、 vierbein/torsion 枠組みに親しんでる人には natural 拡張 🌐",
+      "summary": "🧩 dgLA ベースの Cartan geometry。 extended tangent bundle に大域 duality + 局所 gauge、 connection + torsion + curvature を系統的構成 ✏️"
+    },
+    {
+      "arxiv_id": "2605.22464",
+      "title": "Pseudo-Nambu-Goldstone inflation with Z_N symmetric waterfall fields",
+      "authors": [
+        "Hyun Min Lee",
+        "Adriana G. Menkara"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.22464",
+      "abstract": "PNGB inflaton + N waterfall scalars with Z_N symmetry. Quadratic divergences cancel by Z_N, logs absent for N>2. Higgs-portal reheating, multi-component DM.",
+      "score": 85,
+      "reason": "⚡ PNGB inflaton + Z_N waterfall hybrid inflation 🌊 Z_N で quadratic cancel、 N>2 で log も消える 🧹 Higgs portal reheating 🎁",
+      "summary": "🌀 Z_2/Z_3/Z_4 で phase 構造解析、 Coleman-Weinberg で radiative stability。 reheating 温度 < waterfall mass で domain wall 回避 🛡️"
+    }
+  ]
+}

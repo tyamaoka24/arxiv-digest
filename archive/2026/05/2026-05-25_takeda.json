@@ -1,0 +1,35 @@
+{
+  "total_fetched": 167,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.22339",
+      "title": "Dual wavelength source of entanglement for space quantum communication",
+      "authors": [
+        "(see arXiv)"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.22339",
+      "abstract": "SPDC in PPLN crystal embedded in polarization Sagnac interferometer. Polarization + time-energy entangled pairs at 810 + 1550 nm. Brightness 4800 pair/s/mW/GHz, two-photon interference visibilities 0.995 (pol) and 0.991 (energy-time).",
+      "score": 91,
+      "reason": "🎯 SPDC + Sagnac で polarization + time-energy エンタングル光子対、 二光子干渉 visibility 0.99+ ✨ wave-packet × 二光子干渉のど真ん中 🛰️",
+      "summary": "🔬 PPLN + Sagnac で位相安定 SPDC、 hybrid 量子通信 (free-space 810nm + fiber 1550nm)。 visibility 0.995/0.991 で Bell 違反十分 💎"
+    },
+    {
+      "arxiv_id": "2605.22298",
+      "title": "Mid-infrared temporal ghost imaging via two-photon structured encoding",
+      "authors": [
+        "(see arXiv)"
+      ],
+      "categories": [
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2605.22298",
+      "abstract": "Broadband MIR TGI via non-degenerate two-photon absorption at silicon detector. Reconstructed waveforms exceed detector bandwidth 40x, 0.05 pJ/pulse sensitivity, compressed sensing 80% fewer measurements, 2.5-3.8 micron.",
+      "score": 88,
+      "reason": "🌈 二光子吸収 MIR temporal ghost imaging、 NIR pump で MIR signal を Si 検出器上で直接 modulate ✨ ghost imaging × two-photon の最新例",
+      "summary": "⏱️ 非縮退二光子吸収で MIR TGI、 Si 検出器 BW を 40 倍超え。 圧縮センシングで 80% 計測削減、 2.5-3.8μm broadband 🔍"
+    }
+  ]
+}

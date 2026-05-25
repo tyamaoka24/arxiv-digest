@@ -1,0 +1,53 @@
+{
+  "total_fetched": 167,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.22388",
+      "title": "A Weak Fe K-beta Emission Line in the Broad-Line Radio Galaxy 3C 111 Observed with XRISM",
+      "authors": [
+        "(see arXiv)"
+      ],
+      "categories": [
+        "astro-ph.HE",
+        "astro-ph.GA"
+      ],
+      "url": "https://arxiv.org/abs/2605.22388",
+      "abstract": "XRISM/Resolve observation of 3C 111 reveals Fe K-beta weaker than expected, possibly due to blueshifted ionized wind. Outflow velocity 4600 or 17200 km/s depending on Fe XXVI vs Fe XXV identification.",
+      "score": 88,
+      "reason": "🛰️ XRISM/Resolve の高分解能で 3C 111 の Fe K-beta が予測より弱 ✨ ionized wind 吸収 (Fe XXVI/XXV) 候補、 outflow 4600 or 17200 km/s 🌪️",
+      "summary": "🔬 Resolve heritage の典型 case、 Fe K-alpha/K-beta line ratio anomaly を初検出。 wind kinetic power 10^41-10^44 erg/s 📊"
+    },
+    {
+      "arxiv_id": "2605.22630",
+      "title": "Towards precision cosmology with Void x CMB correlations (II): Impact of mock catalogs",
+      "authors": [
+        "(see arXiv)"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.22630",
+      "abstract": "Roman mock catalogs evaluate Void x CMB lensing signal forecasts for Planck/SO/CMB-S4. Analysis of S/N for 2D/3D void definitions, stacking, CMB filtering schemes.",
+      "score": 86,
+      "reason": "🌌 Void × CMB lensing を Roman mock で評価、 Planck + SO + CMB-S4 forecast 込み 🛰️ CMB 衛星サイエンスの methodology は LiteBIRD にも隣接 📐",
+      "summary": "📈 2D/3D void 定義、 stacking 手法、 CMB filtering の S/N 依存性を mock で系統評価。 SO/CMB-S4 ノイズ水準で Roman の感度予測 🔭"
+    },
+    {
+      "arxiv_id": "2605.22464",
+      "title": "Pseudo-Nambu-Goldstone inflation with Z_N symmetric waterfall fields",
+      "authors": [
+        "Hyun Min Lee",
+        "Adriana G. Menkara"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.22464",
+      "abstract": "Hybrid inflation: PNGB inflaton + N waterfall scalars with Z_N. Coleman-Weinberg analysis, Higgs-portal reheating, multi-component DM possibility.",
+      "score": 85,
+      "reason": "⚡ PNGB hybrid inflation の Z_N 対称 waterfall 版、 radiative stability + reheating 解析 🌊 r 予測など観測接続の余地",
+      "summary": "🌀 Z_N で quadratic 発散 cancel、 loop-corrected potential 構築。 reheating 温度 < waterfall mass で domain wall 回避 🛡️"
+    }
+  ]
+}

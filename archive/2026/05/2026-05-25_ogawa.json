@@ -1,0 +1,20 @@
+{
+  "total_fetched": 167,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.22293",
+      "title": "Modular Variables and the Limits of Phase Detectability in Open Quantum Systems",
+      "authors": [
+        "(see arXiv)"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.22293",
+      "abstract": "Time evolution of Hermitian modular operators for Gaussian wave-packet superpositions under uniform gravitational field, both Schrodinger and Caldeira-Leggett open dynamics. Bohmian local expectation values along trajectories.",
+      "score": 91,
+      "reason": "🎯 Gaussian wave-packet 重ね合わせの modular 演算子を重力場 + open dynamics で追跡 ✨ wave-packet 形式 × 位相検出と measurement の交点",
+      "summary": "📐 重力下の Gaussian wave-packet 重ね合わせで modular 演算子の時間発展。 Caldeira-Leggett 高温極限でも相対位相が modular signal に残存 🌊"
+    }
+  ]
+}

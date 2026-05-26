@@ -1,0 +1,41 @@
+{
+  "total_fetched": 136,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.23335",
+      "title": "Electron-Photon Spatial Entanglement in Coherent Cathodoluminescence",
+      "authors": [
+        "Tatsuro Yuge",
+        "Ryo Okamoto",
+        "Takumi Sannomiya",
+        "Keiichirou Akiba"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.23335",
+      "abstract": "Electron-photon quantum entanglement in an electron microscope paves the way for a new quantum platform, enabling the integration of quantum functionalities into electron microscopy and opening opportunities for quantum imaging and quantum sensing at the nanoscale. To realize such a platform, it is crucial to understand the degree and nature of electron-photon entanglement in cathodoluminescence (CL). However, its dependence on electron-beam properties, particularly transverse coherence, remains unclear. Here, we present a theoretical framework describing the quantum state of an electron-photon pair generated in coherent CL, specifically for transition radiation. By expressing the scattered state directly via the luminescence spectrum, we evaluate the entanglement using both subsystem purity and an Einstein-Podolsky-Rosen-type criterion. These two measures enable a clear distinction between wave-like, particle-like, and classical regimes in terms of spatial and momentum entanglement in the electron-photon system. Our analysis identifies the roles of the electron's transverse and longitudinal coherence, as well as the photon's spectral width, and reveals the conditions under which strong spatial entanglement emerges. This unified perspective clarifies the nature of electron-photon quantum correlations in coherent CL, leading to quantum-enabled functionalities in electron microscopy.",
+      "score": 92,
+      "reason": "🎯 電子-光子ペアの空間・運動量もつれを EPR 基準 + subsystem purity で評価! まさに連続変数 EPR 相関の枠組みそのもの ✨ 横コヒーレンスが効くのも面白い",
+      "summary": "🔬 コヒーレント陰極ルミネッセンス (遷移放射) で生じる電子-光子対の状態を構築、 EPR 的基準で空間・運動量もつれを定量化。 電子横/縦コヒーレンスと光子スペクトル幅の役割を明示 💎"
+    },
+    {
+      "arxiv_id": "2605.23639",
+      "title": "Quantum Ghost Spectroscopy Reveals Hidden Electronic Coherence in Molecular Aggregates",
+      "authors": [
+        "Mingran Zhang",
+        "Yihe Xu",
+        "Vladislav V. Yakovlev",
+        "Zhedong Zhang"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.23639",
+      "abstract": "Ultrafast spectroscopy of molecular systems is fundamentally constrained by the Fourier uncertainty principle: high temporal resolution smears out electronic state signatures, while high spectral resolution obscures dynamic information. Here we overcome this limitation using time-resolved quantum ghost spectroscopy (tr-QGS) with entangled photon pairs, which enables independent control of temporal and spectral scales. We apply this approach to perylene bismide (PBI-1) trimers for energy transfer,by combining a quantum description of light-molecule interaction with time-dependent density matrix renormalization group (TD-DMRG) simulations. This explicitly includes five vibrational modes and nonadiabatic coupling between electronic states. Our simulations reveal that tr-QGS uniquely captures electronic coherence oscillating at 0.7 eV for >50 fs, a signature of nonadiabatic coupling that was obscured in conventional time-resolved fluorescence due to Fourier-limited broadening. Moreover, we observe a direct transfer from electronic to vibrational coherence at 200 fs, providing real-time visualization of vibronic relaxation pathways. The entangled photon correlation enables a sensitivity below the shot-noise limit and suppresses photobleaching artifacts that plague classical measurements. These results establish tr-QGS as a transformative tool for interrogating nonadiabatic dynamics in molecular aggregates, light-harvesting complexes, and photocatalysts, offering a route to reveal quantum coherence in chemistry with unprecedented time-energy precision.",
+      "score": 88,
+      "reason": "🌈 もつれ光子対による時間分解ゴースト分光! 時間-周波数の Fourier 限界を破る話、 ghost imaging の延長として面白い ✨",
+      "summary": "⏱️ もつれ光子対の tr-QGS で分子集合体の電子コヒーレンス (0.7 eV, >50 fs) を検出。 TD-DMRG と組合せ、 shot-noise 限界以下で vibronic 緩和経路を可視化 🔍"
+    }
+  ]
+}

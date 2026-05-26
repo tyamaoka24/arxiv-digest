@@ -1,0 +1,134 @@
+{
+  "total_fetched": 136,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.23827",
+      "title": "Natural Metric-Affine Inflation: Reloaded",
+      "authors": [
+        "D. Kraiko",
+        "A. Racioppi"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.23827",
+      "abstract": "We revisit natural inflation within the framework of metric-affine gravity, considering the impact of a periodic non-minimal coupling between the inflaton and the Nieh-Yan term. Such a term, alone, leads to linear inflation predictions in the strong coupling limit and cannot help to rescue the natural inflation scenario. However, once an analogous non-minimal coupling with the Ricci scalar is adde",
+      "score": 95,
+      "reason": "🎯💥 metric-affine 重力 + Nieh-Yan term で natural inflation 復活戦 ✨ Higgs inflation / Palatini / Einstein-Cartan 系の直球テーマ 🌌",
+      "summary": "inflaton と Nieh-Yan の周期的非極小結合 + Ricci 非極小結合で natural inflation を観測整合に。 metric-affine 枠組みで再構築。"
+    },
+    {
+      "arxiv_id": "2605.23613",
+      "title": "Non-Hermitian Landau Levels",
+      "authors": [
+        "Anton Montag",
+        "Tomoki Ozawa"
+      ],
+      "categories": [
+        "quant-ph",
+        "cond-mat.mes-hall"
+      ],
+      "url": "https://arxiv.org/abs/2605.23613",
+      "abstract": "We formulate non-Hermitian Landau levels in two-dimensional systems under a complex perpendicular magnetic field. In the symmetric gauge, we derive their discretely spaced, highly degenerate complex spectra and biorthogonal eigenstates, and clarify the role of non-unitary gauge transformations. A non-Hermitian Harper-Hofstadter lattice model confirms the continuum theory and reveals Gaussian wave",
+      "score": 92,
+      "reason": "🌀✨ 複素磁場下の非 Hermitian Landau 準位、 Gaussian wave packet が顔出してる 💫 波束派には素通りできないやつ 🎯",
+      "summary": "対称ゲージで複素スペクトル + biorthogonal 固有状態を導出、 Harper-Hofstadter 格子で Gaussian 波束ダイナミクスを確認。"
+    },
+    {
+      "arxiv_id": "2605.23376",
+      "title": "The field-theoretical formalism for TEGR",
+      "authors": [
+        "E. D. Emtsova",
+        "A. N. Petrov"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.23376",
+      "abstract": "The teleparallel equivalent of general relativity (TEGR) is represented in a field-theoretical form, where tetrad and matter perturbations are propagated on a background solution of TEGR. Thus, the background tetrad and metric satisfy the background Einstein field equations. This presentation, where perturbations can be finite (not infinitesimal or approximate), is equivalent to the original form ",
+      "score": 92,
+      "reason": "🌐⚙️ TEGR を場の理論形式で再定式化、 vierbein perturbation を背景上に乗せる 🎯 Einstein-Cartan / teleparallel 系の本丸 ✨",
+      "summary": "TEGR の tetrad + matter 摂動を背景解上に展開、 有限摂動も扱える field-theoretical 表式を構築。"
+    },
+    {
+      "arxiv_id": "2605.23077",
+      "title": "Proca-type Hair of Rotating Black Holes in Higher Dimensions",
+      "authors": [
+        "David Kubiznak",
+        "Robert B. Mann",
+        "Marek Milicka"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.23077",
+      "abstract": "We show that spacetime symmetries on any background give rise to stealth vector fields obeying Proca-type equations supplemented by curvature terms. This observation, which is true for solutions of any theory of gravity and with arbitrary matter content, effectively promotes spacetime symmetries to \"physical fields\" whose characteristic property is that their backreaction on the geometry vanishes.",
+      "score": 88,
+      "reason": "🌀🕳️ 回転 BH × 高次元 × Proca 型 stealth vector hair ✨ 回転 BH と余剰次元両方の core topic に hit 🎯",
+      "summary": "時空対称性から Proca 型方程式に従う stealth vector 場が湧き、 高次元回転 BH に backreaction 無しで hair を生む。"
+    },
+    {
+      "arxiv_id": "2605.22919",
+      "title": "Scale-Invariant Open Quantum Systems",
+      "authors": [
+        "Carlos Argüelles",
+        "Gabriela Barenboim",
+        "Gonzalo Herrera",
+        "Tanvi Krishnan",
+        "Héctor Sanchis"
+      ],
+      "categories": [
+        "hep-ph",
+        "cond-mat.quant-gas",
+        "gr-qc",
+        "hep-th",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.22919",
+      "abstract": "We develop a complete theoretical framework for open quantum systems coupled to scale-invariant environments. We show that such environments are universally described by unparticle baths characterized by a single scaling dimension $d_{\\mathcal{U}}$. This work provides the proof of the uniqueness theorem, the formalism of the resulting non-Markovian dynamics, and applications to several physical sy",
+      "score": 87,
+      "reason": "✨🌌 scale-invariant 環境 = unparticle bath の uniqueness 🎯 hep-ph × gr-qc × quant-ph 横断、 scale-invariant gravity と親和性◎",
+      "summary": "scale-invariant 環境を unparticle bath で普遍記述、 単一 scaling dimension で非 Markov 動力学を formalize。"
+    },
+    {
+      "arxiv_id": "2605.23711",
+      "title": "On the Gravitational Angular Momentum of Axial Perturbations of a Regular Black Hole",
+      "authors": [
+        "S. C. Ulhoa",
+        "F. L. Carneiro",
+        "B. C. C. Carneiro"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.23711",
+      "abstract": "This Letter deals with the gravitational angular momentum carried by axial (odd-parity) perturbations of the Bardeen regular black hole within the teleparallel equivalent of general relativity (TEGR). Using the Hamiltonian definition of conserved quantities in TEGR, we derive a closed expression for the perturbative angular momentum $\\delta J$ in terms of the axial perturbation function $h_0(r,t)$",
+      "score": 87,
+      "reason": "🌀🌐 TEGR で Bardeen 正則 BH の axial 摂動が運ぶ重力角運動量を計算 ✨ teleparallel + 回転 BH 直撃 🎯",
+      "summary": "TEGR の Hamiltonian 保存量定義から、 Bardeen 正則 BH の odd-parity 摂動が運ぶ δJ を h_0 の閉形式で導出。"
+    },
+    {
+      "arxiv_id": "2605.23532",
+      "title": "Vacuum-Triggered Instability in Paired Superradiance",
+      "authors": [
+        "Zhan Bai",
+        "Ningqiang Song",
+        "Min Chen",
+        "Xiangyan An",
+        "Baifei Shen"
+      ],
+      "categories": [
+        "physics.optics",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.23532",
+      "abstract": "Paired superradiance (PSR) is a macro-coherent two-photon process capable of very large gain, making it promises for detecting ultra-weak signals induced by neutrinos or dark matter. A major goal has been to increase the system volume $V$ and density $n$, since the signal intensity scales as $(nV)^2$. We recast finite PSR as a parametric amplifier driven by the electromagnetic vacuum. The usual z",
+      "score": 86,
+      "reason": "✨🌌 paired superradiance を真空駆動の parametric amp に書き換え 🎯 ν・DM 検出 + parametrically amplified super-radiance と地続き 💫",
+      "summary": "PSR を真空場が駆動する parametric amp として再定式化、 大体積極限の threshold 構造を hep-ph 文脈で再解析。"
+    }
+  ]
+}

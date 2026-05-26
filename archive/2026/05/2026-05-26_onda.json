@@ -1,0 +1,41 @@
+{
+  "total_fetched": 136,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.22934",
+      "title": "The $\\tau$ of Neutral Hydrogen: Increased CMB Optical Depth at Long Wavelengths",
+      "authors": [
+        "Gilbert Holder",
+        "Adrian Liu",
+        "Tzu-Ching Chang",
+        "David Zegeye"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.22934",
+      "abstract": "At wavelengths longer than 21 cm, photons from the long-wavelength tail of the cosmic microwave background (CMB) have a non-zero probability of being absorbed by distant neutral hydrogen. This provides an additional suppression of the observed CMB clustering in addition to the usual Thomson scattering. The optical depth as a function of frequency is sensitive to the 21 cm spin temperature $T_s$ of the gas as a function of cosmic time, with the excess optical depth peaking at a level of a few percent around 100 MHz. The details depend on the specifics of the heating of cosmic gas and the evolution of the neutral fraction $x_{HI}$. It is likely difficult to detect the CMB at these long radio wavelengths, but the cause is aided by the ability to cross-correlate with the already well-characterized fluctuations at cm/mm frequencies. We find that detecting CMB fluctuations at radio wavelengths corresponding to the 21 cm ``dark ages'' in cross-correlation with mm-wave maps may be easier than detecting the intrinsic 21 cm fluctuations. Measurement of the amplitude of CMB fluctuations as a function of radio wavelength provides a path for a new type of direct measurement of the combination $x_{HI}/T_s$ as a function of redshift.",
+      "score": 87,
+      "reason": "🌌 CMBの長波長側に中性HI由来の追加τ ✨ 100MHz付近で数%のピーク、mm波マップとの相互相関で21cmダークエイジ探査の新ルート",
+      "summary": "λ>21cmで中性HIがCMB光子を吸収→Thomson散乱に加えた追加τ。スピン温度Ts(z)に感度、x_HI/Tsを直接測れる新手法。"
+    },
+    {
+      "arxiv_id": "2605.23827",
+      "title": "Natural Metric-Affine Inflation: Reloaded",
+      "authors": [
+        "D. Kraiko",
+        "A. Racioppi"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.23827",
+      "abstract": "We revisit natural inflation within the framework of metric-affine gravity, considering the impact of a periodic non-minimal coupling between the inflaton and the Nieh-Yan term. Such a term, alone, leads to linear inflation predictions in the strong coupling limit and cannot help to rescue the natural inflation scenario. However, once an analogous non-minimal coupling with the Ricci scalar is added, agreement with data can be easily achieved. Remarkably, the scenario remains viable even with a sub-Planckian periodicity scale and relatively small (order of one) non-minimal couplings.",
+      "score": 85,
+      "reason": "🌀 瀕死のnatural inflationをmetric-affine gravity+Nieh-Yan非最小結合で復活 ✨ sub-Planck周期でもデータ整合、r予言が更新される",
+      "summary": "インフラトンとNieh-Yan項の周期的非最小結合+Ricci結合で自然インフレ再生。O(1)結合とsub-Planck周期でCMBデータ整合。"
+    }
+  ]
+}

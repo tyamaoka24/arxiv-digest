@@ -1,0 +1,75 @@
+{
+  "total_fetched": 136,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.23250",
+      "title": "A General Quantum Speed Limit for Non-Hermitian Systems",
+      "authors": [
+        "Zhanxi Wang",
+        "Xiaozhe Hao",
+        "X. X. Yi"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.23250",
+      "abstract": "The quantum speed limit (QSL) refers to the maximum speed of a quantum system to evolve from an initial state to its orthogonal states. The bound on the QSL for Hermitian systems, for example the Mandelstam-Tamm (MT) and Margolus-Levitin (ML) as well as Sun-Zheng(SZ) bound, was studied respectively from the perspectives of average value and variance of the system Hamiltonian as well as the geometry of the system. While the compactness of the MT-type, ML-type and SZ-type bounds has been examined well for Hermitian systems, a compact QSL for non-Hermitian systems has not been well studied. In this work, based on the biorthogonal basis theory we derive two distinct and tighter bounds on the QSL for non-Hermitian systems, which correspond to the MT and ML bounds for Hermitian systems. We show that the shortest evolution time corresponding to the two bounds of the non-Hermitian system can be attained by certain initial states, showing the compactness and tightness of our bounds. These initial states dubbed fastest initial states(FIS) are different from that in Hermitian systems. A bound close to QSL for non-FIS is presented and comparison of our bound with others in literature is performed. To illustrate our results, we present a minimal non-Hermitian system to show QSL, and the condition for the shortest evolution time is derived analytically using the present theory.",
+      "score": 95,
+      "reason": "MT/ML 限界の非エルミート版！量子速度限界ど真ん中、FIS の概念も新規 ⚡",
+      "summary": "biorthogonal 基底で非エルミート系の QSL に MT 型・ML 型 2 種の tight bound を導出。最短進化時間を達成する FIS を特定し最小モデルで実証。"
+    },
+    {
+      "arxiv_id": "2605.23617",
+      "title": "Multiphoton heralding generates large-amplitude squeezed Schr\\\"odinger cat states and parity-selective Fock superpositions from squeezed vacuum via an OPA",
+      "authors": [
+        "Yusuf Turek",
+        "Ming-Yan Sun",
+        "Xiao-Xi Yao"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.23617",
+      "abstract": "We propose a multiphoton heralding scheme using an optical parametric amplifier (OPA) that converts squeezed vacuum into two families of non-Gaussian states: large-amplitude squeezed Schr\\\"odinger cat states and low-order parity-selective Fock superpositions. By injecting m photons into the idler port and detecting n photons at the output, effective high-order photon subtraction is realized in a single OPA device. The heralded states exhibit strong Wigner negativity and high phase-space complexity. Remarkably, under photon loss, the complexity remains substantial even after negativity vanishes, indicating a loss-resilient quantum resource. These states also surpass the Heisenberg limit in phase estimation. Our protocol establishes the OPA as a versatile platform for generating non-Gaussian states, with promising applications in loss-resilient quantum metrology and fault-tolerant quantum information processing.",
+      "score": 88,
+      "reason": "squeezed 真空から大振幅 cat 状態を heralded 生成、Heisenberg 限界超え位相推定もアツい ✨",
+      "summary": "OPA に m 光子注入＋n 光子検出で実効高次光子減算。non-Gaussian な cat 状態と Fock 重ね合わせを生成、損失耐性も確認。"
+    },
+    {
+      "arxiv_id": "2605.23639",
+      "title": "Quantum Ghost Spectroscopy Reveals Hidden Electronic Coherence in Molecular Aggregates",
+      "authors": [
+        "Mingran Zhang",
+        "Yihe Xu",
+        "Vladislav V. Yakovlev",
+        "Zhedong Zhang"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.23639",
+      "abstract": "Ultrafast spectroscopy of molecular systems is fundamentally constrained by the Fourier uncertainty principle: high temporal resolution smears out electronic state signatures, while high spectral resolution obscures dynamic information. Here we overcome this limitation using time-resolved quantum ghost spectroscopy (tr-QGS) with entangled photon pairs, which enables independent control of temporal and spectral scales. We apply this approach to perylene bismide (PBI-1) trimers for energy transfer,by combining a quantum description of light-molecule interaction with time-dependent density matrix renormalization group (TD-DMRG) simulations. This explicitly includes five vibrational modes and nonadiabatic coupling between electronic states. Our simulations reveal that tr-QGS uniquely captures electronic coherence oscillating at 0.7 eV for >50 fs, a signature of nonadiabatic coupling that was obscured in conventional time-resolved fluorescence due to Fourier-limited broadening. Moreover, we observe a direct transfer from electronic to vibrational coherence at 200 fs, providing real-time visualization of vibronic relaxation pathways. The entangled photon correlation enables a sensitivity below the shot-noise limit and suppresses photobleaching artifacts that plague classical measurements. These results establish tr-QGS as a transformative tool for interrogating nonadiabatic dynamics in molecular aggregates, light-harvesting complexes, and photocatalysts, offering a route to reveal quantum coherence in chemistry with unprecedented time-energy precision.",
+      "score": 86,
+      "reason": "Fourier の time-energy 不確定性を entangled photon で迂回！実験的 time-energy precision の好例 🔬",
+      "summary": "tr-QGS で時間・周波数分解能を独立制御、PBI-1 三量体で 0.7 eV 電子コヒーレンスを 50fs 以上観測、振電緩和を実時間可視化。"
+    },
+    {
+      "arxiv_id": "2605.23862",
+      "title": "Indefinite probabilities in quantum spacetime: A deepening of unpredictability",
+      "authors": [
+        "Vittorio D'Esposito",
+        "Giuseppe Fabiano",
+        "Domenico Frattulillo"
+      ],
+      "categories": [
+        "quant-ph",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.23862",
+      "abstract": "Non-commutative spacetime and quantum groups have been argued to capture non-classical features of spacetime and its symmetries in the low-energy limit of quantum gravity. In this letter, we show that employing the $SU_q(2)$ quantum group to describe rotational symmetry for spin-$\\frac{1}{2}$ systems and Stern-Gerlach apparatuses leads to the description of probabilities of outcomes of spin measurements in terms of non-commuting operators. As a result, we obtain an uncertainty principle between different probability operators, realizing a notion of indefinite probabilities. This is then reflected in the non-commutativity of the entries of the rotation matrix relating the reference frames of two observers, hence fundamentally preventing them from sharply measuring their relative orientation.",
+      "score": 85,
+      "reason": "確率演算子間の不確定性関係という新概念！量子重力の foundations 寄りでツボ 🌀",
+      "summary": "SU_q(2) 量子群でスピン測定を記述、確率が非可換演算子になり「不定確率」が出現。観測者間の相対配向の鋭い測定が禁止される。"
+    }
+  ]
+}

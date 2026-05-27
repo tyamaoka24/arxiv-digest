@@ -1,0 +1,167 @@
+{
+  "total_fetched": 234,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.24090",
+      "title": "Oscillating Imprints of Dark Matter in Mesons Decays",
+      "authors": [
+        "Prisco Lo Chiatto",
+        "Babette Döbrich",
+        "Gilad Perez"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2605.24090",
+      "abstract": "ULDM が CKM 行列要素を振動させる 2 枠組 (Nelson-Barr / Froggatt-Nielsen 由来) と、メソン崩壊での oscillation 探索戦略を議論。",
+      "score": 88,
+      "reason": "🌌 ULDM が CKM 行列をユラユラ揺らす! 🎯 強 CP 問題と flavor 模型を繋ぐ仕掛け ⚡ メソン振動探索 ✨",
+      "summary": "Nelson-Barr と Froggatt-Nielsen 由来の ULDM が CKM 要素を振動。メソン崩壊の oscillation 探索戦略を提示 📡"
+    },
+    {
+      "arxiv_id": "2605.24163",
+      "title": "Leptogenesis without on-shell right-handed neutrinos",
+      "authors": [
+        "Simon Cléry",
+        "Alejandro Ibarra",
+        "Onur Yonar"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.24163",
+      "abstract": "右巻きニュートリノが宇宙最高温度より重く on-shell 生成されない場合の leptogenesis 新機構。新スカラー φ が off-shell RHν を介して LH に崩壊し CP 非対称を作る。",
+      "score": 86,
+      "reason": "🎲 右巻きν を on-shell に出さずに baryogenesis! 🧠 新スカラー φ が off-shell で繋ぐ仕掛け 🌠 RHν > T_max でも OK ⚡",
+      "summary": "φ → LH を off-shell RHν 経由で実現、ツリー × ループ干渉で CP 非対称生成、宇宙最高温度より RHν 質量が重い領域でも成立 🔥"
+    },
+    {
+      "arxiv_id": "2605.24341",
+      "title": "Constraining the Potential Index n of the Early Dark Energy Model Using Cosmic Birefringence from Planck and ACT",
+      "authors": [
+        "Kedi Zhang",
+        "Lu Yin"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.24341",
+      "abstract": "EDE potential V ∝ [1-cos(φ/f)]^n で cosmic birefringence と Hubble 緊張を同時説明。n の依存性を Planck + ACT で初系統解析。",
+      "score": 87,
+      "reason": "🌠 EDE potential V ∝ [1-cos(φ/f)]^n の n を cosmic birefringence で絞る! 🎯 H0 緊張と同時 fit ✨ ⚡",
+      "summary": "Planck + ACT で n=2,3,4 EDE + Chern-Simons coupling を MCMC、両アノマリ同時説明に prefer される n の領域を抽出 📊"
+    },
+    {
+      "arxiv_id": "2605.24473",
+      "title": "Freeze-in SU(2) vector dark matter at low reheating temperature",
+      "authors": [
+        "Dilip Kumar Ghosh",
+        "Sourav Gope",
+        "Xiao-Gang He",
+        "Xuan Hong",
+        "Sk Jeesun"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.24473",
+      "abstract": "低 T_RH 宇宙論で SU(2)_HS ベクター DM を freeze-in 生成、大きな coupling で実験探索視野に入る。",
+      "score": 86,
+      "reason": "⚡ 低 reheating だと freeze-in DM の coupling が大きく許される! 🎯 SU(2) ベクター DM 3 候補 + 実験探索可能性 🌌",
+      "summary": "低 T_RH 宇宙論で SU(2)_HS ベクター DM 3 種が freeze-in、coupling が上がり direct detection 視野内 🔍"
+    },
+    {
+      "arxiv_id": "2605.24713",
+      "title": "Axion-like particles solve the B→Kνν and B→πK puzzles",
+      "authors": [
+        "Bhubanjyoti Bhattacharya",
+        "Alakabha Datta",
+        "Girish Kumar",
+        "Danny Marfatia"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex"
+      ],
+      "url": "https://arxiv.org/abs/2605.24713",
+      "abstract": "π0 近質量 ALP が photon・top・heavy sterile νN と coupling し、Belle II の B→Kνν 2.7σ 異常と古典的 B→πK パズルを同時解決。",
+      "score": 88,
+      "reason": "🪐 Belle II 2.7σ の B→Kνν 異常 + B→πK パズルを ALP 1 つで! 💥 flavor BSM 有力候補 🎯",
+      "summary": "π0 近質量 ALP が光子・top・重 sterile νN と coupling、2 つの flavor 異常を同時説明 ⚡"
+    },
+    {
+      "arxiv_id": "2605.24715",
+      "title": "Gravitational Waves from Post-Inflationary Magnetism: Direct and Scalar-Induced Contributions",
+      "authors": [
+        "Subhasis Maiti"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.24715",
+      "abstract": "Inflation 期の時間依存 gauge coupling magnetogenesis で magnetic anisotropic stress 起源 GW と曲率摂動誘起 GW を比較。",
+      "score": 87,
+      "reason": "🌠 inflation magnetogenesis が GW を作る! 🎯 direct + scalar-induced 2 channel の spectrum 比較 ⚡⚡",
+      "summary": "時間依存 gauge coupling magnetogenesis で magnetic stress GW + 曲率摂動誘起 GW、blue spectra n_b ≥ 3/2 で両者 detect 可能 📡"
+    },
+    {
+      "arxiv_id": "2605.25466",
+      "title": "Gravitational Wave Propagation in K-essence Cosmology: Theory and Observational Constraints",
+      "authors": [
+        "Sougata Bhunia",
+        "Eduardo Guendelman",
+        "Debashis Gangopadhyay",
+        "Ramón Herrera",
+        "Abhijit Bhattacharyya"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.25466",
+      "abstract": "K-essence 宇宙論で FLRW 上の tensor 摂動方程式を導出、GW 速度は厳密 luminal で GW170817 整合、damping/dispersion 補正の観測制約。",
+      "score": 88,
+      "reason": "🌌 k-essence 中で GW 伝播を線形化! 🎯 GW 速度 = 厳密に光速 (GW170817 整合) ✨ scalar-tensor 系 ⚡",
+      "summary": "非標準スカラー dark sector で FLRW tensor 摂動方程式を導出、luminal GW + damping/dispersion の観測制約を解析 🔍"
+    },
+    {
+      "arxiv_id": "2605.25752",
+      "title": "Teleparallel F(T) electromagnetic static spherically symmetric spacetime solutions",
+      "authors": [
+        "Alexandre Landry"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2605.25752",
+      "abstract": "covariant teleparallel F(T) gravity + EM 源での球対称解。coframe/spin-connection 定式で場の方程式・保存則・power-law 解を構成。",
+      "score": 90,
+      "reason": "🌠 teleparallel F(T) + EM の球対称解! 🎯 coframe/spin-connection 定式 + power-law 解の系列 ⚡⚡",
+      "summary": "covariant teleparallel F(T) で coframe ansatz から EM + SS 計量を再構成、NLED と F(T) を繋ぐ field eq + 保存則 ✨"
+    },
+    {
+      "arxiv_id": "2605.26116",
+      "title": "Unifying Early and Late Dark Energy: Dynamical Requirements and Obstructions",
+      "authors": [
+        "William Giarè",
+        "Jeremy Sakstein"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.26116",
+      "abstract": "EDE + late-time DE を 1 スカラー場で実現するための dynamical sequence と必要条件・obstruction を bottom-up + top-down で導出。",
+      "score": 86,
+      "reason": "🌌 1 スカラー場で EDE + late-time DE 両方を実現できる? 🎯 bottom-up + top-down で必要条件を導出 ⚡",
+      "summary": "H0 緊張を解く EDE 相 → late accel 相への dynamical sequence を要請、obstruction と phase-space 構造を抽出 📊"
+    }
+  ]
+}

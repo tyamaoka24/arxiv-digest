@@ -1,0 +1,58 @@
+{
+  "total_fetched": 234,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.24373",
+      "title": "Semiclassical Propagation and the Dynamics of Configuration Space",
+      "authors": [
+        "V. S. Morales-Salgado"
+      ],
+      "categories": [
+        "quant-ph",
+        "gr-qc",
+        "hep-th",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2605.24373",
+      "abstract": "K(x,t) = exp(iS/ℏ + R) と一般化 WKB ansatz を置き、R を「量子性」の指標として配位空間ダイナミクスとの関係を分析。",
+      "score": 85,
+      "reason": "🌀 WKB ansatz に追加項 R を入れて propagator K(x,t) の量子性を定量化! 配位空間ダイナミクスと結ぶ ✨",
+      "summary": "K = exp(iS/ℏ + R) で S は Hamilton-Jacobi 解、R が量子性指標。具体例で WKB を超える効果を分析 📐"
+    },
+    {
+      "arxiv_id": "2605.24781",
+      "title": "Time optimal quantum state engineering",
+      "authors": [
+        "Sam Edmunds",
+        "Obinna Abah"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.24781",
+      "abstract": "Quantum brachistochrone を使った time-dependent Jaynes-Cummings/Rabi での Fock 状態・Schrödinger cat の最短時間決定的生成。",
+      "score": 88,
+      "reason": "⏱ quantum brachistochrone で Fock 状態・Schrödinger cat を最短時間 + unit fidelity で! 量子速度限界の実装側 🚀",
+      "summary": "time-dependent JC + Rabi で時間最適制御、unit fidelity で非古典状態を決定的に生成 + decoherence への robustness 評価 🎯"
+    },
+    {
+      "arxiv_id": "2605.25324",
+      "title": "Unsupervised learning for the systematic identification of nondispersive wave packets in driven helium",
+      "authors": [
+        "Juan M. Scarpetta",
+        "Gustavo A. Parra",
+        "Alejandro González-Melán",
+        "Javier Madroñero"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.25324",
+      "abstract": "駆動下ヘリウムの非分散波束 (古典共鳴軌道に沿う長寿命量子状態) を Floquet + CNN で系統同定。",
+      "score": 86,
+      "reason": "🌊 駆動下 He の非分散波束 (古典軌道に沿う長寿命状態) を unsupervised で自動同定! 🧠",
+      "summary": "Floquet 量子状態を配位 + 位相空間分布として CNN に入力、表現学習で波束 family を系統的に identification ✨"
+    }
+  ]
+}

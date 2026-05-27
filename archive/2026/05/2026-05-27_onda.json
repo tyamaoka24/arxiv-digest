@@ -1,0 +1,58 @@
+{
+  "total_fetched": 234,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.24341",
+      "title": "Constraining the Potential Index n of the Early Dark Energy Model Using Cosmic Birefringence from Planck and ACT",
+      "authors": [
+        "Kedi Zhang",
+        "Lu Yin"
+      ],
+      "categories": [
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.24341",
+      "abstract": "EDE potential V ∝ [1-cos(φ/f)]^n で cosmic birefringence + Hubble 緊張を同時説明、Planck + ACT で n の依存性を系統解析。",
+      "score": 90,
+      "reason": "🌌 cosmic birefringence + Hubble 緊張を 1 つの EDE potential で! Planck + ACT で n 依存性を初の系統解析 ✨",
+      "summary": "V ∝ [1-cos(φ/f)]^n EDE + Chern-Simons coupling、n=2,3,4 で MCMC fit、観測 prefer の n 領域を抽出 📊"
+    },
+    {
+      "arxiv_id": "2605.24664",
+      "title": "The XRISM measurements of the black-hole spin in Cyg X-1 are highly model-dependent",
+      "authors": [
+        "Andrzej A. Zdziarski",
+        "Swadesh Chand",
+        "Michal Szanecki",
+        "Gulab Dewangan",
+        "Barbara De Marco"
+      ],
+      "categories": [
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2605.24664",
+      "abstract": "XRISM Resolve + NICER + NuSTAR で Cyg X-1 spin 測定、relxill だと a* = 0.99 だが relxillCp/reflkerrD だと a* = 0、モデル依存性が深刻。",
+      "score": 88,
+      "reason": "⚡ XRISM Resolve で Cyg X-1 spin を測定 → relxill だと a*≈0.99、Comptonization 込みだと a*=0! モデル依存性が深刻 🔍",
+      "summary": "XRISM + NICER + NuSTAR 同時解析、reflection model の選択で BH spin が 0.99 → 0 まで動く。spin 推定の系統不定性 📡"
+    },
+    {
+      "arxiv_id": "2605.25772",
+      "title": "Polarized Anisotropic Stochastic Gravitational Wave Background Search with Ground-Based Detector Networks",
+      "authors": [
+        "Töre Boybeyi",
+        "Vuk Mandic"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO",
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2605.25772",
+      "abstract": "CMB polarimetry 流の Stokes (I,V,Q,U) decomposition で SGW background を LVK O3 で解析、polarized angular spectra を制約。",
+      "score": 86,
+      "reason": "🛰 CMB polarimetry 流の Stokes (I,V,Q,U) decomposition で SGW background を解析! 地上検出器版 polarized GW map ✨",
+      "summary": "全 Stokes 最尤 map-making を LVK O3 に適用、C_ℓ^VV/EE/BB を制約、intensity-only からの差を評価 📊"
+    }
+  ]
+}

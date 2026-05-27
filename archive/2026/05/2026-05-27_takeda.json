@@ -1,0 +1,77 @@
+{
+  "total_fetched": 234,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.24654",
+      "title": "Influence of Quantum Decoherence on the Survival of Neutrino Oscillation Quantumness",
+      "authors": [
+        "Jilali Loulijat",
+        "Abdallah Slaoui",
+        "Mohamed Gouighri",
+        "Berihu Teklu"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.24654",
+      "abstract": "2-flavor ν 振動を 2-qubit で表し、dephasing channel での entanglement of formation / quantum discord / LQU の dynamics を KamLAND/MINOS/Daya Bay パラメタで分析。",
+      "score": 85,
+      "reason": "🌀 ν 振動を 2-qubit として dephasing channel で quantumness の dynamics! KamLAND/MINOS/Daya Bay パラメタで比較 ✨",
+      "summary": "2-flavor 振動 + dephasing で EOF / QD / LQU を計算、unitary 限で混合角依存の振動、雑音下で disappearance 評価 📊"
+    },
+    {
+      "arxiv_id": "2605.24988",
+      "title": "Integrated photon-pair sources on periodically poled thin-film lithium tantalate",
+      "authors": [
+        "Sakthi Sanjeev Mohanraj",
+        "Xiaodong Shi",
+        "Ran Yang",
+        "Lin Zhou",
+        "Di Zhu"
+      ],
+      "categories": [
+        "physics.optics",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.24988",
+      "abstract": "Thin-film LiTaO3 (TFLT) で chip integrated SPDC photon-pair source を初実証、高 χ(2) + 高ダメージ閾値 + 弱 photorefractive。",
+      "score": 88,
+      "reason": "💎 thin-film LiTaO3 (TFLT) で chip integrated SPDC photon-pair source 初実証! 強い χ(2) + 高ダメージ閾値 ✨",
+      "summary": "TFLT 上で高品質周期分極 + 低損失導波路で SPDC photon pair 生成、coincidence で双子光子を確認 🔬"
+    },
+    {
+      "arxiv_id": "2605.24994",
+      "title": "Structural constraint on delayed-choice quantum eraser architectures",
+      "authors": [
+        "Chakir Fikri"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.24994",
+      "abstract": "DCQE の architecture を probabilistic 一般化で分析、4 つの自明 property (選択独立性・無シグナリング・干渉の choice 依存等) の同時成立不可能性を示す。",
+      "score": 87,
+      "reason": "🎭 delayed-choice quantum eraser を probabilistic 一般化! 4 つの自明な性質の同時成立不可能性を証明 🧩",
+      "summary": "選択独立性・無シグナリング・干渉 choice 依存等の自明条件を probabilistic 枠で分析、構造的 incompatibility を導く ✨"
+    },
+    {
+      "arxiv_id": "2605.25609",
+      "title": "High fidelity preservation of photonic hyperentanglement in a free-space optical delay line",
+      "authors": [
+        "Yu Guo",
+        "Arya Chowdhury",
+        "Pranay Tiwari",
+        "Jia Boon Chin",
+        "Anindya Banerji"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.25609",
+      "abstract": "Nested Herriott cells での free-space delay line で polarization + energy-time hyperentanglement を 647 ns 遅延後も保持、visibility 93.9% + CHSH 2.665。",
+      "score": 85,
+      "reason": "⚡ Herriott cell delay line で 647 ns 遅延後も pol + energy-time hyperentanglement 保持! visibility 93.9% + CHSH 2.665 ✨",
+      "summary": "nested Herriott cells で free-space delay line を構築、2 光子干渉 visibility + CHSH violation を同時測定 🔬"
+    }
+  ]
+}

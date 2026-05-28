@@ -39,6 +39,7 @@
 
 ### 完了 (詳細は DESIGN.md / git log)
 
+- **2026-05-28** (`3bae379`): email delivery channel 追加 (PR #3、 tyamaoka24 さんから、 SMTP/STARTTLS、 HTML + plain-text multipart、 score-badge 色分け)。 maintainer 側 polish (= `c8d56e2`) で (1) Subject の RFC 2047 encoding (= Outlook/Thunderbird での mojibake 防止)、 (2) `EMAIL_TO` の comma-separated multi-recipient 対応 (`email.utils.getaddresses` で display name 内 comma も正しく parse)、 (3) docstring の precedence 修正 (config > env > default)。 8 件 parsing test + Subject RFC 2047 round-trip 検証済。 4 軸 sweep clean
 - 2026-04-14: onda プロファイル追加 + Discord mention ID の layer 3 委譲 (設計は DESIGN.md「Discord mention ID を collaborator layer に委譲」セクション)
 - 2026-04-14: homonym 由来の誤 INSPIRE データ除去 (ogawa)
 - 2026-04-08: archive/ 自動 commit + push 実装 (設計は DESIGN.md)

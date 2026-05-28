@@ -1,0 +1,69 @@
+{
+  "total_fetched": 154,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.27056",
+      "title": "The Simons Observatory: Rotation Performance of Cryogenic Half-Wave Plate Polarization Modulators",
+      "authors": [
+        "Kyohei Yamada",
+        "Bryce Bixler",
+        "Junna Sugiyama",
+        "Daichi Sasaki",
+        "Yuki Sakurai",
+        "Kam Arnold",
+        "Samuel Day-Weiss",
+        "Nicholas Galitzki",
+        "Bradley R. Johnson",
+        "Akito Kusaka",
+        "Lyman A. Page",
+        "Yoshinori Sueno"
+      ],
+      "categories": [
+        "astro-ph.IM"
+      ],
+      "url": "https://arxiv.org/abs/2605.27056",
+      "abstract": "We present the on-site rotation performance of the first three cryogenic continuously rotating half-wave plate (HWP) polarization modulators for the Simons Observatory small aperture telescopes (SATs). The SATs operate at an altitude of 5200 m in the Atacama Desert in northern Chile, and measure the degree-scale cosmic microwave background polarization to search for primordial $B$-mode polarization. To this end, the SATs employ a 505 mm diameter 50 K cryogenic HWP polarization modulator to suppress atmospheric $1/f$ noise and to mitigate systematic uncertainties. We present methods for reconstructing the rotation of our polarization modulators, enabling detailed evaluations of their rotation angle accuracy, stability, displacements, and vibrations. We achieve the required rotation angle accuracy in more than 99.9% of observations, with a median noise level of 0.16 $\\mu$rad$\\sqrt{\\text{s}}$. We also achieve one-dimensional measurement of the rotor displacement with an accuracy of 0.06 $\\mu\\text{m}\\sqrt{\\text{s}}$. Our results demonstrate the on-site rotation performance, rotation angle reconstruction method, and robustness of the polarization angle modulators. This is a crucial step towards achieving the SAT science goals.",
+      "score": 96,
+      "reason": "🛰️ Simons Observatory cryogenic HWP の現地回転性能! 🎯 LiteBIRD HWP calibration に直結 ✨",
+      "summary": "🔧 SAT 用 cryogenic continuously rotating HWP 3 台の Atacama 現地動作レポート、B-mode 偏光変調の安定性を実証 📡"
+    },
+    {
+      "arxiv_id": "2605.27231",
+      "title": "A Fast Method to Compute Scalar Induced Gravitational Waves on a Lattice with Primordial Non-Gaussianities",
+      "authors": [
+        "Giovanni Piccoli"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "gr-qc",
+        "physics.comp-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.27231",
+      "abstract": "Scalar Induced Gravitational Waves (SIGW) are generated at second order in perturbation theory and to achieve observational relevance, inflationary dynamics must evade the standard slow-roll scenario at small scales, generating large curvature perturbations following strongly non-Gaussian statistics. We propose a method to efficiently compute the SIGW spectrum including arbitrary non-Gaussianities. First, we solve the wave equation adopting semi-analytic methods; this results in an expression involving integrals in Fourier space which are impossible to solve directly on a lattice. We overcome this bottleneck by recasting these integrals as a sum of about 50 convolutions, each of which can be computed efficiently with FFT methods. Finally, the power spectrum is measured directly from the lattice realization. We implement this in FLAN-SIGW, a GPU-accelerated code capable of computing fully non-perturbative, non-Gaussian SIGW spectra in seconds with an error within 10% with modest computational resources. The code is made public at https://github.com/giovannipiccoli99/FLAN-SIGW. In this first implementation, in order to assess the performance of the method, we adopt a standard radiation-dominated background with $w = 1/3$.",
+      "score": 86,
+      "reason": "🌀 任意の primordial non-Gaussianities 下で SIGW を格子計算する高速法、 r∼10⁻³ 議論にも効く ✨",
+      "summary": "⚡ slow-roll を逸脱する小スケール曲率揺らぎから生じる scalar-induced GW を、非ガウス性込みで高速にスペクトル算出 📊"
+    },
+    {
+      "arxiv_id": "2605.26907",
+      "title": "Future Detections of the Warm-Hot Intergalactic Medium using Bright Power Law Sources with NewAthena",
+      "authors": [
+        "Joseph Fisher",
+        "Antonio Martin-Carrillo",
+        "Thomas Dauser",
+        "J\"orn Wilms",
+        "Joop Schaye",
+        "Didier Barret"
+      ],
+      "categories": [
+        "astro-ph.IM",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.26907",
+      "abstract": "Context. Hydrodynamical cosmological simulations based on the {\\Lambda}CDM model predict that {\\sim}40% of the baryons in the local Universe are missing. These missing baryons are predicted to lie in low density filamentary structures which trace connections between galaxies. This so-called warm-hot intergalactic medium (WHIM) is predicted to be observable in the FUV and soft X-ray regimes, and detectable in ion species with transitions in these bands. Aims. We investigate the capability of the X-ray Integral Field Unit (X-IFU) on NewAthena to detect this WHIM through O vii absorption lines imprinted on bright power-law sources in soft X-rays (0.3-1.0 keV) by examining the parameter space of different observing conditions. Methods. Through advanced simulations of the X-IFU detector, a multidimensional approach is taken to investigate the relationship between source parameters and their impacts on the significance of detection of a single absorption feature. By first studying the effect of line placement (redshift) for an observation of fixed length, followed by varying the observation length, the required counts for 3{\\sigma} and 5{\\sigma} detections are calculated for various photon index and local Galactic absorption values. The rest-frame equivalent widths of the imprinted absorption features are then varied and the same requirements are calculated for each line strength. Results. We discuss the detection and recovery of the imprinted WHIM features. Another method is used to derive count requirements to detect these features at different levels of significance, which is then compared to the previously obtained requirements. Using publicly available data from the Swift archives, various non-transient sources are analysed for their suitability to detect WHIM features in absorption.",
+      "score": 85,
+      "reason": "🔭 NewAthena で WHIM (missing baryon) を bright power-law source で吸収検出! X 線観測パラレルテーマ ✨",
+      "summary": "📡 ΛCDM が予言する低密度フィラメント中の WHIM を、明るい背景天体の FUV / soft X-ray 吸収特徴で検出予測 🌌"
+    }
+  ]
+}

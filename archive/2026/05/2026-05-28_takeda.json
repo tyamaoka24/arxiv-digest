@@ -1,0 +1,101 @@
+{
+  "total_fetched": 154,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.26583",
+      "title": "Integrated squeezed light sources for two-mode entanglement in thin-film lithium niobate",
+      "authors": [
+        "Philipp Lohmann",
+        "Renato R. Domeneguetti",
+        "Daniel Wendland",
+        "Alessandro Perino",
+        "Tobias Egebjerg",
+        "Liam McRae",
+        "Jonas S. Neergaard-Nielsen",
+        "Wolfram H. P. Pernice",
+        "Ulrik L. Andersen"
+      ],
+      "categories": [
+        "quant-ph",
+        "physics.optics"
+      ],
+      "url": "https://arxiv.org/abs/2605.26583",
+      "abstract": "Scalable generation of nonclassical light sources on an integrated platform is a key requirement for photonic quantum information processing. In particular, realizing multiple indistinguishable squeezed light sources on a single chip is an essential step toward continuous-variable quantum computing. Here, we demonstrate the fabrication of two indistinguishable and independently controllable optical parametric oscillators on a thin-film lithium niobate (TFLN) platform. The device design focuses on reproducibility, independent tunability, and compatibility with larger telecom-wavelength continuous-variable photonic circuits. We observe up to 0.5 dB of directly measured squeezing below the shot-noise level from each source. By interfering the two modes on a beam splitter, we generate an EPR-type two-mode squeezed state and verify continuous-variable entanglement through violation of the Duan-Simon inseparability criterion. This is the first demonstration of two independently tunable squeezed-light sources on a single TFLN chip and their use for generating continuous-variable entanglement.",
+      "score": 89,
+      "reason": "💎 TFLN チップに 2 つの indistinguishable squeezed 光源を集積! 🎯 CV 量子計算の鍵パーツ ✨",
+      "summary": "🔬 thin-film LiNbO₃ で independently controllable な 2 つの squeezed 光源を実装、 two-mode entanglement を生成 📡"
+    },
+    {
+      "arxiv_id": "2605.26375",
+      "title": "Bohr's complementarity",
+      "authors": [
+        "Diego S. Starke",
+        "Jonas Maziero",
+        "Marcos L. W. Basso",
+        "Tabish Qureshi"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.26375",
+      "abstract": "Quantum complementarity is a fundamental feature of quantum systems and has captivated the physics research community for nearly a century, with significant advancements emerging in recent decades. This review traces the historical evolution of the concept of complementarity, beginning with Bohr's original formulation. It then explores its modern quantification through complementarity relations and its profound connection to the foundational postulates of quantum theory. Furthermore, it delves into key related developments, such as the operational definition of complementarity in the context of incompatible observables, its potential links with quantum uncertainty relations and contextuality, its various applications, and other pertinent topics. This review aims to serve physicists interested in quantum resources, quantum correlations, and the foundational principles of quantum mechanics.",
+      "score": 88,
+      "reason": "📚 Bohr 相補性レビュー — which-path / 量子消しゴム / 干渉と区別可能性の今をまとめた一本 ✨",
+      "summary": "🔍 Bohr 原形から complementarity relations の現代定量化までを総括、量子干渉の基礎を再整理する review 📖"
+    },
+    {
+      "arxiv_id": "2605.26962",
+      "title": "Genuine Hybrid Number-Polarization Entanglement",
+      "authors": [
+        "Dorian Schiffer",
+        "Marcus Huber",
+        "Elizabeth Agudelo"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.26962",
+      "abstract": "Entanglement is a key resource for fundamental tests of physics and emerging quantum technologies. In quantum optics, two perspectives on entanglement coexist. In the continuous-variable framework, entanglement is understood as holding between optical modes. In contrast, discrete-variable quantum optics focuses on quantum correlations in degrees of freedom such as polarization that label fixed numbers of photons. In this paper, we show that entanglement can transcend this separation. Spontaneous parametric down-conversion inherently generates correlations in optical phase space, photon number, and labelling degrees of freedom simultaneously. In polarization, this structure is traditionally described by macroscopic Bell states. Existing witnesses, however, fail to detect the genuine hybrid entanglement of these states, which goes beyond the continuous-discrete-variable categorization. Here, we lay the groundwork for a general framework unifying continuous- and discrete-variable notions of entanglement. In particular, we derive an operational witness providing a sufficient criterion for genuine hybrid number-polarization entanglement and outline its experimental implementation. Finally, we discuss exemplary states which, together with our results on macroscopic Bell states, motivate a broader classification of genuine hybrid quantum correlations.",
+      "score": 86,
+      "reason": "🌈 光子数 × 偏光のハイブリッド真の真正もつれ! 🎯 SPDC / 光量子の異なる絡み合い表現を統合 ✨",
+      "summary": "⚛️ CV (光子数 mode) と DV (偏光) を跨ぐ genuine hybrid entanglement のクラスを構成、検証スキーム込みで提示 🔬"
+    },
+    {
+      "arxiv_id": "2605.26706",
+      "title": "Nonlinear Breit-Wheeler Process Driven by Intense Squeezed Light",
+      "authors": [
+        "Xin Ge",
+        "Kai-Hong Zhuang",
+        "Pei-Lun He",
+        "Yue-Yue Chen"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.26706",
+      "abstract": "The nonlinear Breit-Wheeler process is a fundamental phenomenon of strong-field quantum electrodynamics and is usually studied for classically prescribed laser backgrounds. Here we examine how the statistical properties of a squeezed coherent driving field modify nonlinear Breit-Wheeler pair production. Using a polarization-resolved Monte Carlo framework with stochastic averaging over the field-amplitude distribution derived from the Husimi Q-function, we simulate collisions of gamma photons with squeezed light and identify clear source-state-dependent modifications of the pair production signal. These effects include the smoothing of harmonic structure, the enhancement of higher-order multiphoton channels, and the suppression of the single-laser-photon absorption channel when stronger-field realizations raise the dressed-mass threshold. Within the selected spectral window, the degree of positron polarization increases monotonically with the squeezing parameter, while the angular distributions broaden as the statistical weight of larger field amplitudes increases. Our results show that, even at fixed mean electric-field amplitude, the statistical fluctuations inherent to the squeezed coherent state can substantially reshape spectral, angular, and spin-resolved observables in strong-field pair production. These findings illustrate a direct link between source-state-dependent field statistics and strong-field pair production observables, and provide a theoretical framework for studying how squeezed-state preparation of the driving field can influence high-energy QED processes.",
+      "score": 85,
+      "reason": "💥 squeezed coherent 場が駆動する非線形 Breit-Wheeler 対生成! 🎯 古典→非古典ドライブの効果 ✨",
+      "summary": "⚡ polarization-resolved Monte Carlo + 確率場平均で squeezed light の統計性が e⁺e⁻ pair production をどう変えるかを解析 📡"
+    },
+    {
+      "arxiv_id": "2605.26724",
+      "title": "Revealing the Two-Fold Ambiguity: Tau Momentum Reconstruction and Its Impact on Entanglement Observables",
+      "authors": [
+        "Xiang Zhou",
+        "Jianyong Zhang",
+        "Xia Wan",
+        "Youkai Wang",
+        "Xiaohu Mo"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.26724",
+      "abstract": "The neutrinos produced in $\\tau$ decays cannot be directly detected, making the reconstruction of $\\tau$ kinematics challenging and affecting measurements of quantum correlations such as spin entanglement. For the process $e^+e^- \\to \\tau^+\\tau^- \\to \\pi^+ \\bar{\\nu}_\\tau\\pi^-\\nu_\\tau$, the kinematic constraints allow the $\\tau$ momenta to be reconstructed up to a well-known two-fold ambiguity, regardless of the presence of an intermediate resonance state. In this paper, we present a geometric interpretation of this ambiguity and propose a numerical reconstruction method based on singular value decomposition (SVD). Using only the information from visible final-state particles and decay kinematics, the method reconstructs the two possible solutions for the $\\tau^+\\tau^-$ pair. The reconstruction performance is validated with Monte Carlo simulations in typical collider environments. We further investigate the impact of the spurious solution on spin-entanglement measurements and show that reliable entanglement signals can still be extracted even when the true and spurious solutions cannot be experimentally distinguished. This work provides a practical approach for $\\tau$-lepton kinematic reconstruction and spin-entanglement measurements in $e^+e^-$ collider experiments.",
+      "score": 85,
+      "reason": "🔬 e⁺e⁻ → τ⁺τ⁻ の τ 運動量再構成 2 値曖昧性を spin entanglement 観測量へ転写、Belle II / FCC 関連 🎯",
+      "summary": "📐 τ 崩壊 ν 未検出での kinematic 2-fold ambiguity を統計的に処理、collider での量子相関測定への影響を定量化 ✨"
+    }
+  ]
+}

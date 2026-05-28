@@ -1,0 +1,60 @@
+{
+  "total_fetched": 154,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.26331",
+      "title": "Uncertainty Relation for a Single Observable",
+      "authors": [
+        "Haruki Yamashita",
+        "Aina Mayumi",
+        "Gen Kimura"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2605.26331",
+      "abstract": "Uncertainty relations are usually formulated as trade-off relations between two or more observables. Here we show that the uncertainty of a single observable already has a nontrivial lower bound originating from the noncommutativity between the observable and the quantum state. We prove sharp lower bounds on the variance of a single observable and then sharpen them further by introducing the classical uncertainty of the observable under a fixed state. The optimal coefficient is determined solely by the smallest and largest eigenvalues of the state. Our results include an optimal state-dependent improvement of Luo's Wigner--Yanase-type relation and a direct bound showing that coherence or asymmetry of the state with respect to the observable gives an unavoidable contribution to its uncertainty. For qubits, the sharpened bounds become exact identities, giving a complete decomposition of the variance into classical and noncommutative parts. These single-observable relations also yield improved product-form uncertainty relations for pairs of observables.",
+      "score": 94,
+      "reason": "🎯 単一観測量だけで非自明な不確定性下限! 🌀 状態と観測量の non-commutativity から導出 ✨",
+      "summary": "📐 単一 observable の分散の sharp lower bound を導出、状態-演算子 non-commutativity 由来、新しい不確定性関係のクラスを開拓 🔬"
+    },
+    {
+      "arxiv_id": "2605.26375",
+      "title": "Bohr's complementarity",
+      "authors": [
+        "Diego S. Starke",
+        "Jonas Maziero",
+        "Marcos L. W. Basso",
+        "Tabish Qureshi"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.26375",
+      "abstract": "Quantum complementarity is a fundamental feature of quantum systems and has captivated the physics research community for nearly a century, with significant advancements emerging in recent decades. This review traces the historical evolution of the concept of complementarity, beginning with Bohr's original formulation. It then explores its modern quantification through complementarity relations and its profound connection to the foundational postulates of quantum theory. Furthermore, it delves into key related developments, such as the operational definition of complementarity in the context of incompatible observables, its potential links with quantum uncertainty relations and contextuality, its various applications, and other pertinent topics. This review aims to serve physicists interested in quantum resources, quantum correlations, and the foundational principles of quantum mechanics.",
+      "score": 88,
+      "reason": "📚 Bohr 相補性の歴史から現代的定量化までを総括するレビュー、量子基礎の必読 ✨",
+      "summary": "🔍 Bohr 原形から現代的な complementarity relations (相補性関係) の定量化、QM 基礎の最新像を整理 📖"
+    },
+    {
+      "arxiv_id": "2605.26214",
+      "title": "Trade-off Relation for Black Hole Entropy Fluctuations",
+      "authors": [
+        "Kensuke Gallock-Yoshimura",
+        "Yoshihiko Hasegawa"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.26214",
+      "abstract": "Black holes respond to infalling quantum matter fields by changing their entropy. Since such matter is quantum in nature, the entropy response should be sensitive to its quantum fluctuations. We show, within stochastic semiclassical gravity, that a horizon cannot record relevant quantum information with arbitrarily small entropy fluctuations. For the infalling photons encoding which-path information in the Danielson-Satishchandran-Wald decoherence experiment, we derive a trade-off relation between the stochastic variance of the black hole entropy change and the photon number.",
+      "score": 86,
+      "reason": "⚡ ブラックホール エントロピー揺らぎの trade-off 関係 (Hasegawa) !  情報記録と量子揺らぎの限界 🕳️",
+      "summary": "🌌 stochastic semiclassical gravity でホライズン情報記録の精度と quantum fluctuation の trade-off を導出 📡"
+    }
+  ]
+}

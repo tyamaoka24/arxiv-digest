@@ -1,0 +1,135 @@
+{
+  "total_fetched": 154,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.26360",
+      "title": "Torsional black holes and wormholes in Einstein-Cartan-Maxwell gravity with a conformal scalar field",
+      "authors": [
+        "Luis Avil'es",
+        "Omar Valdivia",
+        "Rodolfo V'eliz",
+        "Carlos Vera"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.26360",
+      "abstract": "We formulate a one-parameter extension of Weyl transformations in first-order gravity and show that it defines a conformally coupled scalar sector with dynamical torsion. The construction reduces to the standard torsionless conformal coupling in the limit $\\lambda\\to 1$. In the corresponding Einstein-Cartan-Maxwell theory, we derive exact static solutions in asymptotically flat and asymptotically locally AdS spacetimes. These solutions describe scalar-dressed black holes, regular black holes, and traversable wormholes, depending on the values of the integration constants and of the deformation parameter. We show that torsion can regularize the scalar field and, for suitable branches, also improve the geometric singularity structure. In the AdS sector, the existence of topological black holes requires a nonvanishing electric charge. These results provide new exact examples of regular and torsional configurations in four-dimensional gravity.",
+      "score": 94,
+      "reason": "🎯 Einstein-Cartan-Maxwell gravity の torsional ブラックホール & wormhole! ⚡ conformal scalar coupling 込みで exact 解 ✨",
+      "summary": "🔥 EC-Maxwell 重力で torsion 動的化 + conformally coupled scalar、漸近平坦 / dS / AdS BH と wormhole の exact 解を構成 🌀"
+    },
+    {
+      "arxiv_id": "2605.27049",
+      "title": "Family-separated seesaw relations of Majorana neutrinos",
+      "authors": [
+        "Zhi-zhong Xing"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-ex",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.27049",
+      "abstract": "Given the canonical seesaw mechanism as a most natural extension of the standard model in its neutrino sector, we find out a special but brand new solution to the exact seesaw equation: $m^{}_i/M^{}_i = - R^2_{\\alpha i}/U^2_{\\alpha i}$ for the masses and flavor mixing matrix elements of light and heavy Majorana neutrinos of the $i$-th family (for $i = 1, 2, 3$ and $\\alpha = e, \\mu, \\tau$). This family-separated seesaw scenario allows us to establish simple relations between the original seesaw parameters and the active degrees of freedom, and thus offers some testable predictions such as a direct correlation between the CP-violating effects in light neutrino flavor oscillations and heavy Majorana neutrino decays.",
+      "score": 87,
+      "reason": "🧬 canonical seesaw に新たな family-separated 解! 🎯 軽い・重い Majorana の質量と混合を families ごと縛る ✨",
+      "summary": "📐 厳密 seesaw 方程式の新解 m_i/M_i = -R²_αi / U²_αi、各 family 独立に成立、現実的な flavor 構造へ示唆 🔍"
+    },
+    {
+      "arxiv_id": "2605.27196",
+      "title": "Hybrid Expansion Cosmology in f(T) Gravity: Late-Time Evolution and Observational Bounds",
+      "authors": [
+        "Rajalakshmi Jena",
+        "Vishal M C",
+        "Sankarsan Tarai"
+      ],
+      "categories": [
+        "gr-qc",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.27196",
+      "abstract": "This study investigates the cosmological dynamics of an accelerating universe within the framework of teleparallel gravity using an exponential f(T) functional form. To obtain exact cosmological solutions, a hybrid scale factor is employed to model the smooth transition from an early decelerated phase to the present accelerated expansion of the Universe. The physical consistency of the model is analyzed through classical energy conditions and cosmographic parameters. By constraining the model parameters using 31 Hubble data points, we find that the resulting matter-energy density and pressure evolution remain consistent with the observed cosmic acceleration. Diagnostic analysis confirms that the model remains within the quintessence regime and asymptotically approaches the {\\Lambda}CDM scenario.",
+      "score": 86,
+      "reason": "🚀 teleparallel f(T) 重力でハイブリッド膨張シナリオ! 🌌 減速→加速の遷移を再現できるか観測拘束 ✨",
+      "summary": "📊 f(T)=exponential 型でハイブリッドスケール因子を採用、Hubble parameter で減速→加速転移を解析、観測拘束も実行 🌠"
+    },
+    {
+      "arxiv_id": "2605.26170",
+      "title": "Probing Axion Nucleon Coupling with Optomechanical Frequency Shift Measurements",
+      "authors": [
+        "Jiawei Li",
+        "Ka-di Zhu"
+      ],
+      "categories": [
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.26170",
+      "abstract": "The search for non-baryonic dark matter remains a key focus in modern physics, with the light pseudoscalar axion serving as a well-motivated candidate. Here, we present a laboratory-scale detection scheme to constrain axion-nucleon interactions using a levitated optomechanical sensor, complementing conventional spin-precession and inverse-square-law tests. By monitoring a micro-spherical test mass levitated near alternative aluminum and silver substrate mirrors, our dual-channel differential readout extracts the spin-independent force gradient generated by two-axion exchange. This approach translates the short-range interaction directly into a resolvable splitting in the optical transmission peaks. Our evaluation indicates that for symmetric nucleon coupling , the dual-cavity platform establishes competitive upper bounds, improving upon existing constraints by up to two orders of magnitude within the $m_{a}$ in [0.1, 1]eV mass range.",
+      "score": 86,
+      "reason": "⚛️ 軽い擬スカラー axion-nucleon 結合を浮上光メカニクスで攻める! 🎯 spin-precession 系の補完 ✨",
+      "summary": "🔬 浮上光メカ sensor で nucleon-axion 結合の周波数シフトを使った検出スキーム、室温・テーブルトップで axion DM 探索 🧲"
+    },
+    {
+      "arxiv_id": "2605.26265",
+      "title": "NuSTAR as an Axion Helioscope: probing axion-nucleon and axion-electron couplings",
+      "authors": [
+        "Tiziano Zanzarella",
+        "Francisco R. Cand'on",
+        "Maurizio Giannotti",
+        "Marco Regis",
+        "Jaime Ruz",
+        "Marco Taoso",
+        "Elisa Todarello",
+        "Julia K. Vogel"
+      ],
+      "categories": [
+        "astro-ph.CO",
+        "astro-ph.HE",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.26265",
+      "abstract": "We investigate solar X-ray observations as a probe of axions and axion-like particles. These particles can be produced in the interior of the Sun via the conversion of thermal photons, as well as through processes involving axion-electron and axion-nucleon interactions. The resulting axions can then reconvert into photons in the Sun's atmospheric magnetic field, generating a signal in the X-ray energy range. In this work, we derive new limits on axions using X-ray observations with the Nuclear Spectroscopic Telescope Array (NuSTAR) during the 2020 solar minimum. In the regime where ALP production is dominated by couplings to electrons or nucleons, we obtain bounds on the product of couplings $g_{ae}\\cdot g_{a\\gamma}\\lesssim 1.1\\times10^{-24}\\,\\rm GeV^{-1}$ and $g_{aN}^{\\rm eff}\\cdot g_{a\\gamma}\\lesssim 2.3\\times 10^{-19}\\,\\rm GeV^{-1}$ at 95% CL, for axion masses $m_a\\lesssim10^{-6}\\,\\rm eV$. These constraints strongly improve current ground-based experimental limits, establishing solar X-ray observations as a powerful and robust method for axion searches.",
+      "score": 86,
+      "reason": "🌞 太陽 X 線で axion-nucleon & axion-electron を同時に攻める NuSTAR helioscope! ✨",
+      "summary": "☀️ 太陽内部生成 axion を太陽磁場で再変換、NuSTAR の X 線観測で axion-nucleon / electron 結合に上限 🎯"
+    },
+    {
+      "arxiv_id": "2605.26824",
+      "title": "Improved Big Bang Nucleosynthesis constraints on decaying massive relics",
+      "authors": [
+        "Sara Bianco",
+        "Jonas Frerick",
+        "Marco Hufnagel",
+        "Kai Schmidt-Hoberg"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO"
+      ],
+      "url": "https://arxiv.org/abs/2605.26824",
+      "abstract": "We present updated and improved Big Bang Nucleosynthesis (BBN) constraints on heavy, long-lived beyond the Standard Model (BSM) relics $\\phi$ decaying into pairs of Standard Model particles, covering a comprehensive set of two-body decay channels. We treat the leading effects of these injections in detail, discussing the modification of the neutron-to-proton ratio from hadronic interconversions, as well as hadro- and photodisintegration of the light elements. Our analysis incorporates several important refinements with respect to earlier work. We adopt up-to-date primordial abundance measurements, including the new $^4$He determination and the latest nuclear reaction rates. The hadronic and electromagnetic injection spectra are computed using PYTHIA 8, providing a proper treatment of final-state radiation and hadronisation. We further implement an improved treatment of $p\\leftrightarrow n$ interconversions, accounting for dynamical equilibrium, kaon-induced processes, and updated rates. Additionally, we make use of a refined hadrodisintegration formalism which allows us to also consider disintegration processes while BBN is still active. Together, these improvements yield updated exclusion contours on lifetime, mass, and abundance of the relic for each decay channel considered. Furthermore, we discuss the irreducible freeze-in contribution from inverse decays.",
+      "score": 86,
+      "reason": "🌌 BSM 長寿命 relic の 2 体崩壊を BBN で全網羅縛り! ⚡ hadronic / electromag 両セクター更新 ✨",
+      "summary": "🔥 BBN 制約を更新、neutron-proton 比への hadronic interconversion + 光分解を統一処理、SM 全 2 体崩壊チャネルを系統解析 📡"
+    },
+    {
+      "arxiv_id": "2605.26204",
+      "title": "Electromagnetic Signatures From Primordial Black Holes in the Solar System",
+      "authors": [
+        "Alexandra P. Klipfel",
+        "David I. Kaiser"
+      ],
+      "categories": [
+        "hep-ph",
+        "astro-ph.CO",
+        "astro-ph.HE"
+      ],
+      "url": "https://arxiv.org/abs/2605.26204",
+      "abstract": "Primordial black holes (PBHs) in the asteroid-mass range, with typical masses $10^{17}\\,{\\rm g}\\lesssim M \\lesssim 10^{23}\\,{\\rm g}$, have drawn significant recent attention as a viable dark matter candidate. The peak frequencies of photons emitted via Hawking radiation from asteroid-mass PBHs range from infrared to $\\gamma$-ray bands. We calculate expected local transit rates for extended PBH mass distributions which could comprise all the dark matter. We evaluate prospects for detecting Hawking-radiated photons from local PBH transits through the inner Solar System and from PBH explosions in the far outer edges of the Solar System. We consider several existing and proposed ground-based and space-based instruments sensitive to photons from the radio band to ultrahigh energy $\\gamma$-rays. We find that proposed instruments, such as the AMEGO-X satellite, could reliably detect PBH transits within ${\\it O} (0.1 \\, {\\rm AU})$ of the Earth, while the HAWC and LHAASO observatories are both sensitive to PBH explosions out to ${\\it O}(0.1 \\, {\\rm pc})$ and ${\\it O}(0.5 \\, {\\rm pc})$ respectively. We conclude by specifically considering potential companion electromagnetic signatures in the case of a PBH explosion about $10^3\\,{\\rm AU}$ from Earth, which has been suggested as a potential source for the $\\sim 220 \\, {\\rm PeV}$ ultrahigh-energy KM3-230213A neutrino event observed by the KM3NeT collaboration in 2023. Whereas we find that the recent KM3NeT event would not have yielded detectable electromagnetic signals -- due to its location on the sky, proposed distance from Earth, and the offline status of the HAWC observatory at that time -- we demonstrate that future PBH explosions at comparable distances could yield measurable electromagnetic signals at Earth, depending on alignment of the PBH burst with detector fields of view.",
+      "score": 86,
+      "reason": "🕳️ asteroid-mass PBH (DM 候補) の太陽系内通過の電磁シグネチャを Kaiser 流に計算! 🚀",
+      "summary": "📡 質量 10¹⁷-10²³ g の PBH からの Hawking 放射 (赤外〜γ 線) について、ローカル通過率と検出可能性を見積もる 🌟"
+    }
+  ]
+}

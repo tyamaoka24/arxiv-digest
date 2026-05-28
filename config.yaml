@@ -40,6 +40,15 @@ channels:
     enabled: false
     # webhook_url: set via env var SLACK_WEBHOOK_URL
 
+  email:
+    enabled: false
+    smtp_host: smtp.gmail.com   # SMTP server host
+    smtp_port: 587              # STARTTLS port
+    # username: set via env var EMAIL_USERNAME
+    # password: set via env var EMAIL_PASSWORD (Gmail App Password)
+    # from:     set via env var EMAIL_FROM (default: same as username)
+    # to:       set via env var EMAIL_TO (recipient(s); comma-separated for multiple)
+
   stdout:
     enabled: false              # For testing/debugging
 

@@ -47,7 +47,7 @@ channels:
     # username: set via env var EMAIL_USERNAME
     # password: set via env var EMAIL_PASSWORD (Gmail App Password)
     # from:     set via env var EMAIL_FROM (default: same as username)
-    # to:       set via env var EMAIL_TO (recipient address)
+    # to:       set via env var EMAIL_TO (recipient(s); comma-separated for multiple)
 
   stdout:
     enabled: false              # For testing/debugging

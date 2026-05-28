@@ -3,8 +3,10 @@
 import datetime
 import os
 import smtplib
+from email.header import Header
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from email.utils import getaddresses
 
 from .base import Channel
 
@@ -12,15 +14,21 @@ from .base import Channel
 class EmailChannel(Channel):
     """Send digest as an HTML email via SMTP.
 
-    Required environment variables:
-        EMAIL_USERNAME   SMTP login username (Gmail address)
-        EMAIL_PASSWORD   SMTP password or app password
+    Precedence for each setting: config.yaml > environment variable > default.
+    EMAIL_PASSWORD is environment-only — never read from config.yaml.
 
-    Optional environment variables (override config.yaml):
+    Required (no default):
+        EMAIL_USERNAME   SMTP login username (Gmail address)
+        EMAIL_PASSWORD   SMTP password or app password (env-only)
+        EMAIL_TO         Recipient address(es); comma-separated for
+                         multiple recipients. Display names are allowed
+                         (RFC 5322 — quoted "Last, First" forms with
+                         embedded commas are parsed correctly).
+
+    Optional:
         EMAIL_SMTP_HOST  SMTP server host (default: smtp.gmail.com)
         EMAIL_SMTP_PORT  SMTP port (default: 587 for STARTTLS)
         EMAIL_FROM       From address (default: EMAIL_USERNAME)
-        EMAIL_TO         Recipient address (default: config.yaml email.to)
     """
 
     def __init__(self, config):
@@ -39,7 +47,15 @@ class EmailChannel(Channel):
             or os.environ.get("EMAIL_FROM")
             or self.username
         )
-        self.to_addr = config.get("to") or os.environ.get("EMAIL_TO")
+
+        # Parse recipients: accept comma-separated list, with or without
+        # display names (RFC 5322). `to_addrs` is the bare-address list passed
+        # to SMTP RCPT TO; `to_addr_display` is the original string used in
+        # the visible "To:" header so display names are preserved.
+        raw_to = config.get("to") or os.environ.get("EMAIL_TO") or ""
+        parsed = getaddresses([raw_to])
+        self.to_addrs = [addr for _, addr in parsed if addr]
+        self.to_addr_display = raw_to.strip()
 
         if not self.username or not self.password:
             raise RuntimeError(
@@ -47,10 +63,11 @@ class EmailChannel(Channel):
                 "  Gmail: generate an App Password at myaccount.google.com/apppasswords\n"
                 "  Then: export EMAIL_USERNAME=<your-address> EMAIL_PASSWORD=xxxx-xxxx-xxxx-xxxx"
             )
-        if not self.to_addr:
+        if not self.to_addrs:
             raise RuntimeError(
                 "Recipient address not configured.\n"
-                "  Set 'to' in config.yaml under channels.email, or set EMAIL_TO env var."
+                "  Set 'to' in config.yaml under channels.email, or set EMAIL_TO env var\n"
+                "  (comma-separated for multiple recipients)."
             )
 
     @property
@@ -65,15 +82,18 @@ class EmailChannel(Channel):
         html = self._format_html(header, papers, today)
 
         msg = MIMEMultipart("alternative")
-        msg["Subject"] = subject
+        # Header() wraps non-ASCII subject as RFC 2047 (=?utf-8?b?...?=) so
+        # all mail clients (Apple Mail / Outlook / Thunderbird / Gmail) render
+        # it correctly instead of relying on raw-UTF-8 tolerance.
+        msg["Subject"] = Header(subject, "utf-8")
         msg["From"] = self.from_addr
-        msg["To"] = self.to_addr
+        msg["To"] = self.to_addr_display
 
         msg.attach(MIMEText(plain, "plain", "utf-8"))
         msg.attach(MIMEText(html, "html", "utf-8"))
 
         self._send(msg)
-        print(f"Email: sent digest with {len(papers)} papers to {self.to_addr}")
+        print(f"Email: sent digest with {len(papers)} papers to {self.to_addr_display}")
 
     # ------------------------------------------------------------------
     # Plain-text fallback
@@ -209,9 +229,9 @@ class EmailChannel(Channel):
     def post_text(self, text):
         """Send a plain-text notification (errors etc.)."""
         msg = MIMEText(text, "plain", "utf-8")
-        msg["Subject"] = "arXiv Digest Notification"
+        msg["Subject"] = Header("arXiv Digest Notification", "utf-8")
         msg["From"] = self.from_addr
-        msg["To"] = self.to_addr
+        msg["To"] = self.to_addr_display
         self._send(msg)
 
     def _send(self, msg):
@@ -221,7 +241,7 @@ class EmailChannel(Channel):
             server.starttls()
             server.ehlo()
             server.login(self.username, self.password)
-            server.sendmail(self.from_addr, [self.to_addr], msg.as_string())
+            server.sendmail(self.from_addr, self.to_addrs, msg.as_string())
 
     @staticmethod
     def _author_str(authors):

@@ -1,0 +1,99 @@
+{
+  "total_fetched": 83,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.28688",
+      "title": "Topological lattice gauge theory enriched by non-invertible symmetry",
+      "authors": [
+        "Lea E. Bottini",
+        "Clement Delcamp",
+        "Edmund Heng",
+        "Campbell K. McLauchlan",
+        "Dominic J. Williamson"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.28688",
+      "abstract": "We use finite group topological lattice gauge theory, also known as the quantum double model, as a lens to explore a notion of topological order enriched by a non-invertible symmetry. For invertible symmetry enriched topological order, there is an established axiomatisation in terms of a G-crossed braided fusion category. We lay the foundations for a generalisation of this notion. By condensing an arbitrary algebra of charges in a quantum double model, we demonstrate that the category of localised excitations in the resulting theory forms a hypergroup-graded extension of the category of deconfined excitations. For every element in the hypergroup, the associated domain wall acts in a typically non-invertible way on these localised excitations. Both this action and the monoidal structure are compatible with the hypergroup grading. The actual categorical action is encoded in a Hopf monad on the category of localised excitations, and gauging the non-invertible symmetry amounts to computing the category of modules over this Hopf monad. Finally, we outline how this framework naturally extends to theories obtained by condensing algebras in a generic string-net model.",
+      "score": 92,
+      "reason": "🔬 quantum double の charge 凝縮で non-invertible 対称性豊富化 SET を定式化！hypergroup 次数付き category と Hopf monad による gauging の一般論 ✨",
+      "summary": "有限群格子ゲージ理論（quantum double）で algebra 凝縮を行い、non-invertible SETO の hypergroup 次数付き拡張を構築。Hopf monad で gauging を定式化し、string-net モデルへの拡張も展望"
+    },
+    {
+      "arxiv_id": "2605.27672",
+      "title": "Spontaneous breaking of non-invertible symmetries and duality to beyond-Landau transitions",
+      "authors": [
+        "Xie Chen",
+        "Shang Liu",
+        "Da-chuan Lu",
+        "Nathanan Tantivasadakarn"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.27672",
+      "abstract": "Spontaneous symmetry breaking is a well-understood mechanism for generating distinct phases of matter. Recently, the notion of symmetry has been broadened to include operations without inverses, leading to the concept of non-invertible symmetries. How do symmetry-breaking phases associated with non-invertible symmetries differ from those arising from conventional invertible symmetries? We address this question using concrete lattice models of the gapped phases with non-invertible Rep($H_8$) symmetry as an example. We find that, despite the symmetry being non-invertible, the symmetry-breaking phases can still be characterized by the long-range correlation of local order parameters, which obey a more general algebraic structure than in the invertible setting. Furthermore, via generalized gauging, certain non-invertible symmetry-breaking transitions can be mapped to deconfined quantum critical points of invertible symmetries, and vice versa. We establish precise conditions under which this duality holds and illustrate them with several families of examples, providing a systematic route to studying beyond-Landau phase transitions.",
+      "score": 88,
+      "reason": "⚡ Rep(H₈) non-invertible 対称性の自発的破れを格子モデルで具現化！generalized gauging で beyond-Landau 転移・deconfined QCP との duality を確立 🌟",
+      "summary": "non-invertible Rep(H₈) 対称性の対称性破れ相を格子モデルで構成し、秩序変数の一般代数構造を特定。gauging により deconfined 量子臨界点との duality を系統的に確立"
+    },
+    {
+      "arxiv_id": "2605.28794",
+      "title": "Non-invertible symmetry enriched string net topological orders",
+      "authors": [
+        "Luisa Eck",
+        "Peter Huston",
+        "Kyle Kawagoe",
+        "David Penneys"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "math-ph",
+        "math.CT",
+        "math.MP",
+        "math.QA",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.28794",
+      "abstract": "We propose a definition of a non-invertible symmetry enriched topological order (NI-SETO), and we implement our definition for string net models. We do so in two ways, using full inclusions of unitary fusion categories (UFCs), as well as anyon condensation. In both cases, the NI-SETO is a relative center of UFCs. All NI-SETOs can be realized in either model, where we can use enriched UFCs to get chiral examples on the boundary of a 3D Walker-Wang model representing the anomaly. We describe several examples of NI-SETOs and compute the qualitative symmetry action on anyons and symmetry defects using tube algebra techniques.",
+      "score": 88,
+      "reason": "🔗 string-net で NI-SETO を定義！UFC の full inclusion と anyon 凝縮の二方式で実装、tube algebra で対称性作用を計算。chiral anomalous 例も実現 🎯",
+      "summary": "unitary fusion category の full inclusion / anyon 凝縮により NI-SETO を string-net で実装。enriched UFC で 3D Walker-Wang 境界の chiral anomalous 例を構成し tube algebra で対称性欠陥を解析"
+    },
+    {
+      "arxiv_id": "2605.28485",
+      "title": "Hilbert Space and Defect Hilbert Spaces Associated with Categorical Symmetries",
+      "authors": [
+        "Qiang Jia",
+        "Jiahua Tian"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.28485",
+      "abstract": "We present a quantum mechanical approach to understanding the Hilbert space and the defect Hilbert spaces associated with line operators of BF theory combined with level-$k$ Chern-Simons theory. The defect Hilbert spaces are closely related to the category of $*$-representations of the $C^*$-algebra of the compactly supported sections of the Fell line bundle over the conjugation action groupoid $G//_{\\mathrm Ad} G$, and the structure of this category and the groupoid action on the objects of this category is interpreted quantum mechanically. We show that the action of the line operators on the Hilbert space of the $BF+kCS$ TQFT is given concretely by a convolution between the kernels that represent the line operators, and that the codimension-$2$ twist and the codimension-$1$ prequantum line bundle arise as two transgressions of the same universal level $k\\in H^4(BG,\\mathbb{Z})$. For finite gauge group, the resulting convolution-eigenvalue formula is identified with the Verlinde formula for the (twisted) Drinfeld double $D^\\omega(G)$ via an explicit phase-by-phase match with the known finite modular data. For compact Lie group, the convolution-kernel eigenvalues coincide in the regular sector with the semiclassical Hopf-link $S$-kernel, identifying two complementary derivations of the same modular data.",
+      "score": 86,
+      "reason": "📐 BF+kCS 理論の line operator defect Hilbert 空間を C*-代数で定式化！convolution 固有値公式が Verlinde 式・Hopf-link S-kernel と一致 🔢",
+      "summary": "BF+kCS TQFT の line operator Hilbert 空間を Fell 束 C*-代数の *-表現圏として定式化。convolution 固有値公式を導き、有限群では Verlinde 式、コンパクト Lie 群では半古典的 S-kernel と一致を確認"
+    },
+    {
+      "arxiv_id": "2605.27870",
+      "title": "Revisiting boundary electromagnetic duality and edge modes",
+      "authors": [
+        "Keito Shimizu",
+        "Sotaro Sugishita"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.27870",
+      "abstract": "We revisit electric and magnetic surface charges and edge modes in four-dimensional Maxwell theory and QED on a spacetime with a finite spatial boundary. Using the S-wall, which implements electromagnetic duality, we clarify the dual structure of surface charges. We show that, for the standard Neumann and Dirichlet boundary conditions, large gauge transformations and the corresponding shifts of edge modes are gauge redundancies rather than physical boundary symmetries. We also consider singular large gauge transformations and interpret them as insertions of Wilson or 't Hooft loops on the boundary. For modified boundary conditions, we show that large gauge transformations can become genuine physical boundary symmetries generated by topological surface operators, and that the corresponding edge modes can become physical. We further construct new boundary conditions that are electromagnetic duals of the modified boundary conditions.",
+      "score": 85,
+      "reason": "⚡ 4D Maxwell 理論の境界エッジモードを S-wall（電磁双対）で再解析！修正境界条件で大域ゲージ変換が topological surface operator による物理的対称性に転化 🌊",
+      "summary": "S-wall を用いて有限境界上の Maxwell/QED の表面電荷・エッジモードの電磁双対構造を精査。Neumann/Dirichlet ではゲージ冗長、修正境界条件では物理的境界対称性となる条件を明示"
+    }
+  ]
+}

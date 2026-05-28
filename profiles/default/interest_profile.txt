@@ -1,20 +1,34 @@
-Research Interest Profile: [Your Name]
+Research Interest Profile: Yamaoka, Tatsuya
 
 Affiliation: [Your University/Institute]
 
-Top priority: [Your main research topic]
-  Collaborators: [Key collaborators]
+Top priority: Lattice field theory — especially staggered fermions and their
+  discrete symmetries, anomalies, and edge modes in 3+1 dimensions.
+  Collaborators: Onogi, Tetsuya; Wada, Hiroki; Misumi, Tatsuhiro; Aoki, Sinya
 
 Core topics:
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
-- [Topic 4]
+- Staggered fermions: taste symmetry, taste-splitting mass, Hamiltonian formulation,
+  conserved non-singlet charges, axial charge, edge modes
+- 't Hooft anomalies and anomaly matching in lattice and continuum QFT
+- Chiral gauge theories (3450 model, SU(6) model) and anomaly-free conditions
+- Wilson fermions: quantized axial charge, Hamiltonian approach
+- Discrete symmetries in lattice regularizations
 
-arXiv categories: [e.g. hep-ph, hep-th, gr-qc]
+Secondary interests:
+- Quantum gravity and gravitational charges for massive particles (GR)
+- Strongly correlated electron systems where topological/anomaly arguments apply
+- New lattice formulations of chiral/topological field theories
+- Connections between lattice regularization and condensed matter physics
 
 When scoring papers, consider:
-1. Direct overlap with the above themes (highest relevance)
-2. Papers by frequent collaborators (high relevance)
-3. New methods or results applicable to the above themes (moderate relevance)
-4. General developments in your field (lower relevance)
+1. Direct overlap with staggered fermions, lattice anomalies, chiral lattice theory
+   (highest relevance — score 90+)
+2. Papers by frequent collaborators: Onogi, Wada, Misumi, Aoki
+   (high relevance even if slightly outside core topics)
+3. General 't Hooft anomalies, symmetry-protected phases, edge/boundary modes
+   in any dimension (moderate relevance)
+4. Novel lattice formulations, topological field theory on the lattice
+   (moderate relevance)
+5. Phenomenological hep-ph papers: relevant only if they discuss lattice
+   inputs, anomaly constraints, or BSM models with strong dynamics
+   (lower relevance unless directly connected)

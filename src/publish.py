@@ -2,11 +2,13 @@
 
 from .config import get_enabled_channels
 from .channels.discord import DiscordChannel
+from .channels.email import EmailChannel
 from .channels.mastodon import MastodonChannel
 from .channels.stdout import StdoutChannel
 
 CHANNEL_CLASSES = {
     "discord": DiscordChannel,
+    "email": EmailChannel,
     "mastodon": MastodonChannel,
     "stdout": StdoutChannel,
 }

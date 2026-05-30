@@ -1,0 +1,93 @@
+{
+  "total_fetched": 201,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.28045",
+      "title": "The effective gravitational action of a massless chiral fermion and the absence of parity-odd contributions",
+      "authors": [
+        "J. Anero",
+        "Carmelo P. Martin"
+      ],
+      "categories": [
+        "hep-th",
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.28045",
+      "abstract": "We consider the field theory of a quantum massless left handed fermion coupled to a background graviton field, h_{mu nu}, on four-dimensional Minkowski spacetime. By using the BPHZL renormalization scheme, we prove that, up to order four in the number of graviton fields, there are no parity-odd contributions to the renormalized gravitational effective action. As a side result, we show that, modulo arbitrary UV finite diffeomorphism invariant parity-even counterterms, the gravitational effective action in question is equal, up to order four in the number of graviton fields, to half the corresponding gravitational action for a Dirac fermion non-chirally coupled to gravity. Also as a side result, we conclude that the Weyl anomaly is purely parity-even and that its value is half the value of the Weyl anomaly for a Dirac fermion non-chirally coupled to gravity.",
+      "score": 79,
+      "reason": "🔬 4D Minkowski での massless 左巻 fermion の重力有効作用を BPHZL で精密化！重力子4点以下で parity-odd 寄与がゼロ、Weyl アノマリー = Dirac の半分を厳密証明 🎯",
+      "summary": "massless 左巻 fermion + 背景重力子の有効作用を4次まで計算し parity-odd 項の不在を示す。カイラル fermion の gravitational anomaly 構造に直接関与する結果"
+    },
+    {
+      "arxiv_id": "2605.28141",
+      "title": "More about modular symmetries and non-invertible properties in magnetized compactifications",
+      "authors": [
+        "Tatsuo Kobayashi",
+        "Shuhei Miyamoto",
+        "Riku Nakano",
+        "Ryusei Nishida",
+        "Haruki Uchida"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2605.28141",
+      "abstract": "We study the modular symmetry in magnetized compactifications. The zero-modes with different Scherk-Schwarz phases transform each other. A generic model does not include modes with all the Scherk-Schwarz phases. Incomplete multiplet representations appear. Thus, the modular symmetry is violated as group-like symmetry. However, the modular symmetry still controls coupling terms in those models. Modular forms of the full symmetry appear as coupling constants.",
+      "score": 72,
+      "reason": "🔗 磁化コンパクト化で Scherk-Schwarz 位相による不完全 multiplet が出現し modular 対称性が群的対称性として破れ non-invertible 化！coupling は modular 形式として残存 ✨",
+      "summary": "磁化コンパクト化の zero-mode で Scherk-Schwarz 位相により modular 対称性が non-invertible 対称性へと変質する機構を解析。coupling への制約は modular 形式として保持される"
+    },
+    {
+      "arxiv_id": "2605.27608",
+      "title": "Zero modes of non-abelian Dirac operator in topologically non-trivial band insulator",
+      "authors": [
+        "Neha Kumari",
+        "Sankalpa Ghosh"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.mes-hall",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.27608",
+      "abstract": "We show that the local gauge-invariance of the quantum geometric tensor (QGT) defined in the Block-momentum space of a generic N-level band insulator implies the existence of zero modes of non-abelian Dirac operator in such momentum space. Solutions of these zero modes equations in the two-dimensional Brillouin zone torus, in terms of Jacobi Theta function determine the probability amplitudes associated with the N-component ground state wave-function. These solutions define a CP^{N-1} space when one or more degeneracy points exist. We show how the non-abelian generalization of the vortexability criterion of Chern bands follows from these zero-mode equations.",
+      "score": 68,
+      "reason": "📐 バンド絶縁体の量子幾何テンソルの局所ゲージ不変性から非アーベル Dirac 演算子の零モードを導出！BZ トーラス上の解が CP^{N-1} 空間を定義 🔢",
+      "summary": "N準位バンド絶縁体の QGT 局所不変性から非アーベル Dirac 演算子零モードを導出し Jacobi Theta 関数で解構成。Chern バンドの vortexability 基準の非アーベル拡張と対応"
+    },
+    {
+      "arxiv_id": "2605.27493",
+      "title": "Gravitational helicity in connection variables",
+      "authors": [
+        "Xiao-Kan Guo",
+        "Shupeng Song"
+      ],
+      "categories": [
+        "gr-qc"
+      ],
+      "url": "https://arxiv.org/abs/2605.27493",
+      "abstract": "We study the gravitational helicity using the covariant phase space method. Starting from the covariant phase space of general relativity expressed in terms of connection variables, we construct the symplectic form and identify a duality transformation based on the internal Hodge dual. We employ the complex self-dual Ashtekar variables, where the duality becomes a simple U(1) phase rotation. The Noether charge associated with this duality yields a conserved quantity interpreted as the gravitational helicity. Remarkably, this helicity can be related to the Nieh-Yan topological term, establishing a direct link between the gravitational helicity and a topological invariant.",
+      "score": 63,
+      "reason": "🌀 Ashtekar 接続変数で重力のヘリシティを共変位相空間法で定式化！U(1) 双対変換の Noether 電荷 = 重力ヘリシティ が Nieh-Yan 位相不変量と接続 ⚡",
+      "summary": "接続変数で表した GR の共変位相空間から symplectic 形式を構成し、内部 Hodge 双対による双対性の Noether 電荷として重力ヘリシティを同定。Nieh-Yan 項との対応を確立"
+    },
+    {
+      "arxiv_id": "2605.28686",
+      "title": "Constrained Symplectic Quantization: Disclosing the Deterministic Framework Behind Quantum Field Theory",
+      "authors": [
+        "Francesco Scardino",
+        "Martina Giachello",
+        "Giacomo Gradenigo"
+      ],
+      "categories": [
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2605.28686",
+      "abstract": "Symplectic quantization is a functional approach to quantum field theory that allows sampling of quantum fluctuations directly in Minkowski spacetime by means of a Hamiltonian dynamics in an intrinsic time tau which samples a microcanonical ensemble, in close analogy with the standard microcanonical approach to lattice field theory. We present constrained symplectic quantization for relativistic QFT, generalizing from the quantum mechanical case. The method is based on analytic continuation of fields and action to the complex plane and on constraints that select stable intrinsic time trajectories and define convergent integration cycles for the microcanonical partition function. In the continuum limit we recover the Feynman generating functional with the correct real time prescription. We test the construction for a free scalar field in 1+1 dimensions on a periodic lattice.",
+      "score": 65,
+      "reason": "⚙️ Minkowski 時空で直接量子揺らぎをサンプリングする拘束 symplectic 量子化を提案！格子 microcanonical アプローチの連続時空版として Feynman 形式を復元 🌟",
+      "summary": "内在時間 τ の Hamiltonian 力学で Minkowski 時空の量子揺らぎを直接サンプル。複素解析接続と拘束条件で収束積分サイクルを定義し、1+1次元格子スカラーで検証"
+    }
+  ]
+}

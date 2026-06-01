@@ -1,0 +1,23 @@
+{
+  "total_fetched": 219,
+  "scored_papers": [
+    {
+      "arxiv_id": "2605.30354",
+      "title": "Quiver Approach to Symmetry Theories",
+      "authors": [
+        "Vivek Chakrabhavi",
+        "Mirjam Cvetič",
+        "Jonathan J. Heckman",
+        "Shani Meynet"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2605.30354",
+      "abstract": "Global symmetry anomalies of a quantum field theory (QFT) can be packaged as specific couplings of a higher-dimensional symmetry theory (SymTh). In this work we show that for 5D superconformal field theories (SCFTs) engineered from M-theory backgrounds $X$ a Calabi-Yau cone, this data can be extracted from the path algebra of branes probing $X$. This provides a complementary algebraic approach compared with more geometric computations based on the explicit calculation of triple intersection numbers in a resolved geometry and / or $\\eta$-invariants extracted from the boundary geometry $\\partial X$. Our method applies in situations where the counterpart geometric computation is either unknown or combinatorially unwieldy. We illustrate with several toric threefold examples, including orbifolds $\\mathbb{C}^{3} / \\Gamma$ and more general non-orbifold Calabi-Yau cones of Sasaki-Einstein five-manifolds.",
+      "score": 85,
+      "reason": "🔬大域対称性アノマリーをSymThとして体系化する現代的手法。⚛️M理論CY錐面上の5D SCFTのアノマリーデータをブレーン経路代数から代数的に抽出し、't Hooftアノマリー研究に直結。",
+      "summary": "📐5D SCFTのSymThを、幾何的計算（三重交差数・η不変量）に代わりブレーン経路代数で構成🎯。トーリック三様体C³/Γや一般Sasaki-Einstein多様体で検証。"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "total_fetched": 197,
+  "scored_papers": [
+    {
+      "arxiv_id": "2606.03619",
+      "title": "The Polymorphic Chiral Anomaly",
+      "authors": [
+        "Christopher Smith"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2606.03619",
+      "abstract": "The chiral anomaly famously manifests in a rich variety of forms, from abelian and singlet to consistent or covariant. In this paper, all these realizations are described in detail, along with their properties and phenomenological applications. Central to this presentation is a novel expression for the fully generic chiral anomaly, derived with either massive or massless fermions, that incorporates not only the standard triangle but also the box and pentagon diagrams. From this master expression, the various traditional forms of the anomaly are then transparently derived. This provides a powerful tool, technically and conceptually, driving two further objectives. First, the topological aspects of each form are dutifully described while bypassing the differential language entirely, save for Stokes' theorem. Second, to make sure anyone interested can truly reproduce all the results in a reasonable amount of time, a FeynCalc implementation of the relevant calculations is provided. Ultimately, this simplified and unified description of all the forms of the chiral anomaly highlights the underlying conceptual beauty, and offers a comprehensive grasp of the physics at play.",
+      "score": 85,
+      "reason": "🔬 カイラルアノマリーの全形式（アーベリアン・シングレット・整合・共変）を統一的に記述し、大質量・無質量フェルミオンからの汎用マスター表現を初めて導出。",
+      "summary": "📐 三角・ボックス・ペンタゴン図を含む汎用カイラルアノマリー式を導出し各形式のトポロジカル側面を微分形式なしに記述。FeynCalc実装付き。"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "total_fetched": 133,
+  "scored_papers": [
+    {
+      "arxiv_id": "2606.07041",
+      "title": "Nonlinear sigma models, antiperiodic boundary conditions, spin chains, and 't Hooft anomalies",
+      "authors": [
+        "Nicholas Read",
+        "Hubert Saleur"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2606.07041",
+      "abstract": "We consider two sets of related models: initially, these are $SU(2)$ antiferromagnetic spin chains with $N$ sites of spin $S$, and the $O(3)$ nonlinear sigma model in two dimensions with topological coefficient $\\Theta$ a multiple of $\\pi$ (and later, the extensions of these with any semisimple Lie group symmetry). It is known that, in a continuum description, the low-energy behavior of the spin chain is given by the sigma model with $\\Theta=2\\pi S$. We study these models with $N$ odd and with antiperiodic (A) boundary condition (b.c.), respectively, which correspond. The A b.c. in the sigma model involves the $\\mathbb{Z}_2$ inversion symmetry $\\vec{n}\\to-\\vec{n}$, and amounts to a flux of a $\\mathbb{Z}_2$ gauge field through a spacetime torus; summing over the two b.c.s for each direction would amount to gauging the $\\mathbb{Z}_2$ inversion symmetry. We show directly that, if and only if $(-1)^{\\Theta/\\pi}=-1$, the gauging cannot be carried out; there is an 't Hooft anomaly. The partition function for the A b.c. exists, but is not gauge invariant; consequently, the sum over b.c.s cannot be made modular invariant. The gauged model would be a sigma model with target space $\\mathbb{R}\\mathbb{P}^2\\cong \\mathbb{S}^2/\\mathbb{Z}_2$, and hence this model does not exist for $\\Theta=\\pi$ (mod $2\\pi$). A related result is that, using semiclassical quantization, in the spin chain we obtain the known values of the ground-state crystal momentum, which at leading order depend only on $N$ modulo $4$ and $2S$ modulo $2$. For a large class of spin chains and associated sigma models we find similar results, but now $(-1)^{\\Theta/\\pi}$ is replaced by the value $\\pm 1$ of the square of the time-reversal operator acting on a single spin, which is still determined by the coefficients of the topological terms, in a way that depends on the symmetry group.",
+      "score": 92,
+      "reason": "🔬⚛️📐 SU(2)スピン鎖とO(3)非線形σモデルの反周期境界条件下での't Hooftアノマリーを解析。格子正則化と連続理論の接続に直接関係。",
+      "summary": "🧮 θ=2πSのトポロジカル項を持つσモデルを奇数サイトのスピン鎖で研究。境界条件とアノマリーの関係を明らかに。"
+    },
+    {
+      "arxiv_id": "2606.07056",
+      "title": "On Quantum Aspects of 1-Form Symmetries II: Bordism, Invertible Phases, and Anomalies",
+      "authors": [
+        "Weizhen Jia",
+        "Yi-Nan Wang",
+        "Yi Zhang"
+      ],
+      "categories": [
+        "hep-th",
+        "math-ph",
+        "math.AT",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2606.07056",
+      "abstract": "We study quantum anomalies associated with $U(1)$ 1-form symmetries from the perspective of invertible phases and bordism. We compute the oriented and spin bordism groups of the Eilenberg-Mac Lane space $K(\\mathbb{Z},3)$ up to degree 8 using the Atiyah-Hirzebruch spectral sequence, resolving the relevant extension problems by geometric arguments and identifying both bordism invariants and geometric generators. We then relate these invariants to perturbative and global anomalies, and discuss physical examples and top-down constructions of the corresponding anomaly terms. For 5-dimensional theories, we find a new mixed perturbative anomaly between the $U(1)$ 1-form symmetry and spacetime diffeomorphisms, while for 7-dimensional theories we find a new $\\mathbb{Z}_2$-valued discrete anomaly intrinsic to the $U(1)$ 1-form symmetry. We also discuss their boundary realizations and give new physical interpretations of these anomalies.",
+      "score": 86,
+      "reason": "🔗🧲 U(1) 1-形式対称性の量子アノマリーをボルジズムの視点から体系的に分類。可逆相とアノマリーの対応を高次まで計算。",
+      "summary": "🌀📊 Eilenberg-Mac Lane空間K(ℤ,3)のボルジズム群を次数8まで計算し、摂動・大域アノマリーとの対応を確立。"
+    }
+  ]
+}

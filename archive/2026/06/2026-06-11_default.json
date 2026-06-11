@@ -1,0 +1,21 @@
+{
+  "total_fetched": 191,
+  "scored_papers": [
+    {
+      "arxiv_id": "2606.10462",
+      "title": "Reply to \"Comment on \"Chiral symmetry restoration, the eigenvalue density of the Dirac operator, and the axial U(1) anomaly at finite temperature\"\"",
+      "authors": [
+        "Sinya Aoki",
+        "Hidenori Fukaya"
+      ],
+      "categories": [
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2606.10462",
+      "abstract": "We respond to the comment by Matteo Giordano [1] on our article [2]. We find -- and [1] itself acknowledges -- that the proposed counterexamples intended to refute our argument violate a crucial assumption of QCD at high temperatures, namely that every gluonic observable is an analytic function of the squared quark mass, $m^2$. We further point out a technical mistake found in [1]. We conclude that the arguments presented in [1] are not valid.",
+      "score": 96,
+      "reason": "共同研究者Aoki氏とFukaya氏による、有限温度QCDのカイラル対称性回復とaxial U(1)アノマリーを巡るGiordano氏との論争への応答📐🔥⚛️",
+      "summary": "Giordanoの反例はグルーオン演算子がm^2の解析関数という高温QCDの前提に違反すると指摘し、技術的誤りも示す🧮📊"
+    }
+  ]
+}

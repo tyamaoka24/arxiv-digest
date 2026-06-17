@@ -1,0 +1,21 @@
+{
+  "total_fetched": 292,
+  "scored_papers": [
+    {
+      "arxiv_id": "2606.15732",
+      "title": "Flat Gauging of Continuous (Non-invertible) Symmetries and Non-compact BF SymTFT for Compact Boson",
+      "authors": [
+        "Qiang Jia",
+        "Yi Zhang"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2606.15732",
+      "abstract": "We study flat gauging of continuous symmetries by summing over flat gauge-field configurations. We focus on the two-dimensional compact boson and construct the torus partition function with general flat $U(1)_M\\times U(1)_W$ backgrounds. We show that flat gauging either $U(1)_M$ or $U(1)_W$ decompactifies the theory to the non-compact free boson, and that the dual $\\mathbb{Z}$ background combines with the remaining $U(1)$ background into a non-compact $\\mathbb{R}$ symmetry background due to the mixed anomaly. We also revisit the self-dual radius, where flat gauging the diagonal $SO(3)\\subset (SU(2)_L\\times SU(2)_R)/\\mathbb{Z}_2$, first pointed out by Gaberdiel and Suchanek, gives the continuous orbifold which lies outside the usual $c=1$ moduli space. On the orbifold branch, we study finite and continuous non-invertible flat gaugings and explain why the continuous case requires a prescription for zero-measure fixed loci on the moduli space. Finally, we formulate the SymTFT of torus sigma models as a non-compact BF theory, whose topological boundary states encode the Narain moduli space and the $O(D,D;\\mathbb{Z})$ T-duality action.",
+      "score": 88,
+      "reason": "非可逆対称性のフラットゲージングとSymTFTを体系的に研究 🎯 混合アノマリーによるデコンパクト化機構が鮮明で、't Hooftアノマリーと現代的対称性理論の核心に直結 ✨🔬",
+      "summary": "2次元コンパクトボゾンのU(1)₁×U(1)₂平坦背景でトーラス分配関数を構成 📐 フラットゲージングで非コンパクト化が生じ、SymTFTを非コンパクトBF理論として定式化 🧮"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "total_fetched": 172,
+  "scored_papers": [
+    {
+      "arxiv_id": "2606.17708",
+      "title": "Monopoles, Center Vortices, Confinement in (3+1)d, and the Lens-Space Twisted Partition Function",
+      "authors": [
+        "Yui Hayashi",
+        "Yuya Tanizaki"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2606.17708",
+      "abstract": "We propose the gauge-invariant criteria of center-vortex condensation and monopole condensation using the $\\mathbb{Z}_N^{[1]}$-symmetry twisted partition functions: The torus twisted partition function characterizes the center-vortex condensation, and the lens-space twisted partition function characterizes the monopole condensation. To justify our proposal, we study how these twisted partition functions behave in the adjoint Higgs phase and show that their leading nontrivial contributions come from the center vortex and monopole, respectively. Using the techniques of topological field theories, we uncover the relation between the center-vortex and monopole condensations, and in particular, we prove that the gapped phase with the center-vortex condensation necessarily shows the monopole condensation, too. We then study a center-vortex model with monopoles as an illustrative example, and the higher-charge monopole condensation gives an example of the symmetry fractionalization, which goes beyond the conventional Wilson-'t Hooft classification.",
+      "score": 90,
+      "reason": "🧲🌀⚙️✨ Z_N^{[1]}対称性ねじれ分配関数で中心渦・独脚子凝縮の格子上の基準を提案。TFT手法でWilson-'t Hooft分類を超える対称性分数化を実現",
+      "summary": "トーラスとレンズ空間ツイスト分配関数で閉じ込め機構を解析。ギャップ相で渦凝縮→独脚子凝縮の必然性を証明し、高次独脚子凝縮で対称性分数化を示す"
+    },
+    {
+      "arxiv_id": "2606.17236",
+      "title": "Precision renormalisation and improvement of $N_{\\rm f}=3$ lattice QCD with Wilson fermions",
+      "authors": [
+        "Patrick Fritzsch",
+        "Jochen Heitger",
+        "Simon Kuberski",
+        "Hubert Simma",
+        "Rainer Sommer"
+      ],
+      "categories": [
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2606.17236",
+      "abstract": "We renormalise (and improve) the flavour non-singlet axial current, pseudo-scalar density, vector current and tensor current, as well as quark masses, in O(a) improved lattice QCD with three massless flavours and lattice spacings down to 0.01 fm. To this end, we tune a number of lattices with Schr\\\"odinger functional boundary conditions and resolutions $8\\leq L/a\\leq 64$ to lines of constant physics with massless quarks and fixed gradient flow coupling $\\bar{g}_\\mathrm{GF}^2(L_i),\\; i=0,1,2$, corresponding to $L_0 \\approx 0.25$ fm, $L_1=2L_0$ and $L_2=4L_0$. We further renormalise and improve the quark mass of additional heavy quarks for use in the B-physics programme of the collaboration (arXiv:2312.09811). Our somewhat technical results enable first-principles strategies for solving multi-scale problems involving, e.g., the b-quark mass (arXiv:2312.10017) or a large temperature (arXiv:2501.11603). Comparing also to other determinations of the axial current renormalisation constant $Z_{\\rm A}$, we have a precise confirmation of how renormalisation and the restoration of chiral symmetry work out with Wilson fermions at small $a$. In particular, the accurate restoration of chiral symmetry and the exact flavour symmetry lead to practically negligible uncertainties in observables determined from Ward identities: four to five significant digits are achieved for $Z_{\\rm A},Z_{\\rm V}$. We provide an explanation for the strong suppression of their statistical variances.",
+      "score": 88,
+      "reason": "🔬⚡🎯✅ Wilson格子QCDで非一重項軸性電流・擬スカラー等を精密繰り込み。カイラル対称性回復とZA, ZVを4–5桁精度で確認した重要基礎研究",
+      "summary": "Nf=3 O(a)改善Wilson格子QCDでSchrodinger汎函数を用い格子間隔0.01 fmまでZA, ZVを高精度決定。b質量・高温QCDの多スケール計算の基盤を提供"
+    }
+  ]
+}

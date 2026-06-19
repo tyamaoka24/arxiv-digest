@@ -1,0 +1,22 @@
+{
+  "total_fetched": 170,
+  "scored_papers": [
+    {
+      "arxiv_id": "2606.18779",
+      "title": "Hydrodynamics of perfect fluids with anomalies from the fermionic path integral",
+      "authors": [
+        "Alexander G. Abanov",
+        "Andrea Cappelli"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "url": "https://arxiv.org/abs/2606.18779",
+      "abstract": "The path integral of the Dirac fermion with vector and axial gauge backgrounds is analyzed near the infrared limit in the presence of residual irrelevant current-current interaction. After integrating out fermions, a semiclassical low-energy effective action is obtained, written in terms of currents. Its expression is found to correspond to the hydrodynamic action previously proposed for perfect barotropic fluids with anomalies at zero temperature. This approach also leads to two further hydrodynamic actions to be associated, respectively, with the Weyl fermion, and the Dirac fermion having independent vector and axial currents. These actions feature four- and five-dimensional bulk-boundary terms, owing to anomaly inflow, which are identified as being the so-called transgression forms. These are generalizations of Chern--Simons forms that involve two gauge fields: the dynamical field and the background field. The path-integral argument provides a 'microscopic' explanation for several ingredients of the action formulation of hydrodynamics that are necessary to incorporate anomalies.",
+      "score": 87,
+      "reason": "⚡🔬 Diracフェルミオンのpath integralから軸性アノマリーを含む完全流体の流体力学を導出。anomaly inflowとtransgression形式が自然に現れ、軸性荷研究と深く関連。",
+      "summary": "🌊📐 ベクトル・軸性ゲージ背景でフェルミオンを積分し、5次元バルク-境界項（transgression）を含む低エネルギー有効作用を構築。WeylおよびDiracフェルミオンの流体力学作用も提示。"
+    }
+  ]
+}

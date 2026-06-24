@@ -1,0 +1,46 @@
+{
+  "total_fetched": 404,
+  "scored_papers": [
+    {
+      "arxiv_id": "2606.23684",
+      "title": "Emergent Andreev Reflection from a Lattice Duality Defect",
+      "authors": [
+        "Atsushi Ueda",
+        "Tokiro Numasawa",
+        "Boris De Vos",
+        "Masataka Watanabe"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.stat-mech",
+        "hep-lat",
+        "hep-th",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2606.23684",
+      "abstract": "Andreev reflection converts an incoming fermion into an outgoing hole and is usually tied to a superconducting interface. We show that an analogous charge-conjugating boundary condition emerges from a purely lattice duality defect. Starting from a Majorana representation of the transverse-field Ising chain, we construct a folded lattice model in which a boundary Majorana impurity implements a one-site translation of a staggered Majorana chain. In the continuum, this translation becomes a chiral fermion-parity defect: it flips the sign of the only left-moving Majorana mode while leaving the right-moving mode unchanged. When the two Majorana modes are recombined into a complex fermion in the folded geometry, this sign flip becomes the Andreev-like boundary condition. Our lattice formulation gives a microscopic interpretation of the Emery--Kivelson boundary of the two-channel Kondo problem and of Maldacena--Ludwig monopole scattering, while identifying the boundary as the interface between a Kitaev-chain SPT phase and a gapless chain. The same Majorana translation defect also provides a lattice realization of an axial $U(1)_A$-symmetric charge-flip boundary.",
+      "score": 92,
+      "reason": "🔬⚡ スタッガードMajoranaチェーンの格子並進欠陥がaxial U(1)_A対称な荷電フリップ境界を実現。格子双対性とアノマリー・境界モードの橋渡し！",
+      "summary": "🌊🎯 格子双対性欠陥からAndreev型境界条件を微視的に導出。折り返し格子でSPT/ギャップレス界面を同定し、二チャネルKondo境界を格子的に再現。"
+    },
+    {
+      "arxiv_id": "2606.21563",
+      "title": "SU(2) gauge theory with fermions on a semi-simple cubic lattice",
+      "authors": [
+        "Randy Lewis",
+        "Shidsa Pourbakhsh",
+        "Arnab Pradhan",
+        "Lance Siquioco"
+      ],
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2606.21563",
+      "abstract": "A practical Hamiltonian approach to lattice gauge theories would provide access to several important areas of phenomenology that have been beyond the reach of conventional lattice methods. Quantum computers seem to be a natural platform for this approach. With near-term quantum computers in mind, our work considers a three-dimensional spatial lattice that can host fermions and non-Abelian gauge fields while needing fewer qubits than a simple cubic lattice. Specifically, the semi-simple cubic (ssc) lattice is obtained by removing half of the gauge links from a standard cubic lattice in such a way that every vertex becomes trivalent, which streamlines the handling of Gauss's law. The ssc lattice is topologically equivalent to the triamond lattice but, because the gauge links at each vertex span all three directions, the ssc lattice can accommodate a local fermion derivative. The case of staggered fermions with SU(2) gauge fields is presented here.",
+      "score": 85,
+      "reason": "⚛️🔧 スタッガードフェルミオンとSU(2)ゲージ場を3次元格子上でHamiltonian形式化。半単純立方格子でGauss則を効率化し量子コンピュータ実装への道を開く！",
+      "summary": "🎲💻 標準立方格子リンクを半分除いたssc格子上でスタッガードフェルミオンを定式化。各頂点が3価で量子回路資源を削減しつつフェルミオン微分を実現。"
+    }
+  ]
+}

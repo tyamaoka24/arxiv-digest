@@ -1,0 +1,21 @@
+{
+  "total_fetched": 189,
+  "scored_papers": [
+    {
+      "arxiv_id": "2606.26004",
+      "title": "Non-invertible symmetries in the axiverse, and the imaginary wormholes",
+      "authors": [
+        "Daniele Licciardello",
+        "Luca Martucci"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2606.26004",
+      "abstract": "We study the symmetry structure of four-dimensional axiverse effective field theories with multiple axions coupled to abelian gauge sectors, including their extensions to broad classes of N=1 models. We identify the invertible and non-invertible generalized symmetries, and discuss the associated symmetry-breaking mechanisms together with the resulting hierarchies of energy scales. In particular, we discuss the quantum-gravitational breaking of non-invertible axion shift symmetries predicted by the existence of wormholes and by the corresponding recently proposed Imaginary Distance Bound. In N=1 axiverses, these wormhole-based arguments imply that towers of BPS EFT instantons play a distinguished role and generate infinitely many superpotential terms.",
+      "score": 87,
+      "reason": "🌀🔑 4次元アキシバースEFTにおける非可逆一般化対称性を系統的に同定・分類し、虫穴による対称性破れとアノマリー構造を解明。",
+      "summary": "⚡🧲 複数アクシオン＋U(1)ゲージ場の4D N=1 EFTで非可逆シフト対称性の破れを虫穴とImaginary Distance Boundから導出。BPSインスタントンが無限個のsuperpotentialを生成。"
+    }
+  ]
+}

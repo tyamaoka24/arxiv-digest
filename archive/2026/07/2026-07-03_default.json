@@ -1,0 +1,22 @@
+{
+  "total_fetched": 207,
+  "scored_papers": [
+    {
+      "arxiv_id": "2607.00106",
+      "title": "Monte Carlo reconstruction of symmetry-twisted partition function ratios: the critical 3D Ising",
+      "authors": [
+        "Jos'e Matos"
+      ],
+      "categories": [
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2607.00106",
+      "abstract": "We introduce a Monte Carlo strategy for directly estimating partition function ratios between distinct global sectors of a lattice theory. It enlarges the configuration space to sample an interpolating family whose endpoints are the desired sectors, and uses flat histogram methods to reconstruct the corresponding free energy difference. Although the construction is more general, we focus here on the three-dimensional Ising model on the slab $\\mathbb{R}^{2}\\times S^{1}_{L_{z}}$ at the bulk critical point, comparing the untwisted periodic sector with the $\\mathbb{Z}_{2}$-twisted antiperiodic sector. A large-volume and aspect ratio extrapolation gives the symmetry-twisted thermodynamic Casimir difference $\\Delta_{\\mathbb{Z}_{2}}=0.327(2)$ directly, without lattice derivatives or bulk subtractions. This provides an independent twisted sector probe of tensions observed in periodic sector thermodynamic Casimir observables. More generally, the method gives direct but selective numerical access to CFT compactification data, including estimates of the effective thermal screening scale and the $\\mathbb{Z}_{2}$-odd sector energy gap on $T^{2}$.",
+      "score": 85,
+      "reason": "格子理論の対称性ツイスト分配関数比を直接 MC で推定する新手法。't Hooft アノマリー検出の鍵であるツイスト境界条件を系統的に数値解析可能にする点が直接関連 🎯🔬",
+      "summary": "Z₂-ツイスト/非ツイスト分配関数比を補間族＋フラットヒストグラム法で再構成。3D Ising 臨界点の Casimir 差分 Δ=0.327(2) を直接算出し CFT 圧縮データへのアクセスを実現 🧮📐"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "total_fetched": 431,
+  "scored_papers": [
+    {
+      "arxiv_id": "2607.03227",
+      "title": "Staggered fermions with taste splitting mass term on dynamical configurations",
+      "authors": [
+        "Gianluca Fuwa",
+        "Nuha Georgiev-Chreim",
+        "Christian Hoelbling"
+      ],
+      "categories": [
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2607.03227",
+      "abstract": "We present numerical results of staggered fermions with a taste splitting mass term on dynamical configurations. The rise of gluonic counterterms from rotational symmetry breaking is studied for a single taste operator and the pion propagator is computed. Preliminary numerical results are given for lattice sizes up to 16^4.",
+      "score": 92,
+      "reason": "taste splitting質量項を持つスタッガードfermionの動的配位上での数値結果🎯⚡️まさにご専門分野に直結する研究です🔬",
+      "summary": "回転対称性の破れから生じるグルーオン対抗項を単一taste演算子で評価し、16^4格子でpion propagatorを計算した予備的結果📊🧮"
+    }
+  ]
+}

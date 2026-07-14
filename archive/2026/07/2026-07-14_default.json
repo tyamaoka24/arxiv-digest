@@ -1,0 +1,23 @@
+{
+  "total_fetched": 160,
+  "scored_papers": [
+    {
+      "arxiv_id": "2607.09531",
+      "title": "Perusing confining pseudoreal theories: a story of emerging massless spin-1 bosons",
+      "authors": [
+        "Giacomo Cacciapaglia",
+        "Konstantinos Kollias"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2607.09531",
+      "abstract": "Solving quantum field theory, which is at the basis of the standard model of particle interactions, is one of the main tasks of contemporary theoretical physics. Minimal asymptotically free pseudoreal theories, containing one or two species of massless Weyl fermions in pseudoreal representations of the gauge group, flow towards a poorly understood infrared dynamics. We provide a comprehensive study of all pseudoreal theories, identifying the ones that likely flow towards a conformal dynamics, while we show that the remaining ones confine with a non-trivial condensate dynamics. Among the latter, all but one one-species theories feature a massless spin-1 state. Instead, the only confining two-species theory likely features two massless spin-1 states and one Nambu-Goldstone boson. These predictions could be further tested, for instance by use of Lattice simulations, the functional renormalization group, and supersymmetric analogs.",
+      "score": 87,
+      "reason": "擬実表現ゲージ理論の閉じ込め力学を包括的に分類。格子シミュレーション等での検証を提言しており、カイラルゲージ理論とアノマリー整合性の研究に直結🔬⚛️🧲",
+      "summary": "最小漸近的自由な擬実表現理論を網羅的に解析。単一種は質量ゼロのスピン1状態、二種は同状態2個とNG粒子が出現すると予言🌀✨"
+    }
+  ]
+}

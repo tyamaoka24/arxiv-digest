@@ -1,0 +1,25 @@
+{
+  "total_fetched": 304,
+  "scored_papers": [
+    {
+      "arxiv_id": "2607.09935",
+      "title": "Bosonization versus the Nielsen-Ninomiya theorem",
+      "authors": [
+        "Saif Ullah Baig",
+        "Shi Chen",
+        "Aleksey Cherman",
+        "Maria Neuzil"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2607.09935",
+      "abstract": "Thanks to bosonization, bosonic lattice models can offer a lattice regularization of chiral fermions. We construct chiral lattice fermion operators in the 2D modified Villain scalar model and evaluate their correlation functions. This microscopic bosonic model has an ultra-local action and an ultra-local symmetry that realizes the fermionic chiral symmetry under bosonization. The reconstructed lattice Dirac operator has no doublers, but is consistent with the Nielsen-Ninomiya theorem because it turns out to be non-local. The non-locality of this derived quantity at finite lattice spacing does not pose any obstructions to gauging the non-anomalous symmetries of the model, which is itself ultra-local.",
+      "score": 93,
+      "reason": "ボソニゼーションでカイラル格子フェルミオンを構成し、Nielsen-Ninomiya定理との整合性を議論。格子カイラル対称性研究の核心と直結🔬✨🧬",
+      "summary": "2Dの修正Villainスカラー模型を用い超局所作用でカイラル対称性を実現、相関関数を評価してボソン化による格子カイラルフェルミオン再構成を検証⚛️📐"
+    }
+  ]
+}

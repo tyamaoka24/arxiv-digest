@@ -1,0 +1,22 @@
+{
+  "total_fetched": 255,
+  "scored_papers": [
+    {
+      "arxiv_id": "2607.17816",
+      "title": "Renormalization of meson susceptibilities and RG-invariant symmetry ratios in QCD",
+      "authors": [
+        "Ting-Wai Chiu"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2607.17816",
+      "abstract": "We analyze the ultraviolet divergence structure of meson susceptibilities in finite-temperature QCD, for lattice formulations with exact chiral symmetry. The bare susceptibility separates into additive divergences and a multiplicative renormalization $Z_\\Gamma^{2}$. The additive divergences are temperature-independent, and are removed by the temperature subtraction. They consist of the leading power divergence $\\alpha_\\Gamma/(2a^2)$ from the identity operator, together with a mass-dependent logarithmic term $\\propto m^2\\ln(1/(am))$. The latter is present already for chirally symmetric fermions. Exact chiral symmetry forbids all mass-dependent \\emph{power} divergences of the susceptibility. The multiplicative factor $Z_\\Gamma^{2}$ has a logarithmic dependence on the lattice spacing, controlled by the operator anomalous dimension. We show that the symmetry ratio $\\kappa_{AB} = (\\chi_A^{\\rm reg} - \\chi_B^{\\rm reg})/ (\\chi_A^{\\rm reg} + \\chi_B^{\\rm reg})$, built from temperature-subtracted susceptibilities of symmetry partners, is exactly renormalization-group invariant and scheme-independent. The additive divergence is removed by the subtraction, and the multiplicative factor cancels through the equality $Z_A = Z_B$. This equality holds for any number of flavors and any quark masses in a mass-independent scheme, unaffected by spontaneous symmetry breaking or the $U(1)_A$ anomaly. We derive the complete $Z$-factor chains for all meson channels and contrast the divergence structure with that of Wilson fermions, for which the explicit chiral-symmetry breaking induces a chiral-odd power-divergent mixing and spoils the equality $Z_A = Z_B$ on which the construction relies.",
+      "score": 86,
+      "reason": "厳密なカイラル対称性を持つ格子作用とWilson fermionの明示的破れを対比し、U(1)_Aアノマリーに絡む対称性構造を扱う📐⚛️🔬",
+      "summary": "有限温度QCDの中間子感受率を解析し、対称性比κ_ABがRG不変かつスキーム非依存であることを証明🌡️📊"
+    }
+  ]
+}

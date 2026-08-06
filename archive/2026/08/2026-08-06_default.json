@@ -1,0 +1,39 @@
+{
+  "total_fetched": 206,
+  "scored_papers": [
+    {
+      "arxiv_id": "2608.02728",
+      "title": "Fermionic Villain model with exact lattice chiral symmetries",
+      "authors": [
+        "Zhiyao Lu",
+        "Shu-Heng Shao"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2608.02728",
+      "abstract": "We present a fermionic lattice Hamiltonian that exactly realizes the $\\mathrm{U(1)}_\\mathrm{L}\\times \\mathrm{U(1)}_\\mathrm{R}$ global symmetry and the associated chiral anomalies of a massless Dirac fermion in 1+1 dimensions. The construction couples Villain bosons to a Kitaev chain of Majorana fermions, where the bosonic fields are essential for evading Nielsen-Ninomiya-type no-go theorems. For two copies of our model, we realize the anomaly-free $\\mathrm{U(1)}_{3450}$ global symmetry and construct symmetric boundary conditions. We analytically demonstrate symmetric mass generation by mapping the symmetry-preserving six-fermion interactions to fermion bilinear terms using fermionic T-duality. Finally, by gauging general anomaly-free global symmetries, we obtain a broad class of lattice chiral gauge theories. As nontrivial applications, we compute the mass spectra of the lattice Schwinger model and the 3450 gauge theory, finding agreement with the corresponding continuum results.",
+      "score": 96,
+      "reason": "3450模型のアノマリーフリー構成と格子カイラルゲージ理論を厳密実現🔬⚡ 対称的質量生成やSchwinger模型計算まで含み研究テーマに直結🧲",
+      "summary": "Villainボソン+Kitaev鎖でU(1)_L×U(1)_R格子カイラル対称性とアノマリーを厳密実現。フェルミオンT双対性で対称的質量生成を示し3450理論の質量スペクトルを計算🔬⚡🧲"
+    },
+    {
+      "arxiv_id": "2608.02722",
+      "title": "1+1d Lattice Dirac Fermions from Non-Onsite Vector and Axial Symmetries",
+      "authors": [
+        "Tabin Dharanikota",
+        "Lukasz Fidkowski"
+      ],
+      "categories": [
+        "cond-mat.str-el"
+      ],
+      "url": "https://arxiv.org/abs/2608.02722",
+      "abstract": "We construct an exactly solvable Hamiltonian lattice model realizing a 1+1d Dirac fermion, with exact microscopic vector and axial vector $U(1)$ symmetries. The mixed anomaly between these is accommodated by the not-on-site action of the symmetries. Our Hilbert space is a $Z_2$-graded tensor product of local $Z_2$-graded Hilbert spaces which include infinite dimensional rotor degrees of freedom. The Hamiltonian becomes manifestly exactly solvable after a locality-preserving unitary mapping to an equivalent fermionic Villain Hilbert space. Our construction also allows an exactly solvable realization of interacting fermionic Luttinger liquids. At the free Dirac fixed point, our Hamiltonian contains irrelevant interactions, which we compute to leading order.",
+      "score": 89,
+      "reason": "軸性U(1)対称性と混合アノマリーを厳密に解ける格子ハミルトニアンで実現🔬⚡ Villain模型的手法は関連研究と技術的に直結🧲",
+      "summary": "非オンサイト作用で軸性・ベクトルU(1)対称性を持つ1+1d Diracフェルミオンの厳密可解格子模型を構成。ルッティンガー液体への拡張や自由点での摂動計算も✨🔬⚡"
+    }
+  ]
+}

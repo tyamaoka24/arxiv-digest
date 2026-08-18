@@ -1,0 +1,39 @@
+{
+  "total_fetched": 131,
+  "scored_papers": [
+    {
+      "arxiv_id": "2608.13781",
+      "title": "Entanglement asymmetry characterization of the Chiral Anomaly",
+      "authors": [
+        "Alfred Benedito German Sierra"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2608.13781",
+      "abstract": "Shao et al. recently showed that the 1+1D staggered fermion Hamiltonian admits a whole algebra of lattice operators that flow to the same axial charge in the thermodynamic limit (TL). On the lattice the principal axial charge does not commute with the vector charge, although their commutator is expected to vanish in the TL, providing a lattice realization of the chiral anomaly. We investigate the effect of this anomaly on the ground state(s) using the entanglement asymmetry. Unexpectedly, the asymmetry remains nonzero in the TL, despite the vanishing of the commutator, and exhibits a novel scaling behavior.",
+      "score": 93,
+      "reason": "staggered fermionの軸性荷とカイラルアノマリーを、エンタングルメント非対称性という新しい切り口で解析🎯⚡ まさに格子アノマリーの核心テーマに直撃する論文📐",
+      "summary": "1+1D staggered fermionの軸性荷は熱力学極限で交換子が消えるがエンタングルメント非対称性は非ゼロのまま残り、新奇なスケーリング則を示す🔬📊"
+    },
+    {
+      "arxiv_id": "2608.14296",
+      "title": "Entanglement spectrum ordering and flavor polarization in the two-flavor Schwinger model at vacuum angle $\\theta = \\pi$",
+      "authors": [
+        "Boliang Yu",
+        "Ruixin Zhou",
+        "Meisen Gao"
+      ],
+      "categories": [
+        "hep-lat",
+        "cond-mat.stat-mech",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2608.14296",
+      "abstract": "Entanglement spectra in gauge theories can encode both symmetry breaking and the organization of gauge sectors. In the two-flavor Schwinger model at vacuum angle $\\theta=\\pi$, we find that the joint Schmidt distribution $p_{Q_A,F_A}$, labeled by the subsystem gauge charge $Q_A$ and flavor imbalance $F_A$, reveals a cut-dependent gauge-sector hierarchy and a mass-induced flavor asymmetry: changing the staggered cut reorganizes the gauge-charge distribution $p_{Q_A}$, while mass imbalance breaks the $F_A\\leftrightarrow-F_A$ symmetry of the conditional flavor distribution $p_{F_A|Q_A}$. Defining the combined weight $W_F^{(q)}=p_{q,+1}+p_{q,-1}$ and conditional polarization $\\mathcal P_F^{(q)}=(p_{q,+1}-p_{q,-1})/W_F^{(q)}$, we find that changing the cut reverses the weight hierarchy, $W_F^{(-1)}>W_F^{(+1)}$ at unit-cell boundaries but $W_F^{(+1)}>W_F^{(-1)}$ at intra-cell cuts, while mass imbalance drives $\\mathcal P_F^{(q)}$ away from zero with a $q$-dependent cut response. Symmetry resolution therefore separates gauge-sector ordering, sector weight, and flavor polarization that are mixed in the globally ordered entanglement spectrum.",
+      "score": 85,
+      "reason": "2フレーバーSchwinger模型(θ=π)を staggered格子で解析。フレーバー対称性とゲージセクター構造の分離が格子アノマリー研究と直結🧮⚡🔍",
+      "summary": "格子カットに依存したゲージ電荷分布の階層性と、質量不均衡によるフレーバー分極を対称性分解されたエンタングルメントスペクトルで定量化📊🔬"
+    }
+  ]
+}

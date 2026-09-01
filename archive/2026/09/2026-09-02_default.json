@@ -1,0 +1,64 @@
+{
+  "total_fetched": 297,
+  "scored_papers": [
+    {
+      "arxiv_id": "2608.29963",
+      "title": "Symmetric Mass Generation for Domain-Wall Fermions",
+      "authors": [
+        "Sho Araki",
+        "Hidenori Fukaya",
+        "Tetsuya Onogi",
+        "Satoshi Yamaguchi"
+      ],
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2608.29963",
+      "abstract": "We report the first numerical examination of symmetric mass generation (SMG) for domain-wall fermions. Our simulation on a two-dimensional Euclidean lattice computes the path-integral of the Fidkowski-Kitaev Majorana chain with two boundaries, corresponding to the two (physical and mirror) walls. We demonstrate by evaluating the lattice Dirac operator eigenvalue spectrum that the local four-Fermi interaction selectively gaps the edge fermions on the mirror wall while leaving the physical wall intact. We further identify a characteristic signature of SMG in the path-integral: the gap of the Dirac operator opens along the imaginary axis of the complex spectrum, in contrast to the standard mass shift in the real direction. The conventional hybrid Monte Carlo algorithm remains practical with reweighting the complex phase of the Pfaffian, which is found to be remarkably small throughout the simulation. These results provide a practical nonperturbative framework for interaction-induced mirror-fermion decoupling of lattice domain-wall fermions.",
+      "score": 95,
+      "reason": "小野木哲也氏の共著論文🔬ミラー壁のフェルミオンだけを四体相互作用でギャップさせるSMGを格子上で初めて数値実証、エッジモード物理と直結✨",
+      "summary": "2次元格子のFidkowski-Kitaevマヨラナ鎖でDirac作用素スペクトルを解析、SMGギャップが虚軸方向に開くことを確認⚡Pfaffian符号問題も軽微🎯"
+    },
+    {
+      "arxiv_id": "2608.31024",
+      "title": "First-principles determination of anomaly-induced pion decay beyond the chiral limit",
+      "authors": [
+        "Tian Lin",
+        "Xu Feng",
+        "Lu-Chang Jin",
+        "Chuan Liu",
+        "Qi-Yuan Luo"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2608.31024",
+      "abstract": "The two-photon decay of the neutral pion is fixed in the chiral limit by the Adler-Bell-Jackiw anomaly, while nonzero quark masses induce few-percent corrections that must be determined for precision tests of QCD beyond the chiral limit. Using the anomalous PCAC relation, we compute them in lattice QCD as deviations from the exact anomaly condition at $q^2=0$, thereby avoiding both four-point functions and the cancellation of chiral logarithms that limits conventional approaches. Because the correction is proportional to the light-quark masses, both statistical and systematic uncertainties are correspondingly suppressed, making a precision calculation feasible. On two nearly-physical domain-wall ensembles we achieve $\\sim1\\%$ statistical precision each for the decay width, obtaining $\\Gamma(\\pi^0\\to\\gamma\\gamma)=8.09(22) eV$ after continuum extrapolation. The $2.3(1.4)\\%$ mass correction to the decay amplitude, positive and isospin-breaking dominated, provides the first ab initio confirmation of the $\\pi^0$-$\\eta$-$\\eta'$ mixing enhancement.",
+      "score": 88,
+      "reason": "π⁰→γγ崩壊のカイラル極限からのずれを格子QCDで第一原理計算🔬ABJアノマリーの精密検証として軸性荷・アノマリー研究に直結📐",
+      "summary": "異常PCAC関係を用い4点関数を回避、Γ(π⁰→γγ)=8.09(22)eVを1%精度で決定⚡π⁰-η-η'混合増強を初めて確認🎯"
+    },
+    {
+      "arxiv_id": "2608.30774",
+      "title": "Anomalies and discrete torsion in Type II and Type I worldsheet theories",
+      "authors": [
+        "Masashi Kawahira",
+        "Shotaro Kawanago",
+        "Shota Saito",
+        "Hiroki Wada"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2608.30774",
+      "abstract": "We provide a comprehensive study of anomalies and discrete torsion in the worldsheet theories of Type II and Type I string theories on a general ten-dimensional target space. In the modern understanding, the anomaly of a worldsheet theory is characterized by an invertible field theory in three dimensions, and invertible field theories are classified by the Anderson dual of a suitable bordism theory. To study the anomaly cancellation condition, we employ the explicit model of the Anderson dual constructed by Yamashita and Yonekura. We find that, for both Type II and Type I string theories, the anomaly of the worldsheet theory is cancelled if and only if the target space is orientable and admits a spin structure. We also determine the discrete torsion and clarify its physical meaning. It includes the distinctions between Type IIA and Type IIB string theories and between ordinary Type I and Sugimoto string theories.",
+      "score": 86,
+      "reason": "Hiroki Wada氏の共著論文📜Type II/I弦のワールドシート理論のアノマリーを可逆場の理論・ボルディズム分類で解析、離散トーションも決定✨",
+      "summary": "Andersonデュアルを用いターゲット空間が向き付け可能かつスピン構造を持つ条件でアノマリー相殺、IIA/IIBとIタイプの違いを明確化🎯"
+    }
+  ]
+}

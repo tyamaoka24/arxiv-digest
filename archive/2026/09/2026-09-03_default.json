@@ -1,0 +1,54 @@
+{
+  "total_fetched": 212,
+  "scored_papers": [
+    {
+      "arxiv_id": "2609.00170",
+      "title": "Higher anomalies, compressing SPTs and cohomology operations",
+      "authors": [
+        "Shani Nadir Meynet",
+        "Elias Riedel Gaarding"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "math.AT"
+      ],
+      "url": "https://arxiv.org/abs/2609.00170",
+      "abstract": "We explicitly compute and tabulate the suspension map for cohomology operations, applying it to the dimensional reduction of anomalies and higher group structures of generalised symmetries in quantum field theories and lattice systems.\n  In a quantum system with a discrete $p$-form symmetry, we can restrict the symmetry defects to a codimension-$q$ subspace of spacetime, or equivalently confine the gauge field to a slab whose thickness approaches zero. This results in a $(p-q)$-form symmetry on the subspace. We determine the fate of two important properties of symmetries under this process. First, we compute the anomaly of the reduced symmetry, or the higher anomaly of the original symmetry, which acts as an obstruction to higher gauging and onsiteability. Second, for two symmetries forming a higher-group structure, encoded as a Postnikov class, we compute the reduced higher-group structure, which may or may not be trivial. Both cases are captured by the $q$-fold iteration of the cohomology suspension $\\Omega$, also known as the loop functor or transgression, in the cohomology of Eilenberg--MacLane spaces. Classical results state that $\\Omega$ is an isomorphism in a stable range and annihilates mixed anomalies.\n  To calculate $\\Omega$ over a base ring which is not a field, we make use of small models for the chain DGAs of Eilenberg--MacLane spaces, pioneered by Cartan and Moore, whose results we review and extend. The critical added step is the improvement of a mod $p$ chain contraction to the $p$-local integers, obtained via a $p$-adic series. We automate the computations in a software package \\texttt{emcm}, and provide extensive tables of the results. Finally, to make contact with explicit cochain formulations of cohomology operations, we demonstrate how to calculate cup products and certain cup-$i$ products in this framework.",
+      "score": 89,
+      "reason": "高次アノマリーとSPT相の圧縮操作をコホモロジー演算で統一解析🧮✨ 一般化対称性の次元縮約・格子系のアノマリー整合性に直結する内容📐",
+      "summary": "離散p形式対称性を余次元q部分空間に制限した際のSPT相・アノマリーの変化を懸垂写像で系統的に計算🔬📊"
+    },
+    {
+      "arxiv_id": "2609.00214",
+      "title": "Anomaly Matching between Topological Superconductors and $\\mathcal{N}=8$ Supergravity",
+      "authors": [
+        "Christopher W. Murphy"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2609.00214",
+      "abstract": "The boundary of a $3{+}1$-dimensional topological superconductor carries a $\\mathbb{Z}_{16}$-valued global (Dai-Freed) anomaly, famously matched by the $16$ fermions of a Standard Model generation once a certain $\\mathbb{Z}_4$ symmetry is gauged. In a supergravity completion, though, a gravitino contributes $-7/16$ rather than $\\pm1/16$, obstructing this $\\mathbb{Z}_4$ in the Minimal Supersymmetric Standard Model. We observe that four-dimensional $\\mathcal{N}=8$ supergravity evades this fate. Its fermions, eight gravitini in the $\\mathbf 8$ and fifty-six spin-$\\tfrac12$ states in the $\\mathbf{56}=\\Lambda^3\\mathbf 8$ of the $SU(8)$ R-symmetry, saturate the anomaly. The cancellation holds for every admissible $\\mathbb{Z}_4$ structure, is consistent with the vanishing of the continuous $SU(8)$ anomaly, and follows from a Smith homomorphism identifying the supergravity anomaly with that of the topological superconductor. In maximal supergravity this $\\mathbb{Z}_4$ stays anomaly-free and gaugeable despite its eight gravitini. All numbers are reproduced by an open-source library described in the Supplemental Material.",
+      "score": 88,
+      "reason": "トポロジカル超伝導体のZ16アノマリーがSM世代か N=8超重力かで整合する比較🌀⚡ アノマリー整合性議論の好例で関心と直結🎯",
+      "summary": "境界のDai-Freed Z16アノマリーはSMの16フェルミオンで整合するがMSSMグラビティーノは-7/16で破綻、N=8超重力は回避と指摘🧬"
+    },
+    {
+      "arxiv_id": "2609.00423",
+      "title": "Positive energy from timelike singularities",
+      "authors": [
+        "Fernando Ruiz Ruiz"
+      ],
+      "categories": [
+        "gr-qc",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2609.00423",
+      "abstract": "The energy of various asymptotically AdS and asymptotically flat solutions to the Einstein equations with time-translational invariance and a timelike singularity is computed, spaces with Kasner timelike singularities and black holes with negative masses among them. The definition used for gravitational energy is the on-shell Hamiltonian of the physical classical action proposed by Hawking and Horowitz thirty years ago and which agrees with the Abbott-Deser and ADM expressions. To deal with the singularity, a timelike regulating cut-off boundary surrounding the singularity compatible with a well-defined foliation in constant-time slices is introduced, so calculations are performed at a finite value of the regulating parameter, which is set to zero in the final expression for the energy. In all instances considered, the energy contribution from the singularity is finite and positive, its value depends on the geometry around the singularity and is such that the total gravitational energy is positive. Of the solutions reviewed, only the AdS soliton (which has no singularity) has negative gravitational energy relative to AdS space. The AdS and the Schwarzschild black holes with negative masses have respectively the same energies as AdS and Minkowski spaces.",
+      "score": 85,
+      "reason": "一般相対論の質量エネルギー定義を時間的特異点を持つ解に拡張🌌⚖️ 著者自身の重力電荷研究と直接関連する好テーマ📏",
+      "summary": "Hawking-Horowitz作用のオンシェル・ハミルトニアンでKasner特異点やAdS/漸近平坦解のエネルギーを計算しADM等と比較🧮"
+    }
+  ]
+}

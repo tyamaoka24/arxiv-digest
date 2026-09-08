@@ -1,0 +1,23 @@
+{
+  "total_fetched": 164,
+  "scored_papers": [
+    {
+      "arxiv_id": "2609.05006",
+      "title": "Accessing the Wess-Zumino-Witten term using Lattice QCD",
+      "authors": [
+        "Fernando Romero-López",
+        "Stephen R. Sharpe"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "nucl-th"
+      ],
+      "url": "https://arxiv.org/abs/2609.05006",
+      "abstract": "The Wess-Zumino-Witten interaction in chiral perturbation theory is a manifestation of chiral anomalies. One of its consequences is the presence of a nonvanishing $K \\overline K \\to \\pi^+ \\pi^0 \\pi^-$ amplitude. We derive the finite-volume formalism that allows one to access this, and related, amplitudes, using the spectra of two and three particles in finite volumes, spectra that can be calculated using lattice QCD. Specifically, we present the formalism for the systems $K \\overline K + 3 \\pi$ with $I=0$ and $\\pi K + \\pi\\pi K$ with $I=1/2$ and $3/2$. In addition, we determine the threshold expansions for the $2\\leftrightarrow 3$ and $3\\leftrightarrow 3$ K matrices that enter the formalism, and calculate the leading order predictions from chiral perturbation theory for the coefficients that enter these expansions.",
+      "score": 88,
+      "reason": "カイラルアノマリーの顕れであるWZW項を格子QCDの有限体積スペクトルから抽出する新公式🔬⚛️ 格子とアノマリーの接点として直撃🎯",
+      "summary": "KK̄→3π等のアノマリー起源振幅を、2粒子・3粒子有限体積スペクトルから求める形式論を導出しChPTで係数を予言📐🧮"
+    }
+  ]
+}

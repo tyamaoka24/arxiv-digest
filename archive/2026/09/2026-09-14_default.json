@@ -1,0 +1,38 @@
+{
+  "total_fetched": 223,
+  "scored_papers": [
+    {
+      "arxiv_id": "2609.10682",
+      "title": "Lattice 2-group symmetries: operators, defects, and gauging",
+      "authors": [
+        "Lucas Z. Brito",
+        "Salvatore D. Pace"
+      ],
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2609.10682",
+      "abstract": "We construct and study lattice realizations of finite 2-group symmetries in ${2+1}$d quantum lattice systems with finite-dimensional tensor-product Hilbert spaces. We focus on two broad classes of 2-groups with 0-form symmetry group $G$ and 1-form symmetry group $A$: split 2-groups with trivial Postnikov class ${[\\beta]\\in\\mathcal{H}^3(G,A)}$, and central 2-groups with trivial action ${\\rho\\colon G\\to\\text{Aut}(A)}$. In both cases, we construct symmetry operators on the full tensor-product Hilbert space that become 2-group symmetry operators when restricted to the topological subspace of the lattice $A$ 1-form symmetry. While the lattice split 2-group symmetry operators are onsite, the lattice central 2-group symmetry operators are not, and can only be made onsite after introducing ancillae. We extensively explore various manifestations of $\\rho$ and $[\\beta]$ for these lattice 2-group symmetry operators and demonstrate their agreement with expectations from quantum field theory. These manifestations arise in the transformation of operators carrying symmetry charge, the structure of lattice 2-group symmetry defects, and the dual fusion 2-category symmetries obtained by gauging the lattice 2-group symmetries. We further propose families of local symmetric Hamiltonians for both classes of lattice 2-group symmetries and identify exactly solvable limits lying in phases with spontaneous 2-group symmetry breaking and nontrivial symmetry-enriched topological order. In one such limit, the gauged Hamiltonians are exactly solvable lattice realizations of the corresponding 2-group gauge theories, whose ground-state degeneracies we calculate.",
+      "score": 89,
+      "reason": "格子上の高次群対称性を厳密構成し、離散対称性・ゲージングの格子的実現手法として研究テーマと直結🧲🔍✨",
+      "summary": "2+1次元格子系で有限2群対称性の演算子・欠陥を構築し、ゲージングで対称性豊化位相の厳密可解模型を得る📐⚙️🧮"
+    },
+    {
+      "arxiv_id": "2609.11417",
+      "title": "Gauss Law, Monodromy Defect, Magnetic Lattice Translation, and Lattice Duality",
+      "authors": [
+        "Pengcheng Wei",
+        "Yunqin Zheng"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2609.11417",
+      "abstract": "In a Hamiltonian lattice gauge theory, the physical Hilbert space is fixed by the Gauss law, by choosing an eigenspace of the Gauss law operator which generates the gauge transformation. Choosing a non-trivial eigenspace is referred to as the modified Gauss law. In 2+1d dynamical U(1) pure gauge theory, we show that these physical Hilbert spaces are defect Hilbert spaces associated with non-topological monodromy defects for monopole operators and topological defects for U(1) 1-form symmetry, inserted along the time direction. We also construct the corresponding lattice translation operators. Under a nontrivially modified Gauss law, these translations obey a magnetic translation algebra. Finally, we discuss how the modified Gauss laws are manifested in 2+1d compact bosons, via exact duality on the lattice.",
+      "score": 86,
+      "reason": "ハミルトニアン格子ゲージ理論のGauss則と欠陥・双対性を扱い、格子的離散対称性の定式化に直結🔗⚡",
+      "summary": "2+1次元U(1)格子ゲージ理論で修正Gauss則が単極子欠陥やマグネティック並進代数を生み、コンパクトボソン双対性と対応📡🌀"
+    }
+  ]
+}

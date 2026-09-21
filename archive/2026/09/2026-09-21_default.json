@@ -1,0 +1,38 @@
+{
+  "total_fetched": 245,
+  "scored_papers": [
+    {
+      "arxiv_id": "2609.19917",
+      "title": "Nonperturbative Chiral Anomaly Cancellation and Irrelevant Operators",
+      "authors": [
+        "Michele Bianchessi",
+        "Vieri Mastropietro",
+        "Marcello Porta"
+      ],
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "url": "https://arxiv.org/abs/2609.19917",
+      "abstract": "The Chiral anomaly cancellation is perturbatively well understood but its nonperturbative validity in presence of a lattice has remained unproven. We provide a rigorous nonperturbative proof of anomaly cancellation and its universality in a variation of the lattice Kogut-Susskind regularization for the multiflavor Sommerfield model, describing Dirac fermions interacting with a non-compact $\\mathrm{U}(1)$ quantum vector field. We identify a novel and general mechanism based on the convergence properties of the renormalized expansion and related to the one leading to universality in topological insulators. Irrelevant lattice operators, despite being suppressed along the RG flow, provide essential contributions to the anomaly cancellation.",
+      "score": 96,
+      "reason": "🎯Kogut-Susskind格子でカイラルアノマリー相殺を非摂動的に厳密証明。staggered fermionと't Hooftアノマリーの核心テーマに直撃🔥",
+      "summary": "📐多フレーバーSommerfield模型（noncompact U(1)+Dirac fermion）の格子正則化で、繰り込み展開の収束性に基づく新機構を提示⚙️"
+    },
+    {
+      "arxiv_id": "2609.20813",
+      "title": "Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts",
+      "authors": [
+        "Hanyu Xue"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2609.20813",
+      "abstract": "Generalized symmetries and topological excitations, as well as symmetry anomalies and the statistics of topological excitations, are widely believed to be related. There are, however, pitfalls in how this relation is established. A lattice truncation of a symmetry transformation to a finite patch gives a symmetry patch operator that creates symmetry defects at its boundary. This geometric picture resembles a hopping operator creating topological excitations at the boundary of its support, but does not provide well-defined statistics, let alone guarantee agreement with the symmetry anomaly. A more natural and robust relation is that the hopping operators of topological excitations are symmetric: they commute with symmetry transformations. Under suitable assumptions, this condition yields a one-to-one correspondence between statistics and anomalies. We further couple boundary matter to a DW gauge field in one higher dimension to explain this relation from the perspective of gauging. A hopping operator is, in essence, a gauge-invariant operator acting on the physical degrees of freedom after gauging. Once the gauge-field background is fixed, global symmetry comes from gauge transformations that preserve that background, while the symmetric condition on hopping is precisely the remaining gauge invariance. This distinction clarifies potential misconceptions in the literature and provides a more reliable framework for comparing symmetries and topological excitations.",
+      "score": 90,
+      "reason": "🔍't Hooftアノマリーと位相励起の統計・Else-Nayak指数の関係を精査。格子欠陥演算子由来の落とし穴を指摘する概念整理📚",
+      "summary": "⚖️対称性パッチ演算子が作る欠陥の統計とアノマリーの厳密な対応条件を議論し、既存の直感的対応の限界を明確化🧩"
+    }
+  ]
+}

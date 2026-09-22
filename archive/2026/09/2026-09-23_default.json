@@ -1,0 +1,27 @@
+{
+  "total_fetched": 337,
+  "scored_papers": [
+    {
+      "arxiv_id": "2609.22698",
+      "title": "First-Principles Determination of the QCD Contribution to the Axion-Photon Coupling Using Domain-Wall Fermions",
+      "abstract": "The axion-photon coupling, crucial for experimental axion searches and tests of the strong CP solution, receives a substantial model-independent contribution $\\mathcal C_{\\rm QCD}$ from QCD dynamics. Next-to-leading-order chiral perturbation theory (NLO ChPT) in different frameworks has yielded puzzling discrepancies of up to $8\\%$, motivating precise first-principles calculations. We present an independent lattice QCD determination using a method complementary to the recent background-field calculation. Computing pseudoscalar-to-two-photon three-point functions and exploiting anomalous Ward identities, we separate $\\mathcal C_{\\rm QCD}$ into an exact anomaly contribution and a light-quark-mass-suppressed correction. The latter is computed using domain-wall fermions, whose excellent chiral symmetry strongly suppresses discretization effects. Working on two near-physical $N_f=2+1$ ensembles with continuum extrapolation, we obtain $\\mathcal C_{\\rm QCD}^{\\rm IS}=1.619(30)$ (isospin-symmetric), $\\mathcal C_{\\rm QCD}^{\\rm IB}=0.347(22)$ (isospin-breaking), and $\\mathcal C_{\\rm QCD}=1.965(35)$ in total. While direct comparisons with published NLO ChPT predictions reveal apparent tensions, we identify their sources and show that the ChPT results can be reconciled with our lattice determination. Our result provides a first-principles benchmark for the QCD contribution to the axion-photon coupling and a quantitative test of competing ChPT descriptions.",
+      "authors": [
+        "Tian Lin",
+        "Hao-Yang Cheng",
+        "Xu Feng",
+        "Lu-Chang Jin",
+        "Chuan Liu",
+        "Qi-Yuan Luo"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ex",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2609.22698",
+      "score": 86,
+      "reason": "🧲 ドメインウォールfermionの良いカイラル対称性と異常Ward恒等式で軸性アノマリー寄与を厳密分離⚛️ 格子カイラルfermion×アノマリーの実践例として参考になる",
+      "summary": "📐 擬スカラー→2光子の3点関数から axion-光子結合のQCD寄与を算出。Nf=2+1近物理点で連続極限、C_QCD=1.965(35)。ChPTとの食い違いの原因も特定"
+    }
+  ]
+}

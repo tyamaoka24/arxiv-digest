@@ -1,0 +1,61 @@
+{
+  "total_fetched": 162,
+  "scored_papers": [
+    {
+      "arxiv_id": "2609.30363",
+      "title": "Disentangling the Toric Code",
+      "authors": [
+        "Lei Gioia",
+        "Salvatore D. Pace",
+        "Ruben Verresen",
+        "Shu-Heng Shao",
+        "Ryan Thorngren"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "math-ph",
+        "math.MP",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2609.30363",
+      "abstract": "Commuting-projector Hamiltonians with integer spectrum such as the 1+1d Ising ferromagnet and the 2+1d toric code may be regarded as the generators of non-on-site $U(1)$ symmetries. In this paper we study whether these symmetries can be made on-site in the presence of finite and infinite-dimensional ancillae. In the finite-dimensional case, we prove that the fractionalized excitations, such as domain walls and anyons, make it impossible to on-site these Hamiltonians. On the other hand, we show that when infinite dimensional ancillae (e.g., rotors) are allowed, both the 1+1d Ising ferromagnet and the 2+1d toric code can be disentangled, yielding on-site symmetries. This is not in contradiction with the non-trivial ground state order of these Hamiltonians, since the ancilla Hamiltonians are no longer bounded from below. Our results indicate agreement between lattice and quantum field theory anomalies in the presence of infinite-dimensional ancillae, while with finite-dimensional ancillae the obstruction to on-siteability may even be non-invertible.",
+      "score": 93,
+      "reason": "🔥 格子上の非on-site U(1)対称性とアノマリーの関係を正面から扱う🧩 スタッガード fermion の軸性荷の on-site 化問題と直結し、無限次元アンシラでの格子-QFTアノマリー一致は必読📌",
+      "summary": "⚛️ Ising・トーリックコードのHを非on-site U(1)生成子とみなし、有限次元アンシラではon-site化不可能（非可逆障害も）、ローター導入で可能と証明"
+    },
+    {
+      "arxiv_id": "2609.30964",
+      "title": "Dyonic edge modes in Abelian gauge theory",
+      "authors": [
+        "Keito Shimizu",
+        "Sotaro Sugishita"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2609.30964",
+      "abstract": "We find new boundary conditions in four-dimensional Abelian gauge theory with general Chern--Simons boundary couplings. The boundary conditions allow dyonic edge modes and physical boundary symmetries. In particular, one of the new boundary conditions makes both electric and magnetic charges physical. We also study how our boundary conditions and charges transform under the $\\mathrm{SL}(2,\\mathbb Z)$ duality.",
+      "score": 86,
+      "reason": "🌊 4d可換ゲージ理論のCS境界結合で dyonic なエッジモードが出現🧲 境界モード・境界対称性と SL(2,Z) 双対性の関係は格子の境界モード研究の連続側参照に有用✨",
+      "summary": "📐 一般のCS境界結合を持つ4d U(1)ゲージ理論で新しい境界条件を発見。電荷・磁荷が共に物理的になる条件とSL(2,Z)変換性を解析"
+    },
+    {
+      "arxiv_id": "2609.30371",
+      "title": "Boundaries of the compact free boson through edge modes and boundary SymTFT",
+      "authors": [
+        "Daniel Robbins",
+        "Subham Roy",
+        "Hassaan Saleem"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2609.30371",
+      "abstract": "We study boundary conditions of the compact free boson theory by coupling the bulk scalar to one-dimensional topological edge modes. We show that a single compact edge mode realizes the Dirichlet family, while a two field system realizes the Neumann family; more general compact edge theories can describe superpositions of boundary conditions and reproduce the expected boundary operator spectra. We then study this system in the framework of boundary SymTFT. We show that the edge mode theories of Dirichlet and Neumann boundaries are encoded in the degrees of freedom localized on the corners and the choice of polarization on the topological face of the boundary SymTFT. We further show that the T-duality defect exchanges the data associated with the Dirichlet and Neumann configurations. Finally, we explore extensions involving non-compact edge modes and multiple bulk fields, obtaining continuous boundary spectra in the first case and mixed boundary conditions in the second.",
+      "score": 85,
+      "reason": "🧩 コンパクトボゾンの境界条件を1dトポロジカルなエッジモードとの結合で記述🔗 境界 SymTFT との対応とT双対性欠陥による交換は、境界モードとアノマリーの視点で興味深い✨",
+      "summary": "📐 単一のエッジモードでDirichlet族、2場系でNeumann族を実現。境界SymTFTのコーナー自由度・偏極選択で符号化され、T双対欠陥が両者を交換"
+    }
+  ]
+}

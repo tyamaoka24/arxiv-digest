@@ -1,0 +1,22 @@
+{
+  "total_fetched": 354,
+  "scored_papers": [
+    {
+      "arxiv_id": "2609.32266",
+      "title": "Symmetry-permuting entanglers for non-invertible symmetry-protected topological phases",
+      "authors": [
+        "Minyoung You"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2609.32266",
+      "abstract": "1+1D symmetry-protected topological (SPT) phases with invertible symmetry can be characterized by the symmetric entanglers: globally symmetric finite-depth local unitary circuits that generate representative ground states from a product state. For non-invertible symmetries, however, distinct SPT phases, such as the three $\\mathrm{Rep}(D_8)$ SPT phases, may not be connected by any symmetric entangler. We show that the three $\\mathrm{Rep}(D_8)$ SPT phases can nevertheless be connected by \\emph{symmetry-permuting} finite-depth local unitary circuits, realizing dualities predicted by topological quantum field theory (TQFT). We construct an explicit matrix product unitary connecting two of the $\\mathrm{Rep}(D_8)$ SPT phases, and show that its action on string order parameters reproduces the anyon permutation predicted by the TQFT duality.",
+      "score": 85,
+      "reason": "🧩 非可逆対称性SPTを有限深さ回路で結ぶ新視点。対称性を置換するエンタングラーはアノマリー・格子上の対称性構造の理解に示唆的🔗",
+      "summary": "📐 Rep(D8) の3つのSPT相を対称性置換型の有限深さ局所ユニタリで接続。MPUを陽に構成し弦秩序パラメータでTQFT双対性(エニオン置換)を再現✨"
+    }
+  ]
+}

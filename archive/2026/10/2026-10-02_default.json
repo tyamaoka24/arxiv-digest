@@ -1,0 +1,43 @@
+{
+  "total_fetched": 408,
+  "scored_papers": [
+    {
+      "arxiv_id": "2609.39760",
+      "title": "Fractional Superfluid Vortices and Worldsheet Wess--Zumino--Witten Models in Two-Color QCD and $Sp(2N)$ Gauge Theories",
+      "abstract": "We study superfluid vortices in two-color QCD and more general pseudoreal gauge theories with even flavor number $N_f=2m$ at finite baryon density. The antisymmetric diquark condensate admits fractional minimal vortices with baryon-phase winding $\\nu=1/m$, corresponding to $1/m$ of the conventional circulation quantum, each localizing an $Sp(2)\\simeq SU(2)$ core sector. For vortices embedded in mutually orthogonal flavor planes, the leading-order chiral action factorizes exactly. Off-diagonal flavor zero modes are non-normalizable at finite separation but become localized at coincidence, enhancing the normalizable sector from $[Sp(2)]^m$ to $Sp(2m)$. For fundamental fermions of an $Sp(2N)$ gauge theory, the bulk Wess--Zumino--Witten (WZW) term descends compatibly: a cluster of $n$ coincident minimal vortices carries an $Sp(2n)_N$ WZW theory, while a flavor-symmetric vortex with positive integer baryon-phase winding $\\nu$ carries $Sp(2m)_{N\\nu}$. At unit winding this yields the vortex map to $Sp(2m)_N$, with central charge $c=Nm(2m+1)/(N+m+1)$ at the WZW fixed point, and suggests a broader nonsupersymmetric four-dimensional/two-dimensional correspondence.",
+      "authors": [
+        "Muneto Nitta"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2609.39760",
+      "score": 86,
+      "reason": "🌀 フェルミオン由来のWZW項が渦の世界面へ降りる構造は、アノマリー整合・インフローの格好の具体例。Sp(2N)ゲージ理論で非可換対称性の保護構造を追える点が面白い 🔗",
+      "summary": "📐 二色QCD/Sp(2N)の有限密度で分数渦(巻き数1/m)を解析。n本の一致渦上にSp(2n)_N WZW模型が現れ、零モードの局在と対称性拡大を示す。"
+    },
+    {
+      "arxiv_id": "2609.39780",
+      "title": "No-go theorems for dual Hamiltonians of Non-Abelian Lattice Gauge Theories",
+      "abstract": "Hamiltonian simulations of lattice gauge theories promise new insights into the inner workings of QCD. The rapid development of quantum computing hardware suggests that large scale simulations may soon become feasible. However, no efficient formulation suitable for simulations near the continuum limit is currently known for the non-Abelian case, and existing candidates typically feature long range interactions in the electric part of the Hamiltonian. We prove that such non- localities are unavoidable when the gauge configuration is reparametrised while preserving both the number of degrees of freedom and the fundamental commutation relations. We then attempt to mitigate this by introducing additional gauge links alongside additional constraints. Although this approach is successful in U(1), we prove that the corresponding construction is inconsistent for non-Abelian lattice gauge theories.",
+      "authors": [
+        "Marco Garofalo",
+        "Tobias Hartung",
+        "Timo Jakobs",
+        "Paul Ludwig",
+        "Johann Ostmeyer",
+        "Carsten Urbach"
+      ],
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2609.39780",
+      "score": 85,
+      "reason": "⚛️ 非可換格子ゲージ理論のハミルトニアン形式に関する厳密なno-go定理。量子シミュレーション向けの格子定式化を考える上で、何が原理的に不可能かを押さえられる 🧭",
+      "summary": "🔒 自由度数と正準交換関係を保つ双対化では電場項の非局所性が不可避と証明。追加リンク+拘束による回避はU(1)では可能だが非可換では矛盾。"
+    }
+  ]
+}

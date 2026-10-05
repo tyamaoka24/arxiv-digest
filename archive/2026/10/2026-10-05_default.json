@@ -1,0 +1,40 @@
+{
+  "total_fetched": 325,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.00472",
+      "title": "Fractional anomalous determinants and the chiral phase transition",
+      "authors": [
+        "Robert D. Pisarski"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-lat",
+        "hep-th",
+        "nucl-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.00472",
+      "abstract": "At high temperature instantons form a dilute gas, so in QCD-like theories the breaking of the anomalous $U(1)_A$ symmetry is given by integral powers of the anomalous determinant, $\\sim (\\det \\Phi)^{Q}$, where $\\Phi\\sim \\overline{q}_L q_R$ is bilinear in the quark fields, and with untwisted boundary conditions, the topological charge, $Q$, is an integer. A syncretic model is constructed, which is manifestly \"beyond Landau\". In the chiral limit, at temperatures above the chiral phase transition, $T > T_\\chi$, only integral powers of the anomalous determinant appear. Below $T_\\chi$, following 't Hooft et al. I assume that the topological charge $Q$ is fractional, as an integer times $1/N_c$, where $N_c$ is the number of colors. I suggest that consequently, fractional powers of the anomalous determinant appear in the chiral effective Lagrangian. For $N_f$ degenerate flavors, this generalizes the Witten-Veneziano term, valid for small $N_f/N_c$, to arbitrary $N_f/N_c$. In this model the chiral phase transition is generically of second order. The two exceptions are for one flavor, where it is probably crossover, and three flavors, where it could well be weakly first order. This can be tested in lattice QCD with $2+1$ flavors by comparing the (known) temperature dependence of the difference of the $\\pi^a$ and $a_0^a$ propagators, to the chiral condensate of the strange quark, between $T_\\chi$ and $\\sim 2 \\, T_\\chi$. Analogous measurements are possible for one to four degenerate flavors about $T_\\chi$. Lastly, I propose an operator for baryon number in the symmetric phase.",
+      "score": 86,
+      "reason": "🔥 U(1)_A アノマリーと分数トポロジカル電荷を軸にカイラル相転移の次数を議論。't Hooft 流束・アノマリー整合の視点で格子研究とも直結しそう 🧩",
+      "summary": "📐 T_χ以下でQが1/N_c単位の分数と仮定し、分数冪の異常行列式を有効理論に導入。Witten-Veneziano項を任意N_f/N_cへ一般化、転移は概ね2次 ⚛️"
+    },
+    {
+      "arxiv_id": "2610.00486",
+      "title": "Gaugino condensates in $\\mathcal{N}=1$ super-Yang-Mills Theory on Eguchi-Hanson space",
+      "authors": [
+        "Mohamed M. Anber"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-ph",
+        "math-ph"
+      ],
+      "url": "https://arxiv.org/abs/2610.00486",
+      "abstract": "We study gaugino condensates in $\\mathcal{N}=1$ $SU(N)$ super-Yang--Mills theory on Eguchi--Hanson space using instanton methods. Fractional topological charge and the spectral asymmetry of the asymptotic $\\mathbb{RP}^3$ boundary modify the instanton calculus. A charge-$\\frac12$ instanton carries only two adjoint gaugino zero modes and can therefore contribute directly to the bilinear. Because the Eguchi--Hanson path integral prepares a boundary state on $\\mathbb{RP}^3$, the observables are boundary-sector-projected amplitudes. Moreover, supersymmetric Ward identities ensure that chiral correlators are independent of insertion points and the Eguchi--Hanson resolution parameter. For $SU(2)$ instanton, with central holonomy, the full collective-coordinate integral gives $\\langle\\operatorname{tr}(\\lambda\\lambda)\\rangle=16\\pi^2\\Lambda^3$ for a specified boundary projection, reproducing the flat-space value. For a single $SU(2)$-block embedding in $SU(N>2)$, the noncentral holonomy requires a continuum determinant for renormalization-group invariance, so zero modes alone do not determine the bilinear. We also study a charge-$1$ $SU(4)$ two-block saddle with central holonomy, $16$ bosonic moduli, and $8$ adjoint zero modes. Its collective-coordinate integral gives $\\langle\\prod_{i=1}^4\\operatorname{tr}(\\lambda\\lambda)(x_i)\\rangle=\\frac16(16\\pi^2\\Lambda^3)^4$. Under the assumptions required for position independence and clustering, this result determines the fourth power of the bilinear condensate in the corresponding boundary sector. Since no independent bilinear calculation is available in the same sector, the factor $1/6$ does not by itself constitute a clustering puzzle.",
+      "score": 85,
+      "reason": "🌀 Eguchi-Hanson上の分数インスタントンと境界RP^3のスペクトル非対称性(η不変量)が凝縮に効く。境界モード×アノマリーの好例 🧭",
+      "summary": "🔬 N=1 SU(N) SYMで電荷1/2インスタントンがゲージーノ零モード2個でtr(λλ)に寄与。SU(2)では平坦時空の値16π²Λ³を再現 ✨"
+    }
+  ]
+}

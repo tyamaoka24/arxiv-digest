@@ -1,0 +1,43 @@
+{
+  "total_fetched": 437,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.04704",
+      "title": "Peeling off Abelian Anyons and Proliferation Transitions",
+      "abstract": "We study the invertible one-form global symmetry of a (2+1)-dimensional topological quantum field theory (TQFT). A universal description of this symmetry ``peels off'' all the Abelian anyons from the rest of the TQFT. This allows us to study this symmetry and some of its consequences, independently of the details of the rest of the system. We then describe these Abelian anyons using $\\mathrm{U}(1)$ gauge fields with Chern-Simons terms and couple them to a scalar field, thus constructing a particular non-topological theory. This new theory, our transition field theory, exhibits a phase transition from the original TQFT to another phase. The latter is either gapless or another TQFT. This discussion generalizes and extends our earlier work (arXiv:2603.00245). In particular, we give a more detailed description of the global symmetries and their fates in the various phases.",
+      "authors": [
+        "Meng Cheng",
+        "Nathan Seiberg"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.04704",
+      "score": 87,
+      "reason": "🧩 Seiberg らによる1-form 対称性とそのアノマリーの普遍的記述。アノマリー整合や相転移の議論に直結し、格子模型での実現を考える上でも示唆的 ✨",
+      "summary": "📐 (2+1)D TQFT の可換エニオンを U(1) Chern-Simons で切り出し、スカラー場と結合させて TQFT から別相への転移を記述する場の理論を構成 🔄"
+    },
+    {
+      "arxiv_id": "2610.03864",
+      "title": "Realizing Braided Fusion 2-Categories as (3+1)D Mixed-State Topological Orders",
+      "abstract": "We construct large families of mixed-state topological orders in (3+1)D, including intrinsically mixed-state topological orders. We realize these theories by relating the data parameterizing braided fusion 2-categories to the strong higher-form symmetries and their anomalies that characterize mixed-state topological order. We focus here on bosonic theories, which include theories which admit an emergent fermion in the spectrum of line operators. Our general framework is exemplified on the lattice, where we present concrete models and identify how the data of braided fusion 2-categories are physically encoded. We then formalize this data and show that every braided fusion 2-category arises from a general construction (decoherence followed by strong and weak gauging) as the category of topological operators of a (3+1)D mixed state, with intrinsically mixed-state topological orders distinguished by the presence of strong higher-form symmetries whose anomalies cannot be realized in any (3+1)D gapped ground state. Notably, we show that (3+1)D admits a new mechanism with no (2+1)D counterpart: intrinsically mixed-state order whose topological operators braid non-degenerately, but which carries a gravitational anomaly.",
+      "authors": [
+        "Ryohei Kobayashi",
+        "Abhinav Prem",
+        "Matthew Yu"
+      ],
+      "categories": [
+        "quant-ph",
+        "cond-mat.str-el",
+        "hep-th",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2610.03864",
+      "score": 85,
+      "reason": "🧊 高次形式対称性のアノマリーで(3+1)D混合状態トポロジカル秩序を分類。格子上の具体模型があり、格子とアノマリーの接点として面白い 🔗",
+      "summary": "📊 braided fusion 2-category のデータを強い高次形式対称性とそのアノマリーに対応付け、ボソン系の格子模型でデータの物理的符号化を明示 🧮"
+    }
+  ]
+}

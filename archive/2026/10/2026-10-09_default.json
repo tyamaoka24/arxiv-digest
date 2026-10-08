@@ -1,0 +1,22 @@
+{
+  "total_fetched": 195,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.09093",
+      "title": "A gauge-invariant measure for lattice chiral fermions",
+      "authors": [
+        "Nathaniel Craig"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.09093",
+      "abstract": "We nonperturbatively construct a gauge-invariant measure for overlap fermions on four-dimensional Euclidean lattices in a class of nonabelian chiral gauge theories that includes the Standard Model. On admissible gauge fields, comparing chiral projectors at successive lattice spacings yields an exponentially local current and establishes the global properties needed for L\\\"uscher's reconstruction of a smooth, gauge-invariant fermion measure. This provides a candidate nonperturbative lattice definition of the Standard Model.",
+      "score": 95,
+      "reason": "🔥 格子上のカイラルゲージ理論という長年の難問に正面から挑む論文⚛️ SMを含む非可換カイラル理論の非摂動的格子定義の候補で、アノマリーとカイラル格子の研究に直結！",
+      "summary": "📐 overlap fermionで、許容ゲージ場上の格子間隔間でカイラル射影子を比較し指数局所的なカレントを構成。Lüscherの再構成条件を満たすゲージ不変測度を4次元で構築。"
+    }
+  ]
+}

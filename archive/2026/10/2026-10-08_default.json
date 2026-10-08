@@ -1,0 +1,39 @@
+{
+  "total_fetched": 236,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.07735",
+      "title": "Mass as pairing: an explicit Majorana mass on half of a generation does not seesaw in symmetric mass generation",
+      "authors": [
+        "Piotr S. Topa"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.07735",
+      "abstract": "A fermion mass pairs a field with a partner of conjugate charge: elementary (Higgs-Dirac), self-conjugate (seesaw) or a three-fermion composite (symmetric mass generation, SMG). We give half of a Spin(10)-like generation an explicit Majorana mass in a four-dimensional SMG model and ask what the other half does in a phase with no condensate. With the source on, every mass-type term of the unsourced half averages to zero under the symmetry group of the sourced action, so a light mass term, and a seesaw's light-heavy mixing, requires a spontaneously broken symmetry; exact on the lattice and a general proposition. The source is colour-democratic (a Delta_R-type mass on every flavour's right-handed taste doublet); the single-nu_R split lies outside the positivity class used but inside the symmetry statement. Measured up to 8^4: (i) in the symmetric-gap phase, with the source screened to at most 1.1% of free, the unsourced half's single-fermion readout stays at 0.3% of free while its pair susceptibility rises from 0.2% to 1.2-1.7% at h=2; on like mode sets it falls with the volume, on (4^4,8^4) no inequivalent light mass channel grows faster than free, and symmetry breaking is not resolved at L0 is not measured. The outcomes are readings after pre-registered tests that mostly returned no verdict. Also: no first-order signature of the merged transition at L<=8, a Z_4-odd response handed to a lattice composite, and flavour democracy of the positivity class. Every claim has an evidence class and a runnable check.",
+      "score": 88,
+      "reason": "🧪 4次元格子SMG模型でタステ二重項にMajorana質量を入れた検証。対称質量生成と't Hooftアノマリー整合の格子実装に直結し興味深い🔍",
+      "summary": "⚛️ 半世代に明示的質量を与えても、対称性の自発的破れなしには他半分に軽い質量・シーソーは生じないことを格子上で厳密に示し8^4まで数値確認"
+    },
+    {
+      "arxiv_id": "2610.07150",
+      "title": "Monopole Catalysis from Standard Model Anomalies",
+      "authors": [
+        "Nathaniel Craig",
+        "Dan Sehayek"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.07150",
+      "abstract": "We study the generalized symmetries associated with Standard Model flavor and their fate in the presence of magnetic monopoles. This illuminates a striking phenomenological consequence: even when baryon and lepton number are classically conserved, the electroweak anomaly induces $\\Delta B = \\Delta L \\in 3 \\mathbb{Z}$ in monopole-fermion scattering for any monopole activating the anomaly. We demonstrate this mechanism in Pati-Salam theory and trinification.",
+      "score": 86,
+      "reason": "🧲 SM のアノマリーと一般化対称性からモノポール触媒を導く。アノマリー制約が現象論に直結する好例で、軸性荷の議論とも関連🔍",
+      "summary": "⚛️ 電弱アノマリーによりモノポール-フェルミオン散乱で ΔB=ΔL∈3ℤ が誘起されることを示し、Pati-Salam理論とtrinificationで具体的に実証📐"
+    }
+  ]
+}

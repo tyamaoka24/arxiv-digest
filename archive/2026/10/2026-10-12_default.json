@@ -1,0 +1,56 @@
+{
+  "total_fetched": 258,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.11035",
+      "title": "Hamiltonian framework for Chiral Gauge Theories on a Disk Boundary",
+      "authors": [
+        "Srimoyee Sen"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ph",
+        "hep-th",
+        "nucl-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.11035",
+      "abstract": "I propose a Hamiltonian framework for chiral gauge theories (CGT) based on a Euclidean formulation which uses 2n dimensional chiral fermions on the boundary of a 2n+1 dimensional disk. In the original Euclidean formulation, boundary gauge fields were extended into the bulk using $2n + 1$ dimensional gauge field equations of motion (EOM) which creates a bottleneck for constructing a Hamiltonian. I present an alternate proposal for extending the gauge fields into the bulk that is compatible with both a Hamiltonian framework and a Euclidean path integral. Applying this to Abelian gauge fields produces exact expressions of interior fields as a functional of the boundary fields, which can be directly used in a Hamiltonian formulation. Euclidean analysis of the new gauge field extension shows that it can preserve the non-perturbative content of the original construction, including the behavior of topological charge, associated chiral fermion zero modes and an absence of the strong CP problem when applied to the Standard Model. This construction opens up a route to a Hamiltonian treatment and future quantum simulation of CGTs on a disk boundary.",
+      "score": 93,
+      "reason": "🔥 Sen氏による円盤境界上カイラルゲージ理論のハミルトニアン化。格子カイラルゲージ理論・ハミルトニアン定式化の研究に直結し必読 🧲",
+      "summary": "2n次元カイラルfermionを2n+1次元円盤境界に置く定式化で、EOMに依らない新しいバルクへのゲージ場拡張を提案。可換場で内部場を境界場の汎関数として厳密に表示 ⚛️"
+    },
+    {
+      "arxiv_id": "2610.10764",
+      "title": "Gauging Modulated Symmetries: Bond Algebras, Higher-Form Symmetries, and Symmetry-Enriched Topological Order",
+      "authors": [
+        "Gustavo M. Yoshitome",
+        "Pedro R. S. Gomes",
+        "Guilherme Delfino"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.10764",
+      "abstract": "We develop a constructive framework for characterizing modulated symmetries and their gauging in $d$-dimensional lattice systems. The modulation profiles are organized as a finite-dimensional representation of the space group acting on a finite Abelian internal symmetry group. Since the corresponding automorphism group is finite, the nontrivial spatial action factors through a finite quotient of the space group, leading to periodic modulation patterns and providing a classification framework for discrete Abelian modulated symmetries. The symmetry-allowed local interactions are systematically obtained from a kernel construction, which also yields an algebra of open operators. Upon gauging, its elements are transmuted into extended Wilson and boundary operators while retaining their algebraic relations. In the deconfined regime, the resulting algebra realizes a mixed 't Hooft anomaly, providing a microscopic route to Abelian crystalline symmetry-enriched topological phases (SETs). These SETs do not mix electric and magnetic sectors, which transform in mutually contragredient representations, thereby preserving their braiding pairing. We illustrate the framework through explicit examples and show that several models present in the literature fit naturally within our construction.",
+      "score": 86,
+      "reason": "🧩 変調対称性のゲージ化で混合't Hooftアノマリーが現れる構成的枠組み。格子上の対称性・アノマリー解析の手法として参考になる 🔍",
+      "summary": "空間群の有限表現として変調対称性を分類し、カーネル構成で局所相互作用と開演算子代数を導出。ゲージ化後はWilson・境界演算子となりSETと混合アノマリーを実現 📐"
+    },
+    {
+      "arxiv_id": "2610.10682",
+      "title": "Spin Chain with Continuous Exponential Symmetry: Topological Phase and Beyond",
+      "authors": [
+        "Biao Lian",
+        "Zhen Bi"
+      ],
+      "categories": [
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2610.10682",
+      "abstract": "We study symmetric gapped ground states of one-dimensional spin $S$ chains with a continuous exponential symmetry $U(1)\\rtimes\\mathbb Z_2$ with integer base $q$, where the U(1) charge has a modulated unit of charge $q^{L-j}$ decaying exponentially with site $j$. The simplest model is a quantum breakdown model that can be viewed as a $q$-deformation of the XXZ Haldane spin chain. We show that the topology of their symmetric ground states crucially depends on $S$ and $q$. For integer $S$, odd $q$ allows a nontrivial $\\mathbb Z_2$ Haldane-type symmetry-protected topological (SPT) phase with protected edge modes, while even $q$ allows no nontrivial SPT phase. For half-odd integer $S$, odd $q$ prohibits any unique symmetric gapped ground state due to a Lieb-Schultz-Mattis obstruction, whereas even $q$ enforces a novel symmetric gapped phase which we name as the ``half-SPT\" phase. Unconventionally, the half-SPT phase only has a symmetry protected edge mode on one edge, and has half of the string orders of an SPT phase. Our results uncover a new type of symmetry-protected gapped phases beyond existing classification schemes.",
+      "score": 86,
+      "reason": "🌀 指数的変調U(1)対称性を持つスピン鎖でSPT相・LSM障害・端状態を解析。対称性保護相と境界モードの新しい例として興味深い ✨",
+      "summary": "U(1)⋊Z2(底q)対称なスピンS鎖。整数Sで奇qならZ2 Haldane型SPTと保護端状態、半整数Sで奇qはLSM障害、偶qでは新奇「half-SPT」相が出現 🔗"
+    }
+  ]
+}

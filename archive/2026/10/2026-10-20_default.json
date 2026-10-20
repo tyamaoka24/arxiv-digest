@@ -1,0 +1,24 @@
+{
+  "total_fetched": 177,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.22485",
+      "title": "Topological Aspects of the $c=2$ Model in the Continuum and on the Lattice",
+      "authors": [
+        "Yichul Choi",
+        "Nathan Seiberg",
+        "Sahand Seifnashri",
+        "Wucheng Zhang"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "url": "https://arxiv.org/abs/2610.22485",
+      "abstract": "We discuss the continuum two-dimensional conformal field theory, whose target space is a two-torus. In addition to its standard zero-form internal symmetries, the model also has a $-1$-form symmetry associated with its $\\theta$-parameter, which is also known as a background $B$-field. These symmetries combine into a higher group with anomalies. A spatially winding $B$-field generically breaks the spatial translation symmetry completely, and reduces the continuous target-space (internal) momentum symmetry to a (projectively realized) discrete subgroup. When $B$ varies linearly, a discrete translation subgroup survives, and it combines with the internal symmetry into a non-Abelian group, while the other translations survive as non-invertible symmetries. Even though the model lacks the standard spatial translation symmetry, the non-invertible translation symmetry explains why it is solvable via a Fourier decomposition. We then consider a lattice version of this system, using its modified Villain formulation. Surprisingly, all these subtleties in the symmetries of the continuum model exist on a finite lattice. Finally, we discuss various generalizations of this model, demonstrating that the phenomena we uncovered are more broadly valid.",
+      "score": 90,
+      "reason": "🧩 Seiberg らによる modified Villain 格子でのアノマリー付き高次群・非可逆対称性の解析。格子上で連続理論の対称性構造が厳密に再現される点が、スタッガード fermion の対称性・アノマリー研究に直結 🔍",
+      "summary": "📐 T²標的c=2 CFTで−1形式対称性(B場)と内部対称性が高次群をなしアノマリーを持つ。線形B場で並進が非可逆化し、有限格子でも同構造が成立 ✨"
+    }
+  ]
+}

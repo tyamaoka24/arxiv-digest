@@ -1,0 +1,22 @@
+{
+  "total_fetched": 309,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.26092",
+      "title": "Millicharged particles and the degree-3 Prouhet-Tarry-Escott problem",
+      "abstract": "We use geometry to solve a problem in arithmetic relevant for physics. Namely, for any $m$ we find all integer solutions to the equations $\\sum_{i=1}^m x_i^k = \\sum_{i=1}^m y_i^k$, where $k \\in \\{1,2,3\\}$; this seems to be new for $m \\geq 5$.\n  In physics, these are the anomaly cancellation conditions for models with $m$ fermions which can be naturally light and carry small electric charges (a.k.a. millicharged or minicharged particles). The small charges arise by kinetic mixing of the Standard Model $U(1)$ gauge symmetry with an unbroken non-chiral (a.k.a. vector-like) $U(1)$ and the masses are suppressed by a spontaneously-broken chiral $U(1)$.",
+      "authors": [
+        "Ben Gripaios"
+      ],
+      "categories": [
+        "hep-th",
+        "math.AG",
+        "math.NT"
+      ],
+      "url": "https://arxiv.org/abs/2610.26092",
+      "score": 87,
+      "reason": "🧮 3450模型でおなじみの線形・三次アノマリー相殺条件 Σx^k=Σy^k (k=1,2,3) の全整数解を任意フェルミオン数mで決定✨ カイラルゲージ理論の無矛盾な電荷割当の分類に直結し、3450/SU(6)模型研究の視点で面白い。",
+      "summary": "📐 幾何的手法で次数3のProuhet-Tarry-Escott問題を解き、m≥5で新しい完全解を与える。物理的にはベクトル的U(1)の運動混合で微小電荷、カイラルU(1)の破れで軽い質量を持つミリチャージ粒子模型。"
+    }
+  ]
+}

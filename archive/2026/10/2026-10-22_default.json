@@ -1,0 +1,23 @@
+{
+  "total_fetched": 249,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.27072",
+      "title": "Deconfinement on $\\mathbb{Z}_{F}$ and Axion Domain Walls",
+      "authors": [
+        "Paolo Bilisco",
+        "Raffaele Tito D'Agnolo",
+        "Arthur Platschorre",
+        "Pablo Sesma"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.27072",
+      "abstract": "We investigate the nontrivial dynamics on $\\mathbb{Z}_{F}$ domain walls and compute their tension in quantum chromodynamics (QCD) compactified on a circle with $N$ colors and $F < N$ massless fundamental flavors. In the process, we obtain insights on the $\\eta'$ meson's potential in a regime where it is heavy and comparable in mass to other QCD resonances, as in Nature. We employ a center-stabilized compactification of QCD on a small circle of size $L$ with color-flavor twisted boundary conditions for the quarks. We demonstrate that probe particles in color representations of $N$-ality $N/\\mathrm{gcd}(N,F)$ are deconfined on the $\\mathbb{Z}_{F}$ domain walls whenever $N$ and $F$ are not coprime. This is reminiscent of deconfinement on axion domain walls in pure Yang--Mills. Finally, in the double scaling limit $N\\rightarrow \\infty$ keeping $NL$ and $F$ fixed, the infrared spectrum spans an emergent dimension. We establish that the $\\mathbb{Z}_{F}$ domain walls are dual to electrostatic charge distributions in this emergent dimension. This duality allows us to compute their tension analytically and find a different tension scaling at large-$N$ between $\\mathbb{Z}_{F}$ domain walls in QCD and axion domain walls in pure Yang--Mills, in center-stabilized compactifications.",
+      "score": 87,
+      "reason": "🧱色フレーバー捻り境界条件の中心安定化QCDで Z_F ドメインウォール上の非閉じ込めを示す🔓 アノマリー・インフロー的視点が軸性対称性・η' の議論と直結し面白い✨",
+      "summary": "N色F<Nフレーバー QCD を小円上で解析。gcd(N,F)≠1 で N-ality N/gcd のプローブが壁上で非閉じ込め。大N二重スケーリングで創発次元の静電荷分布と双対、張力を解析計算📐"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "total_fetched": 167,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.31737",
+      "title": "Intertwining Defects and Fermion-Boundary Scattering from TQFT",
+      "authors": [
+        "Kantaro Ohmori",
+        "Masataka Watanabe",
+        "Pengcheng Wei",
+        "Yunqin Zheng"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el"
+      ],
+      "url": "https://arxiv.org/abs/2610.31737",
+      "abstract": "We construct conformal boundary conditions of free Dirac fermions that preserve chiral, anomaly-free symmetries, and determine the associated fermion-boundary scattering, using the TQFT/CFT framework. We apply the construction to several previously unresolved examples: higher-charge monopoles in non-chiral QED, a family of $SU(N)\\times SU(N+2)$-symmetric models, the chiral QED with charges $\\{1^5,3,(-2)^4\\}$, and the charge-three monopole of the Standard Model. In these examples, out-going states are created by defect operators at the end of non-invertible topological lines; when such a line is non-simple, the out-going state splits into superselection sectors, and we give a formula for the branching ratios in terms of TQFT data. We also propose a general construction that adds and then gaps neutral spectators, under a technical assumption, which is potentially applicable to the 1-5-7-8-9 model.",
+      "score": 91,
+      "reason": "🔥 カイラル・アノマリーフリー対称性を保つ境界条件の構成で、3450型カイラルゲージ理論や1-5-7-8-9模型の文脈と直結！⚛️ 対称性保存境界の格子実現を考える上でも示唆大🧩",
+      "summary": "TQFT/CFT 手法で自由 Dirac fermion の共形境界条件と fermion-境界散乱を決定。非可逆線の端点欠陥で出射状態を記述し、分岐比を TQFT データで与える📐"
+    },
+    {
+      "arxiv_id": "2610.31780",
+      "title": "Fermions Scattering Off Non-Abelian Rotors",
+      "authors": [
+        "George Koundouros",
+        "David Tong"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.31780",
+      "abstract": "We study the dynamics of $d=1+1$ chiral fermions interacting with a rotor impurity. The rotors are non-Abelian, taking values in either an $SU(N)$ group manifold, or an $SU(N)/SO(N)$ coset. At low energies, the fermions pass through the impurity, seemingly unimpeded, but trailing a topological line that is necessary for current conservation. In certain cases, these topological lines exhibit non-Abelian fusion and braiding. This can be viewed as a toy model that captures aspects of s-wave monopole-fermion scattering in $d=3+1$ dimensions.",
+      "score": 86,
+      "reason": "🌀 Tong らによる monopole-fermion 散乱のトイモデル。カイラル fermion と電流保存・トポロジカル線の関係は軸性荷・アノマリー整合の視点で面白い✨🔗",
+      "summary": "1+1次元カイラル fermion と SU(N) / SU(N)/SO(N) 値の非可換 rotor 不純物の相互作用を解析。低エネルギーで fermion はトポロジカル線を伴い透過し、非可換 fusion/braiding を示す📊"
+    }
+  ]
+}

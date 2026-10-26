@@ -1,0 +1,42 @@
+{
+  "total_fetched": 245,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.31653",
+      "title": "Onsager Algebras and Lattice Fermions",
+      "authors": [
+        "Ioanna Kourkoulou",
+        "David Tong"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2610.31653",
+      "abstract": "We study the exact Onsager algebra of free lattice fermions in staggered, Wilson, and overlap incarnations, working in both Hamiltonian and Euclidean formulations in four spacetime dimensions. In each case, we show that the exact lattice algebra emanates the full chiral symmetry of the low-energy theory: if there are $N$ massless Dirac fermions in the continuum, the Onsager algebra reduces to a $U(2N)$ chiral symmetry. The details of which generators are quantised or ultra-local differ between formulations. There is also a trade-off between the locality of generators and the maximum compact subgroup of the Onsager algebra.",
+      "score": 98,
+      "reason": "🔥 staggered・Wilson・overlap の4次元 Onsager 代数を Tong らが解析。保存非一重項荷・軸性荷の研究と直結する必読論文 🎯",
+      "summary": "⚛️ 自由格子フェルミオンの厳密 Onsager 代数が、低エネルギーの U(2N) カイラル対称性を生み出すことを示す。生成子の局所性と量子化の間のトレードオフを議論。"
+    },
+    {
+      "arxiv_id": "2610.31281",
+      "title": "Dyon Condensation at $θ=2π$ from Wilson-'t Hooft Loops in Yang-Mills Theory",
+      "authors": [
+        "Hiromasa Watanabe",
+        "Issaku Kanamori",
+        "Okuto Morikawa",
+        "Yuki Nagai",
+        "Yuya Tanizaki",
+        "Akio Tomiya"
+      ],
+      "categories": [
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2610.31281",
+      "abstract": "Although Yang--Mills theories at $\\theta$ and $\\theta+2\\pi$ are physically equivalent, their periodicity is realized nontrivially in the presence of a background field for the $1$-form center symmetry. The confining vacua at $\\theta=0$ and $2\\pi$ are therefore expected to have distinct symmetry-protected topological labels. We test this expectation in $SU(2)$ lattice Yang--Mills theory by measuring 't~Hooft and dyonic Wilson--'t~Hooft loops at $\\theta=2\\pi$. A $1$-form-covariant DBW2 flow makes the global reweighting factor numerically benign while retaining the physical non-integer topological charge in a defect ensemble. The dyonic loop exhibits a clear perimeter-law plateau on two lattice volumes. The direct 't~Hooft-loop signal is noise-limited but has the magnitude and distance dependence expected for an area law. Taken together with the Wilson--'t~Hooft classification, these results provide numerical evidence for the dyonic oblique-confinement pattern at $\\theta=2\\pi$. This talk is based on our recent paper (arXiv:2606.13428).",
+      "score": 87,
+      "reason": "🧲 θ=2π の YM 真空の SPT ラベルを格子で検証。1-form 対称性背景と 't Hooft アノマリーの数値的な実証として興味深い ✨",
+      "summary": "📊 SU(2) 格子 YM で 't Hooft ループと dyonic Wilson–'t Hooft ループを測定し、dyonic ループの周長則から θ=2π での斜め閉じ込めを支持。"
+    }
+  ]
+}

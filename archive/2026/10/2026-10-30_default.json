@@ -1,0 +1,40 @@
+{
+  "total_fetched": 249,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.36024",
+      "title": "The Art of Orbifolding by Huge Non-Abelian Groups",
+      "authors": [
+        "Jan Albert",
+        "Masaki Okada",
+        "Yuji Tachikawa"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.36024",
+      "abstract": "We compute torus partition functions of orbifolds of two-dimensional chiral fermions by huge non-Abelian groups involving the Conway group, one of the sporadic finite simple groups. This seemingly standard problem turns out to contain, somewhat unexpectedly, multiple major issues hitherto unresolved, both at the level of the principle and at the level of practice. We describe in detail how they can be overcome.\nAlthough the methods described in this paper are generally applicable, the choice of the particular orbifolds we consider in this paper was motivated by the search for the periodicity element of topological modular forms. We will provide a brief introduction to this question, to explain why all the techniques in this paper had to be developed. Unfortunately, the orbifolds we considered turned out not to be the periodicity element.",
+      "score": 86,
+      "reason": "🌀 Tachikawaらによる巨大非可換群での2次元カイラルフェルミオンのオービフォールド。アノマリーや離散トーションの扱いに未解決の原理的問題があり、その解決法は格子アノマリー研究にも示唆的 ✨",
+      "summary": "📐 Conway群を含む群によるオービフォールドのトーラス分配関数を計算。TMFの周期性元探索が動機で、技術的困難を克服する手法を詳述。"
+    },
+    {
+      "arxiv_id": "2610.36528",
+      "title": "Measurement-induced entanglement phases in hyperbolic gauge-Higgs models",
+      "authors": [
+        "Cole Kelson-Packer",
+        "Hiroki Sukeno",
+        "Akimasa Miyake"
+      ],
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2610.36528",
+      "abstract": "Gauge-Higgs theory in flat spacetime provides a prime theoretical model of multiple phases of matter with distinct entanglement structures. More recently, there has been interest in hyperbolic space and the influence its extensive boundaries have on these structures. Entanglement transitions between non-equilibrium phases, such as topological phases, can be realized by the competition of non-commutating measurements. Here we study the entanglement phases of gauge-Higgs models on hyperbolic lattices described by measurement-only dynamics. We chart 2D phase diagrams by employing topological entanglement entropy and introducing a generalized measurement-induced entanglement tailored for hyperbolic Higgs phases. Utilizing duality, we find a phase absent in Euclidean space, wherein the bulk lattice hosts separated clusters of symmetry-protected topological order. Transitions between this \"archipelago\" phase and neighboring topological and trivial phases feature a critical exponent $\\delta$ belonging to a mean-field universality class. Our essential tool is a 3D resource state inspired by measurement-based quantum computation that simulates the spacetime evolution of the 2D quantum state with a third direction of entanglement. This allows us to analyze spacetime \"sponges\" of entanglement, which map to classical percolation theory and allow us to infer values of critical points on our phase diagrams' boundaries.",
+      "score": 85,
+      "reason": "🧩 双曲格子上のgauge-Higgs模型で、平坦空間にない「SPT秩序のクラスター」相を発見。格子上の対称性保護相と境界の役割を考えるうえで興味深い 🔍",
+      "summary": "📊 非可換測定のみのダイナミクスで位相的エンタングルメントエントロピー等を用い2D相図を作成。双対性で新相を同定。"
+    }
+  ]
+}

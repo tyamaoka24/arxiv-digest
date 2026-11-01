@@ -1,0 +1,57 @@
+{
+  "total_fetched": 454,
+  "scored_papers": [
+    {
+      "arxiv_id": "2610.37745",
+      "title": "Defining 2-group symmetries on lattices and extracting their anomalies",
+      "authors": [
+        "Yitao Feng",
+        "Yu-An Chen"
+      ],
+      "categories": [
+        "quant-ph",
+        "math-ph",
+        "math.QA"
+      ],
+      "url": "https://arxiv.org/abs/2610.37745",
+      "abstract": "Ordinary $0$-form symmetries $G$ can mix with $1$-form symmetries $\\Pi_2$ to form a $2$-group $\\mathcal{G}$. We give a concrete lattice definition for a class of finite $2$-group symmetries in terms of local relations among symmetry operators. These relations identify the Postnikov class $[\\rho]\\in H^3(BG,\\Pi_2)$ that characterizes the mixing. We develop a method to extract anomalies of these symmetries in one spatial dimension by restricting symmetry operations to an interval and comparing their composition near its endpoints. We also construct explicit qubit symmetry actions in $d=1,2,3$ spatial dimensions for a $2$-group with $G=\\Pi_2=\\mathbb{Z}_2$. These actions share the same nontrivial Postnikov class but include both anomaly-free and anomalous realizations. Their cohomological anomalies are classified by $H^{d+2}(B\\mathcal G,U(1))$, which is $\\mathbb{Z}_2$ for $d=1,2$ and $\\mathbb{Z}_2\\times\\mathbb{Z}_2$ for $d=3$, and our constructions realize every class in these dimensions. Our results connect higher-group symmetry and its anomalies to concrete lattice operations, providing a microscopic framework for studying anomalous symmetries.",
+      "score": 91,
+      "reason": "🧩 格子上で2-群対称性を局所的関係式で定義し、区間制限からアノマリーを抽出 🔍 格子アノマリーの微視的理解に直結し、スタッガード系の対称性解析にも応用できそう ⚛️",
+      "summary": "Postnikov類を対称性演算子の関係で同定。区間端での合成比較で1次元のアノマリーを抽出し、d=1,2,3でZ2×Z2 2-群のqubit実現を構成、H^{d+2}の全クラスを実現 📐"
+    },
+    {
+      "arxiv_id": "2610.38907",
+      "title": "Generalized Symmetries of QED$_4$ on Non-Spin Manifolds",
+      "authors": [
+        "Michele Del Zotto",
+        "Vivek Saxena"
+      ],
+      "categories": [
+        "hep-th",
+        "math-ph"
+      ],
+      "url": "https://arxiv.org/abs/2610.38907",
+      "abstract": "Generalized symmetries are sensitive to the tangential structure of spacetime. We study this interplay for massless QED on oriented non-spin four-manifolds, where the photon becomes a spin$^c$ connection and the path integral sums over spin$^c$ structures. The shifted flux quantization extends the magnetic 1-form symmetry into a $w_2$-twisted 1-form symmetry: its $2\\pi$ rotation acts as a gravitational sign, fixed by the normal bundle of the surface the operator wraps. The obstruction to treating it as an ordinary magnetic 1-form symmetry is an order-two mixed magnetic-gravitational anomaly, which is classified by reduced oriented bordism and detected on the Wu manifold. In a fixed spin$^c$ sector, this anomaly is removable by a counterterm, so it is a property of the sum over spin$^c$ structures. We discuss its consequences for gapped, Coulomb, and Higgs phases. The chiral anomaly is governed by the index of the spin$^c$ Dirac operator, so rational chiral defects carry gravitational as well as electromagnetic responses. A spin$^c$ Hall topological field theory cancels the electromagnetic part but leaves a framing anomaly. At the level of anomaly inflow, this is canceled for every rational angle by stacking a neutral, generally noninvertible Witten-Reshetikhin-Turaev layer. The same framing subtlety affects the chiral defects of QED on curved spin manifolds. The complex projective plane illustrates each of these features explicitly.",
+      "score": 87,
+      "reason": "🌀 非スピン多様体上のQED4で、磁気1-形式対称性と重力の混合アノマリーを解析 ⚡ カイラルアノマリーと一般化対称性・'t Hooftアノマリーの関係が明快 🧭",
+      "summary": "spin^c構造の和により磁気1-形式対称性がw2ツイスト化し、Z2の混合磁気-重力アノマリーが生じる。Wu多様体で検出され、有理カイラル欠陥の重力応答も議論 📏"
+    },
+    {
+      "arxiv_id": "2610.38618",
+      "title": "Two-loop BRST-restoring finite counter-terms for chiral non-abelian gauge theories",
+      "authors": [
+        "Achilleas Lazopoulos",
+        "Vera Paroutiadou"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2610.38618",
+      "abstract": "We study the renormalization of anomaly-free chiral $SU(N)$ gauge theories without scalar fields through two-loop order. We adopt the Breitenlohner--Maison--'t Hooft--Veltman (BMHV) scheme for the treatment of $\\gamma_5$ in dimensional regularization. This prescription induces spurious breaking of BRST symmetry, requiring finite symmetry-restoring counter-terms in addition to the subtraction of ultraviolet divergences. We derive these counter-terms for a general, possibly reducible fermion representation, thus restoring the BRST symmetry, through two loops.",
+      "score": 85,
+      "reason": "🔗 アノマリーフリーなカイラルSU(N)ゲージ理論の2ループ繰り込み 🛠️ カイラルゲージ理論の正則化問題を連続側から扱い、格子定式化との比較視点として有用 🎯",
+      "summary": "BMHVスキームでγ5を扱うとBRST対称性が見かけ上破れる。一般の可約フェルミオン表現に対し、BRST回復のための有限counter-termを2ループまで導出 🧮"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "total_fetched": 366,
+  "scored_papers": [
+    {
+      "arxiv_id": "2611.03164",
+      "title": "Enforced Gaplessness by Combining Non-Anomalous Symmetries",
+      "authors": [
+        "Takamasa Ando",
+        "Kantaro Ohmori"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2611.03164",
+      "abstract": "Symmetry-enforced gaplessness is a phenomenon in which a quantum system is forced to be gapless due to its global symmetry. Previous works have mainly focused on anomalous symmetries. Another approach, using symmetry spans, which specify two embeddings of a common symmetry into two larger symmetries, was proposed by the authors. In this work, we show that a symmetry span can enforce gaplessness even when both larger symmetries are invertible and non-anomalous: each alone admits a trivially gapped phase, but because the embeddings differ by a twist associated with a symmetry-protected topological phase, the symmetry they generate admits no gapped phase with finitely many ground states. We present such a span of a finite group and $\\mathrm{U}(1)^2$ in 1+1 dimensions, with continuum realizations and a lattice Hamiltonian, with a finite-dimensional local Hilbert space and finitely many parameters, that is gapless in any region of its parameter space. We also discuss a 2+1-dimensional example and spans of only finite symmetries.",
+      "score": 88,
+      "reason": "🔥 アノマリーが無くても gapless が強制される新機構！🧩 非アノマラスな対称性の組み合わせで gapped 相を禁じる発想は、アノマリー整合の議論を広げます。",
+      "summary": "🔬 SPT 分のねじれを持つ対称性スパンを、有限群と U(1)^2 で1+1次元に構成。有限次元局所ヒルベルト空間の格子模型で全パラメータ領域 gapless を示す。"
+    },
+    {
+      "arxiv_id": "2611.03538",
+      "title": "An Intrinsically Gapless Topological Phase with Dipole Symmetry",
+      "authors": [
+        "Amogh Anakru",
+        "Linhao Li",
+        "Zhen Bi"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "cond-mat.quant-gas"
+      ],
+      "url": "https://arxiv.org/abs/2611.03538",
+      "abstract": "We show that the boundary fractionalization familiar from gapped topological insulators can enforce bulk gaplessness in a dipole-conserving system. In a one-dimensional fermion model with charge conservation, dipole conservation, and particle-hole symmetry, we realize an intrinsically gapless symmetry-protected topological (igSPT) phase combining a dipolar Luttinger liquid with half-quantized boundary charges. This boundary structure obstructs a unique gapped bulk preserving these symmetries and lattice translation. Remarkably, the two charge-neutral edge configurations remain exactly degenerate even at finite size due to dipole conservation and particle-hole symmetry. The boundary fractionalization also manifests as shifted conformal towers in the dipole-resolved entanglement spectrum, reflecting distinct conformal boundary conditions of the Luttinger liquid. We support our analysis of the igSPT by studying exactly-solvable limits and performing DMRG computations, establishing its stability for a wide range of tuning parameters.",
+      "score": 85,
+      "reason": "🌟 境界の電荷分数化がバルクの gapless を強制！🧲 SPT と境界モードの関係を、格子フェルミオン模型で具体的に追える好例です。",
+      "summary": "📐 電荷・双極子保存と粒子正孔対称性を持つ1次元模型で、双極子 Luttinger 液体と半整数境界電荷を伴う igSPT 相を実現。厳密可解極限と DMRG で安定性を確認。"
+    }
+  ]
+}

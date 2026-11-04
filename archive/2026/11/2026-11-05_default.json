@@ -1,0 +1,40 @@
+{
+  "total_fetched": 237,
+  "scored_papers": [
+    {
+      "arxiv_id": "2611.05051",
+      "title": "A Note On Lattice Definition of Gauge Theories With Chiral Fermions",
+      "authors": [
+        "Edward Witten"
+      ],
+      "categories": [
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2611.05051",
+      "abstract": "Because of the fermion doubling problem, it has been a longstanding challenge to describe a lattice algorithm for studying four-dimensional gauge theories coupled to chiral fermions. Recently, an algorithm to do so has been described by Craig, extending partial results in the previous literature. Here we describe a variant of this algorithm, based on interpolating a lattice gauge field over the continuum (as in Craig's work) and coupling the interpolated gauge field to continuum chiral fermions. The same variant was also proposed recently by Hsu. In any dimension and for any anomaly-free representation, this approach can be implemented on a computer in principle, but not in practice by Monte Carlo methods because the chiral fermion path integral is not positive.",
+      "score": 96,
+      "reason": "🔥 Witten が格子カイラルゲージ理論に参戦！🧭 倍増問題の長年の壁に挑む Craig の新手法の変種で、3450模型等の研究に直結する必読の一本です。",
+      "summary": "🔬 格子ゲージ場を連続時空へ補間し連続のカイラルフェルミオンと結合。任意次元・アノマリーフリー表現で原理的に実装可能だが、経路積分が非正値で MC は不可。"
+    },
+    {
+      "arxiv_id": "2611.05329",
+      "title": "An Exact QFT/Lattice Map for Fermions",
+      "authors": [
+        "Shu-Heng Shao",
+        "Nikita Sopenko"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "hep-lat",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2611.05329",
+      "abstract": "We construct an exact map between continuum fermion fields and lattice fields in 1+1 dimensions. This map rewrites a continuum Hamiltonian as a lattice Hamiltonian with nearest-neighbor couplings and an infinite-dimensional local Hilbert space. The resulting lattice model reproduces exactly the energy spectrum, global operator algebra, chiral symmetries, and anomalies of the continuum QFT on any finite lattice. Unlike domain wall fermions, truncating the local Hilbert space introduces no extra massless modes, and the entanglement entropy of an interval converges as the truncation is removed. The lattice local algebras are of type I and lie between the type III continuum algebras of nested spatial regions, in accordance with the split property. We demonstrate this construction explicitly for $N$ Majorana fermions, realizing the $\\mathrm{O}(N)_\\mathrm{L}\\times\\mathrm{O}(N)_\\mathrm{R}$ lattice chiral symmetry. We also construct an exact lattice model for the Schwinger model and numerically reproduce the mass gap $e/\\sqrt{\\pi}$.",
+      "score": 93,
+      "reason": "🌟 連続 QFT のカイラル対称性とアノマリーを有限格子で厳密再現！🧩 domain wall と異なり切断で余分な質量ゼロモードが出ない点が新しいです。",
+      "summary": "📐 1+1次元で連続フェルミオン場と格子場の厳密写像を構成。無限次元局所ヒルベルト空間の最近接模型で N Majorana の O(N)×O(N) を実現、Schwinger 質量 e/√π も再現。"
+    }
+  ]
+}

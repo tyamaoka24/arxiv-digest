@@ -1,0 +1,73 @@
+{
+  "total_fetched": 218,
+  "scored_papers": [
+    {
+      "arxiv_id": "2611.06880",
+      "title": "Simulating a chiral gauge theory",
+      "authors": [
+        "Laurens Lootens",
+        "Hersh Singh"
+      ],
+      "categories": [
+        "hep-lat",
+        "cond-mat.str-el",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2611.06880",
+      "abstract": "Chiral gauge theories underlie the Standard Model, yet none has been simulated nonperturbatively. Lattice constructions that evade the Nielsen-Ninomiya obstruction entail complex fermion measures or infinite-dimensional local Hilbert spaces. Here we provide a gauge-invariant Hamiltonian lattice regularization of 1+1-dimensional abelian chiral gauge theories built from clock-and-shift qudits with $\\mathbb{Z}_N$ gauge fields, in which the global chiral symmetry and its 't Hooft anomaly survive exactly mod $N$. Anomaly cancellation on the lattice lets the Gauss laws be imposed and solved exactly, reducing the theory to an unconstrained qudit chain. Using infinite matrix product states, we simulate the canonical 1+1-dimensional chiral gauge theory, the 34-50 model, and find excellent agreement with analytic predictions, showing that a finite-dimensional local Hilbert space at $N=6$ reproduces the expected infrared physics of the continuum 34-50 model. This provides an efficient and practical solution to the problem of simulating general abelian chiral gauge theories in 1+1 dimensions, both on classical and quantum computers.",
+      "score": 97,
+      "reason": "🔥 3450模型を格子ハミルトニアンで実際にシミュレート！🧭 't Hooft アノマリーが mod N で厳密に残る構成で、3450模型・軸性荷の研究に直結する必読論文です。",
+      "summary": "🔬 Z_N ゲージ場とクロック・シフト qudit で1+1次元アーベルカイラルゲージ理論を正則化。Gauss則を厳密に解き qudit 鎖へ還元、iMPS により N=6 で連続理論の赤外物理を再現。"
+    },
+    {
+      "arxiv_id": "2611.05395",
+      "title": "Exact chiral symmetry, non-Hermiticity, and the axial anomaly on the lattice: A symmetry-class criterion for disorder-induced undoubling",
+      "authors": [
+        "Laurence A. Jacobs"
+      ],
+      "categories": [
+        "hep-lat",
+        "cond-mat.other"
+      ],
+      "url": "https://arxiv.org/abs/2611.05395",
+      "abstract": "A lattice Dirac operator designed to preserve exact chiral symmetry by weighting the derivative with a quenched random field---the \\emph{chiral disordered fermions} (\\CDF) of [L.\\ Jacobs, Phys.\\ Rev.\\ Lett.\\ \\textbf{51}, 172 (1983)]---is reexamined with modern tools. We show that the disorder-averaged operator satisfies $\\anticomm{\\Deff}{\\gfive}=0$ exactly, to all orders in disorder strength. Disorder lifts the doubler degeneracy, driving doublers off the real axis into a complex mass while the physical mode remains protected, but does so through non-Hermiticity rather than a Ginsparg--Wilson relation. Consequently the axial index vanishes in every formulation: the Hermitian trace $\\Tr(\\gfive D)$, the bi-orthogonal index for non-Hermitian operators, and the algebraic Riesz-projector index, including at exceptional points. The \\CDF operator therefore cannot reproduce the axial anomaly: its failure is enforced by the exact chiral symmetry it preserves. We classify neighboring constructions by the Dirac channel carrying the lattice structure. Disorder in the $\\g_\\mu$ channel preserves chirality, realizes an Altland--Zirnbauer chiral class, and cannot carry an index; disorder in the $\\mathbb{1}$ mass channel breaks chiral symmetry and yields Callan--Harvey/domain-wall physics. A one-parameter family interpolates between them, with the 1983 operator and Kaplan's domain wall as opposite limits, distinguished not by disorder itself but by the channel it occupies. This unifies lattice-QCD undoubling with the tenfold-way classification of disordered Dirac fermions and settles the disorder route to chiral lattice fermions.",
+      "score": 91,
+      "reason": "⚛️ 厳密なカイラル対称性を保つ乱れ格子 Dirac 演算子はなぜアノマリーを再現できないのか。🧩 軸性荷・倍増問題の理解に効く、対称性クラスによる明快な判定基準です。",
+      "summary": "📐 乱れ平均演算子は γ5 と厳密に反可換で、ダブラーは非エルミート性で分離。軸性指数はどの定式化でも消える。γμ/質量チャネルの分類で Kaplan のドメインウォールと補間。"
+    },
+    {
+      "arxiv_id": "2611.05663",
+      "title": "Chiral edge modes from lattice Chern-Simons theory",
+      "authors": [
+        "Gordon W. Semenoff"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "math-ph",
+        "math.MP"
+      ],
+      "url": "https://arxiv.org/abs/2611.05663",
+      "abstract": "It is shown that a level $k$ Abelian lattice Chern-Simons theory with continuum time and a spatial square lattice, which is a topological field theory on the latticized plane and torus, when quantized on a spatial cylinder reduces to chiral edge excitations, exactly localized on the two boundaries and carrying two commuting lattice versions of the level-$k$ $U(1)$ Kac-Moody algebra of opposite chirality. The algebras are represented on a Fock space in the noncompact theory and by a finite Weyl algebra in the compact one. We also observe that the theory has a natural framing of Wilson loops which exhibits the correct framing anomaly.",
+      "score": 89,
+      "reason": "🌊 格子 Chern-Simons 理論から境界のカイラルモードが厳密に現れる！🧭 Semenoff による、格子上のエッジモードとアノマリーの関係を考える上で示唆に富む構成です。",
+      "summary": "🔬 連続時間・正方格子の level k アーベル CS 理論を円筒上で量子化し、両端に局在した逆カイラルの格子 U(1) Kac-Moody 代数を導出。Wilson ループのフレーミングアノマリーも再現。"
+    },
+    {
+      "arxiv_id": "2611.06058",
+      "title": "On phases of 4d $Spin/SO$ Yang-Mills theories",
+      "authors": [
+        "Ryo Hamachika",
+        "Takahiro Nishinaka"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2611.06058",
+      "abstract": "We study the low-temperature phase diagrams of $Spin(N)/SO(N)_\\pm$ Yang-Mills theories as functions of the $\\theta$-parameter. In particular, for every even integer $N\\geq 4$, we find a phase diagram consistent with the center/CP mixed anomaly, via the technique of mixed gauge theory. The resulting phase diagrams are in perfect agreement with the phase diagrams of $Spin(N)/SO(N)_\\pm$ super Yang-Mills theory softly broken by a small gaugino mass. In the case of $Spin(4k)$ Yang-Mills for an integer $k\\geq 2$, only two phases appear in the phase diagram, while in the $Spin(4)$ case the phase diagram contains four SPT phases protected by the $\\mathbb{Z}_2\\times \\mathbb{Z}_2$ center symmetry. In the case of $Spin(4k+2)$ Yang-Mills for a positive integer $k$, the phase diagram contains four SPT phases protected by the $\\mathbb{Z}_4$ center symmetry.",
+      "score": 86,
+      "reason": "🧲 中心対称性と CP の混合アノマリーで 4d Spin/SO ヤン・ミルズの相図を決定。🧭 アノマリー整合と SPT 相の結びつきを学べる、連続理論側の好例です。",
+      "summary": "📊 混合ゲージ理論の手法で偶数 N≥4 の θ 依存相図を導出し、ゲージーノ質量で弱く破った SYM と一致。Spin(4) と Spin(4k+2) では中心対称性に保護された4つの SPT 相が現れる。"
+    }
+  ]
+}

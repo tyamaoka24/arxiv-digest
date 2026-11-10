@@ -1,0 +1,21 @@
+{
+  "total_fetched": 198,
+  "scored_papers": [
+    {
+      "arxiv_id": "2611.08934",
+      "title": "AdS${}_3$/BCFT${}_2$ correspondence and 't Hooft anomaly of U(1) symmetry",
+      "authors": [
+        "Hikaru Toya",
+        "Satoshi Yamaguchi"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2611.08934",
+      "abstract": "We investigate how a U(1) 't Hooft anomaly obstructs symmetry-preserving boundary conditions from the perspective of the AdS${}_3$/BCFT${}_2$ correspondence. By considering a U(1) Maxwell--Chern--Simons system in the bulk spacetime, we show that the BCFT current is not conserved at the boundary. We also derive the general solution for the gauge field in AdS${}_2$ slicing.",
+      "score": 86,
+      "reason": "🧭 U(1)の't Hooftアノマリーが対称性を保つ境界条件を禁止する機構を、ホログラフィーで具体的に見せる研究。格子上の境界モードやアノマリー整合の議論と直結する視点 ✨",
+      "summary": "📐 バルクにU(1) Maxwell–Chern–Simons系を置くAdS3/BCFT2対応で、BCFT電流が境界で保存しないことを示し、AdS2スライスでのゲージ場の一般解も導出 🔍"
+    }
+  ]
+}

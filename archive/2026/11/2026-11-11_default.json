@@ -1,0 +1,37 @@
+{
+  "total_fetched": 331,
+  "scored_papers": [
+    {
+      "arxiv_id": "2611.11731",
+      "title": "The tertiary invariant and discrete Green-Schwarz couplings in heterotic string theory",
+      "abstract": "The tertiary invariant is a recently introduced pairing between two-dimensional $\\mathcal{N}=(0,1)$ supersymmetric quantum field theories, motivated by topological modular forms. We evaluate it directly from its definition for the sigma models on $\\mathrm{Sp}(2)$ and $\\mathrm{SU}(3)$ with unit $H$-flux, paired with the internal theories of the non-supersymmetric $\\mathfrak{so}(16)\\oplus\\mathfrak{so}(16)$ heterotic string and of the near-horizon region of the non-supersymmetric heterotic 6-brane, respectively. Regarding the target spaces as $S^3$ bundles over spheres, we fill in every fiber with a four-disk carrying a gauge instanton and reduce the invariant to the index of a Dirac operator on the base. We find nonzero values of order three and two, which determine the Green-Schwarz couplings of the two theories on $\\mathrm{Sp}(2)$ and $\\mathrm{SU}(3)$, respectively. The former, a $\\mathbb{Z}_{3}$-valued discrete topological term of the $\\mathfrak{so}(16)\\oplus\\mathfrak{so}(16)$ theory, was previously studied through anomaly inflow to NS5-branes. Our computation, which uses only the worldsheet theories, agrees exactly with that result and thus confirms the anomaly inflow.",
+      "authors": [
+        "Hiroki Wada",
+        "Kazuya Yonekura"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2611.11731",
+      "score": 90,
+      "reason": "🤝 共同研究者 Wada 氏の新論文！🧮 2d (0,1) 理論の tertiary invariant から離散 Green-Schwarz 項を決定し、anomaly inflow をワールドシート側だけで確認 🔍",
+      "summary": "Sp(2)/SU(3) σ模型を S^3 束とみなし fiber を instanton 付き4円板で埋め、不変量を底空間の Dirac 指数へ帰着。Z3・Z2 値を得る 📐"
+    },
+    {
+      "arxiv_id": "2611.12142",
+      "title": "Renormalized symmetry probes for emergent symmetries and non-chiral lattice fermions",
+      "abstract": "The degeneracy of hadron correlators in symmetry-related channels signals symmetry restoration in high-temperature QCD. RG-invariant probes of this degeneracy need care when the regularization breaks chiral symmetry, or when the symmetry is not exact in the massless action, as for the emergent chiral-spin symmetry $SU(2)_{CS}$. We renormalize the thermal and screening meson correlators of every flavor sector by the thermal correlator of the same channel in the $\\bar ud$ sector at a common reference point. The symmetry ratio $\\kappa_{AB}$ then depends on the renormalization only through the ratio $R_{AB}$. For exact symmetries, $R_{AB}=1$ and $\\kappa_{AB}$ is RG invariant and scheme independent in mass-independent schemes. For emergent symmetries, $R_{AB}\\neq1$ carries the relative logarithmic cutoff dependence of the two channels, which cancels in $\\kappa_{AB}$, and the residual dependence on the reference scale is physical. The framework applies to Wilson, twisted-mass and staggered fermions, where $R_{AB}$ absorbs the channel-dependent renormalization, and the tensor pair $(T_k,X_k)$ keeps $R_{T_kX_k}=1$ on isotropic Wilson-type lattices. Lattice artifacts are a small correction to the chiral-spin probes $\\kappa_{CS}$ and $\\kappa_{fade}$, but as large as the signal of the exact-symmetry probes. For free quarks, we derive $\\kappa_{fade}=2/3$ for every mass and separation, and $\\kappa_{CS}\\le1/3$. We apply the renormalized probes to $N_f=2+1+1$ QCD with optimal domain-wall quarks at the physical point, with $a=0.064$ fm and $T=192$-$1539$ MeV. The hierarchical restoration of the chiral symmetries from the light to the charm sectors is confirmed, and is invariant under renormalization. The $\\bar uc$ and $\\bar sc$ sectors have the widest chiral-spin windows, also at a tighter threshold. Thus spin-1 mesons with one charm quark are the most attractive channels for the chiral-spin regime.",
+      "authors": [
+        "Ting-Wai Chiu"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2611.12142",
+      "score": 85,
+      "reason": "🧪 非カイラル格子 fermion（Wilson・staggered）でカイラル対称性回復を RG 不変に測る枠組み ⚛️ 格子上の対称性の扱いとして参考に 🔬",
+      "summary": "同一チャネルの ūd 熱相関関数で規格化した比 κ_AB を導入。厳密対称性で scheme 非依存、創発的 SU(2)_CS にも適用。Nf=2+1+1 DW 格子で検証 📊"
+    }
+  ]
+}

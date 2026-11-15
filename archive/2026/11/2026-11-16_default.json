@@ -1,0 +1,124 @@
+{
+  "total_fetched": 485,
+  "scored_papers": [
+    {
+      "arxiv_id": "2611.16876",
+      "title": "Numerical tests of chiral fermion weights with $η$-invariant phases in the 3450 model",
+      "authors": [
+        "Tatsuhiro Misumi"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2611.16876",
+      "abstract": "We test numerically a recently proposed prescription for coupling continuum chiral fermions to interpolated lattice gauge fields, in which the fermion weight has a Pauli-Villars (PV) regularized magnitude and a phase given by an Atiyah-Patodi-Singer (APS) $\\eta$-invariant in one higher dimension. We use the anomaly-free two-dimensional $U(1)$ theory with left-handed charges $3,4$ and right-handed charges $5,0$, whose torus determinant is known exactly. At zero magnetic flux, with gauge fields interpolated from lattice links, the Polyakov loops evaluated on a $16\\times16$ grid of flat connections agree with the exact values within $0.04\\%$, whereas omitting the APS phase substantially reduces them to about $3\\%$ of the exact result. The vacuum-polarization response yields an induced mass $m/e=2.82089$, close to $5/\\sqrt{\\pi}=2.82095$. At unit flux, where zero modes make the determinant vanish, we calculate a twelve-point correlator on a cylinder with the generalized APS boundary condition. For three smooth backgrounds its magnitude agrees with the exact result within $0.8\\%$. Without the $\\eta$-invariant its phase deviates by $1.8$-$3.0$ mrad, and with it by $0.2$-$0.5$ mrad. The phase of each charged fermion changes by $15$-$46$ mrad when the gauge field is extended differently into the third dimension, but the change cancels to below $0.2$ mrad in the anomaly-free combination.",
+      "score": 98,
+      "reason": "🔥共同研究者三角さんの3450模型論文！APS η不変量位相による格子ゲージ場上のカイラルフェルミオン重みを数値検証。3450模型研究に直結⚛️",
+      "summary": "2次元U(1) 3450模型でPV正則化絶対値+APS位相の処方を検証。Polyakovループが厳密値と0.04%で一致、位相なしだと約3%に激減📊"
+    },
+    {
+      "arxiv_id": "2611.16544",
+      "title": "Matching lattice and continuum chiral determinants at finite volume",
+      "authors": [
+        "Zhengwen Liu"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-lat",
+        "hep-ph"
+      ],
+      "url": "https://arxiv.org/abs/2611.16544",
+      "abstract": "Recent formulations of lattice chiral gauge theories define a complex fermion weight either through Craig's gauge-invariant overlap measure or, following Hsu and Witten, through a continuum Weyl determinant on a reconstructed gauge connection, with its phase fixed by the five-dimensional $\\eta$-invariant. For one $SU(5)$ generation on a flat four-torus, we prove that their relative weights agree in the continuum limit along smooth gapped paths, after fixing a normalization and subtracting a local Yang-Mills counterterm, whose coefficient we determine. On bounded smooth families a uniform Dirac gap suffices: the vacuum expansion need not converge. We obtain explicit uniform convergence rates for the logarithmic variations and, for Craig's interpolation, prove the reconstruction bounds that the matching requires, extending Hsu's small-field comparison to finite amplitude. For Hsu's reflection-positive reconstruction with flat collars, the phase variations still match, while the logarithmic coefficient of the quadratic counterterm is enhanced by a calculable, profile-dependent factor. In a hypercharge background on which the vacuum expansion diverges, numerical comparisons at the input gauge field support quadratic convergence of the phase, whereas the modulus acquires a logarithmic correction to quadratic scaling, whose coefficient follows analytically from the free overlap vacuum polarization.",
+      "score": 92,
+      "reason": "🧮格子カイラルゲージ理論の重み定義(Craig重なり測度 vs Hsu-Witten η不変量)の等価性を証明。カイラル格子理論の基礎として重要✨",
+      "summary": "SU(5)一世代・平坦4トーラスで両定式化の相対重みが連続極限で一致することを証明。局所YM counterterm係数と収束率も決定📐"
+    },
+    {
+      "arxiv_id": "2611.16658",
+      "title": "Automatic O(a) Improvement for Wilson Twisted Mass Fermions in the Hamiltonian Formulation",
+      "authors": [
+        "Carsten Urbach"
+      ],
+      "categories": [
+        "hep-lat",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2611.16658",
+      "abstract": "We apply the recently developed Symanzik effective Hamiltonian framework to Wilson twisted mass fermions. The effective Hamiltonian is constructed solely based on the symmetries of the lattice Hamiltonian without recourse to the Symanzik effective action in Euclidean space-time. We use it to prove automatic $O(a)$ improvement at maximal twist, as well as $O(a)$ improvement via so-called mass and Wilson average. Moreover, we derive the structure of $O(a)$ counterterms pre-requisite for clover on-shell improvement of Wilson fermions. We show how to remove on-shell redundant contributions using canonical transformations, and find that the well known clover term in isotropic Euclidean space time splits into two terms with independent coefficients.",
+      "score": 88,
+      "reason": "⚙️Hamiltonian形式でのWilson twisted massフェルミオンのO(a)改良。Hamiltonian格子フェルミオン研究と近く参考になる🔬",
+      "summary": "Symanzik有効Hamiltonianを格子Hamiltonianの対称性のみから構成し、最大twistでの自動O(a)改良を証明。clover項が2独立項に分裂📝"
+    },
+    {
+      "arxiv_id": "2611.16696",
+      "title": "Discrete anomaly inflow from SymTFT of $U(1)$ global symmetry: the modified Villain resolution",
+      "authors": [
+        "Napat Poovuttikul",
+        "K. Sapmee"
+      ],
+      "categories": [
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2611.16696",
+      "abstract": "We construct a lattice SymTFT for a $U(1)$ global symmetry with anomaly coefficient $k$ using the modified Villain formulation, in which the spin structure required for odd $k$ is realised explicitly by lattice Majorana fermions. We demonstrate that the same Majorana fermions sit at the junctions of the symmetry lines, exactly where the fusion of two $U(1)$ elements wraps around the circle. From the lattice algebra of lines and junctions we derive the $R$- and $F$-symbols in the bulk and on the gapped boundary, and show that for odd $k$ the boundary $F$-symbol obeys the Gu-Wen relation for the $U(1)$ symmetry defect, without passing through a bosonic shadow. Restricting to $\\mathbb{Z}_2\\subset U(1)$, we reproduce the mod-4 anomalous phase from a mapping torus and the fermionic stacking rule. As a simple application of this SymTFT, we also determine which subgroups $\\mathbb{Z}_d\\subset U(1)$ can be gauged and the symmetry of the resulting theories. This is a first step towards deriving, from the anomaly inflow of a continuous symmetry, the junction data of global anomalies beyond group cohomology.",
+      "score": 87,
+      "reason": "🧩modified Villain格子でU(1)アノマリーのSymTFTを構成。格子上の連続対称性アノマリー流入を具体的に扱う点が魅力🌀",
+      "summary": "奇数kのスピン構造を格子Majoranaで実現し、線の接合部のR・F記号を導出。Z2⊂U(1)でmod-4位相を再現、ゲージ可能な部分群も決定🔗"
+    },
+    {
+      "arxiv_id": "2611.15857",
+      "title": "Crystalline Equivalence Principle for Anomalies",
+      "authors": [
+        "Ching-Yu Yao",
+        "Ryohei Kobayashi"
+      ],
+      "categories": [
+        "hep-th",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2611.15857",
+      "abstract": "We develop a microscopic characterization of crystalline symmetry anomalies in bosonic lattice systems in (1+1) and (2+1) dimensions with a combination of crystalline and finite unitary internal symmetry. We construct anomaly indices of symmetry operators and derive their cocycle conditions and coboundary ambiguities. For generalized crystalline symmetries combining permutations of onsite Hilbert spaces with quantum cellular automata, anomaly indices take values in $H^3(B\\widetilde \\Gamma,U(1)_r)$ and $H^4(B\\widetilde \\Gamma,U(1)_r)$ respectively, where $\\widetilde \\Gamma$ is the total group of crystalline and internal symmetries, and the coefficient twist $r$ accounts for spatial orientation reversal. When crystalline symmetries act solely by permuting onsite Hilbert spaces, the anomaly classes restrict trivially to the spatial subgroup. These results establish a crystalline equivalence principle for bosonic anomalies at the microscopic level, without assuming a continuum description or emergent Lorentz invariance. We prove that a nontrivial total anomaly index obstructs any symmetric invertible phase. The framework incorporates modulated symmetries where spatial symmetries permute internal symmetries. Our results reproduce LSM and SPT--LSM constraints, with the latter illustrating how spectral-sequence differentials can trivialize candidate LSM anomaly indices.",
+      "score": 86,
+      "reason": "🏛️格子上の結晶対称性アノマリーを連続極限やLorentz不変性を仮定せず微視的に特徴付け。格子での't Hooftアノマリー理解に有用🔍",
+      "summary": "(1+1),(2+1)次元ボソン系で結晶+内部対称性のアノマリー指数をH^3,H^4に構成し、結晶等価原理を微視的に確立。自明相への障害も証明⚖️"
+    },
+    {
+      "arxiv_id": "2611.16989",
+      "title": "$NΩ$ Dibaryon near Unitarity from Physical-Point Lattice QCD",
+      "authors": [
+        "Liang Zhang",
+        "Yan Lyu",
+        "Sinya Aoki",
+        "Takumi Doi",
+        "Tetsuo Hatsuda",
+        "Song Zhang",
+        "Yu-Gang Ma"
+      ],
+      "categories": [
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2611.16989",
+      "abstract": "The $N\\Omega$ system is a promising dibaryon candidate because its constituents share no valence quarks and therefore avoid valence-quark Pauli repulsion. We determine the $^{5}S_{2}$ $N\\Omega$ interaction in (2+1)-flavor lattice QCD at physical quark masses ($m_\\pi\\simeq137~\\text{MeV}$) using the HAL QCD method. The interaction is attractive over the resolved range and supports a shallow state near unitarity. A direct $T$-matrix pole analysis gives $B_{n\\Omega} = 0.61\\,(^{+0.41}_{-0.30})\\,(^{+0.60}_{-0.18})~\\text{MeV}$; including finite-charge-size Coulomb attraction yields $B_{p\\Omega} = 1.25\\,(^{+0.46}_{-0.39})\\,(^{+0.69}_{-0.25})~\\text{MeV}$. These results provide a first-principles benchmark for future $N\\Omega$ femtoscopy and dibaryon searches.",
+      "score": 86,
+      "reason": "🤝共同研究者青木さんらHAL QCDの物理点格子QCD計算。NΩ系がユニタリー極限付近の浅い束縛状態を持つことを示す🎯",
+      "summary": "(2+1)フレーバー物理点(mπ≈137MeV)で5S2 NΩ相互作用を決定。引力的でT行列極から束縛エネルギー約0.6MeV(nΩ)、1.25MeV(pΩ)📈"
+    },
+    {
+      "arxiv_id": "2611.16092",
+      "title": "Critical behavior of the bosonized Schwinger model with uniform matrix product states",
+      "authors": [
+        "Takuya Okuda"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2611.16092",
+      "abstract": "Quantum electrodynamics in two spacetime dimensions, also known as the Schwinger model, admits a dual formulation in terms of a non-compact boson field. Using a Hamiltonian lattice discretization of the bosonized model, we compute the critical mass of the continuum Schwinger model at $\\theta=\\pi$. We numerically obtain the ground state on an infinite chain by the variational uniform matrix product state (VUMPS) algorithm, preserving charge conjugation exactly. As a truncated basis for the local Hilbert space, we employ the oscillator basis that diagonalizes the one-site reduced density matrix of the free limit. We constrain the fitting functions for the continuum extrapolation using the Symanzik effective theory for lattice corrections. Our result for the critical mass, $(m/g)_c = 0.333\\,555(5)$, agrees with recent staggered-fermion determinations at comparable precision.",
+      "score": 85,
+      "reason": "📏Schwinger模型θ=πの臨界質量をボソン化格子Hamiltonian+VUMPSで高精度決定。スタッガード計算との比較がポイント⚛️",
+      "summary": "非コンパクトボソン格子化をVUMPSで解き、C対称性を厳密に保持。Symanzik有効理論で連続外挿し(m/g)c=0.333555(5)、スタッガード結果と一致✅"
+    }
+  ]
+}

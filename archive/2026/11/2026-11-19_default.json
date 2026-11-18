@@ -1,0 +1,58 @@
+{
+  "total_fetched": 249,
+  "scored_papers": [
+    {
+      "arxiv_id": "2611.21860",
+      "title": "Anomaly inflow for simplicial K\\\"{a}hler fermions",
+      "abstract": "We study massive K\\\"{a}hler Dirac fermions propagating on finite triangulations of various three dimensional manifolds with one or more boundaries. To probe the anomaly structure of these models we decompose the K\\\"{a}hler field into two reduced K\\\"{a}hler fields and choose boundary conditions that ensure that any edge modes are necessarily massless. We then show how to factorize the Pfaffian of this system into a product of bulk and boundary sectors each of which can separately pick up a phase under a global $Z_4$ transformation of the fermions that simultaneously changes the sign of the mass. These phases are topological, depending only on the index of the lattice K\\\"{a}hler operator in that sector. For the boundary sector a non-trivial phase signals the presence of a 't Hooft anomaly. We study cases where the boundary is anomalous but an inflow from the bulk cancels its phase. Canceling this anomaly for a non-orientable boundary in the absence of the bulk recovers the known classification of topological superconductors. We also give a continuum interpretation of these results in terms of inflow from a gravitational Chern Simons theory which is induced by integrating out massive bulk K\\\"{a}hler Dirac fermions. In the presence of a boundary the latter gives rise to Wen-Zee terms that mediate the anomaly inflow mechanism.",
+      "authors": [
+        "Simon Catterall"
+      ],
+      "categories": [
+        "hep-lat",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2611.21860",
+      "score": 93,
+      "reason": "🔺格子Kähler fermionで't Hooftアノマリーとinflowを直接扱う注目作⚡ staggered fermionと縁の深い枠組みで、境界モードとアノマリーの研究に直結🧭",
+      "summary": "3次元単体複体上の質量付きKähler-Dirac場のPfaffianをバルク/境界に分解し、Z4変換の位相を格子演算子の指数で決定。重力CS・Wen-Zee項でinflowを解釈📐"
+    },
+    {
+      "arxiv_id": "2611.21743",
+      "title": "Center anomalies without twists: torsion, exact degeneracies, and condensates",
+      "abstract": "Mixed center anomalies are usually exposed by 't Hooft's twisted boundary conditions in a Hamiltonian formalism. On $\\mathbb {RP}^3$, torsion makes the twist unnecessary: a center operator on the untwisted $SU(2)$ Hilbert space anticommutes with time reversal in Yang-Mills theory at $\\theta=\\pi$ and with the chiral symmetry of super Yang-Mills theory, so every level is at least doubly degenerate. The relevant semiclassical object is the BPST instanton, which descends to a charge-$\\tfrac12$ saddle on the orbifold $\\mathbb R^4/\\mathbb Z_2$. We complete it in two ways: applying a conformal transformation maps the orbifold to $\\mathbb R\\times\\mathbb {RP}^3$, with the saddle describing the tunneling event between the two center sectors; by resolving the orbifold singularity, we obtain the Eguchi-Hanson space, which gives the gaugino condensate at its weak-coupling value.",
+      "authors": [
+        "Mohamed M. Anber"
+      ],
+      "categories": [
+        "hep-th",
+        "cond-mat.str-el",
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2611.21743",
+      "score": 87,
+      "reason": "🌀twistなしで中心アノマリーを露わにする新視点✨ RP^3のtorsionでHilbert空間上の厳密縮退を示し、Hamiltonian的アノマリー解析の参考に🔍",
+      "summary": "RP^3上でSU(2) YMのθ=πの時間反転、SYMのカイラル対称性と中心演算子が反可換→全準位二重縮退。軌道体上の電荷1/2インスタントンとEguchi-Hanson空間で凝縮を導出🧮"
+    },
+    {
+      "arxiv_id": "2611.22928",
+      "title": "Non-Invertible Quantum Cellular Automata I: Microscopic Definition of Non-Invertible Symmetries",
+      "abstract": "We introduce non-invertible quantum cellular automata (QCAs), defined as locality-preserving quantum channels that are dualizable and pure. This provides an operator-algebraic definition of non-invertible symmetries of quantum lattice systems, formulated in terms of their action on local operators. Focusing on quantum spin chains, we motivate these defining conditions and conjecture that every such quantum channel admits a realization by dualizable topological defects or, equivalently, by dualizable sequential quantum circuits. We construct a broad class of examples, including on-site non-invertible symmetries that are anomalous, as well as higher-dimensional examples. In Part II of this work, we reconstruct topological defects whose boundary algebras yield an index theory that classifies non-invertible QCAs up to blend equivalence.",
+      "authors": [
+        "Sahand Seifnashri",
+        "Shu-Heng Shao"
+      ],
+      "categories": [
+        "cond-mat.str-el",
+        "hep-th",
+        "math-ph",
+        "math.MP",
+        "quant-ph"
+      ],
+      "url": "https://arxiv.org/abs/2611.22928",
+      "score": 85,
+      "reason": "🧩格子系の非可逆対称性を演算子代数的に定義🔗 アノマリーを持つon-site非可逆対称性の構成も含み、格子上の離散対称性の理解を深める📘",
+      "summary": "非可逆QCAを局所性保存・双対化可能・純粋な量子チャネルとして定義。スピン鎖で双対化可能欠陥/逐次回路による実現を予想し、アノマリー付きの例と高次元例を構成⚙️"
+    }
+  ]
+}

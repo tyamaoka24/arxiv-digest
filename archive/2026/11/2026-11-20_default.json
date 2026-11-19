@@ -1,0 +1,23 @@
+{
+  "total_fetched": 233,
+  "scored_papers": [
+    {
+      "arxiv_id": "2611.24671",
+      "title": "A New GUT",
+      "authors": [
+        "Prateek Agrawal",
+        "Michael Nee",
+        "Mario Reig"
+      ],
+      "categories": [
+        "hep-ph",
+        "hep-th"
+      ],
+      "url": "https://arxiv.org/abs/2611.24671",
+      "abstract": "We present a new class of 4-dimensional Grand Unified Theories where the gauge sectors of the standard model have a novel embedding in the unified group that does not factor through an $SU(5)$ subgroup. The smallest example has gauge algebra $\\frak{su}(12)$ and an anomaly-free spectrum that produces the three standard model generations with no additional chiral matter. The embedding predicts the axion-photon anomaly ratio $E/N=2/3$ and the weak mixing angle $\\sin^2\\theta_W=1/2$ at the unification scale. Gauge-mediated proton decay proceeds through flipped-$SU(5)$-like operators and the minimally charged smooth monopole carries two Dirac charge units. The global gauge group can be $SU(12)$ or $SU(12)/\\mathbb{Z}_2$, with the former allowing color singlets of half-integer electric charge. We develop a GUT bootstrap to constrain $SU(n)$ embeddings with three generations and no additional chiral matter. For unified fermions in up to two-index representations, we prove that all new embeddings arise from the $SU(8m+4)$ family, including flavor unified models for $m \\geq 2$.",
+      "score": 86,
+      "reason": "🧩 SU(5)を経由しない新しいSU(12)型GUT。余分なカイラル物質なしのアノマリー・フリー条件をブートストラップで探る手法は、3450模型やSU(6)模型の解析と直結 ⚛️",
+      "summary": "📐 su(12)を最小例に3世代のみのアノマリー・フリーなスペクトルを構成。E/N=2/3、統一スケールでsin²θ_W=1/2を予言し、SU(12)とSU(12)/Z₂の大域構造も議論 🔍"
+    }
+  ]
+}

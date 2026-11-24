@@ -1,0 +1,39 @@
+{
+  "total_fetched": 386,
+  "scored_papers": [
+    {
+      "arxiv_id": "2611.30489",
+      "title": "Non-invertible Duality Defects in Four-Dimensional $\\mathbb{Z}_N$ Lattice Gauge Theories",
+      "abstract": "We consider four-dimensional $\\mathbb{Z}_N$ lattice gauge theories with generalized plaquette actions. These theories are known to exhibit dualities. We construct topological interfaces implementing these dualities by assigning a weight to each building block and proving topological invariance. At self-dual couplings, these interfaces become duality defects representing non-invertible symmetries. We also study center symmetry defects and their junctions with the duality interfaces and derive several crossing relations.",
+      "authors": [
+        "Satoshi Yamaguchi"
+      ],
+      "categories": [
+        "hep-th",
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2611.30489",
+      "score": 91,
+      "reason": "🔥 4次元Z_N格子ゲージ理論で非可逆対称性を格子上で厳密に構成。格子上の一般化対称性とアノマリーの理解に有用で、格子定式化の手法として参考になる 🧩",
+      "summary": "🔷 一般化プラケット作用の双対性を実現する位相的界面を局所重みで構成し位相不変性を証明。自己双対点で双対欠陥となり、中心対称性欠陥との接合と交差関係も導出 🔗"
+    },
+    {
+      "arxiv_id": "2611.30669",
+      "title": "Identifying the conformal window by chiral phase boundaries",
+      "abstract": "Once the number of massless fermion flavours reaches a critical value $N_f^*$, many-flavour QCD enters the conformal window, where chiral symmetry remains unbroken in the vacuum. At non-zero quark mass, chiral symmetry is explicitly broken, and thermal chiral crossovers can also occur for $N_f\\geq N_f^*$. Their presence alone therefore does not distinguish a QCD-like theory from a mass-deformed conformal theory. They differ, however, in whether a thermal transition persists in the continuum chiral limit. To address this, we map out the chiral phase boundaries of unimproved staggered fermions in the bare lattice parameter space $(N_\\tau,\\beta,am,N_f)$, comparing $N_f=7$ and $N_f=8$. Our results indicate that the thermal chiral transition persists in the continuum chiral limit for $N_f=7$, whereas the massless continuum theory with $N_f=8$ remains chirally symmetric in the vacuum. Furthermore, we demonstrate that the pseudo-critical surface for eight flavours observed for finite quark masses is consistent with conformal hyperscaling, providing further evidence that eight-flavour QCD lies within the conformal window and suggesting $7<N_f^*\\leq8$.",
+      "authors": [
+        "Jan Philipp Klinger",
+        "Reinhold Kaiser",
+        "Owe Philipsen",
+        "Jonas Schaible"
+      ],
+      "categories": [
+        "hep-lat"
+      ],
+      "url": "https://arxiv.org/abs/2611.30669",
+      "score": 86,
+      "reason": "🧭 スタッガードfermionで多フレーバーQCDのカイラル相構造を調べ、共形窓の下端に迫る 🎯 スタッガード格子上のカイラル対称性の実現を考えるうえで参考になる。",
+      "summary": "📊 非改良スタッガードの(N_τ,β,am,N_f)空間でカイラル相境界を決定しN_f=7と8を比較。8は共形窓内と示唆し、7<N_f*≤8を提案 🌀"
+    }
+  ]
+}
